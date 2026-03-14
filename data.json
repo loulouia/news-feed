@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-03-14T13:20:40.025702+00:00",
+  "total_articles": 0,
+  "categories": [
+    {
+      "id": "tech-ia",
+      "name": "Tech & IA",
+      "icon": "⚡",
+      "color": "accent",
+      "count": 0
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing",
+      "icon": "📣",
+      "color": "blue",
+      "count": 0
+    },
+    {
+      "id": "negocios",
+      "name": "Negócios",
+      "icon": "💼",
+      "color": "green",
+      "count": 0
+    },
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle & Comportamento",
+      "icon": "✨",
+      "color": "purple",
+      "count": 0
+    }
+  ],
+  "featured": [],
+  "articles": [],
+  "all_articles": []
+}

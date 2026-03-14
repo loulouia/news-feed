@@ -1,0 +1,141 @@
+{
+  "categories": [
+    {
+      "id": "tech-ia",
+      "name": "Tech & IA",
+      "icon": "⚡",
+      "color": "accent",
+      "feeds": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/rss/index.xml",
+          "type": "rss"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/feed/",
+          "type": "rss"
+        },
+        {
+          "name": "Stratechery",
+          "url": "https://stratechery.com/feed/",
+          "type": "rss"
+        },
+        {
+          "name": "Gary Marcus",
+          "url": "https://garymarcus.substack.com/feed",
+          "type": "rss"
+        },
+        {
+          "name": "The Rundown AI",
+          "url": "https://therundownai.beehiiv.com/feed",
+          "type": "rss"
+        },
+        {
+          "name": "Agent Pulse",
+          "url": "https://agentpulse.beehiiv.com/feed",
+          "type": "rss"
+        },
+        {
+          "name": "The Neuron Daily",
+          "url": "https://www.theneurondaily.com/feed",
+          "type": "rss"
+        },
+        {
+          "name": "The Deep View",
+          "url": "https://www.thedeepview.co/feed",
+          "type": "rss"
+        },
+        {
+          "name": "Superhuman AI",
+          "url": "https://www.superhuman.ai/feed",
+          "type": "rss"
+        },
+        {
+          "name": "NYT Artificial Intelligence",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing",
+      "icon": "📣",
+      "color": "blue",
+      "feeds": [
+        {
+          "name": "HubSpot Blog",
+          "url": "https://blog.hubspot.com/marketing/rss.xml",
+          "type": "rss"
+        },
+        {
+          "name": "Because of Marketing",
+          "url": "https://becauseofmarketing.substack.com/feed",
+          "type": "rss"
+        },
+        {
+          "name": "Art of the Brand",
+          "url": "https://artofthebrand.substack.com/feed",
+          "type": "rss"
+        },
+        {
+          "name": "The Brand Waves",
+          "url": "https://thebrandwaves.substack.com/feed",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "negocios",
+      "name": "Negócios",
+      "icon": "💼",
+      "color": "green",
+      "feeds": [
+        {
+          "name": "Morning Brew",
+          "url": "https://www.morningbrew.com/daily/feed",
+          "type": "rss"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/feed/",
+          "type": "rss"
+        },
+        {
+          "name": "Dan Koe",
+          "url": "https://letters.thedankoe.com/feed",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle & Comportamento",
+      "icon": "✨",
+      "color": "purple",
+      "feeds": [
+        {
+          "name": "Hot Smart Rich",
+          "url": "https://hotsmartrich.beehiiv.com/feed",
+          "type": "rss"
+        },
+        {
+          "name": "Social Currency",
+          "url": "https://socialcurrency.beehiiv.com/feed",
+          "type": "rss"
+        },
+        {
+          "name": "The Unsubscribed",
+          "url": "https://theunsubscribed.beehiiv.com/feed",
+          "type": "rss"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "max_items_per_feed": 10,
+    "max_featured": 6,
+    "max_list_items": 30
+  }
+}

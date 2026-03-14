@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Feed — Notícias Personalizadas</title>
+  <meta name="description" content="Feed personalizado de notícias sobre Tech, IA, Marketing e Negócios. Atualizado diariamente.">
+  
+  <!-- Favicons -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+  
+  <link rel="stylesheet" href="./base.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+<!-- Header -->
+<header class="site-header">
+  <div class="header-inner">
+    <a href="#" class="site-logo">Meu Feed</a>
+    <div class="header-actions">
+      <span class="last-updated" id="lastUpdated">Carregando...</span>
+      <button class="refresh-btn" id="refreshBtn" aria-label="Atualizar feed" title="Atualizar">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 12a9 9 0 1 1-9-9c2.52 0 4.93 1 6.74 2.74L21 8"/>
+          <path d="M21 3v5h-5"/>
+        </svg>
+      </button>
+      <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="page-wrapper">
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-badge">
+      <span>📡</span>
+      <span>Atualização diária</span>
+    </div>
+    <h1>Suas Notícias</h1>
+    <p class="hero-subtitle">Tech, IA, Marketing e Negócios — tudo em um lugar, das fontes que você escolheu.</p>
+    <div class="stats-row stagger visible" id="statsRow">
+      <!-- Preenchido via JS -->
+    </div>
+  </section>
+
+  <!-- Category Filter -->
+  <nav class="category-nav" id="categoryNav">
+    <button class="category-btn active" data-category="all">
+      Todos
+      <span class="count" id="countAll">0</span>
+    </button>
+    <!-- Preenchido via JS -->
+  </nav>
+
+  <!-- Featured Section -->
+  <section class="featured-section">
+    <div class="section-label">🔥 Destaques</div>
+    <div class="featured-grid stagger" id="featuredGrid">
+      <!-- Preenchido via JS -->
+    </div>
+  </section>
+
+  <!-- Articles List -->
+  <section class="articles-section">
+    <div class="section-label">📰 Últimas Notícias</div>
+    <div class="articles-list" id="articlesList">
+      <!-- Preenchido via JS -->
+    </div>
+  </section>
+
+</main>
+
+<!-- Footer -->
+<footer class="site-footer page-wrapper">
+  <p class="footer-text">
+    Feed personalizado com suas fontes favoritas.<br>
+    Atualizado automaticamente via GitHub Actions.<br><br>
+    <a href="https://github.com" target="_blank" rel="noopener">Ver no GitHub</a>
+  </p>
+</footer>
+
+<script>
+// ============================================
+// App State & Config
+// ============================================
+
+let appState = {
+  data: null,
+  currentCategory: 'all',
+  isLoading: true
+};
+
+const categoryColors = {
+  'tech-ia': 'accent',
+  'marketing': 'blue',
+  'negocios': 'green',
+  'lifestyle': 'purple'
+};
+
+const categoryIcons = {
+  'tech-ia': '⚡',
+  'marketing': '📣',
+  'negocios': '💼',
+  'lifestyle': '✨'
+};
+
+// ============================================
+// Theme Toggle
+// ============================================
+
+(function initTheme() {
+  const toggle = document.getElementById('themeToggle');
+  const root = document.documentElement;
+  let theme = localStorage.getItem('theme') || 
+    (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  
+  root.setAttribute('data-theme', theme);
+  updateThemeIcon();
+
+  toggle.addEventListener('click', () => {
+    theme = theme === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+    updateThemeIcon();
+  });
+
+  function updateThemeIcon() {
+    toggle.innerHTML = theme === 'dark'
+      ? '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>'
+      : '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+  }
+})();
+
+// ============================================
+// Data Loading
+// ============================================
+
+async function loadData() {
+  try {
+    const response = await fetch('./data.json?' + Date.now());
+    if (!response.ok) throw new Error('Dados não encontrados');
+    appState.data = await response.json();
+    appState.isLoading = false;
+    render();
+  } catch (error) {
+    console.error('Erro ao carregar dados:', error);
+    showEmptyState('Erro ao carregar dados. Execute o script fetch_feeds.py primeiro.');
+  }
+}
+
+// ============================================
+// Rendering Functions
+// ============================================
+
+function render() {
+  if (!appState.data) return;
+  
+  renderLastUpdated();
+  renderStats();
+  renderCategoryNav();
+  renderFeatured();
+  renderArticles();
+  triggerAnimations();
+}
+
+function renderLastUpdated() {
+  const el = document.getElementById('lastUpdated');
+  if (appState.data.generated_at) {
+    const date = new Date(appState.data.generated_at);
+    el.textContent = formatDate(date, true);
+  }
+}
+
+function renderStats() {
+  const el = document.getElementById('statsRow');
+  const { total_articles, categories } = appState.data;
+  
+  el.innerHTML = `
+    <div class="stat-item">
+      <div class="stat-value">${total_articles}</div>
+      <div class="stat-label">Artigos</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-value">${categories.length}</div>
+      <div class="stat-label">Categorias</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-value">${categories.reduce((sum, c) => sum + (c.count > 0 ? 1 : 0), 0) * 5}+</div>
+      <div class="stat-label">Fontes</div>
+    </div>
+  `;
+}
+
+function renderCategoryNav() {
+  const nav = document.getElementById('categoryNav');
+  const { categories, total_articles } = appState.data;
+  
+  // Update "Todos" count
+  document.getElementById('countAll').textContent = total_articles;
+  
+  // Add category buttons
+  categories.forEach(cat => {
+    const existing = nav.querySelector(`[data-category="${cat.id}"]`);
+    if (existing) {
+      existing.querySelector('.count').textContent = cat.count;
+      return;
+    }
+    
+    const btn = document.createElement('button');
+    btn.className = 'category-btn';
+    btn.dataset.category = cat.id;
+    btn.innerHTML = `
+      ${cat.icon} ${cat.name}
+      <span class="count">${cat.count}</span>
+    `;
+    nav.appendChild(btn);
+  });
+  
+  // Add click handlers
+  nav.querySelectorAll('.category-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      nav.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      appState.currentCategory = btn.dataset.category;
+      renderFeatured();
+      renderArticles();
+    });
+  });
+}
+
+function renderFeatured() {
+  const grid = document.getElementById('featuredGrid');
+  let articles = appState.data.featured;
+  
+  if (appState.currentCategory !== 'all') {
+    articles = appState.data.all_articles
+      .filter(a => a.category_id === appState.currentCategory)
+      .slice(0, 6);
+  }
+  
+  if (articles.length === 0) {
+    grid.innerHTML = '<div class="empty-state"><div class="empty-state-icon">📭</div><div class="empty-state-title">Nenhum destaque</div></div>';
+    return;
+  }
+  
+  grid.innerHTML = articles.map(article => {
+    const color = categoryColors[article.category_id] || '';
+    const hasImage = article.image && !article.image.includes('undefined');
+    
+    return `
+      <article class="featured-card">
+        <div class="featured-card-image ${hasImage ? '' : 'placeholder'}">
+          ${hasImage 
+            ? `<img src="${article.image}" alt="" loading="lazy" onerror="this.parentElement.classList.add('placeholder'); this.remove();">`
+            : categoryIcons[article.category_id] || '📰'
+          }
+        </div>
+        <div class="featured-card-body">
+          <div class="featured-card-meta">
+            <span class="source-badge ${color}">${article.source}</span>
+            <span class="featured-card-date">${formatDate(new Date(article.date))}</span>
+          </div>
+          <h3 class="featured-card-title">
+            <a href="${article.link}" target="_blank" rel="noopener">${article.title}</a>
+          </h3>
+          <p class="featured-card-summary">${article.summary || ''}</p>
+        </div>
+      </article>
+    `;
+  }).join('');
+  
+  grid.classList.add('visible');
+}
+
+function renderArticles() {
+  const list = document.getElementById('articlesList');
+  let articles = appState.data.articles;
+  
+  if (appState.currentCategory !== 'all') {
+    articles = appState.data.all_articles
+      .filter(a => a.category_id === appState.currentCategory)
+      .slice(6, 36);
+  }
+  
+  if (articles.length === 0) {
+    list.innerHTML = '<div class="empty-state"><div class="empty-state-icon">📭</div><div class="empty-state-title">Nenhum artigo nesta categoria</div></div>';
+    return;
+  }
+  
+  list.innerHTML = articles.map(article => {
+    const color = categoryColors[article.category_id] || '';
+    
+    return `
+      <article class="article-item">
+        <div class="article-content">
+          <div class="article-meta">
+            <span class="article-source">${article.source}</span>
+            <span class="article-meta-dot"></span>
+            <span class="article-date">${formatDate(new Date(article.date))}</span>
+          </div>
+          <h3 class="article-title">
+            <a href="${article.link}" target="_blank" rel="noopener">${article.title}</a>
+          </h3>
+          ${article.summary ? `<p class="article-summary">${article.summary}</p>` : ''}
+        </div>
+        <div class="article-category">
+          <span class="category-tag ${color}">${article.category_name}</span>
+        </div>
+      </article>
+    `;
+  }).join('');
+}
+
+// ============================================
+// Utilities
+// ============================================
+
+function formatDate(date, showTime = false) {
+  const now = new Date();
+  const diff = now - date;
+  const hours = Math.floor(diff / (1000 * 60 * 60));
+  const days = Math.floor(hours / 24);
+  
+  if (hours < 1) return 'Agora há pouco';
+  if (hours < 24) return `${hours}h atrás`;
+  if (days < 7) return `${days}d atrás`;
+  
+  const options = { day: 'numeric', month: 'short' };
+  if (showTime) {
+    options.hour = '2-digit';
+    options.minute = '2-digit';
+  }
+  return date.toLocaleDateString('pt-BR', options);
+}
+
+function showEmptyState(message) {
+  document.getElementById('featuredGrid').innerHTML = `
+    <div class="empty-state" style="grid-column: 1/-1">
+      <div class="empty-state-icon">⚠️</div>
+      <div class="empty-state-title">${message}</div>
+    </div>
+  `;
+  document.getElementById('articlesList').innerHTML = '';
+}
+
+function triggerAnimations() {
+  document.querySelectorAll('.stagger').forEach(el => {
+    el.classList.add('visible');
+  });
+}
+
+// ============================================
+// Refresh Button
+// ============================================
+
+document.getElementById('refreshBtn').addEventListener('click', async function() {
+  this.classList.add('loading');
+  await loadData();
+  setTimeout(() => this.classList.remove('loading'), 500);
+});
+
+// ============================================
+// Init
+// ============================================
+
+loadData();
+</script>
+
+</body>
+</html>
