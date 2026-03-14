@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 """
 Feed Fetcher - Busca notícias de RSS feeds e gera dados para o site
+Versão 2.0 - Com busca automática de imagens
 """
 
 import json
 import feedparser
 import html
 import re
+import urllib.request
+import urllib.errora
 from datetime import datetime, timezone
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import hashlib
+import time
 
 # Configurações
 FEEDS_CONFIG = "feeds.json"
@@ -58,6 +62,88 @@ def get_entry_id(entry, feed_name):
     return hashlib.md5(unique_string.encode()).hexdigest()[:12]
 
 
+def extract_image_from_entry(entry):
+    """Tenta extrair imagem do entry do RSS de várias formas"""
+    
+    # 1. Media content
+    if hasattr(entry, 'media_content') and entry.media_content:
+        for media in entry.media_content:
+            url = media.get('url', '')
+            if url and ('image' in media.get('type', '') or 
+                       any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif'])):
+                return url
+    
+    # 2. Media thumbnail
+    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+        for thumb in entry.media_thumbnail:
+            if thumb.get('url'):
+                return thumb['url']
+    
+    # 3. Enclosures
+    if hasattr(entry, 'enclosures') and entry.enclosures:
+        for enc in entry.enclosures:
+            if 'image' in enc.get('type', ''):
+                return enc.get('href') or enc.get('url')
+    
+    # 4. Image tag
+    if hasattr(entry, 'image') and entry.image:
+        if isinstance(entry.image, dict):
+            return entry.image.get('href') or entry.image.get('url')
+        elif isinstance(entry.image, str):
+            return entry.image
+    
+    # 5. Content/Summary - busca primeira imagem
+    content = entry.get('content', [{}])[0].get('value', '') if entry.get('content') else ''
+    content = content or entry.get('summary', '') or entry.get('description', '')
+    
+    if content:
+        img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content, re.IGNORECASE)
+        if img_match:
+            img_url = img_match.group(1)
+            # Ignora imagens muito pequenas (trackers, pixels, etc)
+            if not any(x in img_url.lower() for x in ['pixel', 'tracker', 'spacer', '1x1', 'blank']):
+                return img_url
+    
+    return None
+
+
+def fetch_image_from_url(url):
+    """Busca imagem de capa usando microlink.io API"""
+    if not url:
+        return None
+    
+    try:
+        api_url = f"https://api.microlink.io?url={urllib.parse.quote(url, safe='')}"
+        
+        req = urllib.request.Request(
+            api_url,
+            headers={'User-Agent': 'Mozilla/5.0 (compatible; NewsFeed/2.0)'}
+        )
+        
+        with urllib.request.urlopen(req, timeout=8) as response:
+            data = json.loads(response.read().decode())
+            
+            if data.get('status') == 'success' and data.get('data'):
+                # Tenta pegar a imagem principal
+                image_data = data['data'].get('image')
+                if image_data and image_data.get('url'):
+                    return image_data['url']
+                
+                # Fallback: logo do site
+                logo_data = data['data'].get('logo')
+                if logo_data and logo_data.get('url'):
+                    return logo_data['url']
+    
+    except Exception as e:
+        pass  # Silently fail - não queremos parar o processo por causa de uma imagem
+    
+    return None
+
+
+# Importa urllib.parse para encode de URL
+import urllib.parse
+
+
 def fetch_single_feed(feed_config, category_id, category_name, max_items):
     """Busca um único feed RSS"""
     feed_name = feed_config["name"]
@@ -73,17 +159,8 @@ def fetch_single_feed(feed_config, category_id, category_name, max_items):
         
         articles = []
         for entry in parsed.entries[:max_items]:
-            # Extrai imagem se disponível
-            image = None
-            if hasattr(entry, 'media_content') and entry.media_content:
-                image = entry.media_content[0].get('url')
-            elif hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
-                image = entry.media_thumbnail[0].get('url')
-            elif hasattr(entry, 'enclosures') and entry.enclosures:
-                for enc in entry.enclosures:
-                    if 'image' in enc.get('type', ''):
-                        image = enc.get('href')
-                        break
+            # Primeiro tenta extrair imagem do RSS
+            image = extract_image_from_entry(entry)
             
             article = {
                 "id": get_entry_id(entry, feed_name),
@@ -94,7 +171,8 @@ def fetch_single_feed(feed_config, category_id, category_name, max_items):
                 "source": feed_name,
                 "category_id": category_id,
                 "category_name": category_name,
-                "image": image
+                "image": image,
+                "needs_image": image is None  # Flag para buscar depois
             }
             articles.append(article)
         
@@ -104,6 +182,43 @@ def fetch_single_feed(feed_config, category_id, category_name, max_items):
     except Exception as e:
         print(f"  ✗ {feed_name}: Erro - {str(e)[:50]}")
         return []
+
+
+def fetch_missing_images(articles, max_to_fetch=20):
+    """Busca imagens para artigos que não têm usando microlink.io"""
+    
+    articles_needing_images = [a for a in articles if a.get('needs_image') and a.get('link')][:max_to_fetch]
+    
+    if not articles_needing_images:
+        return
+    
+    print(f"\n🖼️  Buscando imagens para {len(articles_needing_images)} artigos...")
+    
+    def fetch_image_for_article(article):
+        image = fetch_image_from_url(article['link'])
+        if image:
+            article['image'] = image
+        article.pop('needs_image', None)
+        return article
+    
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        futures = {executor.submit(fetch_image_for_article, a): a for a in articles_needing_images}
+        
+        completed = 0
+        for future in as_completed(futures):
+            completed += 1
+            article = futures[future]
+            try:
+                future.result()
+            except Exception as e:
+                pass
+    
+    # Remove flag dos que não foram processados
+    for article in articles:
+        article.pop('needs_image', None)
+    
+    images_found = sum(1 for a in articles_needing_images if a.get('image'))
+    print(f"  ✓ Encontradas {images_found}/{len(articles_needing_images)} imagens")
 
 
 def fetch_all_feeds():
@@ -141,6 +256,10 @@ def fetch_all_feeds():
     
     # Ordena por data (mais recentes primeiro)
     all_articles.sort(key=lambda x: x["date"], reverse=True)
+    
+    # Busca imagens faltantes para os artigos mais recentes (featured + primeiros da lista)
+    # Limitamos a 20 para não exceder o limite gratuito do microlink (150/dia)
+    fetch_missing_images(all_articles, max_to_fetch=20)
     
     # Separa featured e list
     featured = all_articles[:max_featured]
@@ -180,6 +299,10 @@ def fetch_all_feeds():
     
     print(f"\n✅ Concluído! {len(all_articles)} artigos salvos em {OUTPUT_FILE}")
     print(f"   Featured: {len(featured)} | Lista: {len(remaining)}")
+    
+    # Conta artigos com imagem
+    with_image = sum(1 for a in all_articles if a.get('image'))
+    print(f"   Com imagem: {with_image}/{len(all_articles)}")
     
     return output
 
