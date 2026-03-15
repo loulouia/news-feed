@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T10:25:41.755000+00:00",
-  "total_articles": 80,
+  "generated_at": "2026-03-15T18:12:31.896134+00:00",
+  "total_articles": 90,
   "categories": [
     {
       "id": "tech-ia",
@@ -14,7 +14,7 @@
       "name": "Marketing",
       "icon": "📣",
       "color": "blue",
-      "count": 10
+      "count": 20
     },
     {
       "id": "negocios",
@@ -33,459 +33,237 @@
   ],
   "featured": [
     {
-      "id": "2455ff80873a",
-      "title": "Al-Khaleej x Al-Nassr: horário e onde assistir ao jogo do Campeonato Saudita",
-      "link": "https://exame.com/esporte/al-khaleej-x-al-nassr-horario-e-onde-assistir-ao-jogo-do-campeonato-saudita/",
-      "summary": "O Al-Nassr chega como líder da competição, com 64 pontos em 25 jogos",
-      "date": "2026-03-15T07:00:01+00:00",
+      "id": "494ff1dad260",
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+      "summary": "The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.",
+      "date": "2026-03-15T17:19:47+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/unacademy-lead-1.jpg?resize=1200,737"
+    },
+    {
+      "id": "0b82a0057cf2",
+      "title": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
+      "link": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
+      "summary": "Shout out to subscriber N_Gorski for today's pick. They popped into the comments on last week's recommendation to ask what I thought of the new Sotomayor record. Well, I hadn't actually heard it yet, but now I'm obsessed. The group consists of siblings Raul and Paulina Sotomayor from Mexico City....",
+      "date": "2026-03-15T16:45:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/sotomayor-wabi-sabi.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "7f4ee664c404",
+      "title": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+      "link": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "date": "2026-03-15T16:05:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/rivian-halo-wheel.jpg?resize=1200,900"
+    },
+    {
+      "id": "1e8bcd675c5e",
+      "title": "Wiz investor unpacks Google’s $32B acquisition",
+      "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "date": "2026-03-15T15:30:33+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=1024"
+    },
+    {
+      "id": "643f34a6f792",
+      "title": "Oscar 2026: os recordes que podem ser quebrados nesta edição",
+      "link": "https://exame.com/casual/oscar-2026-os-recordes-que-podem-ser-quebrados-nesta-edicao/",
+      "summary": "O tapete vermelho começa às 18h30 e a premiação às 20h do horário de Brasília",
+      "date": "2026-03-15T15:05:18+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/cristiano-ronaldo-bilionario.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/03/GettyImages-97052777.jpg"
     },
     {
-      "id": "e0f824a6cf63",
-      "title": "São Paulo x Bragantino: horário, onde assistir e prováveis escalações",
-      "link": "https://exame.com/esporte/sao-paulo-x-bragantino-horario-onde-assistir-e-provaveis-escalacoes/",
-      "summary": "Times se enfrentam pela 6ª rodada do Campeonato Brasileiro neste domingo",
-      "date": "2026-03-15T06:51:46+00:00",
+      "id": "7203cd38aa41",
+      "title": "Quantos Oscars Leonardo Di Caprio já venceu? Veja trajetória do ator",
+      "link": "https://exame.com/casual/quantos-oscars-leonardo-di-caprio-ja-venceu-veja-trajetoria-do-ator/",
+      "summary": "DiCaprio iniciou a carreira como ator nos anos 1990 em séries de TV e filmes menores, mas só recebeu a primeira estatueta aos 42 anos",
+      "date": "2026-03-15T15:04:37+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "d079b30d354f",
-      "title": "De trufas a pizza: o menu milionário que espera as estrelas do Oscar",
-      "link": "https://exame.com/casual/de-trufas-a-pizza-o-menu-milionario-que-espera-as-estrelas-do-oscar/",
-      "summary": "Festa oficial da premiação mistura alta gastronomia com clássicos simples que as celebridades exigem todos os anos",
-      "date": "2026-03-15T06:27:04+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/080223c_0001.jpg"
-    },
-    {
-      "id": "725ffd4575fc",
-      "title": "Pesquisa diz que Sol pode ser um 'imigrante' na Via Láctea",
-      "link": "https://exame.com/ciencia/pesquisa-diz-que-sol-pode-ser-um-imigrante-na-via-lactea/",
-      "summary": "Dados de satélite revelam que o Sol pode ter percorrido mais de 10 mil anos-luz desde seu nascimento",
-      "date": "2026-03-15T06:26:46+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "105abfc9fe4e",
-      "title": "Santos x Corinthians: que horas onde assistir ao jogo do Brasileirão?",
-      "link": "https://exame.com/esporte/santos-x-corinthians-que-horas-onde-assistir-ao-jogo-do-brasileirao/",
-      "summary": "Equipes se enfrentam neste domingo, 15, na Vila Belmiro, pela 6ª rodada do Campeonato Brasileiro 2026",
-      "date": "2026-03-15T06:03:21+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/01/GettyImages-2229767273.jpg"
-    },
-    {
-      "id": "37eff8c1bb31",
-      "title": "AI deepfakes are stealing beauty influencers’ glow",
-      "link": "https://www.morningbrew.com/stories/2026/03/13/ai-deepfakes-are-stealing-beauty-influencers-glow?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Some people convincing you to buy blush aren't really people.",
-      "date": "2026-03-15T06:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-13/image-67dc36eeeb8ac19f42317d3a86b11173dd711157-1790x1194-jpg/MBD-SundaySpecial-Beauty-Brew-RhodeAI-0326.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2021/04/dicaprio.jpg"
     }
   ],
   "articles": [
     {
-      "id": "20e614a1015d",
-      "title": "Fluminense x Athletico-PR: horário, onde assistir e prováveis escalações",
-      "link": "https://exame.com/esporte/fluminense-x-athletico-pr-horario-onde-assistir-e-provaveis-escalacoes/",
-      "summary": "Times se enfrentam pela 6ª rodada do Campeonato Brasileiro",
-      "date": "2026-03-15T06:00:51+00:00",
+      "id": "86327eb6f689",
+      "title": "Oscar 2026: quais recordes que o Brasil pode quebrar neste domingo?",
+      "link": "https://exame.com/casual/oscar-2026-quais-recordes-que-o-brasil-pode-quebrar-neste-domingo/",
+      "summary": "País repete o feito de 2025 e coloca novamente um filme na categoria mais prestigiada da premiação do cinema",
+      "date": "2026-03-15T14:58:03+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/01/fluminense.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/01/wagner-moura-tania-maria-o-agente-secreto-e1765920123171.webp"
     },
     {
-      "id": "00a286c5a117",
-      "title": "Que horas começa o BBB 26? Hoje a edição será dividida em duas partes",
-      "link": "https://exame.com/pop/que-horas-comeca-o-bbb-26-hoje-a-edicao-sera-dividida-em-duas-partes/",
-      "summary": "Edição desse domingo será a primeira a ter paredão dividido em duas etapas",
-      "date": "2026-03-15T06:00:42+00:00",
+      "id": "3c195c138cc3",
+      "title": "Brasil encerra participação histórica na Paralimpíada de Inverno",
+      "link": "https://exame.com/esporte/brasil-encerra-participacao-historica-na-paralimpiada-de-inverno/",
+      "summary": "Cristian Ribera conquistou a primeira medalha do Brasil na competição, com a prata no esqui cross-country",
+      "date": "2026-03-15T14:54:52+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/tadeu-schmidtfoto-fabio-rocha-10-1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Sprint-X-Ctry-med-AC_4.jpg"
     },
     {
-      "id": "8ed835abdd82",
-      "title": "Por que o Brasil vai em peso ao SXSW? Executiva do festival há 27 anos explica",
-      "link": "https://exame.com/marketing/por-que-o-brasil-vai-em-peso-ao-sxsw-executiva-do-festival-ha-27-anos-explica/",
-      "summary": "Em entrevista, Tracy Mann, responsável pelo desenvolvimento de negócios do festival, diz que país mantém a maior delegação internacional do festival mesmo em um ano de mudanças e incertezas",
-      "date": "2026-03-15T06:00:40+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/03/EX1273_SXSW_3.jpg"
-    },
-    {
-      "id": "ab15cf4ff7f0",
-      "title": "Liverpool x Tottenham: horário, onde assistir e prováveis escalações",
-      "link": "https://exame.com/esporte/liverpool-x-tottenham-horario-onde-assistir-e-provaveis-escalacoes/",
-      "summary": "Reds tentam voltar ao G4 do Inglês, enquanto os Spurs entram pressionados na luta contra a parte de baixo da tabela",
-      "date": "2026-03-15T06:00:40+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/04/GettyImages-1824340713.jpg"
-    },
-    {
-      "id": "4e07b22d5cd1",
-      "title": "Cruzeiro x Vasco: horário e onde assistir pelo Brasileirão",
-      "link": "https://exame.com/esporte/cruzeiro-x-vasco-horario-e-onde-assistir-pelo-brasileirao/",
-      "summary": "Raposa tenta a primeira vitória para deixar a lanterna; Vasco busca embalar após triunfo sobre o Palmeiras pela Série A",
-      "date": "2026-03-15T06:00:23+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/GettyImages-2237467619.jpg"
-    },
-    {
-      "id": "d05f56b5b6a0",
-      "title": "Celebrity makeup brands are taking their owners from Page Six to the boardroom",
-      "link": "https://www.morningbrew.com/stories/2026/03/15/celebrity-makeup-brands-are-taking-their-owners-from-page-six-to-the-boardroom?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Celebrities hawking tinted creams and lip plumping oil aren’t just side projects.",
-      "date": "2026-03-15T04:34:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-13/image-ce949fb2b8a4e1dad44322ef80d5867427a9c88e-1500x1000-jpg/MBD_Sunday_BeautyBrew_SM_03102026.jpg"
-    },
-    {
-      "id": "c91bc6bb6800",
-      "title": "Bald dudes are flocking to Turkey to get some hair",
-      "link": "https://www.morningbrew.com/stories/2026/03/15/bald-dudes-are-flocking-to-turkey-to-get-some-hair?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Many clinics in Turkey attract customers with all-inclusive, cost-friendly packages reminiscent of vacation deals to tropical climates.",
-      "date": "2026-03-15T04:23:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-12/image-d8b885815a76f8d4e74e53e48c29ea6d46cb46e9-4000x2662-jpg/MBD-SundaySpecial-TurkeyHair-0326.jpg"
-    },
-    {
-      "id": "d28696c2a7e7",
-      "title": "The changing face of the beauty industry",
-      "link": "https://www.morningbrew.com/stories/2026/03/15/the-changing-face-of-the-beauty-industry?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The makeup market is expanding into new demographics.",
-      "date": "2026-03-15T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-13/image-9b5ebf3d4661b557671c894cb5c14b5459550fcd-3744x2496-jpg/MBD-SundaySpecial-BeautyBrew-ChangingFace-0326.jpg"
-    },
-    {
-      "id": "8b286e8d03dc",
-      "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
-      "link": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
-      "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the range of $10 billion. The money is supposedly being paid by new investors, inclu...",
-      "date": "2026-03-14T21:57:07+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "8f7b20ea8774",
-      "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
-      "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
-      "summary": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
-      "date": "2026-03-14T21:24:10+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-MacBook-Neo-lifestyle-01-260304_big.jpg.medium_2x.jpg?resize=1200,676"
-    },
-    {
-      "id": "0d361034bac9",
-      "title": "US Army announces contract with Anduril worth up to $20B",
-      "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-      "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
-      "date": "2026-03-14T20:47:47+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152503982-e.jpg?resize=1200,800"
-    },
-    {
-      "id": "84ee2a050d82",
-      "title": "Meta is reportedly laying off up to 20 percent of its staff",
-      "link": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
-      "summary": "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminating roughly 15,800 positions. That would be the largest series of layoffs at ...",
-      "date": "2026-03-14T18:48:56+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "7eb8fce634f7",
-      "title": "Honda is killing its EVs — and any chance of competing in the future",
-      "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
-      "summary": "Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.",
-      "date": "2026-03-14T17:23:24+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/honda-logo.jpg?resize=1200,800"
-    },
-    {
-      "id": "e5bb7f4df128",
-      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-      "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-      "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-      "date": "2026-03-14T16:28:42+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800"
-    },
-    {
-      "id": "f4432fcbb175",
-      "title": "As people look for ways to make new friends, here are the apps promising to help",
-      "link": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
-      "date": "2026-03-14T16:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800"
-    },
-    {
-      "id": "57b0c90dc21b",
-      "title": "Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals",
-      "link": "https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale",
-      "summary": "Happy Saturday, all! This week, we found a number of deals that should help you unwind and relax over the next few days (and beyond). If you’re planning to stream the Oscars on Sunday, there’s still time to take advantage of a great deal on Hulu and Disney Plus, as well as Google’s latest 4K […]",
-      "date": "2026-03-14T15:46:28+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "bd054963c254",
-      "title": "Prediction markets want the Oscars to be your gateway drug to betting on everything",
-      "link": "https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling",
-      "summary": "Though it was weird to see the Golden Globes partner with Polymarket for its most recent awards show, the collaboration wasn't shocking given the way that people have begun using prediction markets to gamble on basically anything. Prediction markets are being used to bet on everything from when w...",
-      "date": "2026-03-14T15:30:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265317366.jpg?quality=90&#038;strip=all&#038;crop=5.49375,0,94.50625,100"
-    },
-    {
-      "id": "9ec67c046a8a",
-      "title": "MacBook Air M5 review: a small update for the ‘just right’ Mac",
-      "link": "https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review",
-      "summary": "Not much has changed in the new MacBook Air for 2026: It now has the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256GB. It's just as outstanding a computer as last year's model, even if it's a shame it's $100 more expensive. The bigger change has happened to the Air. […]",
-      "date": "2026-03-14T15:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "2844501c39eb",
-      "title": "A Scavengers Reign artist explores contemplative sci-fi in new comics",
-      "link": "https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign",
-      "summary": "You may recognize Jonathan Djob Nkondo's work from animated projects like the surreal sci-fi series Scavengers Reign or the recent Gorillaz short film The Mountain, The Moon Cave and The Sad God. But before that the French artist and animator made self-published comics that depicted strange alien...",
-      "date": "2026-03-14T14:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/NKONDO-BookSlipcase-1-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "b09c28386113",
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-      "date": "2026-03-14T13:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"
-    },
-    {
-      "id": "2442c795959c",
-      "title": "Asus’ new open earbuds are a wonderful companion for handheld gaming",
-      "link": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions",
-      "summary": "The Cetra Open Wireless aren’t like most other gaming earbuds. They’re large, with an open-style design that rests just outside of your ears, letting game audio mix with sounds in your environment. These allow for immersion, but only if your environment is quiet enough. And turning them up might ...",
-      "date": "2026-03-14T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268381_Asus_Cetra_Wireless_earbuds_CFaulkner_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "7d7846664bdf",
-      "title": "Samsung Galaxy S26 Ultra review: show off",
-      "link": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
-      "summary": "\"Someone might be watching everything I'm doing on my screen,\" I tell myself in public. Even when I'm doing nothing of consequence - just making my little Wordle guesses - there's a sense of unease that stays with me. It's never bothered me too much, and I generally save the sensitive stuff like ...",
-      "date": "2026-03-14T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268399_Samsung_Galaxy_S26_Ultra_review_AJohnson_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "5f3e52953135",
-      "title": "5 great indie games from GDC 2026",
-      "link": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
-      "summary": "I just got back from the GDC Festival of Gaming, a big industry-focused event in San Francisco that was formerly known as the Game Developers Conference. While the show is mostly about educational sessions and networking opportunities for working developers, there were also a bunch of games that ...",
-      "date": "2026-03-14T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_25983b9fefc98de64ad91c80c472691ee2eb487e.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "b70dfe0a2443",
-      "title": "Wordle’s creator made a fun new puzzle game",
-      "link": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 119, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your agents are well, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Pixar's future and flight MH370 a...",
-      "date": "2026-03-14T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Installer-119.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "782dc3a53511",
-      "title": "AI can fry our brains, even when it’s helping",
-      "link": "https://www.morningbrew.com/stories/2026/03/14/ai-can-fry-our-brains-even-when-it-s-helping?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "More AI doesn't always mean more productivity.",
-      "date": "2026-03-14T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-13/image-a6b8df752ae1f1bc2c623cb2775f45e7aa763426-4000x2667-jpg/MBD-AIBrainFry-0326.jpg"
-    },
-    {
-      "id": "7984ac766755",
-      "title": "This protein bar’s fans fear they’ve been lied to",
-      "link": "https://www.morningbrew.com/stories/2026/03/14/david-fans-fear-theyve-been-lied-to?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "“No one is getting Regina Georged,” David founder Peter Rahal said after influencers reacted to a lawsuit accusing the protein bar of undercounting fat and calories.",
-      "date": "2026-03-14T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/gif/2026-03-13/image-2f8dd5a07d45f6460c763720f36cd8b095d51b55-1500x1000-gif/MBD_03132026_DavidBars_AN.gif"
-    },
-    {
-      "id": "4a849e61d964",
-      "title": "TikTok Investors Set to Pay $10 Billion Fee to Trump Administration",
-      "link": "https://www.nytimes.com/2026/03/13/business/trump-tiktok-10-billion-fee.html",
-      "summary": "The large fee is the latest example of the White House’s inserting itself into corporate deal making in unusual and aggressive ways.",
-      "date": "2026-03-14T02:32:46+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/03/13/multimedia/13biz-TikTok-fee-ktcf/13biz-TikTok-fee-ktcf-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "ad96df93d144",
-      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
-      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
-      "date": "2026-03-14T00:12:22+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800"
-    },
-    {
-      "id": "b8a7d684a779",
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-      "date": "2026-03-14T00:01:02+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-509750426.jpg?resize=1200,800"
-    },
-    {
-      "id": "60aa6829839e",
-      "title": "Digg lays off staff and shuts down app as company retools",
-      "link": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
-      "summary": "Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup.",
-      "date": "2026-03-13T21:51:17+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Digg.png?resize=1200,675"
-    }
-  ],
-  "all_articles": [
-    {
-      "id": "2455ff80873a",
-      "title": "Al-Khaleej x Al-Nassr: horário e onde assistir ao jogo do Campeonato Saudita",
-      "link": "https://exame.com/esporte/al-khaleej-x-al-nassr-horario-e-onde-assistir-ao-jogo-do-campeonato-saudita/",
-      "summary": "O Al-Nassr chega como líder da competição, com 64 pontos em 25 jogos",
-      "date": "2026-03-15T07:00:01+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/cristiano-ronaldo-bilionario.jpg"
-    },
-    {
-      "id": "e0f824a6cf63",
-      "title": "São Paulo x Bragantino: horário, onde assistir e prováveis escalações",
-      "link": "https://exame.com/esporte/sao-paulo-x-bragantino-horario-onde-assistir-e-provaveis-escalacoes/",
-      "summary": "Times se enfrentam pela 6ª rodada do Campeonato Brasileiro neste domingo",
-      "date": "2026-03-15T06:51:46+00:00",
+      "id": "f3e0cfb7ff34",
+      "title": "BBB 26: quem votou em quem?",
+      "link": "https://exame.com/pop/bbb-26-quem-votou-em-quem-2/",
+      "summary": "Solange Couto recebeu sete votos da casa e foi emparedada; a berlinda também conta com Ana Paula, Breno, Jonas e Leandro",
+      "date": "2026-03-15T14:40:05+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "d079b30d354f",
-      "title": "De trufas a pizza: o menu milionário que espera as estrelas do Oscar",
-      "link": "https://exame.com/casual/de-trufas-a-pizza-o-menu-milionario-que-espera-as-estrelas-do-oscar/",
-      "summary": "Festa oficial da premiação mistura alta gastronomia com clássicos simples que as celebridades exigem todos os anos",
-      "date": "2026-03-15T06:27:04+00:00",
+      "id": "d60cfd08b4aa",
+      "title": "BBB 26: Ana Paula, Breno, Jonas, Leandro e Solange estão no Paredão",
+      "link": "https://exame.com/pop/bbb-26-ana-paula-breno-jonas-leandro-e-solange-estao-no-paredao/",
+      "summary": "Cinco brothers estão emparedados, mas dois vão se salvar até o final do dia",
+      "date": "2026-03-15T14:33:48+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/080223c_0001.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Ana-Paula-Jonas-e-Boneco.webp"
     },
     {
-      "id": "725ffd4575fc",
-      "title": "Pesquisa diz que Sol pode ser um 'imigrante' na Via Láctea",
-      "link": "https://exame.com/ciencia/pesquisa-diz-que-sol-pode-ser-um-imigrante-na-via-lactea/",
-      "summary": "Dados de satélite revelam que o Sol pode ter percorrido mais de 10 mil anos-luz desde seu nascimento",
-      "date": "2026-03-15T06:26:46+00:00",
+      "id": "11386da6d8fb",
+      "title": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+      "link": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "summary": "Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics.",
+      "date": "2026-03-15T14:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/rj-scaringe-robots-getty.jpg?resize=1200,862"
+    },
+    {
+      "id": "1ea54b60b075",
+      "title": "Chanceler do Irã diz que não vê 'nenhuma razão' para negociar com EUA",
+      "link": "https://exame.com/mundo/chanceler-do-ira-diz-que-nao-ve-nenhuma-razao-para-negociar-com-eua/",
+      "summary": "Governo iraniano negou fala de Trump, que país do Oriente Médio estaria em busca de acordo",
+      "date": "2026-03-15T14:29:57+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "105abfc9fe4e",
-      "title": "Santos x Corinthians: que horas onde assistir ao jogo do Brasileirão?",
-      "link": "https://exame.com/esporte/santos-x-corinthians-que-horas-onde-assistir-ao-jogo-do-brasileirao/",
-      "summary": "Equipes se enfrentam neste domingo, 15, na Vila Belmiro, pela 6ª rodada do Campeonato Brasileiro 2026",
-      "date": "2026-03-15T06:03:21+00:00",
+      "id": "0b0e5f495e62",
+      "title": "BBB 26: quem está no paredão?",
+      "link": "https://exame.com/pop/bbb-26-quem-esta-no-paredao-6/",
+      "summary": "Formação mais cedo assustou os brothers e colocou Breno e Solange no paredão; Ana Paula, Leandro e Jonas já estavam na berlinda",
+      "date": "2026-03-15T14:27:54+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/01/GettyImages-2229767273.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/bonecos-bbb.webp"
+    },
+    {
+      "id": "6c9c5c915b33",
+      "title": "AI Czar David Sacks wants Trump to ‘get out’ of Iran",
+      "link": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
+      "summary": "David Sacks, the White House's AI and crypto czar, has warned that a continued war in Iran could be catastrophic. On the All In podcast, Sacks said that \"we should try to find the off-ramp.\" He expressed concern that Iran could demolish oil and gas infrastructure across the Middle East, but more ...",
+      "date": "2026-03-15T14:13:25+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP213_DAVID_SACKS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "968b7f44b5d8",
+      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+      "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The catch: You won't be performing in a theater, a film studio, or an underground pe...",
+      "date": "2026-03-15T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268402_AI_companies_want_to_harvest_improv_actors_skills_to_train_large_AI_models_on_human_emotion_and_tone_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "bd47c791ef96",
+      "title": "‘O Brasil passou Canadá e Austrália e virou nosso segundo maior mercado’, diz CEO da BRP",
+      "link": "https://exame.com/negocios/o-brasil-passou-canada-e-australia-e-virou-nosso-segundo-maior-mercado-diz-ceo-da-brp/",
+      "summary": "A marca de motos aquáticas canadense quer crescer em um ano marcado pela Copa do Mundo e feriados. Para isso, vai apostar até em financiamento e passeios guiados pelo litoral brasileiro",
+      "date": "2026-03-15T13:55:01+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2025/09/MG_7695_site.jpg"
+    },
+    {
+      "id": "682131f8110c",
+      "title": "Equador começa megaoperação contra traficantes com apoio dos EUA",
+      "link": "https://exame.com/mundo/equador-comeca-megaoperacao-contra-traficantes-com-apoio-dos-eua/",
+      "summary": "A ação durará ao menos 15 dias e terá toque de recolher à noite em várias cidades do país",
+      "date": "2026-03-15T13:52:32+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260315__A3CG8ZV__v1__HighRes__FilesEcuadorUsArmedForcesDrugTrafficking.jpg"
+    },
+    {
+      "id": "83e75e9fc6f1",
+      "title": "Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone",
+      "link": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
+      "summary": "Samsung promised \"more than a design refresh\" for its new top-end Galaxy Buds - it added upgraded woofers for improved, dual-amped hi-fi sound, a new blade design, clearer call performance, and better noise cancellation. Ultimately, while the $249.99 Galaxy Buds 4 aren't a huge leap forward over ...",
+      "date": "2026-03-15T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "21bb388d9750",
+      "title": "The fast rise and epic fall of Clubhouse",
+      "link": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history",
+      "summary": "In 2020 and 2021, the social media world seemed to be on the verge of complete change. A new app called TikTok was ascendant, bringing a whole new kind of vertical video to phones everywhere. And another app - not as popular, but growing fast, and already hugely influential among the tech set - l...",
+      "date": "2026-03-15T12:24:20+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VH_Clubhouse_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "be46aa0666ee",
+      "title": "Live-service games are a mess",
+      "link": "https://www.theverge.com/column/893294/live-service-games-mess",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the slow-motion disaster of live-service games, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Two years ag...",
+      "date": "2026-03-15T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_ff3794d11f1ea74661271f5ae47b7b9e6aa5901b.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "c55e3ab9c85a",
+      "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
+      "link": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
+      "summary": "Last fall, President Donald Trump's executive order raising the fee for H-1B visas to $100,000 - like many of his immigration policies - led to near-immediate chaos. Thousands of workers who had flown overseas to renew their visas ended up stranded abroad. Details about who would be affected only...",
+      "date": "2026-03-15T11:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268403_The_100000_fee_for_H-1Bs_six_months_later_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "37eff8c1bb31",
@@ -499,59 +277,402 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-13/image-67dc36eeeb8ac19f42317d3a86b11173dd711157-1790x1194-jpg/MBD-SundaySpecial-Beauty-Brew-RhodeAI-0326.jpg"
     },
     {
-      "id": "20e614a1015d",
-      "title": "Fluminense x Athletico-PR: horário, onde assistir e prováveis escalações",
-      "link": "https://exame.com/esporte/fluminense-x-athletico-pr-horario-onde-assistir-e-provaveis-escalacoes/",
-      "summary": "Times se enfrentam pela 6ª rodada do Campeonato Brasileiro",
-      "date": "2026-03-15T06:00:51+00:00",
-      "source": "Exame",
+      "id": "d05f56b5b6a0",
+      "title": "Celebrity makeup brands are taking their owners from Page Six to the boardroom",
+      "link": "https://www.morningbrew.com/stories/2026/03/15/celebrity-makeup-brands-are-taking-their-owners-from-page-six-to-the-boardroom?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Celebrities hawking tinted creams and lip plumping oil aren’t just side projects.",
+      "date": "2026-03-15T04:34:00+00:00",
+      "source": "Morning Brew",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/01/fluminense.jpg"
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-13/image-ce949fb2b8a4e1dad44322ef80d5867427a9c88e-1500x1000-jpg/MBD_Sunday_BeautyBrew_SM_03102026.jpg"
     },
     {
-      "id": "00a286c5a117",
-      "title": "Que horas começa o BBB 26? Hoje a edição será dividida em duas partes",
-      "link": "https://exame.com/pop/que-horas-comeca-o-bbb-26-hoje-a-edicao-sera-dividida-em-duas-partes/",
-      "summary": "Edição desse domingo será a primeira a ter paredão dividido em duas etapas",
-      "date": "2026-03-15T06:00:42+00:00",
-      "source": "Exame",
+      "id": "c91bc6bb6800",
+      "title": "Bald dudes are flocking to Turkey to get some hair",
+      "link": "https://www.morningbrew.com/stories/2026/03/15/bald-dudes-are-flocking-to-turkey-to-get-some-hair?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Many clinics in Turkey attract customers with all-inclusive, cost-friendly packages reminiscent of vacation deals to tropical climates.",
+      "date": "2026-03-15T04:23:00+00:00",
+      "source": "Morning Brew",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/tadeu-schmidtfoto-fabio-rocha-10-1.jpg"
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-12/image-d8b885815a76f8d4e74e53e48c29ea6d46cb46e9-4000x2662-jpg/MBD-SundaySpecial-TurkeyHair-0326.jpg"
     },
     {
-      "id": "8ed835abdd82",
-      "title": "Por que o Brasil vai em peso ao SXSW? Executiva do festival há 27 anos explica",
-      "link": "https://exame.com/marketing/por-que-o-brasil-vai-em-peso-ao-sxsw-executiva-do-festival-ha-27-anos-explica/",
-      "summary": "Em entrevista, Tracy Mann, responsável pelo desenvolvimento de negócios do festival, diz que país mantém a maior delegação internacional do festival mesmo em um ano de mudanças e incertezas",
-      "date": "2026-03-15T06:00:40+00:00",
-      "source": "Exame",
+      "id": "d28696c2a7e7",
+      "title": "The changing face of the beauty industry",
+      "link": "https://www.morningbrew.com/stories/2026/03/15/the-changing-face-of-the-beauty-industry?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "The makeup market is expanding into new demographics.",
+      "date": "2026-03-15T04:01:00+00:00",
+      "source": "Morning Brew",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/03/EX1273_SXSW_3.jpg"
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-13/image-9b5ebf3d4661b557671c894cb5c14b5459550fcd-3744x2496-jpg/MBD-SundaySpecial-BeautyBrew-ChangingFace-0326.jpg"
     },
     {
-      "id": "ab15cf4ff7f0",
-      "title": "Liverpool x Tottenham: horário, onde assistir e prováveis escalações",
-      "link": "https://exame.com/esporte/liverpool-x-tottenham-horario-onde-assistir-e-provaveis-escalacoes/",
-      "summary": "Reds tentam voltar ao G4 do Inglês, enquanto os Spurs entram pressionados na luta contra a parte de baixo da tabela",
-      "date": "2026-03-15T06:00:40+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/04/GettyImages-1824340713.jpg"
+      "id": "8b286e8d03dc",
+      "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
+      "link": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
+      "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the range of $10 billion. The money is supposedly being paid by new investors, inclu...",
+      "date": "2026-03-14T21:57:07+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "4e07b22d5cd1",
-      "title": "Cruzeiro x Vasco: horário e onde assistir pelo Brasileirão",
-      "link": "https://exame.com/esporte/cruzeiro-x-vasco-horario-e-onde-assistir-pelo-brasileirao/",
-      "summary": "Raposa tenta a primeira vitória para deixar a lanterna; Vasco busca embalar após triunfo sobre o Palmeiras pela Série A",
-      "date": "2026-03-15T06:00:23+00:00",
+      "id": "8f7b20ea8774",
+      "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+      "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+      "summary": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
+      "date": "2026-03-14T21:24:10+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-MacBook-Neo-lifestyle-01-260304_big.jpg.medium_2x.jpg?resize=1200,676"
+    },
+    {
+      "id": "0d361034bac9",
+      "title": "US Army announces contract with Anduril worth up to $20B",
+      "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "date": "2026-03-14T20:47:47+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152503982-e.jpg?resize=1200,800"
+    },
+    {
+      "id": "84ee2a050d82",
+      "title": "Meta is reportedly laying off up to 20 percent of its staff",
+      "link": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+      "summary": "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminating roughly 15,800 positions. That would be the largest series of layoffs at ...",
+      "date": "2026-03-14T18:48:56+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "7eb8fce634f7",
+      "title": "Honda is killing its EVs — and any chance of competing in the future",
+      "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+      "summary": "Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.",
+      "date": "2026-03-14T17:23:24+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/honda-logo.jpg?resize=1200,800"
+    },
+    {
+      "id": "e5bb7f4df128",
+      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "date": "2026-03-14T16:28:42+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800"
+    },
+    {
+      "id": "f4432fcbb175",
+      "title": "As people look for ways to make new friends, here are the apps promising to help",
+      "link": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "date": "2026-03-14T16:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800"
+    },
+    {
+      "id": "57b0c90dc21b",
+      "title": "Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals",
+      "link": "https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale",
+      "summary": "Happy Saturday, all! This week, we found a number of deals that should help you unwind and relax over the next few days (and beyond). If you’re planning to stream the Oscars on Sunday, there’s still time to take advantage of a great deal on Hulu and Disney Plus, as well as Google’s latest 4K […]",
+      "date": "2026-03-14T15:46:28+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "b09c28386113",
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+      "date": "2026-03-14T13:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"
+    },
+    {
+      "id": "782dc3a53511",
+      "title": "AI can fry our brains, even when it’s helping",
+      "link": "https://www.morningbrew.com/stories/2026/03/14/ai-can-fry-our-brains-even-when-it-s-helping?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "More AI doesn't always mean more productivity.",
+      "date": "2026-03-14T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-13/image-a6b8df752ae1f1bc2c623cb2775f45e7aa763426-4000x2667-jpg/MBD-AIBrainFry-0326.jpg"
+    },
+    {
+      "id": "7984ac766755",
+      "title": "This protein bar’s fans fear they’ve been lied to",
+      "link": "https://www.morningbrew.com/stories/2026/03/14/david-fans-fear-theyve-been-lied-to?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "“No one is getting Regina Georged,” David founder Peter Rahal said after influencers reacted to a lawsuit accusing the protein bar of undercounting fat and calories.",
+      "date": "2026-03-14T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/gif/2026-03-13/image-2f8dd5a07d45f6460c763720f36cd8b095d51b55-1500x1000-gif/MBD_03132026_DavidBars_AN.gif"
+    }
+  ],
+  "all_articles": [
+    {
+      "id": "494ff1dad260",
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+      "summary": "The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.",
+      "date": "2026-03-15T17:19:47+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/unacademy-lead-1.jpg?resize=1200,737"
+    },
+    {
+      "id": "0b82a0057cf2",
+      "title": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
+      "link": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
+      "summary": "Shout out to subscriber N_Gorski for today's pick. They popped into the comments on last week's recommendation to ask what I thought of the new Sotomayor record. Well, I hadn't actually heard it yet, but now I'm obsessed. The group consists of siblings Raul and Paulina Sotomayor from Mexico City....",
+      "date": "2026-03-15T16:45:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/sotomayor-wabi-sabi.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "7f4ee664c404",
+      "title": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+      "link": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "date": "2026-03-15T16:05:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/rivian-halo-wheel.jpg?resize=1200,900"
+    },
+    {
+      "id": "1e8bcd675c5e",
+      "title": "Wiz investor unpacks Google’s $32B acquisition",
+      "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "date": "2026-03-15T15:30:33+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=1024"
+    },
+    {
+      "id": "643f34a6f792",
+      "title": "Oscar 2026: os recordes que podem ser quebrados nesta edição",
+      "link": "https://exame.com/casual/oscar-2026-os-recordes-que-podem-ser-quebrados-nesta-edicao/",
+      "summary": "O tapete vermelho começa às 18h30 e a premiação às 20h do horário de Brasília",
+      "date": "2026-03-15T15:05:18+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/GettyImages-2237467619.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/03/GettyImages-97052777.jpg"
+    },
+    {
+      "id": "7203cd38aa41",
+      "title": "Quantos Oscars Leonardo Di Caprio já venceu? Veja trajetória do ator",
+      "link": "https://exame.com/casual/quantos-oscars-leonardo-di-caprio-ja-venceu-veja-trajetoria-do-ator/",
+      "summary": "DiCaprio iniciou a carreira como ator nos anos 1990 em séries de TV e filmes menores, mas só recebeu a primeira estatueta aos 42 anos",
+      "date": "2026-03-15T15:04:37+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2021/04/dicaprio.jpg"
+    },
+    {
+      "id": "86327eb6f689",
+      "title": "Oscar 2026: quais recordes que o Brasil pode quebrar neste domingo?",
+      "link": "https://exame.com/casual/oscar-2026-quais-recordes-que-o-brasil-pode-quebrar-neste-domingo/",
+      "summary": "País repete o feito de 2025 e coloca novamente um filme na categoria mais prestigiada da premiação do cinema",
+      "date": "2026-03-15T14:58:03+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/01/wagner-moura-tania-maria-o-agente-secreto-e1765920123171.webp"
+    },
+    {
+      "id": "3c195c138cc3",
+      "title": "Brasil encerra participação histórica na Paralimpíada de Inverno",
+      "link": "https://exame.com/esporte/brasil-encerra-participacao-historica-na-paralimpiada-de-inverno/",
+      "summary": "Cristian Ribera conquistou a primeira medalha do Brasil na competição, com a prata no esqui cross-country",
+      "date": "2026-03-15T14:54:52+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Sprint-X-Ctry-med-AC_4.jpg"
+    },
+    {
+      "id": "f3e0cfb7ff34",
+      "title": "BBB 26: quem votou em quem?",
+      "link": "https://exame.com/pop/bbb-26-quem-votou-em-quem-2/",
+      "summary": "Solange Couto recebeu sete votos da casa e foi emparedada; a berlinda também conta com Ana Paula, Breno, Jonas e Leandro",
+      "date": "2026-03-15T14:40:05+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "d60cfd08b4aa",
+      "title": "BBB 26: Ana Paula, Breno, Jonas, Leandro e Solange estão no Paredão",
+      "link": "https://exame.com/pop/bbb-26-ana-paula-breno-jonas-leandro-e-solange-estao-no-paredao/",
+      "summary": "Cinco brothers estão emparedados, mas dois vão se salvar até o final do dia",
+      "date": "2026-03-15T14:33:48+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Ana-Paula-Jonas-e-Boneco.webp"
+    },
+    {
+      "id": "11386da6d8fb",
+      "title": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+      "link": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "summary": "Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics.",
+      "date": "2026-03-15T14:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/rj-scaringe-robots-getty.jpg?resize=1200,862"
+    },
+    {
+      "id": "1ea54b60b075",
+      "title": "Chanceler do Irã diz que não vê 'nenhuma razão' para negociar com EUA",
+      "link": "https://exame.com/mundo/chanceler-do-ira-diz-que-nao-ve-nenhuma-razao-para-negociar-com-eua/",
+      "summary": "Governo iraniano negou fala de Trump, que país do Oriente Médio estaria em busca de acordo",
+      "date": "2026-03-15T14:29:57+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "0b0e5f495e62",
+      "title": "BBB 26: quem está no paredão?",
+      "link": "https://exame.com/pop/bbb-26-quem-esta-no-paredao-6/",
+      "summary": "Formação mais cedo assustou os brothers e colocou Breno e Solange no paredão; Ana Paula, Leandro e Jonas já estavam na berlinda",
+      "date": "2026-03-15T14:27:54+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/bonecos-bbb.webp"
+    },
+    {
+      "id": "6c9c5c915b33",
+      "title": "AI Czar David Sacks wants Trump to ‘get out’ of Iran",
+      "link": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
+      "summary": "David Sacks, the White House's AI and crypto czar, has warned that a continued war in Iran could be catastrophic. On the All In podcast, Sacks said that \"we should try to find the off-ramp.\" He expressed concern that Iran could demolish oil and gas infrastructure across the Middle East, but more ...",
+      "date": "2026-03-15T14:13:25+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP213_DAVID_SACKS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "968b7f44b5d8",
+      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+      "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The catch: You won't be performing in a theater, a film studio, or an underground pe...",
+      "date": "2026-03-15T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268402_AI_companies_want_to_harvest_improv_actors_skills_to_train_large_AI_models_on_human_emotion_and_tone_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "bd47c791ef96",
+      "title": "‘O Brasil passou Canadá e Austrália e virou nosso segundo maior mercado’, diz CEO da BRP",
+      "link": "https://exame.com/negocios/o-brasil-passou-canada-e-australia-e-virou-nosso-segundo-maior-mercado-diz-ceo-da-brp/",
+      "summary": "A marca de motos aquáticas canadense quer crescer em um ano marcado pela Copa do Mundo e feriados. Para isso, vai apostar até em financiamento e passeios guiados pelo litoral brasileiro",
+      "date": "2026-03-15T13:55:01+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2025/09/MG_7695_site.jpg"
+    },
+    {
+      "id": "682131f8110c",
+      "title": "Equador começa megaoperação contra traficantes com apoio dos EUA",
+      "link": "https://exame.com/mundo/equador-comeca-megaoperacao-contra-traficantes-com-apoio-dos-eua/",
+      "summary": "A ação durará ao menos 15 dias e terá toque de recolher à noite em várias cidades do país",
+      "date": "2026-03-15T13:52:32+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260315__A3CG8ZV__v1__HighRes__FilesEcuadorUsArmedForcesDrugTrafficking.jpg"
+    },
+    {
+      "id": "83e75e9fc6f1",
+      "title": "Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone",
+      "link": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
+      "summary": "Samsung promised \"more than a design refresh\" for its new top-end Galaxy Buds - it added upgraded woofers for improved, dual-amped hi-fi sound, a new blade design, clearer call performance, and better noise cancellation. Ultimately, while the $249.99 Galaxy Buds 4 aren't a huge leap forward over ...",
+      "date": "2026-03-15T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "21bb388d9750",
+      "title": "The fast rise and epic fall of Clubhouse",
+      "link": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history",
+      "summary": "In 2020 and 2021, the social media world seemed to be on the verge of complete change. A new app called TikTok was ascendant, bringing a whole new kind of vertical video to phones everywhere. And another app - not as popular, but growing fast, and already hugely influential among the tech set - l...",
+      "date": "2026-03-15T12:24:20+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VH_Clubhouse_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "be46aa0666ee",
+      "title": "Live-service games are a mess",
+      "link": "https://www.theverge.com/column/893294/live-service-games-mess",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the slow-motion disaster of live-service games, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Two years ag...",
+      "date": "2026-03-15T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_ff3794d11f1ea74661271f5ae47b7b9e6aa5901b.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "c55e3ab9c85a",
+      "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
+      "link": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
+      "summary": "Last fall, President Donald Trump's executive order raising the fee for H-1B visas to $100,000 - like many of his immigration policies - led to near-immediate chaos. Thousands of workers who had flown overseas to renew their visas ended up stranded abroad. Details about who would be affected only...",
+      "date": "2026-03-15T11:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268403_The_100000_fee_for_H-1Bs_six_months_later_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "37eff8c1bb31",
+      "title": "AI deepfakes are stealing beauty influencers’ glow",
+      "link": "https://www.morningbrew.com/stories/2026/03/13/ai-deepfakes-are-stealing-beauty-influencers-glow?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Some people convincing you to buy blush aren't really people.",
+      "date": "2026-03-15T06:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-13/image-67dc36eeeb8ac19f42317d3a86b11173dd711157-1790x1194-jpg/MBD-SundaySpecial-Beauty-Brew-RhodeAI-0326.jpg"
     },
     {
       "id": "d05f56b5b6a0",
@@ -675,39 +796,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "bd054963c254",
-      "title": "Prediction markets want the Oscars to be your gateway drug to betting on everything",
-      "link": "https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling",
-      "summary": "Though it was weird to see the Golden Globes partner with Polymarket for its most recent awards show, the collaboration wasn't shocking given the way that people have begun using prediction markets to gamble on basically anything. Prediction markets are being used to bet on everything from when w...",
-      "date": "2026-03-14T15:30:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265317366.jpg?quality=90&#038;strip=all&#038;crop=5.49375,0,94.50625,100"
-    },
-    {
-      "id": "9ec67c046a8a",
-      "title": "MacBook Air M5 review: a small update for the ‘just right’ Mac",
-      "link": "https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review",
-      "summary": "Not much has changed in the new MacBook Air for 2026: It now has the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256GB. It's just as outstanding a computer as last year's model, even if it's a shame it's $100 more expensive. The bigger change has happened to the Air. […]",
-      "date": "2026-03-14T15:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "2844501c39eb",
-      "title": "A Scavengers Reign artist explores contemplative sci-fi in new comics",
-      "link": "https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign",
-      "summary": "You may recognize Jonathan Djob Nkondo's work from animated projects like the surreal sci-fi series Scavengers Reign or the recent Gorillaz short film The Mountain, The Moon Cave and The Sad God. But before that the French artist and animator made self-published comics that depicted strange alien...",
-      "date": "2026-03-14T14:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/NKONDO-BookSlipcase-1-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "b09c28386113",
       "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
       "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
@@ -717,50 +805,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"
-    },
-    {
-      "id": "2442c795959c",
-      "title": "Asus’ new open earbuds are a wonderful companion for handheld gaming",
-      "link": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions",
-      "summary": "The Cetra Open Wireless aren’t like most other gaming earbuds. They’re large, with an open-style design that rests just outside of your ears, letting game audio mix with sounds in your environment. These allow for immersion, but only if your environment is quiet enough. And turning them up might ...",
-      "date": "2026-03-14T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268381_Asus_Cetra_Wireless_earbuds_CFaulkner_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "7d7846664bdf",
-      "title": "Samsung Galaxy S26 Ultra review: show off",
-      "link": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
-      "summary": "\"Someone might be watching everything I'm doing on my screen,\" I tell myself in public. Even when I'm doing nothing of consequence - just making my little Wordle guesses - there's a sense of unease that stays with me. It's never bothered me too much, and I generally save the sensitive stuff like ...",
-      "date": "2026-03-14T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268399_Samsung_Galaxy_S26_Ultra_review_AJohnson_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "5f3e52953135",
-      "title": "5 great indie games from GDC 2026",
-      "link": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
-      "summary": "I just got back from the GDC Festival of Gaming, a big industry-focused event in San Francisco that was formerly known as the Game Developers Conference. While the show is mostly about educational sessions and networking opportunities for working developers, there were also a bunch of games that ...",
-      "date": "2026-03-14T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_25983b9fefc98de64ad91c80c472691ee2eb487e.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "b70dfe0a2443",
-      "title": "Wordle’s creator made a fun new puzzle game",
-      "link": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 119, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your agents are well, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Pixar's future and flight MH370 a...",
-      "date": "2026-03-14T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Installer-119.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "782dc3a53511",
@@ -794,50 +838,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/03/13/multimedia/13biz-TikTok-fee-ktcf/13biz-TikTok-fee-ktcf-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "ad96df93d144",
-      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
-      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
-      "date": "2026-03-14T00:12:22+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800"
-    },
-    {
-      "id": "b8a7d684a779",
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-      "date": "2026-03-14T00:01:02+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-509750426.jpg?resize=1200,800"
-    },
-    {
-      "id": "60aa6829839e",
-      "title": "Digg lays off staff and shuts down app as company retools",
-      "link": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
-      "summary": "Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup.",
-      "date": "2026-03-13T21:51:17+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Digg.png?resize=1200,675"
-    },
-    {
-      "id": "3611c09ebe97",
-      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-      "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
-      "date": "2026-03-13T21:37:01+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Nyne.jpg?resize=1200,800"
     },
     {
       "id": "6a5b8d56fbc1",
@@ -948,6 +948,17 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/03/11/business/00social-media/00social-media-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "2b59df3900eb",
+      "title": "Whitelisting content, the branding of tech, and elevating product photos",
+      "link": "https://www.hyperstudios.us/p/whitelisting-content-the-branding",
+      "summary": "Is your product boring, or do you just not know how to brand it?",
+      "date": "2026-03-12T15:24:11+00:00",
+      "source": "Hyper Studios",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!61je!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdaa52e43-46d0-42d8-9b99-382d55cfd546_1280x992.heic"
     },
     {
       "id": "eefb57777be8",
@@ -1115,6 +1126,17 @@
       "image": null
     },
     {
+      "id": "af53d1a928cd",
+      "title": "Monetizing Hobbies 2.0, Nike ACG is back + creative founders you should follow right now",
+      "link": "https://www.hyperstudios.us/p/monetizing-hobbies-20-nike-acg-is",
+      "summary": "Whats in our bookmarks this week",
+      "date": "2026-03-05T18:08:43+00:00",
+      "source": "Hyper Studios",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!dHgt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f1d396f-bd01-4ed4-ab38-c01ff2c714df_1280x913.heic"
+    },
+    {
       "id": "4216e16df8d8",
       "title": "An Interview with Gregory Allen About Anthropic and the U.S. Government",
       "link": "https://stratechery.com/2026/an-interview-with-gregory-allen-about-anthropic-and-the-u-s-government/",
@@ -1214,6 +1236,17 @@
       "image": "https://no-cache.hubspot.com/cta/default/53/7cbd0328-6c8c-40e0-98dd-c3b6e6be96f0.png"
     },
     {
+      "id": "912d57ca97c8",
+      "title": "How to level up your art direction",
+      "link": "https://www.hyperstudios.us/p/how-to-level-up-your-art-direction",
+      "summary": "+ the psychology of pricing, and how to make money with your personal brand",
+      "date": "2026-02-25T14:18:50+00:00",
+      "source": "Hyper Studios",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!kkQw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2bff662-6a15-45d2-9f90-0ba5924ef2c7_800x1200.avif"
+    },
+    {
       "id": "f0e6293f6e71",
       "title": "Marketing experiments every growth team should run",
       "link": "https://blog.hubspot.com/marketing/marketing-experimentation",
@@ -1223,6 +1256,50 @@
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://no-cache.hubspot.com/cta/default/53/610b61ae-1723-4f3f-9703-35f0949765fe.png"
+    },
+    {
+      "id": "b8d46291d477",
+      "title": "Creative networks, influence multipliers and the psychology of luxury",
+      "link": "https://www.hyperstudios.us/p/creative-networks-influence-multipliers",
+      "summary": "Maybe even a lil K-Pop",
+      "date": "2026-02-17T19:23:58+00:00",
+      "source": "Hyper Studios",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!U3SB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F413520bb-66d5-435d-b4a8-08c71e900d87_1200x800.heic"
+    },
+    {
+      "id": "1c047d826e50",
+      "title": "Viral collabs that don't exist, Stone Island explained, and getting your marketing approved",
+      "link": "https://www.hyperstudios.us/p/viral-collabs-that-dont-exist-stone",
+      "summary": "The proof is in the product",
+      "date": "2026-02-12T16:33:18+00:00",
+      "source": "Hyper Studios",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!QATJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1782852f-eb4e-48da-9c8d-ea9e9d330142_2000x4550.jpeg"
+    },
+    {
+      "id": "d3cd1c288c04",
+      "title": "The distribution games, the 2026 influence playbook pt1, and an extended look at Commes Des Garcons",
+      "link": "https://www.hyperstudios.us/p/the-distribution-games-the-2026-influence",
+      "summary": "CDG but no Charles de Gaulle",
+      "date": "2026-02-04T16:09:12+00:00",
+      "source": "Hyper Studios",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!Qijn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcde660e2-1d68-4748-bc6b-8142614a90a0_1920x1080.heic"
+    },
+    {
+      "id": "7fadad906ef5",
+      "title": "5 ideas you should invest in this year",
+      "link": "https://www.hyperstudios.us/p/5-ideas-you-should-invest-in-this",
+      "summary": "We met 200+ of you in person the last two weeks... here's what we learned",
+      "date": "2026-01-29T18:35:15+00:00",
+      "source": "Hyper Studios",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!zkIc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05292f97-5cdb-4fa0-acc4-d39095cffe49_6720x4480.jpeg"
     },
     {
       "id": "a2f7cf03dc68",
@@ -1247,6 +1324,17 @@
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/b3c21544-bc08-4749-be3b-566a7b6ddb02_1920x1080.jpeg"
     },
     {
+      "id": "a040c9b70fcd",
+      "title": "The HYPER guide to Youtube",
+      "link": "https://www.hyperstudios.us/p/the-hyper-guide-to-youtube",
+      "summary": "Lock in brothers and sisters, on the longform internet.",
+      "date": "2026-01-22T16:40:22+00:00",
+      "source": "Hyper Studios",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!D3Kn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0562efae-4e0c-4d6b-ab21-c96109e95abe_1920x1080.heic"
+    },
+    {
       "id": "54aa2a0832e0",
       "title": "The future of work when work is meaningless",
       "link": "https://letters.thedankoe.com/p/the-future-of-work-when-work-is-meaningless",
@@ -1256,6 +1344,17 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/04957b0f-c0c8-4d04-a525-3298008a5c2e_1920x1080.jpeg"
+    },
+    {
+      "id": "53b47409f76e",
+      "title": "2026 is the year we go analog, + brand planning exercises",
+      "link": "https://www.hyperstudios.us/p/2026-is-the-year-we-go-analog-brand",
+      "summary": "Worksheets inside",
+      "date": "2026-01-15T18:45:39+00:00",
+      "source": "Hyper Studios",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!keEn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1969bd06-93f2-4271-b011-b14020c9c05f_2174x1658.png"
     },
     {
       "id": "68c80e4bdfb7",
@@ -1278,6 +1377,17 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/549f5578-e409-47bc-849b-2c53b20e7dc2_1920x1080.jpeg"
+    },
+    {
+      "id": "3f4373e61035",
+      "title": "Brand archetypes, pillars and experts",
+      "link": "https://www.hyperstudios.us/p/brand-archetypes-pillars-and-experts",
+      "summary": "+ our brand workshop tour starts next week",
+      "date": "2026-01-08T19:30:31+00:00",
+      "source": "Hyper Studios",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!vMKc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11559ee3-5f1b-4498-81a4-b6cc5f4cb9e7_1280x908.heic"
     },
     {
       "id": "5e43a991fd9c",
