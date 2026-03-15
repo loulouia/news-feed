@@ -65,6 +65,11 @@
       "color": "blue",
       "feeds": [
         {
+  "name": "Hyper Studios",
+  "url": "https://www.hyperstudios.us/feed",
+  "type": "rss"
+},
+        {
           "name": "HubSpot Blog",
           "url": "https://blog.hubspot.com/marketing/rss.xml",
           "type": "rss"
