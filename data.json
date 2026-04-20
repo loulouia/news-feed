@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T10:35:17.110515+00:00",
+  "generated_at": "2026-04-20T11:17:02.715943+00:00",
   "total_articles": 90,
   "categories": [
     {
@@ -33,105 +33,347 @@
   ],
   "featured": [
     {
-      "id": "7cf70cb9a485",
-      "title": "A startup que fotografou 8 milhões de fases dentro de obras e quer chegar a R$ 100 milhões",
-      "link": "https://exame.com/negocios/a-startup-que-fotografou-8-milhoes-de-fases-dentro-de-obras-e-quer-chegar-a-r-100-milhoes/",
-      "summary": "Empresa desenvolveu uma plataforma que usa câmeras, drones e laser que gera modelos tridimensionais de ambientes, para documentar obras em tempo real",
-      "date": "2026-04-19T07:14:40+00:00",
-      "source": "Exame",
+      "id": "5f2207393c16",
+      "title": "US seizes Iranian cargo ship as tensions rise",
+      "link": "https://www.morningbrew.com/stories/2026/04/20/us-seizes-iranian-cargo-ship-as-tensions-rise?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Meanwhile, the world is waiting to see if peace talks between Iran and the US will resume in Pakistan.",
+      "date": "2026-04-20T10:01:00+00:00",
+      "source": "Morning Brew",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": null
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-20/image-a0ebb89c086111ccdb5ebddd2ca3bc4e933f0495-6253x3705-jpg/CargoshipTouskahitsMagazineIslandnearApLeiChau.06NOV17.SCMPSamTsang10"
     },
     {
-      "id": "410062c63440",
-      "title": "Vendas B2B: como trocar a briga de preço pela construção de valor",
-      "link": "https://exame.com/bussola/vendas-b2b-como-trocar-a-briga-de-preco-pela-construcao-de-valor/",
-      "summary": "Entenda por que 73% dos compradores evitam abordagens irrelevantes e como a autoridade editorial ajuda a fechar negócios",
-      "date": "2026-04-19T07:00:44+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
+      "id": "34b6aa62b17f",
+      "title": "TSMC Earnings, New N3 Fabs, The Nvidia Ramp",
+      "link": "https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/",
+      "summary": "TSMC's earnings suggest that the company's leadership is not truly bought into the AI growth story.",
+      "date": "2026-04-20T10:00:00+00:00",
+      "source": "Stratechery",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
     },
     {
-      "id": "4a74994dd80d",
-      "title": "Os camarotes do BBB 26: quem foram os famosos desta edição",
-      "link": "https://exame.com/pop/os-camarotes-do-bbb-26-quem-foram-os-famosos-desta-edicao/",
-      "summary": "Edição deste ano contou com cinco celebridades, mas apenas uma chegou à final do reality",
-      "date": "2026-04-19T07:00:29+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/mosaico-final-camarotes.avif"
+      "id": "4dd3a93ce153",
+      "title": "GoPro’s new Mission cameras are priced beyond most weekend athletes",
+      "link": "https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices",
+      "summary": "GoPro is pricing its new Mission 1 and Mission 1 Pro cameras at $599.99 and $699.99, respectively, each discounted by $100 if you subscribe to its ecosystem - fine for professional filmmakers, but a tough sell for weekend warriors. The Mission 1 and Mission 1 Pro can both be reserved now, and you...",
+      "date": "2026-04-20T09:04:39+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/M1Series_family_wide_keyart.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "d9bc8ee25956",
-      "title": "Hannover Messe: como é a feira que o presidente Lula visitará na Alemanha",
-      "link": "https://exame.com/mundo/hannover-messe-como-e-a-feira-que-o-presidente-lula-visitara-na-alemanha/",
-      "summary": "Evento é o maior fórum global da indústria, e o Brasil é o país parceiro neste ano",
-      "date": "2026-04-19T07:00:15+00:00",
+      "id": "334c175276c1",
+      "title": "Quando sai o próximo episódio de The Boys? Veja o calendário completo",
+      "link": "https://exame.com/pop/quando-sai-o-proximo-episodio-de-the-boys-veja-o-calendario-completo/",
+      "summary": "Criada por Eric Kripke, a série se consolidou como uma das produções mais populares do streaming ao subverter o universo dos super-heróis; veja quando sai o próximo episódio",
+      "date": "2026-04-20T07:49:48+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/HM26_13_000014.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/The-Boys-Soldier-Boy.webp"
     },
     {
-      "id": "6fb28c8a7491",
-      "title": "6 formas práticas de usar IA para organizar sua rotina de trabalho",
-      "link": "https://exame.com/inteligencia-artificial/6-formas-praticas-de-usar-ia-para-organizar-sua-rotina-de-trabalho/",
-      "summary": "De planejamento de tarefas a gestão de prioridades, a inteligência artificial pode ajudar a estruturar o dia a dia profissional com mais eficiência",
-      "date": "2026-04-19T07:00:08+00:00",
+      "id": "0eed2797dd73",
+      "title": "Na Alemanha, Lula pede que 7x1 'não se repita'",
+      "link": "https://exame.com/mundo/na-alemanha-lula-pede-que-7x1-nao-se-repita/",
+      "summary": "Presidente lembrou maior derrota brasileira em Copas em abertura de discurso",
+      "date": "2026-04-20T07:23:47+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/07/GettyImages-1471665107.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260419__A8BY3PY__v1__HighRes__GermanyBrazilPoliticsDiplomacy.jpg"
     },
     {
-      "id": "c742cfdd6117",
-      "title": "Cérebros masculino e feminino: o que estudo revela sobre diferenças genéticas",
-      "link": "https://exame.com/ciencia/cerebros-masculino-e-feminino-o-que-estudo-revela-sobre-diferencas-geneticas/",
-      "summary": "Análise de mais de 1 milhão de células revela variações sutis na expressão de genes, que podem influenciar o risco de doenças neurológicas",
-      "date": "2026-04-19T06:59:14+00:00",
+      "id": "f061de400e74",
+      "title": "Astronauta usa iPhone para capturar 'desaparecimento' da Terra atrás da Lua",
+      "link": "https://exame.com/ciencia/astronauta-usa-iphone-para-capturar-desaparecimento-da-terra-atras-da-lua/",
+      "summary": "Reid Wiseman, comandante da missão Artemis II, publicou no domingo, 19, um vídeo bruto e sem edição captado por celular durante o sobrevoo lunar",
+      "date": "2026-04-20T07:23:45+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/dna-closely.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/lua-lado-novo.jpg"
     }
   ],
   "articles": [
     {
-      "id": "c2632809ed5d",
-      "title": "Palmeiras x Athletico-PR: horário, onde assistir e prováveis escalações",
-      "link": "https://exame.com/esporte/palmeiras-x-athletico-pr-horario-onde-assistir-e-provaveis-escalacoes/",
-      "summary": "Líder, Palmeiras quer abrir vantagem dos adversários, enquanto o Furacão pode chegar a vice-liderança em caso de vitórias e combinações de resultado",
-      "date": "2026-04-19T06:51:40+00:00",
+      "id": "420f42b2461a",
+      "title": "Estágio no agro: MBRF abre vagas em mais de 20 cidades com bolsa de R$ 2.466 mil",
+      "link": "https://exame.com/carreira/estagio-no-agro-mbrf-abre-vagas-em-mais-de-20-cidades-com-bolsa-de-r-2-466-mil/",
+      "summary": "Programa é voltado a estudantes de Agronomia, Veterinária e Zootecnia. As inscrições ficam abertas até o dia 15 de maio",
+      "date": "2026-04-20T07:07:31+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Flaco-Lopez.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-13.15.14.jpeg"
     },
     {
-      "id": "bf54364a3754",
-      "title": "Coritiba x Atlético-MG: horário, onde assistir e prováveis escalações",
-      "link": "https://exame.com/esporte/coritiba-x-atletico-mg-horario-onde-assistir-e-provaveis-escalacoes/",
-      "summary": "Equipes vivem situação semelhante e buscam os três pontos no Brasileirão visando a parte de cima da tabela",
-      "date": "2026-04-19T06:47:44+00:00",
+      "id": "65be5e7041b1",
+      "title": "Trabalhadores do cuidado: as carreiras em expansão em um Brasil que envelhece",
+      "link": "https://exame.com/carreira/trabalhadores-do-cuidado-as-carreiras-em-expansao-em-um-brasil-que-envelhece/",
+      "summary": "Com mais idosos no país, profissões como cuidador e gerontólogo ganham espaço, mas ainda enfrentam desafios de valorização e formação",
+      "date": "2026-04-20T07:07:12+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Hulk-pelo-Atletico-MG.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/LONGEVIDADE-BRASIL-ENVELHECE.jpg"
     },
     {
-      "id": "2245e0daf2af",
-      "title": "O prompt que faz o ChatGPT escrever e-mails melhores que os seus",
-      "link": "https://exame.com/inteligencia-artificial/o-prompt-que-faz-o-chatgpt-escrever-e-mails-melhores-que-os-seus/",
-      "summary": "Um comando simples ajuda a estruturar mensagens mais claras, objetivas e adequadas ao contexto profissional, evitando erros comuns de comunicação",
-      "date": "2026-04-19T06:30:11+00:00",
+      "id": "2777e8a796f5",
+      "title": "Mercado de cavalos de elite cresce em Goiás e fatura milhões no Brasil",
+      "link": "https://exame.com/negocios/mercado-de-cavalos-de-elite-cresce-em-goias-e-fatura-milhoes-no-brasil/",
+      "summary": "JBJ Ranch e Família Quartista chegam à 5ª temporada de leilões de cavalos Quarto de Milha, raça originária dos Estados Unidos. Evento acontecerá entre os dias 15 e 17 de maio. Saiba mais sobre a programação",
+      "date": "2026-04-20T07:07:05+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/08/iStock-1370889185-1.jpg"
+      "image": null
+    },
+    {
+      "id": "e1b1152f57b5",
+      "title": "Para a Geração Z, socializar agora é treinar, diz relatório do Strava",
+      "link": "https://exame.com/casual/para-a-geracao-z-socializar-agora-e-treinar-diz-relatorio-do-strava/",
+      "summary": "Jovens trocam drinques por treino e fazem das academias seu principal espaço de socialização",
+      "date": "2026-04-20T07:05:34+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "3ae0ff3b3acf",
+      "title": "Brasil se cansou de ser tratado como país pobre, diz Lula na Alemanha",
+      "link": "https://exame.com/mundo/brasil-se-cansou-de-ser-tratado-como-pais-pobre-diz-lula-na-alemanha/",
+      "summary": "Presidente fez discurso na feira Hannover Messe e defendeu que país é potência em energias verdes",
+      "date": "2026-04-20T07:05:07+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260419__A8BV4K2__v9__HighRes__GermanyBrazilPolitics.jpg"
+    },
+    {
+      "id": "4709685a77ad",
+      "title": "Consultoria aposta em branding com comunicação integrada para crescer 15%",
+      "link": "https://exame.com/bussola/consultoria-aposta-em-branding-com-comunicacao-integrada-para-crescer-15/",
+      "summary": "Consultoria com 26 anos de mercado expande atuação para oferecer soluções integradas de marca, comunicação e design de espaços",
+      "date": "2026-04-20T07:00:45+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Ana-Paula-Nemoto-gestora-e-socia-da-DEADesign.-Credito-da-imagem-DIVULGACAO.jpg"
+    },
+    {
+      "id": "e199ef68846f",
+      "title": "Terremoto de magnitude 7,4 atinge Japão e gera alerta de tsunami",
+      "link": "https://exame.com/mundo/terremoto-de-magnitude-74-atinge-japao-e-gera-alerta-de-tsunami/",
+      "summary": "Tremor no Pacífico provocou ondas de até 80 cm e levou autoridades a pedirem evacuação imediata de áreas costeiras",
+      "date": "2026-04-20T06:59:36+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Terremoto-Japao.png"
+    },
+    {
+      "id": "af600c0db74d",
+      "title": "Technology’s latest milestone: 13.1",
+      "link": "https://www.morningbrew.com/stories/2026/04/20/technology-s-latest-milestone-13-1?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "For the first time, a robot beat the humans in a half-marathon.",
+      "date": "2026-04-20T05:09:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-19/image-f6dbeeec7240ad7cb00debbd3ca76f0beb57f185-2000x1334-jpg/HumanoidrobotsbreakhalfmarathonworldrecordinChina"
+    },
+    {
+      "id": "4106e60339f6",
+      "title": "OpenAI’s existential questions",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "date": "2026-04-19T21:24:06+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "44dd14062814",
+      "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
+      "link": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
+      "summary": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
+      "date": "2026-04-19T20:32:16+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/04/17/multimedia/17korea-ai-glasses-promo-lhkb/17korea-ai-glasses-promo-lhkb-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "c72e4e2e5b30",
+      "title": "Blue Origin successfully reused its New Glenn rocket",
+      "link": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+      "summary": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch and landing for the first stage booster, and officially giving Jeff Bezos a re...",
+      "date": "2026-04-19T20:28:52+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2271539021.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "eaea6f858c54",
+      "title": "Cloud development platform Vercel was hacked",
+      "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email...",
+      "date": "2026-04-19T19:54:52+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "272585c0bb02",
+      "title": "The 12-month window",
+      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "date": "2026-04-19T19:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "48ac281a458e",
+      "title": "Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch",
+      "link": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
+      "summary": "The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration return to the Moon.",
+      "date": "2026-04-19T19:02:09+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "1ed69dd423b7",
+      "title": "Robots beat human records at Beijing half-marathon",
+      "link": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
+      "summary": "The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes.",
+      "date": "2026-04-19T18:44:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "1bbe48b82b72",
+      "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
+      "link": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
+      "summary": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
+      "date": "2026-04-19T18:00:42+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/04/17/multimedia/17BIZ-CEREBRAS-S-zbmf/17BIZ-CEREBRAS-S-zbmf-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "1d6a1a40ff86",
+      "title": "Why your life feels fake: an antidote to the life you were sold",
+      "link": "https://letters.thedankoe.com/p/why-your-life-feels-fake-an-antidote",
+      "summary": "Most people are living a life someone else wrote. Here's how to find out if you're one of them.",
+      "date": "2026-04-19T16:38:40+00:00",
+      "source": "Dan Koe",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/535642a1-de45-453b-a129-3be1d66b62cb_1920x1080.jpeg"
+    },
+    {
+      "id": "24e6a5238cec",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "date": "2026-04-19T16:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "95a54da525dd",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "date": "2026-04-19T16:01:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "2cc5b95f8d1d",
+      "title": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
+      "link": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+      "summary": "Over the past several years, Nothing’s budget-centric subsidiary, CMF, has built a reputation for producing attractive, inexpensive products with features often reserved for gadgets that cost twice the price. The CMF Headphone Pro — the company’s first pair of over-ear wireless headphones — fit p...",
+      "date": "2026-04-19T14:30:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/CMF-Headphone-Pro-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0e4cd9a4f173",
+      "title": "The Stars My Destination is classic proto-cyberpunk",
+      "link": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
+      "summary": "This might feel like a somewhat obvious recommendation to some, but it flew under my radar until now. Alfred Bester's The Stars My Destination (originally published as Tiger! Tiger! in the UK) is a 1956 sci-fi novel that some have cited as a precursor to cyberpunk. It's a work I admit I have some...",
+      "date": "2026-04-19T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/The-Stars-My-Destination.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "774637107c53",
+      "title": "Cracks are starting to form on fusion energy’s funding boom",
+      "link": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
+      "summary": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably.",
+      "date": "2026-04-19T12:51:10+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "d1d21651699d",
+      "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
+      "link": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
+      "summary": "Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming. Its Q and V series are among our go-to recommendations for off-the-shelf keyboards, and the latest iterations - the Q and V...",
+      "date": "2026-04-19T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268472_Keychron_V5_Q1_Ultra_8K_keyboards_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "e8a533440c5f",
+      "title": "The future of local TV news has taken a Trumpian turn",
+      "link": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more stories on Big Tech versus politics in Washington, DC, follow Tina Nguyen and read Regulator. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it ...",
+      "date": "2026-04-19T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268461_The_Stepback-_Tegna_nexstar_merger_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "266dc97f6c58",
+      "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
+      "link": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
+      "summary": "It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market.",
+      "date": "2026-04-19T11:45:38+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
     },
     {
       "id": "133e59e59796",
@@ -143,17 +385,6 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-10/image-d2fa977a7af8ae4da5d4427233bed693d86cd566-4240x2832-jpg/MBD-SundaySpecial-InvestingBrew-Casino-0426.jpg"
-    },
-    {
-      "id": "9d20638f7d83",
-      "title": "Testamos 4 ferramentas de IA para produtividade — esta foi a melhor",
-      "link": "https://exame.com/inteligencia-artificial/testamos-4-ferramentas-de-ia-para-produtividade-esta-foi-a-melhor/",
-      "summary": "Plataformas prometem organizar tarefas, acelerar rotinas e otimizar o tempo, mas nem todas entregam o mesmo resultado na prática",
-      "date": "2026-04-19T06:02:54+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/02/Catherine-Falls-Commercial-Produtividade-e-o-flow-state.jpg"
     },
     {
       "id": "7021680a40b9",
@@ -194,237 +425,6 @@
       "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
       "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
       "date": "2026-04-18T21:37:15+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "e088434108e0",
-      "title": "The RAM shortage could last years",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all w...",
-      "date": "2026-04-18T21:08:45+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "bbe642cc3cd6",
-      "title": "VC Ron Conway says he has a ‘rare form of cancer’",
-      "link": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
-      "summary": "Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel.",
-      "date": "2026-04-18T20:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "148ed7c62ced",
-      "title": "AI chip startup Cerebras files for IPO",
-      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-      "date": "2026-04-18T19:19:11+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "1afcf1559d13",
-      "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
-      "link": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
-      "summary": "Jorge L. Alonso, a federal district court judge for the Northern District of Illinois, said that the Trump Administration violated the First Amendment when it pressured Facebook and Apple to remove ICE-tracking groups and apps. Judge Alonso granted the plaintiffs, Kassandra Rosado, who runs the I...",
-      "date": "2026-04-18T16:42:25+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268288_Minneapolis_ICE_JCalifano_0413.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "7957a48cd0c6",
-      "title": "Cheap stuff that doesn’t suck, take 3",
-      "link": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
-      "summary": "From fancy OLED TVs to robot vacuums with arms, we tend to cover a lot of cool stuff here at The Verge that, unfortunately, often costs as much as a month’s rent (or more). But with the ongoing tariff situation in the US and a global memory shortage pushing up the cost of, well, everything, we’re...",
-      "date": "2026-04-18T15:33:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268436_IKEA_Kallsup_speaker_JHiggins_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "29f2bed3d932",
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-      "date": "2026-04-18T14:56:48+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "7a346b6bfb33",
-      "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
-      "link": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
-      "summary": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters.",
-      "date": "2026-04-18T13:16:22+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "c359fccd66e0",
-      "title": "The App Store is booming again, and AI may be why",
-      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
-      "date": "2026-04-18T13:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "52e5390578e4",
-      "title": "Dyson’s handheld fan is more powerful and louder than I expected",
-      "link": "https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on",
-      "summary": "Two years ago I attended a picturesque outdoor wedding in August where the hot and humid weather had guests occasionally ducking into their cars to enjoy a blast of AC. Dyson’s new $99.99 handheld fan would have provided some much-needed relief then, although I’m not sure I would have been comfor...",
-      "date": "2026-04-18T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/dyson_hushjetminicool_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "f520b469834e",
-      "title": "There’s nothing like an RPG over vacation",
-      "link": "https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2",
-      "summary": "With a vacation comes a big choice: What game should I focus on during the trip? I thought about grinding out the harder levels of Super Meat Boy 3D, but I was looking for something more chill. I could have dabbled more with Slay the Spire II, but I already know that's a game I'll […]",
-      "date": "2026-04-18T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/videoframe_121699.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "b1ab5959ba48",
-      "title": "The AI apps are coming for your PC",
-      "link": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
-      "summary": "Hi, friends! Welcome to Installer No. 124, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send me your Coachella fits, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about restaurant bread and GLP-1s and...",
-      "date": "2026-04-18T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-124.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "ba7850e3eb44",
-      "title": "Iran declares Hormuz open—for now",
-      "link": "https://www.morningbrew.com/stories/2026/04/17/iran-declares-hormuz-open-enthusing-markets?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Investors were hopeful ships will start crossing en masse, while Trump said an Iran peace deal is on the horizon.",
-      "date": "2026-04-18T06:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-17/image-e2a109d12486ea298e1877b0abfb774d9e2e6000-3576x2454-jpg/GettyImages-2269814572.jpg"
-    },
-    {
-      "id": "765a259d2f0e",
-      "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
-      "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
-      "summary": "For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing.",
-      "date": "2026-04-18T05:20:11+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "838a3f3bd352",
-      "title": "Goop Kitchen’s Gluten-Free Empire State of Mind",
-      "link": "https://www.morningbrew.com/stories/2026/04/18/goop-kitchen-s-gluten-free-empire-state-of-mind?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Gwyneth Paltrow is delivering another solid performance.",
-      "date": "2026-04-18T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-17/image-544fe3701056174d40156196246ea6da384c21fb-2025x1350-jpg/MBD-GoopKitchen-0426.jpg"
-    },
-    {
-      "id": "f5cb074a265a",
-      "title": "White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise",
-      "link": "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html",
-      "summary": "Friday’s meeting at the White House followed the introduction of Anthropic’s powerful new artificial intelligence model, Mythos, which U.S. officials believe could be critical for security.",
-      "date": "2026-04-17T23:45:46+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/17/multimedia/17biz-anthropic-wh-wzcb/17biz-anthropic-wh-wzcb-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "cb95e228648b",
-      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-      "date": "2026-04-17T22:34:02+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "ff9678ce1aa1",
-      "title": "Special Edition: A Scene Report from Paris",
-      "link": "https://www.hyperstudios.us/p/special-edition-a-scene-report-from",
-      "summary": "Weekend reading - what to do in Paris for 24 hours.",
-      "date": "2026-04-17T22:16:36+00:00",
-      "source": "Hyper Studios",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://substackcdn.com/image/fetch/$s_!eLbI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b45798d-7560-452c-bc47-7be55813d41f_1206x2123.jpeg"
-    },
-    {
-      "id": "1bbe48b82b72",
-      "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
-      "link": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
-      "summary": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
-      "date": "2026-04-17T22:03:45+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/17/multimedia/17BIZ-CEREBRAS-S-zbmf/17BIZ-CEREBRAS-S-zbmf-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "b72ecf17f23a",
-      "title": "OpenAI’s former Sora boss is leaving",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent chang...",
-      "date": "2026-04-17T21:13:25+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "9574d74eedac",
-      "title": "Should you stare into Sam Altman’s orb before your next date?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facia...",
-      "date": "2026-04-17T20:42:47+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/world-id-tinder-verify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "7f9012549d9b",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-      "date": "2026-04-17T20:38:17+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
@@ -433,103 +433,345 @@
   ],
   "all_articles": [
     {
-      "id": "7cf70cb9a485",
-      "title": "A startup que fotografou 8 milhões de fases dentro de obras e quer chegar a R$ 100 milhões",
-      "link": "https://exame.com/negocios/a-startup-que-fotografou-8-milhoes-de-fases-dentro-de-obras-e-quer-chegar-a-r-100-milhoes/",
-      "summary": "Empresa desenvolveu uma plataforma que usa câmeras, drones e laser que gera modelos tridimensionais de ambientes, para documentar obras em tempo real",
-      "date": "2026-04-19T07:14:40+00:00",
+      "id": "5f2207393c16",
+      "title": "US seizes Iranian cargo ship as tensions rise",
+      "link": "https://www.morningbrew.com/stories/2026/04/20/us-seizes-iranian-cargo-ship-as-tensions-rise?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Meanwhile, the world is waiting to see if peace talks between Iran and the US will resume in Pakistan.",
+      "date": "2026-04-20T10:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-20/image-a0ebb89c086111ccdb5ebddd2ca3bc4e933f0495-6253x3705-jpg/CargoshipTouskahitsMagazineIslandnearApLeiChau.06NOV17.SCMPSamTsang10"
+    },
+    {
+      "id": "34b6aa62b17f",
+      "title": "TSMC Earnings, New N3 Fabs, The Nvidia Ramp",
+      "link": "https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/",
+      "summary": "TSMC's earnings suggest that the company's leadership is not truly bought into the AI growth story.",
+      "date": "2026-04-20T10:00:00+00:00",
+      "source": "Stratechery",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
+    },
+    {
+      "id": "4dd3a93ce153",
+      "title": "GoPro’s new Mission cameras are priced beyond most weekend athletes",
+      "link": "https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices",
+      "summary": "GoPro is pricing its new Mission 1 and Mission 1 Pro cameras at $599.99 and $699.99, respectively, each discounted by $100 if you subscribe to its ecosystem - fine for professional filmmakers, but a tough sell for weekend warriors. The Mission 1 and Mission 1 Pro can both be reserved now, and you...",
+      "date": "2026-04-20T09:04:39+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/M1Series_family_wide_keyart.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "334c175276c1",
+      "title": "Quando sai o próximo episódio de The Boys? Veja o calendário completo",
+      "link": "https://exame.com/pop/quando-sai-o-proximo-episodio-de-the-boys-veja-o-calendario-completo/",
+      "summary": "Criada por Eric Kripke, a série se consolidou como uma das produções mais populares do streaming ao subverter o universo dos super-heróis; veja quando sai o próximo episódio",
+      "date": "2026-04-20T07:49:48+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/The-Boys-Soldier-Boy.webp"
+    },
+    {
+      "id": "0eed2797dd73",
+      "title": "Na Alemanha, Lula pede que 7x1 'não se repita'",
+      "link": "https://exame.com/mundo/na-alemanha-lula-pede-que-7x1-nao-se-repita/",
+      "summary": "Presidente lembrou maior derrota brasileira em Copas em abertura de discurso",
+      "date": "2026-04-20T07:23:47+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260419__A8BY3PY__v1__HighRes__GermanyBrazilPoliticsDiplomacy.jpg"
+    },
+    {
+      "id": "f061de400e74",
+      "title": "Astronauta usa iPhone para capturar 'desaparecimento' da Terra atrás da Lua",
+      "link": "https://exame.com/ciencia/astronauta-usa-iphone-para-capturar-desaparecimento-da-terra-atras-da-lua/",
+      "summary": "Reid Wiseman, comandante da missão Artemis II, publicou no domingo, 19, um vídeo bruto e sem edição captado por celular durante o sobrevoo lunar",
+      "date": "2026-04-20T07:23:45+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/lua-lado-novo.jpg"
+    },
+    {
+      "id": "420f42b2461a",
+      "title": "Estágio no agro: MBRF abre vagas em mais de 20 cidades com bolsa de R$ 2.466 mil",
+      "link": "https://exame.com/carreira/estagio-no-agro-mbrf-abre-vagas-em-mais-de-20-cidades-com-bolsa-de-r-2-466-mil/",
+      "summary": "Programa é voltado a estudantes de Agronomia, Veterinária e Zootecnia. As inscrições ficam abertas até o dia 15 de maio",
+      "date": "2026-04-20T07:07:31+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-13.15.14.jpeg"
+    },
+    {
+      "id": "65be5e7041b1",
+      "title": "Trabalhadores do cuidado: as carreiras em expansão em um Brasil que envelhece",
+      "link": "https://exame.com/carreira/trabalhadores-do-cuidado-as-carreiras-em-expansao-em-um-brasil-que-envelhece/",
+      "summary": "Com mais idosos no país, profissões como cuidador e gerontólogo ganham espaço, mas ainda enfrentam desafios de valorização e formação",
+      "date": "2026-04-20T07:07:12+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/LONGEVIDADE-BRASIL-ENVELHECE.jpg"
+    },
+    {
+      "id": "2777e8a796f5",
+      "title": "Mercado de cavalos de elite cresce em Goiás e fatura milhões no Brasil",
+      "link": "https://exame.com/negocios/mercado-de-cavalos-de-elite-cresce-em-goias-e-fatura-milhoes-no-brasil/",
+      "summary": "JBJ Ranch e Família Quartista chegam à 5ª temporada de leilões de cavalos Quarto de Milha, raça originária dos Estados Unidos. Evento acontecerá entre os dias 15 e 17 de maio. Saiba mais sobre a programação",
+      "date": "2026-04-20T07:07:05+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "410062c63440",
-      "title": "Vendas B2B: como trocar a briga de preço pela construção de valor",
-      "link": "https://exame.com/bussola/vendas-b2b-como-trocar-a-briga-de-preco-pela-construcao-de-valor/",
-      "summary": "Entenda por que 73% dos compradores evitam abordagens irrelevantes e como a autoridade editorial ajuda a fechar negócios",
-      "date": "2026-04-19T07:00:44+00:00",
+      "id": "e1b1152f57b5",
+      "title": "Para a Geração Z, socializar agora é treinar, diz relatório do Strava",
+      "link": "https://exame.com/casual/para-a-geracao-z-socializar-agora-e-treinar-diz-relatorio-do-strava/",
+      "summary": "Jovens trocam drinques por treino e fazem das academias seu principal espaço de socialização",
+      "date": "2026-04-20T07:05:34+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "4a74994dd80d",
-      "title": "Os camarotes do BBB 26: quem foram os famosos desta edição",
-      "link": "https://exame.com/pop/os-camarotes-do-bbb-26-quem-foram-os-famosos-desta-edicao/",
-      "summary": "Edição deste ano contou com cinco celebridades, mas apenas uma chegou à final do reality",
-      "date": "2026-04-19T07:00:29+00:00",
+      "id": "3ae0ff3b3acf",
+      "title": "Brasil se cansou de ser tratado como país pobre, diz Lula na Alemanha",
+      "link": "https://exame.com/mundo/brasil-se-cansou-de-ser-tratado-como-pais-pobre-diz-lula-na-alemanha/",
+      "summary": "Presidente fez discurso na feira Hannover Messe e defendeu que país é potência em energias verdes",
+      "date": "2026-04-20T07:05:07+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/mosaico-final-camarotes.avif"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260419__A8BV4K2__v9__HighRes__GermanyBrazilPolitics.jpg"
     },
     {
-      "id": "d9bc8ee25956",
-      "title": "Hannover Messe: como é a feira que o presidente Lula visitará na Alemanha",
-      "link": "https://exame.com/mundo/hannover-messe-como-e-a-feira-que-o-presidente-lula-visitara-na-alemanha/",
-      "summary": "Evento é o maior fórum global da indústria, e o Brasil é o país parceiro neste ano",
-      "date": "2026-04-19T07:00:15+00:00",
+      "id": "4709685a77ad",
+      "title": "Consultoria aposta em branding com comunicação integrada para crescer 15%",
+      "link": "https://exame.com/bussola/consultoria-aposta-em-branding-com-comunicacao-integrada-para-crescer-15/",
+      "summary": "Consultoria com 26 anos de mercado expande atuação para oferecer soluções integradas de marca, comunicação e design de espaços",
+      "date": "2026-04-20T07:00:45+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/HM26_13_000014.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Ana-Paula-Nemoto-gestora-e-socia-da-DEADesign.-Credito-da-imagem-DIVULGACAO.jpg"
     },
     {
-      "id": "6fb28c8a7491",
-      "title": "6 formas práticas de usar IA para organizar sua rotina de trabalho",
-      "link": "https://exame.com/inteligencia-artificial/6-formas-praticas-de-usar-ia-para-organizar-sua-rotina-de-trabalho/",
-      "summary": "De planejamento de tarefas a gestão de prioridades, a inteligência artificial pode ajudar a estruturar o dia a dia profissional com mais eficiência",
-      "date": "2026-04-19T07:00:08+00:00",
+      "id": "e199ef68846f",
+      "title": "Terremoto de magnitude 7,4 atinge Japão e gera alerta de tsunami",
+      "link": "https://exame.com/mundo/terremoto-de-magnitude-74-atinge-japao-e-gera-alerta-de-tsunami/",
+      "summary": "Tremor no Pacífico provocou ondas de até 80 cm e levou autoridades a pedirem evacuação imediata de áreas costeiras",
+      "date": "2026-04-20T06:59:36+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/07/GettyImages-1471665107.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Terremoto-Japao.png"
     },
     {
-      "id": "c742cfdd6117",
-      "title": "Cérebros masculino e feminino: o que estudo revela sobre diferenças genéticas",
-      "link": "https://exame.com/ciencia/cerebros-masculino-e-feminino-o-que-estudo-revela-sobre-diferencas-geneticas/",
-      "summary": "Análise de mais de 1 milhão de células revela variações sutis na expressão de genes, que podem influenciar o risco de doenças neurológicas",
-      "date": "2026-04-19T06:59:14+00:00",
-      "source": "Exame",
+      "id": "af600c0db74d",
+      "title": "Technology’s latest milestone: 13.1",
+      "link": "https://www.morningbrew.com/stories/2026/04/20/technology-s-latest-milestone-13-1?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "For the first time, a robot beat the humans in a half-marathon.",
+      "date": "2026-04-20T05:09:00+00:00",
+      "source": "Morning Brew",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/dna-closely.jpg"
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-19/image-f6dbeeec7240ad7cb00debbd3ca76f0beb57f185-2000x1334-jpg/HumanoidrobotsbreakhalfmarathonworldrecordinChina"
     },
     {
-      "id": "c2632809ed5d",
-      "title": "Palmeiras x Athletico-PR: horário, onde assistir e prováveis escalações",
-      "link": "https://exame.com/esporte/palmeiras-x-athletico-pr-horario-onde-assistir-e-provaveis-escalacoes/",
-      "summary": "Líder, Palmeiras quer abrir vantagem dos adversários, enquanto o Furacão pode chegar a vice-liderança em caso de vitórias e combinações de resultado",
-      "date": "2026-04-19T06:51:40+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Flaco-Lopez.jpg"
+      "id": "4106e60339f6",
+      "title": "OpenAI’s existential questions",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "date": "2026-04-19T21:24:06+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
     },
     {
-      "id": "bf54364a3754",
-      "title": "Coritiba x Atlético-MG: horário, onde assistir e prováveis escalações",
-      "link": "https://exame.com/esporte/coritiba-x-atletico-mg-horario-onde-assistir-e-provaveis-escalacoes/",
-      "summary": "Equipes vivem situação semelhante e buscam os três pontos no Brasileirão visando a parte de cima da tabela",
-      "date": "2026-04-19T06:47:44+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/Hulk-pelo-Atletico-MG.jpg"
+      "id": "44dd14062814",
+      "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
+      "link": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
+      "summary": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
+      "date": "2026-04-19T20:32:16+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/04/17/multimedia/17korea-ai-glasses-promo-lhkb/17korea-ai-glasses-promo-lhkb-mediumSquareAt3X.jpg"
     },
     {
-      "id": "2245e0daf2af",
-      "title": "O prompt que faz o ChatGPT escrever e-mails melhores que os seus",
-      "link": "https://exame.com/inteligencia-artificial/o-prompt-que-faz-o-chatgpt-escrever-e-mails-melhores-que-os-seus/",
-      "summary": "Um comando simples ajuda a estruturar mensagens mais claras, objetivas e adequadas ao contexto profissional, evitando erros comuns de comunicação",
-      "date": "2026-04-19T06:30:11+00:00",
-      "source": "Exame",
+      "id": "c72e4e2e5b30",
+      "title": "Blue Origin successfully reused its New Glenn rocket",
+      "link": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+      "summary": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch and landing for the first stage booster, and officially giving Jeff Bezos a re...",
+      "date": "2026-04-19T20:28:52+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2271539021.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "eaea6f858c54",
+      "title": "Cloud development platform Vercel was hacked",
+      "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email...",
+      "date": "2026-04-19T19:54:52+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "272585c0bb02",
+      "title": "The 12-month window",
+      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "date": "2026-04-19T19:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "48ac281a458e",
+      "title": "Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch",
+      "link": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
+      "summary": "The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration return to the Moon.",
+      "date": "2026-04-19T19:02:09+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "1ed69dd423b7",
+      "title": "Robots beat human records at Beijing half-marathon",
+      "link": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
+      "summary": "The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes.",
+      "date": "2026-04-19T18:44:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "1bbe48b82b72",
+      "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
+      "link": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
+      "summary": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
+      "date": "2026-04-19T18:00:42+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/04/17/multimedia/17BIZ-CEREBRAS-S-zbmf/17BIZ-CEREBRAS-S-zbmf-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "1d6a1a40ff86",
+      "title": "Why your life feels fake: an antidote to the life you were sold",
+      "link": "https://letters.thedankoe.com/p/why-your-life-feels-fake-an-antidote",
+      "summary": "Most people are living a life someone else wrote. Here's how to find out if you're one of them.",
+      "date": "2026-04-19T16:38:40+00:00",
+      "source": "Dan Koe",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/08/iStock-1370889185-1.jpg"
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/535642a1-de45-453b-a129-3be1d66b62cb_1920x1080.jpeg"
+    },
+    {
+      "id": "24e6a5238cec",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "date": "2026-04-19T16:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "95a54da525dd",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "date": "2026-04-19T16:01:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "2cc5b95f8d1d",
+      "title": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
+      "link": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+      "summary": "Over the past several years, Nothing’s budget-centric subsidiary, CMF, has built a reputation for producing attractive, inexpensive products with features often reserved for gadgets that cost twice the price. The CMF Headphone Pro — the company’s first pair of over-ear wireless headphones — fit p...",
+      "date": "2026-04-19T14:30:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/CMF-Headphone-Pro-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0e4cd9a4f173",
+      "title": "The Stars My Destination is classic proto-cyberpunk",
+      "link": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
+      "summary": "This might feel like a somewhat obvious recommendation to some, but it flew under my radar until now. Alfred Bester's The Stars My Destination (originally published as Tiger! Tiger! in the UK) is a 1956 sci-fi novel that some have cited as a precursor to cyberpunk. It's a work I admit I have some...",
+      "date": "2026-04-19T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/The-Stars-My-Destination.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "774637107c53",
+      "title": "Cracks are starting to form on fusion energy’s funding boom",
+      "link": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
+      "summary": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably.",
+      "date": "2026-04-19T12:51:10+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "d1d21651699d",
+      "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
+      "link": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
+      "summary": "Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming. Its Q and V series are among our go-to recommendations for off-the-shelf keyboards, and the latest iterations - the Q and V...",
+      "date": "2026-04-19T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268472_Keychron_V5_Q1_Ultra_8K_keyboards_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "e8a533440c5f",
+      "title": "The future of local TV news has taken a Trumpian turn",
+      "link": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more stories on Big Tech versus politics in Washington, DC, follow Tina Nguyen and read Regulator. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it ...",
+      "date": "2026-04-19T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268461_The_Stepback-_Tegna_nexstar_merger_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "266dc97f6c58",
+      "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
+      "link": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
+      "summary": "It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market.",
+      "date": "2026-04-19T11:45:38+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
     },
     {
       "id": "133e59e59796",
@@ -541,17 +783,6 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-10/image-d2fa977a7af8ae4da5d4427233bed693d86cd566-4240x2832-jpg/MBD-SundaySpecial-InvestingBrew-Casino-0426.jpg"
-    },
-    {
-      "id": "9d20638f7d83",
-      "title": "Testamos 4 ferramentas de IA para produtividade — esta foi a melhor",
-      "link": "https://exame.com/inteligencia-artificial/testamos-4-ferramentas-de-ia-para-produtividade-esta-foi-a-melhor/",
-      "summary": "Plataformas prometem organizar tarefas, acelerar rotinas e otimizar o tempo, mas nem todas entregam o mesmo resultado na prática",
-      "date": "2026-04-19T06:02:54+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/02/Catherine-Falls-Commercial-Produtividade-e-o-flow-state.jpg"
     },
     {
       "id": "7021680a40b9",
@@ -620,17 +851,6 @@
       "image": null
     },
     {
-      "id": "148ed7c62ced",
-      "title": "AI chip startup Cerebras files for IPO",
-      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-      "date": "2026-04-18T19:19:11+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "1afcf1559d13",
       "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
       "link": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
@@ -653,17 +873,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268436_IKEA_Kallsup_speaker_JHiggins_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "29f2bed3d932",
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-      "date": "2026-04-18T14:56:48+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "7a346b6bfb33",
       "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
       "link": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
@@ -675,50 +884,6 @@
       "image": null
     },
     {
-      "id": "c359fccd66e0",
-      "title": "The App Store is booming again, and AI may be why",
-      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
-      "date": "2026-04-18T13:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "52e5390578e4",
-      "title": "Dyson’s handheld fan is more powerful and louder than I expected",
-      "link": "https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on",
-      "summary": "Two years ago I attended a picturesque outdoor wedding in August where the hot and humid weather had guests occasionally ducking into their cars to enjoy a blast of AC. Dyson’s new $99.99 handheld fan would have provided some much-needed relief then, although I’m not sure I would have been comfor...",
-      "date": "2026-04-18T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/dyson_hushjetminicool_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "f520b469834e",
-      "title": "There’s nothing like an RPG over vacation",
-      "link": "https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2",
-      "summary": "With a vacation comes a big choice: What game should I focus on during the trip? I thought about grinding out the harder levels of Super Meat Boy 3D, but I was looking for something more chill. I could have dabbled more with Slay the Spire II, but I already know that's a game I'll […]",
-      "date": "2026-04-18T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/videoframe_121699.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "b1ab5959ba48",
-      "title": "The AI apps are coming for your PC",
-      "link": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
-      "summary": "Hi, friends! Welcome to Installer No. 124, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send me your Coachella fits, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about restaurant bread and GLP-1s and...",
-      "date": "2026-04-18T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-124.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "ba7850e3eb44",
       "title": "Iran declares Hormuz open—for now",
       "link": "https://www.morningbrew.com/stories/2026/04/17/iran-declares-hormuz-open-enthusing-markets?utm_source=&utm_medium=syndication&utm_campaign=feed",
@@ -728,17 +893,6 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-17/image-e2a109d12486ea298e1877b0abfb774d9e2e6000-3576x2454-jpg/GettyImages-2269814572.jpg"
-    },
-    {
-      "id": "765a259d2f0e",
-      "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
-      "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
-      "summary": "For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing.",
-      "date": "2026-04-18T05:20:11+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     },
     {
       "id": "838a3f3bd352",
@@ -763,17 +917,6 @@
       "image": "https://static01.nyt.com/images/2026/04/17/multimedia/17biz-anthropic-wh-wzcb/17biz-anthropic-wh-wzcb-mediumSquareAt3X.jpg"
     },
     {
-      "id": "cb95e228648b",
-      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-      "date": "2026-04-17T22:34:02+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "ff9678ce1aa1",
       "title": "Special Edition: A Scene Report from Paris",
       "link": "https://www.hyperstudios.us/p/special-edition-a-scene-report-from",
@@ -783,94 +926,6 @@
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://substackcdn.com/image/fetch/$s_!eLbI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b45798d-7560-452c-bc47-7be55813d41f_1206x2123.jpeg"
-    },
-    {
-      "id": "1bbe48b82b72",
-      "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
-      "link": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
-      "summary": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
-      "date": "2026-04-17T22:03:45+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/17/multimedia/17BIZ-CEREBRAS-S-zbmf/17BIZ-CEREBRAS-S-zbmf-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "b72ecf17f23a",
-      "title": "OpenAI’s former Sora boss is leaving",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent chang...",
-      "date": "2026-04-17T21:13:25+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "9574d74eedac",
-      "title": "Should you stare into Sam Altman’s orb before your next date?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facia...",
-      "date": "2026-04-17T20:42:47+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/world-id-tinder-verify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "7f9012549d9b",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-      "date": "2026-04-17T20:38:17+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "a9da1cc5eaab",
-      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
-      "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
-      "summary": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
-      "date": "2026-04-17T20:16:13+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "9f80020f9e6c",
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy...",
-      "date": "2026-04-17T20:14:21+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "883120a65b03",
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
-      "date": "2026-04-17T19:17:26+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "f7a631035b8b",
-      "title": "Betting on the news raises ethical questions for journalists",
-      "link": "https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket",
-      "summary": "Prediction market exchanges have created an environment where just about any piece of information is potentially monetizable: How well will BTS's new song perform this week? How hot will Los Angeles get? Will Donald Trump be impeached? Users can wager on all of that and, on some platforms, more g...",
-      "date": "2026-04-17T18:07:43+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS527_PREDICTION_MARKETS_CVIRGINIA2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "746418abcab3",
@@ -893,17 +948,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/04/16/multimedia/ROOSE-metr-fpvc/ROOSE-metr-fpvc-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "44dd14062814",
-      "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
-      "link": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
-      "summary": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
-      "date": "2026-04-17T15:32:16+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/17/multimedia/17korea-ai-glasses-promo-lhkb/17korea-ai-glasses-promo-lhkb-mediumSquareAt3X.jpg"
     },
     {
       "id": "0db41dfe52eb",
@@ -950,17 +994,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-16/image-c126f208ea50cde62f0d920b603b5185565d91a3-6275x4183-jpg/GettyImages-2198017177.jpg"
     },
     {
-      "id": "74e01a7b9879",
-      "title": "Europe’s planes are about to run out of fuel",
-      "link": "https://www.morningbrew.com/stories/2026/04/17/europe-about-to-run-out-of-jet-fuel?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "This is “the largest energy crisis we have ever faced,” IEA Executive Director Fatih Birol said.",
-      "date": "2026-04-17T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-16/image-bf405a0c4fecdc93abd8bc6d34003cf41c69a590-4000x2667-jpg/GettyImages-2270083538.jpg"
-    },
-    {
       "id": "5335e1df5173",
       "title": "Pentagon Seeks Help From Ford and G.M.",
       "link": "https://www.nytimes.com/2026/04/16/business/pentagon-ford-general-motors-defense-production.html",
@@ -981,17 +1014,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
-    },
-    {
-      "id": "633971a05b9f",
-      "title": "Allbirds pivots to AI after selling off assets last month",
-      "link": "https://www.morningbrew.com/stories/allbirds-announces-pivot-ai-after-selling-assets?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The pivot brought Allbirds’s stock back from the dead, boosting it to over $24 at its peak yesterday—an 876% jump from its sub-$3 close Tuesday.",
-      "date": "2026-04-16T05:04:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-15/image-d11e3fa91cd4c7dbef039cb93f7da52358a9a2cb-3537x2371-jpg/GettyImages-1456943260.jpg"
     },
     {
       "id": "a7b921b39a7f",
@@ -1214,17 +1236,6 @@
       "image": null
     },
     {
-      "id": "8d4150a88440",
-      "title": "OpenAI Buys TBPN, Tech and the Token Tsunami",
-      "link": "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/",
-      "summary": "OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services.",
-      "date": "2026-04-06T10:00:00+00:00",
-      "source": "Stratechery",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "2336c24bfbb4",
       "title": "Post authenticity-marketing (we want tea now) + the anti-soulless retail",
       "link": "https://www.hyperstudios.us/p/post-authenticity-marketing-we-want",
@@ -1410,17 +1421,6 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/549f5578-e409-47bc-849b-2c53b20e7dc2_1920x1080.jpeg"
-    },
-    {
-      "id": "5e43a991fd9c",
-      "title": "How to stand out in the dead internet",
-      "link": "https://letters.thedankoe.com/p/the-death-of-value-based-content",
-      "summary": "and how to stand out in the sea of slop",
-      "date": "2026-01-07T20:58:51+00:00",
-      "source": "Dan Koe",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/3c45c847-da17-47c3-adb0-769393b51932_1920x1080.jpeg"
     }
   ]
 }
