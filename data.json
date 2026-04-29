@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T11:42:43.774805+00:00",
-  "total_articles": 80,
+  "generated_at": "2026-04-29T11:26:13.413165+00:00",
+  "total_articles": 90,
   "categories": [
     {
       "id": "tech-ia",
@@ -21,7 +21,7 @@
       "name": "Negócios",
       "icon": "💼",
       "color": "green",
-      "count": 20
+      "count": 30
     },
     {
       "id": "lifestyle",
@@ -33,448 +33,987 @@
   ],
   "featured": [
     {
-      "id": "29c1debd068f",
-      "title": "Google and Pentagon reportedly agree deal for ‘any lawful’ use of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid co...",
-      "date": "2026-04-28T11:09:32+00:00",
+      "id": "6507d11c3ec3",
+      "title": "Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU",
+      "link": "https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification",
+      "summary": "Meta is breaching Europe's Digital Services Act (DSA) rules by failing to prevent children under 13 from using Facebook and Instagram, according to a preliminary decision issued by the European Commission. The Commission announced the ruling on Wednesday after an almost two-year investigation, sa...",
+      "date": "2026-04-29T10:46:24+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "69186dbc0e5b",
-      "title": "6 top answer engine optimization benefits for growth and enterprise marketers",
-      "link": "https://blog.hubspot.com/marketing/benefits-of-answer-engine-optimization",
-      "summary": "The AEO benefits that matter most to marketing leaders have shifted from theoretical to measurable. As AI-powered search engines like ChatGPT, Google AI Overviews, and Perplexity handle a growing share of how buyers discover brands, the rise of AI-powered search results increases brand visibility...",
-      "date": "2026-04-28T11:00:05+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/d4233c10-60b6-46d7-9852-c71dde8507b6.png"
-    },
-    {
-      "id": "98c402ea5131",
-      "title": "Attack of the killer script kiddies",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-      "summary": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual software code that DARPA had injected wi...",
-      "date": "2026-04-28T11:00:00+00:00",
+      "id": "87510febcd96",
+      "title": "China freezes new robotaxi licenses after Baidu chaos",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+      "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. The restrictions will prevent...",
+      "date": "2026-04-29T10:39:21+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/rogers-script-kiddies-ANIMATION.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "3397e6a19599",
-      "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
-      "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
-      "summary": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring access.",
-      "date": "2026-04-28T09:03:20+00:00",
+      "id": "139eab6e8ff5",
+      "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
+      "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+      "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Ou...",
+      "date": "2026-04-29T10:04:25+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_220504_STK121_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "9304b05b730b",
+      "title": "Intel Earnings, Intel’s Differentiation?, Whither Terafab",
+      "link": "https://stratechery.com/2026/intel-earnings-intels-differentiation-whither-terafab/",
+      "summary": "Intel's earnings were very impressive, but the chief driver was a structural shift in demand for CPUs for AI. Plus, what is going on with Terafab?",
+      "date": "2026-04-29T10:00:00+00:00",
+      "source": "Stratechery",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
+    },
+    {
+      "id": "03d472ec7f47",
+      "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
+      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "summary": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
+      "date": "2026-04-29T09:45:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "4ceb5e8b62b3",
+      "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+      "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+      "summary": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
+      "date": "2026-04-29T09:32:20+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28Russia-discontent-lbcp/28Russia-discontent-lbcp-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "afbd6d493c50",
-      "title": "What Elon Musk’s Clash With Sam Altman of OpenAI Is Really About",
-      "link": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
-      "summary": "Mr. Musk’s lawsuit against Mr. Altman and OpenAI makes the case that all-encompassing greed is Silicon Valley’s defining feature.",
-      "date": "2026-04-28T09:02:04+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/18/business/00-ai-trial/00-ai-trial-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "22c97c4407af",
-      "title": "It’s a busy time for sci-fi, but don’t miss Aphelion",
-      "link": "https://www.theverge.com/entertainment/919379/aphelion-review-sci-fi-game-steam-ps5-xbox",
-      "summary": "The last few weeks have bordered on overwhelming for science fiction fans. While Project Hail Mary is dominating the box office, For All Mankind is currently in the midst of its penultimate season, with a spinoff streaming next month. When it comes to games, Capcom kicked off a new sci-fi franchi...",
-      "date": "2026-04-28T09:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/APHELION_screenshot_launch_2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://static01.nyt.com/images/2026/04/23/multimedia/PARENT-BACKLASH-1-bjzq/PARENT-BACKLASH-1-bjzq-mediumSquareAt3X.jpg"
     }
   ],
   "articles": [
     {
-      "id": "e9242cb295d5",
-      "title": "Microsoft Office can now be controlled with Logitech’s MX Creative Console",
-      "link": "https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion",
-      "summary": "Logitech has announced a new suite of Productivity Plugins for its entire MX line of accessories, including its Stream Deck alternative, the MX Creative Console. Since the console launched in September 2024, Logitech has been expanding its capabilities with plug-ins that support creativity-focuse...",
-      "date": "2026-04-28T07:01:00+00:00",
+      "id": "c9e44573c7f5",
+      "title": "General Motors is adding Gemini to four million cars",
+      "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+      "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updat...",
+      "date": "2026-04-29T09:14:38+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/logitech_plugins1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-AI-in-a-Chevrolet.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "12cc616bf6ed",
-      "title": "Drizzle on top: a new high-end dog food brand is coming for the 1%",
-      "link": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
-      "summary": "Golden Child is launching with two \"five-star\" products: a fresh frozen meal system and, more intriguingly, a \"drizzle.\" It has also raised $37 million in funding.",
-      "date": "2026-04-28T05:02:04+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "9fa26d0d177c",
-      "title": "China blocks Meta’s $2b acquisition of AI startup Manus",
-      "link": "https://www.morningbrew.com/stories/2026/04/28/china-blocks-meta-s-usd2b-acquisition-of-ai-startup-manus?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "It's part of the effort to stem the flow of Chinese AI know-how abroad.",
-      "date": "2026-04-28T05:00:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-27/image-c1add6fb7f648617394cddf2a1f86f2bb3ecfa50-1500x1000-jpg/MBD-ChinaMetaManus-0426.jpg"
-    },
-    {
-      "id": "ac1f8256c564",
-      "title": "SCOTUS tries to get to the root of weedkiller case",
-      "link": "https://www.morningbrew.com/stories/2026/04/28/scotus-tries-to-get-to-root-of-the-weedkiller-case?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "A looming decision over Roundup's labeling could have wide-reaching effects",
-      "date": "2026-04-28T04:02:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-27/image-d78dc4f3637f3becdbfba13afea616d01a79d16d-6000x4000-jpg/GettyImages-2273382212.jpg"
-    },
-    {
-      "id": "5bc56453fba8",
-      "title": "Trump breaks scones with King Charles III",
-      "link": "https://www.morningbrew.com/stories/2026/04/28/trump-king-charles-iii-US-visit?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Almost half of the British public disapproves of this visit, per a YouGov poll, but the UK likely sees it as a de-escalatory bandaid.",
-      "date": "2026-04-28T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-27/image-54b7e9ef4da5c0cc74c3ff8fd10c40430c6746c0-5122x3414-jpg/GettyImages-2273418394.jpg"
-    },
-    {
-      "id": "d83fd5e3f711",
-      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-      "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopa...",
-      "date": "2026-04-28T03:39:33+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "c3534c5425dd",
-      "title": "India’s Snabbit closes $56M round as investor interest in on-demand home services heats up",
-      "link": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
-      "summary": "Snabbit now processes over 40,000 daily jobs and has cut costs sharply as it expands across cities and services.",
-      "date": "2026-04-28T03:30:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "a723d7baf7cb",
-      "title": "Microsoft and OpenAI Loosen Their Partnership",
-      "link": "https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html",
-      "summary": "Microsoft, OpenAI’s biggest financial partner, will continue to license the start-up’s technology but will no longer be its exclusive licensee.",
-      "date": "2026-04-28T01:50:52+00:00",
+      "id": "ad9df8fe4e8c",
+      "title": "A.I. Helps Online Ad Businesses Boom",
+      "link": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+      "summary": "Google and Meta are enjoying a digital ad boom, as artificial intelligence automates marketing and drives record sales.",
+      "date": "2026-04-29T09:04:14+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2025/09/11/multimedia/27BIZ-MICROSOFT-OPENAI/11BIZ-OPENAI-1-qwbf-mediumSquareAt3X.jpg"
+      "image": "https://static01.nyt.com/images/2026/04/30/business/ooad-boom/ooad-boom-mediumSquareAt3X.png"
     },
     {
-      "id": "0a26d8ef938c",
-      "title": "Google is testing AI chatbot search for YouTube",
-      "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is n...",
-      "date": "2026-04-28T00:01:54+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-27-at-4.55.32PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "fa00c122d270",
-      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-      "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-      "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, t...",
-      "date": "2026-04-27T20:47:45+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "732a7e92290f",
-      "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
-      "link": "https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/",
-      "summary": "Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor.",
-      "date": "2026-04-27T20:37:49+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "f12d5b523d6b",
-      "title": "Sergey Brin Moves to the Right, With a ‘MAGA Girlfriend’ by His Side",
-      "link": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
-      "summary": "After once backing liberal causes, the Google co-founder has praised President Trump, donated to Republicans and spent $57 million to try to block a California billionaire tax.",
-      "date": "2026-04-27T20:12:38+00:00",
+      "id": "e0656be02466",
+      "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
+      "link": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
+      "summary": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
+      "date": "2026-04-29T09:00:11+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/pol-brin-politics-new-qwjv/pol-brin-politics-new-qwjv-mediumSquareAt3X.jpg"
+      "image": null
     },
     {
-      "id": "9eb0ed70bc0a",
-      "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
-      "link": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
-      "summary": "The agency reports that losses from social media scams have increased eightfold and that social media scams resulted in higher losses than any other method scammers used to contact consumers.",
-      "date": "2026-04-27T19:09:53+00:00",
+      "id": "ef5a495580d3",
+      "title": "Genial/Quaest: Rui Costa e Jaques Wagner lideram disputa ao Senado na Bahia",
+      "link": "https://exame.com/brasil/genial-quaest-rui-costa-e-jaques-wagner-lideram-disputa-ao-senado-na-bahia/",
+      "summary": "Pesquisa demonstra hegemonia petista nas intenções de voto pelas cadeiras baianas no Senado",
+      "date": "2026-04-29T08:21:41+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "09ea3722967d",
+      "title": "Genial/Quaest: Tebet, França e Derrite lideram disputa ao Senado em SP",
+      "link": "https://exame.com/brasil/genial-quaest-tebet-franca-e-derrite-lideram-disputa-ao-senado-em-sp/",
+      "summary": "Em outros cenários, Marina Silva e Pablo Marçal também aparecem empatados na liderança com Tebet e Derrite",
+      "date": "2026-04-29T08:17:31+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Plenario-Senado-Jefferson-Rudy-Agencia-Senado.jpg"
+    },
+    {
+      "id": "3da8ea3a40d1",
+      "title": "Conheça o festival de cinema 'sem IA', que valoriza produções feitas por humanos",
+      "link": "https://exame.com/pop/conheca-o-festival-de-cinema-sem-ia-que-valoriza-producoes-feitas-por-humanos/",
+      "summary": "Plataforma oferece acesso a 44 filmes e debates por US$ 40 até julho",
+      "date": "2026-04-29T08:10:07+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/EXAME-53.jpg"
+    },
+    {
+      "id": "02b5b44ffc70",
+      "title": "Genial/Quaest: ACM Neto e Jerônimo empatam tecnicamente no 1º e 2º turno",
+      "link": "https://exame.com/brasil/genial-quaest-acm-neto-e-jeronimo-empatam-tecnicamente-no-1o-e-2o-turno/",
+      "summary": "Em segundo turno, o governador Jerônimo Rodrigues aparece tecnicamente empatado",
+      "date": "2026-04-29T08:01:11+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "99a17e9c6ae4",
+      "title": "Genial/Quaest: Tarcísio lidera no 1º turno e abre vantagem contra Haddad no 2º",
+      "link": "https://exame.com/brasil/genial-quaest-tarcisio-lidera-no-1o-turno-e-abre-vantagem-contra-haddad-no-2o/",
+      "summary": "No cenário estimulado mais amplo, Tarcísio soma 38% das intenções de voto, contra 26% de Fernando Haddad",
+      "date": "2026-04-29T08:00:04+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2022/10/haddad-tarcisio-band.jpg"
+    },
+    {
+      "id": "5d29c7ccd356",
+      "title": "Cobra de 15 metros achada na Índia pode estar entre as maiores da história",
+      "link": "https://exame.com/ciencia/cobra-de-15-metros-achada-na-india-pode-estar-entre-as-maiores-da-historia/",
+      "summary": "Espécie viveu há 47 milhões de anos e pode estar entre as maiores cobras já identificadas pela ciência",
+      "date": "2026-04-29T07:55:49+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "35d4341c8353",
+      "title": "Netflix confirma 2ª temporada da animação de 'Stranger Things'",
+      "link": "https://exame.com/pop/netflix-confirma-2a-temporada-da-animacao-de-stranger-things/",
+      "summary": "Série animada ambientada entre as temporadas 2 e 3 já soma 2,8 milhões de visualizações",
+      "date": "2026-04-29T07:49:27+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/01/Tales-From-85.jpg"
+    },
+    {
+      "id": "95dc887fa7f0",
+      "title": "3 números do balanço do Santander que podem azedar o humor do investidor",
+      "link": "https://exame.com/invest/mercados/santander-sanb11-balanco-1t26-3-pontos-fracos/",
+      "summary": "Juros elevados, famílias endividadas e ambiente macro adverso deixaram marcas no balanço do banco",
+      "date": "2026-04-29T07:42:24+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2021/05/santander-banco.jpg"
+    },
+    {
+      "id": "e25d0a230457",
+      "title": "Como Euphoria usou doença de Eric Dane como recurso narrativo",
+      "link": "https://exame.com/pop/como-euphoria-usou-doenca-de-eric-dane-como-recurso-narrativo/",
+      "summary": "Terceiro episódio contextualiza fala do ator em entrevista antes de sua morte",
+      "date": "2026-04-29T07:16:06+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "c764e9780a70",
+      "title": "Mostras imersivas e a ascensão das grifes de moda marcam a semana do design italiano",
+      "link": "https://exame.com/casual/muito-alem-do-design/",
+      "summary": "Com público recorde, a edição 2026 do Salão do Móvel e do Fuorisalone expande seu alcance muito além do design, com exibições que apostam na sinestesia e transitam entre arte, arquitetura, luxo e moda",
+      "date": "2026-04-29T07:15:20+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/08_Salone-Internazionale-Mobile_KARTELL.jpg"
+    },
+    {
+      "id": "c29bb4231a1f",
+      "title": "OpenAI reportedly missed revenue and user growth",
+      "link": "https://www.morningbrew.com/stories/openai-reportedly-missed-revenue-and-user-growth?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "What did all those “people familiar with the matter” tell the WSJ?",
+      "date": "2026-04-29T05:04:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-28/image-ca0824cc7f98c361c7b38a185a95c7e76f8901b5-1500x1000-jpg/MBD_OpenAImissesthemark_SM_4282026.jpg"
+    },
+    {
+      "id": "228184a74e0d",
+      "title": "UAE leaves OPEC in a big blow to the oil cartel",
+      "link": "https://www.morningbrew.com/stories/2026/04/29/uae-leaves-opec-in-a-big-blow-to-the-oil-cartel?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "The UAE will be able to sell more oil, while OPEC will control less of the market.",
+      "date": "2026-04-29T05:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-28/image-8268b7c12fb681a7ca62231ffbadf80b327ef46f-4480x2987-jpg/GettyImages-2265407086.jpg"
+    },
+    {
+      "id": "b7e82d3f874e",
+      "title": "Fighting AI deepfakes (Taylor’s version)",
+      "link": "https://www.morningbrew.com/stories/2026/04/29/fighting-ai-deepfakes-taylors-version?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Taylor Swift has filed three trademarks designed to stop AI theft",
+      "date": "2026-04-29T04:03:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-28/image-d0fafd2c96446c414dc5bc4f12b2961c42b750da-6899x4600-jpg/GettyImages-2162440731.jpg"
+    },
+    {
+      "id": "bd30b4d3c2c1",
+      "title": "How one venture firm is investing in an increasingly fragmented world",
+      "link": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
+      "summary": "Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world.",
+      "date": "2026-04-29T03:00:00+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
     },
     {
-      "id": "93a4a74ff6cb",
-      "title": "Answer engine optimization vs. traditional SEO: What marketers need to know",
-      "link": "https://blog.hubspot.com/marketing/aeo-vs-seo",
-      "summary": "Understanding answer engine optimization (AEO) vs. traditional SEO has become mission-critical for content managers and marketing leaders as search shifts toward AI-generated responses, voice results, and zero-click experiences. While page ranking on Google is still important (for now), success i...",
-      "date": "2026-04-27T19:08:21+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/b5296305-8ec6-4375-8245-aadbacbd4058.png"
+      "id": "46eb772a9473",
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "date": "2026-04-29T00:40:16+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
     },
     {
-      "id": "e7233e4db6d6",
-      "title": "AI visibility score: How to summarize your AI visibility",
-      "link": "https://blog.hubspot.com/marketing/ai-visibility-score",
-      "summary": "Your brand’s AI visibility score covers the part of the search landscape that traditional SEO rank tracking can’t see. Tracking it is becoming as essential as monitoring Google rankings — and a lot harder to pin down.",
-      "date": "2026-04-27T18:49:23+00:00",
+      "id": "8f9b5c25a61f",
+      "title": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years",
+      "link": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
+      "summary": "In the trial’s first day of testimony, Elon Musk said greed led co-founder Sam Altman to pull the A.I. lab away from its nonprofit roots. OpenAI says that’s nonsense.",
+      "date": "2026-04-28T23:45:07+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28biz-ai-trial-ledeall-musk-kblp/28biz-ai-trial-ledeall-musk-kblp-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "0afe2c3558eb",
+      "title": "It’s primetime for conspiracy theorist video creators",
+      "link": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
+      "summary": "In the days since this year's White House Correspondents' Dinner was cut short when shots were fired at the event, there has been a boom of conspiracy theory videos created by people who insist that the entire situation was a false flag operation. These kinds of theories are nothing new, but the ...",
+      "date": "2026-04-28T23:31:53+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2272606742.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "223f3c5c9c4b",
+      "title": "Elon Musk appeared more petty than prepared",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+      "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and […]",
+      "date": "2026-04-28T23:17:12+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "97708ace576d",
+      "title": "AEO Competitor Analysis: Track AI Answer Engine Rivals",
+      "link": "https://blog.hubspot.com/marketing/aeo-competitor-analysis",
+      "summary": "Every company’s competitors are showing up in AI-generated answers, but do marketers know which ones, for which queries, and why? That’s exactly what AEO competitor analysis is designed to tell teams.",
+      "date": "2026-04-28T22:59:56+00:00",
       "source": "HubSpot Blog",
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
     },
     {
-      "id": "bc255aa5c0f0",
-      "title": "Best practices for answer engine optimization (AEO) marketing teams can't ignore",
-      "link": "https://blog.hubspot.com/marketing/answer-engine-optimization-best-practices",
-      "summary": "Search behavior has changed dramatically, and teams need to learn answer engine optimization (AEO) best practices to keep up. While traditional search engines still dominate, people increasingly turn to AI tools like ChatGPT to answer their questions. Heck, with 79% of those who already use AI fo...",
-      "date": "2026-04-27T18:21:32+00:00",
+      "id": "57d4aad4404f",
+      "title": "Share of Voice Tools for Growing Companies",
+      "link": "https://blog.hubspot.com/marketing/share-of-voice-tools",
+      "summary": "When tracking share of voice for marketing teams, it’s often assumed to be a vanity metric — a number executives like to include in board decks but one that rarely influences strategy. In practice, that assumption doesn’t hold up.",
+      "date": "2026-04-28T22:51:26+00:00",
       "source": "HubSpot Blog",
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
     },
     {
-      "id": "4703d27950b4",
-      "title": "Trump demands ABC fire Jimmy Kimmel",
-      "link": "https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc",
-      "summary": "President Donald Trump is calling for Disney to fire Jimmy Kimmel. On Thursday, Kimmel joked that Melania Trump had looked like an \"expectant widow\" in a skit about the upcoming White House Correspondents' Dinner. The skit aired days before an armed gunman made an assassination attempt at the eve...",
-      "date": "2026-04-27T18:18:17+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257959_jimmy_kimmel_censorship_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "fa93fa46eda0",
-      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-      "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals...",
-      "date": "2026-04-27T18:17:12+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2194442232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "320af279da3d",
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-      "date": "2026-04-27T17:40:38+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "e72f2bdd4305",
-      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-      "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-      "date": "2026-04-27T17:24:21+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "e8f93a9489d9",
-      "title": "Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting",
-      "link": "https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories",
-      "summary": "On Saturday evening, a room full of journalists, media personalities, and senior members of Donald Trump's administration descended into chaos as gunshots rang out at the White House Correspondents' Dinner. Nobody was hurt, and the suspect was taken into custody - but it didn't take long for a na...",
-      "date": "2026-04-27T17:11:44+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2272595362.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "3d527796ae81",
-      "title": "Hacker who allegedly carried out cyberattacks for China is extradited to US",
-      "link": "https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/",
-      "summary": "Xu Zewei is accused of participating in a Chinese government hacking group that broke into thousands of U.S. organizations and stole COVID-19-related research.",
-      "date": "2026-04-27T17:07:06+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "ddbe76a7c02c",
-      "title": "Elon Musk and Sam Altman Bring OpenAI Trial Spectacle to Oakland",
-      "link": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
-      "summary": "Oakland, Calif., where Elon Musk’s trial against OpenAI and its chief executive, Sam Altman, starts on Monday, is not exactly known as a hub of the tech industry.",
-      "date": "2026-04-27T16:34:17+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/OAKLAND-COURT-1-02-mjtl/OAKLAND-COURT-1-02-mjtl-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "8b6b8eb9dd98",
-      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-      "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-      "date": "2026-04-27T16:13:02+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "a6d0d8ddb399",
-      "title": "From Indiana to Idaho, a Backlash Against A.I. Gathers Momentum",
-      "link": "https://www.nytimes.com/2026/04/27/technology/ai-artificial-intelligence-backlash.html",
-      "summary": "The widening movement is pulling in people from all walks of life, united by a worry that Big Tech will cash in while average Americans bear the costs.",
-      "date": "2026-04-27T16:11:56+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/AI-OPPOSITION-data-center-sign-02-cfmj/AI-OPPOSITION-data-center-sign-02-cfmj-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "8692182480e3",
-      "title": "How to Optimize Content for ChatGPT: An AI Discovery Guide",
-      "link": "https://blog.hubspot.com/marketing/how-to-optimize-content-for-chatgpt",
-      "summary": "A lot is going on in search today. Google still reigns supreme, but the competition and evolution coming from AI alternatives have many marketers wondering how to optimize for ChatGPT.",
-      "date": "2026-04-27T16:01:04+00:00",
+      "id": "3dab327b786c",
+      "title": "Zero-click searches and the future of your marketing funnel",
+      "link": "https://blog.hubspot.com/marketing/zero-click-searches",
+      "summary": "Search results used to be a doorway. A brand ranked, someone clicked, and they landed on a website. But today, that model is eroding faster than most marketing teams are equipped to move.",
+      "date": "2026-04-28T22:37:11+00:00",
       "source": "HubSpot Blog",
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
     },
     {
-      "id": "4c798f54d9a3",
-      "title": "Data center demand drives 66% surge in natural gas power plant costs",
-      "link": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
-      "summary": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets.",
-      "date": "2026-04-27T15:27:52+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
+      "id": "23561f9f8ac6",
+      "title": "Free Answer Engine Optimization Tools to Benchmark LLM Visibility",
+      "link": "https://blog.hubspot.com/marketing/free-aeo-tool-benchmark",
+      "summary": "I’ve spent considerable time testing free answer engine optimization tools across dozens of brand audits, and the verdict is clear: you don’t need a five-figure tech stack to get meaningful AEO data.",
+      "date": "2026-04-28T22:31:03+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
     },
     {
-      "id": "2746c86cf157",
-      "title": "What’s behind Europe’s efforts to ditch US software in favor of sovereign tech",
-      "link": "https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/",
-      "summary": "Governments across Europe are looking to rely less on American tech providers.",
-      "date": "2026-04-27T14:17:59+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
+      "id": "3ba040972e61",
+      "title": "How to do keyword research for AEO (+ Tools)",
+      "link": "https://blog.hubspot.com/marketing/keyword-research-tools-for-aeo",
+      "summary": "When I first started auditing content for answer engine visibility, I assumed the keyword research process was roughly the same as traditional SEO — just with a few tweaks. I was wrong.",
+      "date": "2026-04-28T22:02:10+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
     },
     {
-      "id": "77bc01ab792e",
-      "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
-      "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
-      "summary": "The impact of the ruling was not immediately clear, but it could send a chilling signal to Chinese tech founders seeking to team up with foreign companies.",
-      "date": "2026-04-27T14:08:53+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/27biz-china-manus-kpvq/27biz-china-manus-kpvq-mediumSquareAt3X.jpg"
+      "id": "d2105acf9058",
+      "title": "Is AI Killing Web Traffic? How AI Overviews Impact Organic Website Traffic",
+      "link": "https://blog.hubspot.com/marketing/is-ai-killing-web-traffic",
+      "summary": "Every few years, marketing headlines announce the demise of one foundational strategy or another. First, email, then blogging, then search engines. Now, with the rise of AI comes the question, “Is AI killing web traffic?” But the curiosity is actually warranted.",
+      "date": "2026-04-28T21:40:30+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
     },
     {
-      "id": "5611ae6c1020",
-      "title": "AI Hardware, Meta Display, Redefining VR and AR",
-      "link": "https://stratechery.com/2026/ai-hardware-meta-display-redefining-vr-and-ar/",
-      "summary": "I finally tried the Meta Ray-Ban Display, and it completely changed how I think about AR and VR.",
-      "date": "2026-04-27T10:00:00+00:00",
-      "source": "Stratechery",
+      "id": "f6d3ee130653",
+      "title": "James Comey indicted over Instagram seashell photo that allegedly threatened Trump",
+      "link": "https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump",
+      "summary": "The US Department of Justice has once again indicted James Comey - this time, for an alleged threat the former FBI director made toward President Donald Trump on Instagram, as reported earlier by CNN. In its indictment, filed in a North Carolina federal court on Tuesday, the DOJ cites the now-del...",
+      "date": "2026-04-28T21:40:08+00:00",
+      "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1494698667.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "af3357fe8394",
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 i...",
+      "date": "2026-04-28T20:46:54+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "ac8b0e577285",
+      "title": "15 Competitor Monitoring Tools Teams Actually Use (2026)",
+      "link": "https://blog.hubspot.com/marketing/competitor-monitoring-tools",
+      "summary": "Your competitors are adjusting pricing, launching new ad creative, publishing content that outranks yours, and showing up in AI answers you didn’t know existed — often all in the same week. Competitor monitoring tools exist to catch those moves early, but most teams end up with fragmented data sc...",
+      "date": "2026-04-28T20:44:02+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/b3ec18aa-f4b2-45e9-851f-6d359263e671.png"
     }
   ],
   "all_articles": [
     {
-      "id": "29c1debd068f",
-      "title": "Google and Pentagon reportedly agree deal for ‘any lawful’ use of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid co...",
-      "date": "2026-04-28T11:09:32+00:00",
+      "id": "6507d11c3ec3",
+      "title": "Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU",
+      "link": "https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification",
+      "summary": "Meta is breaching Europe's Digital Services Act (DSA) rules by failing to prevent children under 13 from using Facebook and Instagram, according to a preliminary decision issued by the European Commission. The Commission announced the ruling on Wednesday after an almost two-year investigation, sa...",
+      "date": "2026-04-29T10:46:24+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "69186dbc0e5b",
-      "title": "6 top answer engine optimization benefits for growth and enterprise marketers",
-      "link": "https://blog.hubspot.com/marketing/benefits-of-answer-engine-optimization",
-      "summary": "The AEO benefits that matter most to marketing leaders have shifted from theoretical to measurable. As AI-powered search engines like ChatGPT, Google AI Overviews, and Perplexity handle a growing share of how buyers discover brands, the rise of AI-powered search results increases brand visibility...",
-      "date": "2026-04-28T11:00:05+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/d4233c10-60b6-46d7-9852-c71dde8507b6.png"
-    },
-    {
-      "id": "98c402ea5131",
-      "title": "Attack of the killer script kiddies",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-      "summary": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual software code that DARPA had injected wi...",
-      "date": "2026-04-28T11:00:00+00:00",
+      "id": "87510febcd96",
+      "title": "China freezes new robotaxi licenses after Baidu chaos",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+      "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. The restrictions will prevent...",
+      "date": "2026-04-29T10:39:21+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/rogers-script-kiddies-ANIMATION.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "3397e6a19599",
-      "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
-      "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
-      "summary": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring access.",
-      "date": "2026-04-28T09:03:20+00:00",
+      "id": "139eab6e8ff5",
+      "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
+      "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+      "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Ou...",
+      "date": "2026-04-29T10:04:25+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_220504_STK121_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "9304b05b730b",
+      "title": "Intel Earnings, Intel’s Differentiation?, Whither Terafab",
+      "link": "https://stratechery.com/2026/intel-earnings-intels-differentiation-whither-terafab/",
+      "summary": "Intel's earnings were very impressive, but the chief driver was a structural shift in demand for CPUs for AI. Plus, what is going on with Terafab?",
+      "date": "2026-04-29T10:00:00+00:00",
+      "source": "Stratechery",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
+    },
+    {
+      "id": "03d472ec7f47",
+      "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
+      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "summary": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
+      "date": "2026-04-29T09:45:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "4ceb5e8b62b3",
+      "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+      "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+      "summary": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
+      "date": "2026-04-29T09:32:20+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28Russia-discontent-lbcp/28Russia-discontent-lbcp-mediumSquareAt3X.jpg"
+      "image": "https://static01.nyt.com/images/2026/04/23/multimedia/PARENT-BACKLASH-1-bjzq/PARENT-BACKLASH-1-bjzq-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "c9e44573c7f5",
+      "title": "General Motors is adding Gemini to four million cars",
+      "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+      "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updat...",
+      "date": "2026-04-29T09:14:38+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-AI-in-a-Chevrolet.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "ad9df8fe4e8c",
+      "title": "A.I. Helps Online Ad Businesses Boom",
+      "link": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+      "summary": "Google and Meta are enjoying a digital ad boom, as artificial intelligence automates marketing and drives record sales.",
+      "date": "2026-04-29T09:04:14+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/04/30/business/ooad-boom/ooad-boom-mediumSquareAt3X.png"
+    },
+    {
+      "id": "e0656be02466",
+      "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
+      "link": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
+      "summary": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
+      "date": "2026-04-29T09:00:11+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "ef5a495580d3",
+      "title": "Genial/Quaest: Rui Costa e Jaques Wagner lideram disputa ao Senado na Bahia",
+      "link": "https://exame.com/brasil/genial-quaest-rui-costa-e-jaques-wagner-lideram-disputa-ao-senado-na-bahia/",
+      "summary": "Pesquisa demonstra hegemonia petista nas intenções de voto pelas cadeiras baianas no Senado",
+      "date": "2026-04-29T08:21:41+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "09ea3722967d",
+      "title": "Genial/Quaest: Tebet, França e Derrite lideram disputa ao Senado em SP",
+      "link": "https://exame.com/brasil/genial-quaest-tebet-franca-e-derrite-lideram-disputa-ao-senado-em-sp/",
+      "summary": "Em outros cenários, Marina Silva e Pablo Marçal também aparecem empatados na liderança com Tebet e Derrite",
+      "date": "2026-04-29T08:17:31+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/Plenario-Senado-Jefferson-Rudy-Agencia-Senado.jpg"
+    },
+    {
+      "id": "3da8ea3a40d1",
+      "title": "Conheça o festival de cinema 'sem IA', que valoriza produções feitas por humanos",
+      "link": "https://exame.com/pop/conheca-o-festival-de-cinema-sem-ia-que-valoriza-producoes-feitas-por-humanos/",
+      "summary": "Plataforma oferece acesso a 44 filmes e debates por US$ 40 até julho",
+      "date": "2026-04-29T08:10:07+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/EXAME-53.jpg"
+    },
+    {
+      "id": "02b5b44ffc70",
+      "title": "Genial/Quaest: ACM Neto e Jerônimo empatam tecnicamente no 1º e 2º turno",
+      "link": "https://exame.com/brasil/genial-quaest-acm-neto-e-jeronimo-empatam-tecnicamente-no-1o-e-2o-turno/",
+      "summary": "Em segundo turno, o governador Jerônimo Rodrigues aparece tecnicamente empatado",
+      "date": "2026-04-29T08:01:11+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "99a17e9c6ae4",
+      "title": "Genial/Quaest: Tarcísio lidera no 1º turno e abre vantagem contra Haddad no 2º",
+      "link": "https://exame.com/brasil/genial-quaest-tarcisio-lidera-no-1o-turno-e-abre-vantagem-contra-haddad-no-2o/",
+      "summary": "No cenário estimulado mais amplo, Tarcísio soma 38% das intenções de voto, contra 26% de Fernando Haddad",
+      "date": "2026-04-29T08:00:04+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2022/10/haddad-tarcisio-band.jpg"
+    },
+    {
+      "id": "5d29c7ccd356",
+      "title": "Cobra de 15 metros achada na Índia pode estar entre as maiores da história",
+      "link": "https://exame.com/ciencia/cobra-de-15-metros-achada-na-india-pode-estar-entre-as-maiores-da-historia/",
+      "summary": "Espécie viveu há 47 milhões de anos e pode estar entre as maiores cobras já identificadas pela ciência",
+      "date": "2026-04-29T07:55:49+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "35d4341c8353",
+      "title": "Netflix confirma 2ª temporada da animação de 'Stranger Things'",
+      "link": "https://exame.com/pop/netflix-confirma-2a-temporada-da-animacao-de-stranger-things/",
+      "summary": "Série animada ambientada entre as temporadas 2 e 3 já soma 2,8 milhões de visualizações",
+      "date": "2026-04-29T07:49:27+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/01/Tales-From-85.jpg"
+    },
+    {
+      "id": "95dc887fa7f0",
+      "title": "3 números do balanço do Santander que podem azedar o humor do investidor",
+      "link": "https://exame.com/invest/mercados/santander-sanb11-balanco-1t26-3-pontos-fracos/",
+      "summary": "Juros elevados, famílias endividadas e ambiente macro adverso deixaram marcas no balanço do banco",
+      "date": "2026-04-29T07:42:24+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2021/05/santander-banco.jpg"
+    },
+    {
+      "id": "e25d0a230457",
+      "title": "Como Euphoria usou doença de Eric Dane como recurso narrativo",
+      "link": "https://exame.com/pop/como-euphoria-usou-doenca-de-eric-dane-como-recurso-narrativo/",
+      "summary": "Terceiro episódio contextualiza fala do ator em entrevista antes de sua morte",
+      "date": "2026-04-29T07:16:06+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "c764e9780a70",
+      "title": "Mostras imersivas e a ascensão das grifes de moda marcam a semana do design italiano",
+      "link": "https://exame.com/casual/muito-alem-do-design/",
+      "summary": "Com público recorde, a edição 2026 do Salão do Móvel e do Fuorisalone expande seu alcance muito além do design, com exibições que apostam na sinestesia e transitam entre arte, arquitetura, luxo e moda",
+      "date": "2026-04-29T07:15:20+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/08_Salone-Internazionale-Mobile_KARTELL.jpg"
+    },
+    {
+      "id": "c29bb4231a1f",
+      "title": "OpenAI reportedly missed revenue and user growth",
+      "link": "https://www.morningbrew.com/stories/openai-reportedly-missed-revenue-and-user-growth?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "What did all those “people familiar with the matter” tell the WSJ?",
+      "date": "2026-04-29T05:04:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-28/image-ca0824cc7f98c361c7b38a185a95c7e76f8901b5-1500x1000-jpg/MBD_OpenAImissesthemark_SM_4282026.jpg"
+    },
+    {
+      "id": "228184a74e0d",
+      "title": "UAE leaves OPEC in a big blow to the oil cartel",
+      "link": "https://www.morningbrew.com/stories/2026/04/29/uae-leaves-opec-in-a-big-blow-to-the-oil-cartel?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "The UAE will be able to sell more oil, while OPEC will control less of the market.",
+      "date": "2026-04-29T05:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-28/image-8268b7c12fb681a7ca62231ffbadf80b327ef46f-4480x2987-jpg/GettyImages-2265407086.jpg"
+    },
+    {
+      "id": "b7e82d3f874e",
+      "title": "Fighting AI deepfakes (Taylor’s version)",
+      "link": "https://www.morningbrew.com/stories/2026/04/29/fighting-ai-deepfakes-taylors-version?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Taylor Swift has filed three trademarks designed to stop AI theft",
+      "date": "2026-04-29T04:03:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-28/image-d0fafd2c96446c414dc5bc4f12b2961c42b750da-6899x4600-jpg/GettyImages-2162440731.jpg"
+    },
+    {
+      "id": "bd30b4d3c2c1",
+      "title": "How one venture firm is investing in an increasingly fragmented world",
+      "link": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
+      "summary": "Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world.",
+      "date": "2026-04-29T03:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "46eb772a9473",
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "date": "2026-04-29T00:40:16+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "8f9b5c25a61f",
+      "title": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years",
+      "link": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
+      "summary": "In the trial’s first day of testimony, Elon Musk said greed led co-founder Sam Altman to pull the A.I. lab away from its nonprofit roots. OpenAI says that’s nonsense.",
+      "date": "2026-04-28T23:45:07+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28biz-ai-trial-ledeall-musk-kblp/28biz-ai-trial-ledeall-musk-kblp-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "0afe2c3558eb",
+      "title": "It’s primetime for conspiracy theorist video creators",
+      "link": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
+      "summary": "In the days since this year's White House Correspondents' Dinner was cut short when shots were fired at the event, there has been a boom of conspiracy theory videos created by people who insist that the entire situation was a false flag operation. These kinds of theories are nothing new, but the ...",
+      "date": "2026-04-28T23:31:53+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2272606742.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "223f3c5c9c4b",
+      "title": "Elon Musk appeared more petty than prepared",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+      "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and […]",
+      "date": "2026-04-28T23:17:12+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "97708ace576d",
+      "title": "AEO Competitor Analysis: Track AI Answer Engine Rivals",
+      "link": "https://blog.hubspot.com/marketing/aeo-competitor-analysis",
+      "summary": "Every company’s competitors are showing up in AI-generated answers, but do marketers know which ones, for which queries, and why? That’s exactly what AEO competitor analysis is designed to tell teams.",
+      "date": "2026-04-28T22:59:56+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+    },
+    {
+      "id": "57d4aad4404f",
+      "title": "Share of Voice Tools for Growing Companies",
+      "link": "https://blog.hubspot.com/marketing/share-of-voice-tools",
+      "summary": "When tracking share of voice for marketing teams, it’s often assumed to be a vanity metric — a number executives like to include in board decks but one that rarely influences strategy. In practice, that assumption doesn’t hold up.",
+      "date": "2026-04-28T22:51:26+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+    },
+    {
+      "id": "3dab327b786c",
+      "title": "Zero-click searches and the future of your marketing funnel",
+      "link": "https://blog.hubspot.com/marketing/zero-click-searches",
+      "summary": "Search results used to be a doorway. A brand ranked, someone clicked, and they landed on a website. But today, that model is eroding faster than most marketing teams are equipped to move.",
+      "date": "2026-04-28T22:37:11+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+    },
+    {
+      "id": "23561f9f8ac6",
+      "title": "Free Answer Engine Optimization Tools to Benchmark LLM Visibility",
+      "link": "https://blog.hubspot.com/marketing/free-aeo-tool-benchmark",
+      "summary": "I’ve spent considerable time testing free answer engine optimization tools across dozens of brand audits, and the verdict is clear: you don’t need a five-figure tech stack to get meaningful AEO data.",
+      "date": "2026-04-28T22:31:03+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+    },
+    {
+      "id": "3ba040972e61",
+      "title": "How to do keyword research for AEO (+ Tools)",
+      "link": "https://blog.hubspot.com/marketing/keyword-research-tools-for-aeo",
+      "summary": "When I first started auditing content for answer engine visibility, I assumed the keyword research process was roughly the same as traditional SEO — just with a few tweaks. I was wrong.",
+      "date": "2026-04-28T22:02:10+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+    },
+    {
+      "id": "d2105acf9058",
+      "title": "Is AI Killing Web Traffic? How AI Overviews Impact Organic Website Traffic",
+      "link": "https://blog.hubspot.com/marketing/is-ai-killing-web-traffic",
+      "summary": "Every few years, marketing headlines announce the demise of one foundational strategy or another. First, email, then blogging, then search engines. Now, with the rise of AI comes the question, “Is AI killing web traffic?” But the curiosity is actually warranted.",
+      "date": "2026-04-28T21:40:30+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+    },
+    {
+      "id": "f6d3ee130653",
+      "title": "James Comey indicted over Instagram seashell photo that allegedly threatened Trump",
+      "link": "https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump",
+      "summary": "The US Department of Justice has once again indicted James Comey - this time, for an alleged threat the former FBI director made toward President Donald Trump on Instagram, as reported earlier by CNN. In its indictment, filed in a North Carolina federal court on Tuesday, the DOJ cites the now-del...",
+      "date": "2026-04-28T21:40:08+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1494698667.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "af3357fe8394",
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 i...",
+      "date": "2026-04-28T20:46:54+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "ac8b0e577285",
+      "title": "15 Competitor Monitoring Tools Teams Actually Use (2026)",
+      "link": "https://blog.hubspot.com/marketing/competitor-monitoring-tools",
+      "summary": "Your competitors are adjusting pricing, launching new ad creative, publishing content that outranks yours, and showing up in AI answers you didn’t know existed — often all in the same week. Competitor monitoring tools exist to catch those moves early, but most teams end up with fragmented data sc...",
+      "date": "2026-04-28T20:44:02+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/b3ec18aa-f4b2-45e9-851f-6d359263e671.png"
+    },
+    {
+      "id": "2bb5d5156273",
+      "title": "Taylor Swift is stepping up the legal war on AI copycats",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+      "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a ...",
+      "date": "2026-04-28T20:30:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "1567c0a07684",
+      "title": "Here’s what OpenAI’s lawyer argued in his opening statement.",
+      "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-what-openais-lawyer-argued-in-his-opening-statement",
+      "summary": "",
+      "date": "2026-04-28T20:24:53+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28openai-trial-openAI-opening-argument-fjpb/28openai-trial-openAI-opening-argument-fjpb-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "98568d0a466d",
+      "title": "Google Signs A.I. Deal With the Pentagon",
+      "link": "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
+      "summary": "The Pentagon has also signed deals for using A.I. on classified networks with OpenAI and Elon Musk’s xAI, amid a dispute with Anthropic.",
+      "date": "2026-04-28T20:16:02+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28biz-google-pentagon-fhzk/28biz-google-pentagon-fhzk-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "eeba717e87fc",
+      "title": "Why does Elon Musk talk so much about saving humanity?",
+      "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/why-does-elon-musk-talk-so-much-about-saving-humanity",
+      "summary": "",
+      "date": "2026-04-28T19:55:10+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28openai-trial-spacex-ipo-mcth/28openai-trial-spacex-ipo-mcth-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "0347e7aff277",
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "date": "2026-04-28T19:48:02+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "5f5fe66dace6",
+      "title": "Now YouTube TV lets you multiview any channel you want",
+      "link": "https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel",
+      "summary": "YouTube CEO Neal Mohan announced Tuesday that YouTube TV is getting \"fully customizable\" multiview. Users have \"full control to mix and match live streams\" and can \"build the personalized viewing experience you've been asking for,\" Mohan says. You can pin up to four streams in your multiview wind...",
+      "date": "2026-04-28T19:46:19+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "b5eddb1c3534",
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "date": "2026-04-28T18:49:54+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "35cb9d70e773",
+      "title": "Match Group invests $100M in Sniffies, a cruising app for gay men",
+      "link": "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/",
+      "summary": "The app is Match Group's newest attempt to get mobile users excited about online romance again.",
+      "date": "2026-04-28T18:16:54+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "56f0fe39e0e0",
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+      "date": "2026-04-28T18:15:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "374154855c66",
+      "title": "Paragon is not collaborating with Italian authorities probing spyware attacks, report says",
+      "link": "https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/",
+      "summary": "Despite promising to help determine what happened with the hacks targeting journalists and activists in Italy, Israeli American spyware maker Paragon has reportedly not responded to authorities’ requests for information.",
+      "date": "2026-04-28T17:46:47+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "653f3634991f",
+      "title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents",
+      "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "summary": "An interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman about their new partnership, plus my thoughts on OpenAI and Microsoft's new deal.",
+      "date": "2026-04-28T17:00:00+00:00",
+      "source": "Stratechery",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "e97000d66b97",
+      "title": "US Supreme Court appears split over controversial use of ‘geofence’ search warrants",
+      "link": "https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/",
+      "summary": "The U.S. top court is expected to rule on whether to allow police to identify criminal suspects by dragnet searching the databases of tech giants.",
+      "date": "2026-04-28T16:18:08+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "6a58ff4c28d1",
+      "title": "Australia forces Big Tech firms to pay for news or face a 2.25% tax",
+      "link": "https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/",
+      "summary": "The more deals platforms make with media outlets, the less they pay. If enough agreements go through, that effective rate drops to 1.5%, which could generate between A$200 million and A$250 million back into Australian journalism.",
+      "date": "2026-04-28T16:13:15+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "930983324f67",
+      "title": "7 days to lock it in",
+      "link": "https://letters.thedankoe.com/p/7-days-to-lock-it-in",
+      "summary": "If you're an aspiring writer or creator, consider this",
+      "date": "2026-04-28T15:48:26+00:00",
+      "source": "Dan Koe",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://substackcdn.com/image/fetch/$s_!OZ7Z!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5ee5bed-1760-427e-9744-f5ad89baf5a9_886x886.png"
+    },
+    {
+      "id": "02aeec239157",
+      "title": "How we Operate as an AI-first Company",
+      "link": "https://blog.hubspot.com/marketing/how-we-operate-as-an-ai-first-company",
+      "summary": "This is part three of a three-part series on how HubSpot transformed with AI. Part one covers how we build with AI. Part two covers how we grow with Agent-first GTM.",
+      "date": "2026-04-28T13:30:04+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/How-we-operate-as-an-AI-first-company-2-20260427-6880863.webp"
+    },
+    {
+      "id": "ce3478b04417",
+      "title": "How we Grow with Agent-first GTM",
+      "link": "https://blog.hubspot.com/marketing/how-we-grow-with-agent-first-gtm",
+      "summary": "This is part two of a three-part series on how HubSpot transformed with AI. Part one covers how we build with AI. Part three is how we operate as an AI-first company.",
+      "date": "2026-04-28T13:30:04+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/How-we-grow-with-Agent-first-GTM-2-20260427-106491.webp"
+    },
+    {
+      "id": "cba68e01fe4c",
+      "title": "How we Build with AI",
+      "link": "https://blog.hubspot.com/marketing/how-we-build-with-ai",
+      "summary": "This is part one of a three-part series on how HubSpot transformed with AI. Part two covers how we grow with Agent-first GTM. Part three is how we operate as an AI-first company.",
+      "date": "2026-04-28T13:30:04+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/CR-0442_AI-Transformation-Blog-Series_V1-Intro_R2%20copy@3x.webp?width=650&amp;height=343&amp;name=CR-0442_AI-Transformation-Blog-Series_V1-Intro_R2%20copy@3x.webp"
     },
     {
       "id": "afbd6d493c50",
@@ -488,39 +1027,6 @@
       "image": "https://static01.nyt.com/images/2026/04/18/business/00-ai-trial/00-ai-trial-mediumSquareAt3X.jpg"
     },
     {
-      "id": "22c97c4407af",
-      "title": "It’s a busy time for sci-fi, but don’t miss Aphelion",
-      "link": "https://www.theverge.com/entertainment/919379/aphelion-review-sci-fi-game-steam-ps5-xbox",
-      "summary": "The last few weeks have bordered on overwhelming for science fiction fans. While Project Hail Mary is dominating the box office, For All Mankind is currently in the midst of its penultimate season, with a spinoff streaming next month. When it comes to games, Capcom kicked off a new sci-fi franchi...",
-      "date": "2026-04-28T09:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/APHELION_screenshot_launch_2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "e9242cb295d5",
-      "title": "Microsoft Office can now be controlled with Logitech’s MX Creative Console",
-      "link": "https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion",
-      "summary": "Logitech has announced a new suite of Productivity Plugins for its entire MX line of accessories, including its Stream Deck alternative, the MX Creative Console. Since the console launched in September 2024, Logitech has been expanding its capabilities with plug-ins that support creativity-focuse...",
-      "date": "2026-04-28T07:01:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/logitech_plugins1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "12cc616bf6ed",
-      "title": "Drizzle on top: a new high-end dog food brand is coming for the 1%",
-      "link": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
-      "summary": "Golden Child is launching with two \"five-star\" products: a fresh frozen meal system and, more intriguingly, a \"drizzle.\" It has also raised $37 million in funding.",
-      "date": "2026-04-28T05:02:04+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "9fa26d0d177c",
       "title": "China blocks Meta’s $2b acquisition of AI startup Manus",
       "link": "https://www.morningbrew.com/stories/2026/04/28/china-blocks-meta-s-usd2b-acquisition-of-ai-startup-manus?utm_source=&utm_medium=syndication&utm_campaign=feed",
@@ -554,28 +1060,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-27/image-54b7e9ef4da5c0cc74c3ff8fd10c40430c6746c0-5122x3414-jpg/GettyImages-2273418394.jpg"
     },
     {
-      "id": "d83fd5e3f711",
-      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-      "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopa...",
-      "date": "2026-04-28T03:39:33+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "c3534c5425dd",
-      "title": "India’s Snabbit closes $56M round as investor interest in on-demand home services heats up",
-      "link": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
-      "summary": "Snabbit now processes over 40,000 daily jobs and has cut costs sharply as it expands across cities and services.",
-      "date": "2026-04-28T03:30:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "a723d7baf7cb",
       "title": "Microsoft and OpenAI Loosen Their Partnership",
       "link": "https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html",
@@ -585,182 +1069,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2025/09/11/multimedia/27BIZ-MICROSOFT-OPENAI/11BIZ-OPENAI-1-qwbf-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "0a26d8ef938c",
-      "title": "Google is testing AI chatbot search for YouTube",
-      "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is n...",
-      "date": "2026-04-28T00:01:54+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-27-at-4.55.32PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "fa00c122d270",
-      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-      "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-      "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, t...",
-      "date": "2026-04-27T20:47:45+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "732a7e92290f",
-      "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
-      "link": "https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/",
-      "summary": "Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor.",
-      "date": "2026-04-27T20:37:49+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "f12d5b523d6b",
-      "title": "Sergey Brin Moves to the Right, With a ‘MAGA Girlfriend’ by His Side",
-      "link": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
-      "summary": "After once backing liberal causes, the Google co-founder has praised President Trump, donated to Republicans and spent $57 million to try to block a California billionaire tax.",
-      "date": "2026-04-27T20:12:38+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/pol-brin-politics-new-qwjv/pol-brin-politics-new-qwjv-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "9eb0ed70bc0a",
-      "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
-      "link": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
-      "summary": "The agency reports that losses from social media scams have increased eightfold and that social media scams resulted in higher losses than any other method scammers used to contact consumers.",
-      "date": "2026-04-27T19:09:53+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "93a4a74ff6cb",
-      "title": "Answer engine optimization vs. traditional SEO: What marketers need to know",
-      "link": "https://blog.hubspot.com/marketing/aeo-vs-seo",
-      "summary": "Understanding answer engine optimization (AEO) vs. traditional SEO has become mission-critical for content managers and marketing leaders as search shifts toward AI-generated responses, voice results, and zero-click experiences. While page ranking on Google is still important (for now), success i...",
-      "date": "2026-04-27T19:08:21+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/b5296305-8ec6-4375-8245-aadbacbd4058.png"
-    },
-    {
-      "id": "e7233e4db6d6",
-      "title": "AI visibility score: How to summarize your AI visibility",
-      "link": "https://blog.hubspot.com/marketing/ai-visibility-score",
-      "summary": "Your brand’s AI visibility score covers the part of the search landscape that traditional SEO rank tracking can’t see. Tracking it is becoming as essential as monitoring Google rankings — and a lot harder to pin down.",
-      "date": "2026-04-27T18:49:23+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
-    },
-    {
-      "id": "bc255aa5c0f0",
-      "title": "Best practices for answer engine optimization (AEO) marketing teams can't ignore",
-      "link": "https://blog.hubspot.com/marketing/answer-engine-optimization-best-practices",
-      "summary": "Search behavior has changed dramatically, and teams need to learn answer engine optimization (AEO) best practices to keep up. While traditional search engines still dominate, people increasingly turn to AI tools like ChatGPT to answer their questions. Heck, with 79% of those who already use AI fo...",
-      "date": "2026-04-27T18:21:32+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
-    },
-    {
-      "id": "4703d27950b4",
-      "title": "Trump demands ABC fire Jimmy Kimmel",
-      "link": "https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc",
-      "summary": "President Donald Trump is calling for Disney to fire Jimmy Kimmel. On Thursday, Kimmel joked that Melania Trump had looked like an \"expectant widow\" in a skit about the upcoming White House Correspondents' Dinner. The skit aired days before an armed gunman made an assassination attempt at the eve...",
-      "date": "2026-04-27T18:18:17+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257959_jimmy_kimmel_censorship_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "fa93fa46eda0",
-      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-      "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals...",
-      "date": "2026-04-27T18:17:12+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2194442232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "320af279da3d",
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-      "date": "2026-04-27T17:40:38+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "e72f2bdd4305",
-      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-      "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-      "date": "2026-04-27T17:24:21+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "e8f93a9489d9",
-      "title": "Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting",
-      "link": "https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories",
-      "summary": "On Saturday evening, a room full of journalists, media personalities, and senior members of Donald Trump's administration descended into chaos as gunshots rang out at the White House Correspondents' Dinner. Nobody was hurt, and the suspect was taken into custody - but it didn't take long for a na...",
-      "date": "2026-04-27T17:11:44+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2272595362.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "3d527796ae81",
-      "title": "Hacker who allegedly carried out cyberattacks for China is extradited to US",
-      "link": "https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/",
-      "summary": "Xu Zewei is accused of participating in a Chinese government hacking group that broke into thousands of U.S. organizations and stole COVID-19-related research.",
-      "date": "2026-04-27T17:07:06+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "ddbe76a7c02c",
-      "title": "Elon Musk and Sam Altman Bring OpenAI Trial Spectacle to Oakland",
-      "link": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
-      "summary": "Oakland, Calif., where Elon Musk’s trial against OpenAI and its chief executive, Sam Altman, starts on Monday, is not exactly known as a hub of the tech industry.",
-      "date": "2026-04-27T16:34:17+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/OAKLAND-COURT-1-02-mjtl/OAKLAND-COURT-1-02-mjtl-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "8b6b8eb9dd98",
-      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-      "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-      "date": "2026-04-27T16:13:02+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     },
     {
       "id": "a6d0d8ddb399",
@@ -774,50 +1082,6 @@
       "image": "https://static01.nyt.com/images/2026/04/27/multimedia/AI-OPPOSITION-data-center-sign-02-cfmj/AI-OPPOSITION-data-center-sign-02-cfmj-mediumSquareAt3X.jpg"
     },
     {
-      "id": "8692182480e3",
-      "title": "How to Optimize Content for ChatGPT: An AI Discovery Guide",
-      "link": "https://blog.hubspot.com/marketing/how-to-optimize-content-for-chatgpt",
-      "summary": "A lot is going on in search today. Google still reigns supreme, but the competition and evolution coming from AI alternatives have many marketers wondering how to optimize for ChatGPT.",
-      "date": "2026-04-27T16:01:04+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
-    },
-    {
-      "id": "4c798f54d9a3",
-      "title": "Data center demand drives 66% surge in natural gas power plant costs",
-      "link": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
-      "summary": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets.",
-      "date": "2026-04-27T15:27:52+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "2746c86cf157",
-      "title": "What’s behind Europe’s efforts to ditch US software in favor of sovereign tech",
-      "link": "https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/",
-      "summary": "Governments across Europe are looking to rely less on American tech providers.",
-      "date": "2026-04-27T14:17:59+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "77bc01ab792e",
-      "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
-      "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
-      "summary": "The impact of the ruling was not immediately clear, but it could send a chilling signal to Chinese tech founders seeking to team up with foreign companies.",
-      "date": "2026-04-27T14:08:53+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/27biz-china-manus-kpvq/27biz-china-manus-kpvq-mediumSquareAt3X.jpg"
-    },
-    {
       "id": "5611ae6c1020",
       "title": "AI Hardware, Meta Display, Redefining VR and AR",
       "link": "https://stratechery.com/2026/ai-hardware-meta-display-redefining-vr-and-ar/",
@@ -826,7 +1090,7 @@
       "source": "Stratechery",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
+      "image": null
     },
     {
       "id": "62ca35f91443",
@@ -849,28 +1113,6 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-27/image-217bda0d7ee25356f9ac612ab1032ed50b3a5f8b-3828x2552-jpg/SecurityScareatTheWhiteHouseCorrespondentsDinnerwithPresidentTrump"
-    },
-    {
-      "id": "daa415699a19",
-      "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
-      "link": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
-      "summary": "Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.",
-      "date": "2026-04-26T20:54:26+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/26/multimedia/26biz-whcd-disinfo-security-lhfb/26biz-whcd-disinfo-security-lhfb-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "7a888a25ba21",
-      "title": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
-      "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
-      "summary": "Journalists and guests shared the surreal and confusing scenes from the White House Correspondents’ Association dinner after gunfire erupted on Saturday.",
-      "date": "2026-04-26T17:03:20+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/26/multimedia/26xp-social-jkzf/26xp-social-jkzf-mediumSquareAt3X.jpg"
     },
     {
       "id": "84fc7e5c3e63",
@@ -906,50 +1148,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-23/image-0029a8c508c91c77cb87a9f3b9cf8f56c134addb-2538x1692-jpg/MBD-SundaySpecial-EverythingReality-0426.jpg"
     },
     {
-      "id": "551c1081aa01",
-      "title": "Is reality TV washed?",
-      "link": "https://www.morningbrew.com/stories/2026/04/26/is-reality-tv-washed?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The number of new unscripted shows in the US took a nosedive last year, falling 15%.",
-      "date": "2026-04-26T06:04:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-24/image-c4b1d253782c78fad9c0648eea0f89ddf0f13733-6000x4000-jpg/MBD-SundaySpecial-RealityTVWashed-0426.jpg"
-    },
-    {
-      "id": "87effed87ff3",
-      "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
-      "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
-      "summary": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
-      "date": "2026-04-25T19:57:08+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/04/27/business/00-trump-memecoin/00-trump-memecoin-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "ca70c76992ca",
-      "title": "Startup Tin Can is bringing back landlines to beat screen time",
-      "link": "https://www.morningbrew.com/stories/tin-can-bringing-back-landlines-beat-screen-time?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Tech that parents actually like?",
-      "date": "2026-04-25T05:04:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-24/image-0fa8d397bbb7e384b7bf9274721e9ec0b9dca73c-1200x800-jpg/MBD-TinCan-0426.jpg"
-    },
-    {
-      "id": "7867ac7ae6dd",
-      "title": "Elon Musk’s lawsuit against Sam Altman and OpenAI heads to trial",
-      "link": "https://www.morningbrew.com/stories/2026/04/25/musk-altman-openai-trial-to-begin?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Musk demands $100+ billion in damages—which he recently said he’d give to OpenAI’s nonprofit arm—the removal of Altman and OpenAI President Greg Brockman, and the reversal of OpenAI’s recent for-profit restructuring.",
-      "date": "2026-04-25T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-04-24/image-9098843a729499eb152ba9e9f37786577f07299a-4000x2667-jpg/MBD-MuskAltman-0426.jpg"
-    },
-    {
       "id": "bd5b180b4021",
       "title": "2026.17: He Came, He Saw, He Cooked",
       "link": "https://stratechery.com/2026/he-came-he-saw-he-cooked/",
@@ -959,17 +1157,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/04/GettyImages-2234563737.jpg?resize=1700%2C1197&#038;ssl=1"
-    },
-    {
-      "id": "6cd51b869e25",
-      "title": "AI citation tracking: How to track (and grow) AI engine citations",
-      "link": "https://blog.hubspot.com/marketing/ai-citation-tracking",
-      "summary": "AI search engine citation tracking helps measure brand visibility and authority in AI-powered search results. As AI-powered search experiences reshape how people discover information, evaluate vendors, and build shortlists, visibility inside AI answers is no longer a vanity metric. If AI engines ...",
-      "date": "2026-04-24T14:42:12+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
     },
     {
       "id": "051cedadb606",
@@ -983,17 +1170,6 @@
       "image": "https://substack-video.s3.amazonaws.com/video_upload/post/195261337/cbf77950-242e-44a7-b342-e02da9af72f5/transcoded-85810.png"
     },
     {
-      "id": "1106f4b8c78e",
-      "title": "Generative engine optimization KPIs that actually matter for marketing teams",
-      "link": "https://blog.hubspot.com/marketing/geo-kpis",
-      "summary": "Generative AI is changing how people discover brands, products, and information. Because it disrupts the buyer journey, it requires new metrics, specifically GEO KPIs, that accurately reflect performance within these AI engines.",
-      "date": "2026-04-23T16:04:53+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
-    },
-    {
       "id": "276d3bba981a",
       "title": "An Interview with Google Cloud CEO Thomas Kurian About the Agentic Moment",
       "link": "https://stratechery.com/2026/an-interview-with-google-cloud-ceo-thomas-kurian-about-the-agentic-moment/",
@@ -1002,29 +1178,7 @@
       "source": "Stratechery",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
-    },
-    {
-      "id": "f2b94e549e9f",
-      "title": "AEO metrics every marketer should track in 2026",
-      "link": "https://blog.hubspot.com/marketing/aeo-metrics",
-      "summary": "AEO metrics every marketer should track in 2026 Answer engine optimization (AEO) is a marketing strategy designed to help brands appear more consistently and accurately within AI-driven answer engines such as ChatGPT, Perplexity, and Copilot.",
-      "date": "2026-04-22T18:18:49+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
-    },
-    {
-      "id": "72b035ea73d5",
-      "title": "AEO Strategy for B2B: 9 Tactics to Increase B2B Answer Engine Visibility",
-      "link": "https://blog.hubspot.com/marketing/aeo-b2b-strategy",
-      "summary": "Research shows that 32% of buyers discover new B2B vendors using generative AI chatbots. This is why an answer engine optimization (AEO) strategy for B2B businesses is essential. AI-driven answer engines help buyers discover, evaluate, and shortlist vendors. The same research found that buyers st...",
-      "date": "2026-04-22T13:00:06+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+      "image": null
     },
     {
       "id": "53b37f651190",
@@ -1035,18 +1189,7 @@
       "source": "Stratechery",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
-    },
-    {
-      "id": "8daa46588d6f",
-      "title": "The future of generative engine optimization: How 5 GEO trends reshape loop and inbound marketing",
-      "link": "https://blog.hubspot.com/marketing/future-of-geo",
-      "summary": "​​GEO — or, as HubSpot refers to it, AEO — has found its place in the search landscape, and it’s reasonable to think that the future of generative engine optimization is guaranteed. According to Datos’s State of Search report, Q4-2025 saw some interesting changes. For the first time, AI tools had...",
-      "date": "2026-04-21T13:00:07+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+      "image": null
     },
     {
       "id": "340c5c9bad71",
@@ -1068,7 +1211,7 @@
       "source": "Stratechery",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
+      "image": null
     },
     {
       "id": "1d6a1a40ff86",
@@ -1112,18 +1255,7 @@
       "source": "Stratechery",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
-    },
-    {
-      "id": "fdc8f81b38fa",
-      "title": "Amazon Buys Globalstar, Delta to Add Leo, The Apple Angle",
-      "link": "https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/",
-      "summary": "Amazon's Globalstar acquisition is being framed as Amazon versus SpaceX, but I think the real story is about Apple.",
-      "date": "2026-04-15T10:00:00+00:00",
-      "source": "Stratechery",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
+      "image": null
     },
     {
       "id": "a4621fe5e335",
@@ -1135,17 +1267,6 @@
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://substackcdn.com/image/fetch/$s_!Dhck!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82e4009e-2a40-48f5-9a76-6f29888605f1_876x564.heic"
-    },
-    {
-      "id": "e829961d4e49",
-      "title": "OpenAI’s Memos, Frontier, Amazon and Anthropic",
-      "link": "https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/",
-      "summary": "Breaking down OpenAI's internal memo about taking on Anthropic in the enterprise.",
-      "date": "2026-04-14T10:00:00+00:00",
-      "source": "Stratechery",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://stratechery.com/wp-content/uploads/2026/04/frontier-1.png"
     },
     {
       "id": "2336c24bfbb4",
@@ -1300,17 +1421,6 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/04957b0f-c0c8-4d04-a525-3298008a5c2e_1920x1080.jpeg"
-    },
-    {
-      "id": "68c80e4bdfb7",
-      "title": "Full Guide: How To Start Writing Long Form (Essays, Articles, Newsletters, etc)",
-      "link": "https://letters.thedankoe.com/p/full-guide-how-to-start-writing-long",
-      "summary": "For those who don't care about short form and have deep ideas they want to articulate online",
-      "date": "2026-01-13T17:32:56+00:00",
-      "source": "Dan Koe",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/d7ea760b-5c85-4355-88f5-04382b12ac33_1920x1080.jpeg"
     }
   ]
 }
