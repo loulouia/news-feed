@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T11:21:25.944832+00:00",
+  "generated_at": "2026-06-07T11:44:32.036051+00:00",
   "total_articles": 90,
   "categories": [
     {
@@ -33,6 +33,316 @@
   ],
   "featured": [
     {
+      "id": "cd35888373be",
+      "title": "Inglaterra chega à Copa de 2026 com elenco estrelado e sonho de encerrar jejum histórico",
+      "link": "https://exame.com/esporte/inglaterra-chega-a-copa-de-2026-com-elenco-estrelado-e-sonho-de-encerrar-jejum-historico/",
+      "summary": "Vice-campeã da Eurocopa aposta em uma geração talentosa para voltar a conquistar o mundo após 60 anos",
+      "date": "2026-06-07T08:38:33+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/tomas-tuchel-e-tecnico-da-Inglaterra.jpg"
+    },
+    {
+      "id": "b9a4c9ad40f9",
+      "title": "Este gaúcho fatura R$ 304 milhões alugando 3.800 empilhadeiras pelo Brasil",
+      "link": "https://exame.com/negocios/este-gaucho-fatura-r-304-milhoes-alugando-3-800-empilhadeiras-pelo-brasil/",
+      "summary": "Distribuidora da Toyota no Sul, a Carmak surfa a virada da indústria brasileira, que tem trocado a compra de máquinas pela locação",
+      "date": "2026-06-07T08:31:28+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/carmak.jpg"
+    },
+    {
+      "id": "78a9749d44f3",
+      "title": "IA surpreende especialistas ao resolver problemas que levaram décadas para humanos",
+      "link": "https://exame.com/ciencia/ia-surpreende-especialistas-ao-resolver-problemas-que-levaram-decadas-para-humanos/",
+      "summary": "Avanço acelerado da inteligência artificial na resolução de problemas matemáticos leva especialistas a repensarem o futuro da profissão",
+      "date": "2026-06-07T08:27:21+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/mlb-robot-humanoid-using-tablet-computer-engineering-science-studying.jpg"
+    },
+    {
+      "id": "cbe65aa2d1a7",
+      "title": "'Mundo paralelo': quando sonhar acordado deixa de ser saudável",
+      "link": "https://exame.com/ciencia/mundo-paralelo-quando-sonhar-acordado-deixa-de-ser-saudavel/",
+      "summary": "Estudos sugerem que entre 2% e 4% dos adultos podem sofrer de devaneio desadaptativo, condição marcada por fantasias intensas e compulsivas",
+      "date": "2026-06-07T08:21:26+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/silhouette-human-head-with-gear-figure-concept-mental-health-world-mental-health-day.jpg"
+    },
+    {
+      "id": "bebdfd9ab736",
+      "title": "Novo medicamento reduz em 60% o risco de morte por câncer de pâncreas",
+      "link": "https://exame.com/ciencia/novo-medicamento-reduz-em-60-o-risco-de-morte-por-cancer-de-pancreas/",
+      "summary": "Estudo com cerca de 500 pacientes mostrou aumento da sobrevida e menor risco de morte em comparação com a quimioterapia",
+      "date": "2026-06-07T08:17:07+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "0edf40c8ab6c",
+      "title": "Os carros milionários da Seleção do Brasil para a Copa do Mundo 2026",
+      "link": "https://exame.com/casual/os-carros-milionarios-da-selecao-do-brasil-para-a-copa-do-mundo-2026/",
+      "summary": "De um Rolls-Royce com interior laranja a uma réplica do Batmóvel: o que os jogadores da Seleção guardam nas garagens",
+      "date": "2026-06-07T08:04:07+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    }
+  ],
+  "articles": [
+    {
+      "id": "6d9cf859dd14",
+      "title": "Eu cuido sozinha da casa que era dos nossos pais. Posso fazer usucapião?",
+      "link": "https://exame.com/mercado-imobiliario/eu-cuido-sozinha-da-casa-que-era-dos-nossos-pais-posso-fazer-usucapiao/",
+      "summary": "Especialista responde dúvida de leitores; envie você também suas perguntas",
+      "date": "2026-06-07T08:00:47+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "ed34be3b3aee",
+      "title": "Caiado e Zema só devem crescer após início da campanha, diz CEO do Ideia",
+      "link": "https://exame.com/brasil/caiado-e-zema-so-devem-crescer-apos-inicio-da-campanha-diz-ceo-do-ideia/",
+      "summary": "Durante participação no programa Eleições em Pauta, da EXAME, Schulman afirmou que tanto Caiado quanto Zema ainda enfrentam o desafio do baixo conhecimento nacional",
+      "date": "2026-06-07T08:00:29+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "2d06bd81ce39",
+      "title": "Eleições 2026: quem são os possíveis candidatos ao Senado no Paraná?",
+      "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-possiveis-candidatos-ao-senado-no-parana/",
+      "summary": "Estado deverá eleger duas pessoas ao Senado no pleito eleitoral deste ano",
+      "date": "2026-06-07T08:00:06+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "9234a33b0239",
+      "title": "Eleições 2026: quem são os possíveis candidatos ao Senado no Piauí?",
+      "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-possiveis-candidatos-ao-senado-no-piaui/",
+      "summary": "Estado deverá eleger duas pessoas ao Senado no pleito eleitoral deste ano",
+      "date": "2026-06-07T08:00:01+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "9e34ed21506c",
+      "title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
+      "link": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
+      "summary": "Sorry Anker: JMGO now makes my favorite flagship portable projector. The N3 Ultimate is an excellent portable 4K projector that defeats moderate ambient light at severe placement angles and can rival more expensive home theater installations at night. After a few weeks of testing, I think the raw...",
+      "date": "2026-06-07T07:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_0796.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "3ac63e4b299c",
+      "title": "Why is the USMNT not better at soccer?",
+      "link": "https://www.morningbrew.com/stories/why-is-the-usmnt-not-better-at-soccer?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "The US has never won a men’s World Cup, despite being the third-most populous country in the world.",
+      "date": "2026-06-07T05:57:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-02/image-70a25fccb43017d29e72c546cbe0dd5ffe411833-4719x3146-jpg/GettyImages-2277736801.jpg"
+    },
+    {
+      "id": "1a9631a424ab",
+      "title": "Is hosting the World Cup worth it?",
+      "link": "https://www.morningbrew.com/stories/is-hosting-the-world-cup-worth-it?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "FIFA estimates that the tournament could inject up to $9.6 billion into the US economy.",
+      "date": "2026-06-07T05:53:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-02/image-a23a9d9dfd77bb6ce9d68f17024e631d2da5a533-7488x4994-jpg/GettyImages-2243594355.jpg"
+    },
+    {
+      "id": "b2d647f210d6",
+      "title": "Why this year’s broadcast deals are so chaotic",
+      "link": "https://www.morningbrew.com/stories/why-this-years-broadcast-deals-are-so-chaotic?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "FIFA’s global media rights for World Cup 2026 are like a kids’ rec soccer game: slow-going, messy, and featuring many players who aren’t doing what the big bosses wish they would.",
+      "date": "2026-06-07T05:11:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-02/image-5ce3241489002ac0f3f375510af7b6c6e51bf868-3811x2541-jpg/GettyImages-1245109433.jpg"
+    },
+    {
+      "id": "4c996b799e17",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "date": "2026-06-06T20:32:24+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798"
+    },
+    {
+      "id": "1af498ed18f6",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "date": "2026-06-06T18:13:36+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "4db576ec9b71",
+      "title": "The first Story-Rich showcase was packed with narrative-driven games",
+      "link": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
+      "summary": "Fellow Traveller, the publisher behind games like Titanium Court and 1000xResist, just wrapped up its Story-Rich Showcase, which featured a bunch of narrative-driven indie games. With more than 20 games on display, there was a lot to follow, but we've pulled together some of the most notable anno...",
+      "date": "2026-06-06T18:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_7d979e3a1f620ba9ba549819da6c8bd15437e5d9.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "c1f1b19c158b",
+      "title": "GOG apologizes for emailing people Nazi symbols",
+      "link": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
+      "summary": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a \"series of mistakes,\" including miscommunication with the German QA team, inconsistent font rendering, and ...",
+      "date": "2026-06-06T17:59:37+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0401019b4079",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "date": "2026-06-06T17:42:15+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "71425e43ec2b",
+      "title": "The cutest games from the Wholesome Direct 2026 showcase",
+      "link": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
+      "summary": "Every year at Summer Game Fest, nestled in between the splashy blockbuster showcases, the Wholesome Direct provides a nice change of pace. It's similarly packed with games - this year's edition had more than 50 - but the vibe is more chill and, well, wholesome. As in years past, I've pulled out s...",
+      "date": "2026-06-06T17:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-HF2-Ferris-Wheel.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "35ed45298745",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "date": "2026-06-06T16:17:21+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800"
+    },
+    {
+      "id": "00840534ec08",
+      "title": "Summer Game Fest 2026: All the news from gaming’s busiest week",
+      "link": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
+      "summary": "Get ready for some gaming news. It’s officially June, which means splashy new events from PlayStation, Xbox, gaming hype man Geoff Keighley, and more. PlayStation kicked things off with a big event that was mostly about premium single-player games like the new God of War Laufey — a statement from...",
+      "date": "2026-06-06T16:14:23+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/FFVII_Revelation_June_Screenshots_16.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "32839489bb71",
+      "title": "4K Blu-rays are three for $33 ahead of Father’s Day",
+      "link": "https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale",
+      "summary": "If you know a dad with a predilection for physical media, he might really dig what you buy for him with this deal at Gruv. Ahead of Father’s Day on June 21st, the online seller (operated by Universal Pictures, in case you didn’t know) is letting you check out with three movies from a large […]",
+      "date": "2026-06-06T16:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/12972341/2493_D030_00395R_GRD.JPG_cmyk_2040.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "501f4e410442",
+      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all ov...",
+      "date": "2026-06-06T15:05:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "c9ab4b704e04",
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "summary": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.",
+      "date": "2026-06-06T15:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/image_664f47.png?resize=1200,732"
+    },
+    {
+      "id": "1d7a80729470",
+      "title": "Benn Jordan longs for the days of tech that didn’t spy on you",
+      "link": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire",
+      "summary": "Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to take his YouTube channel in a different direction. He didn't stop covering music gear overnight, but ...",
+      "date": "2026-06-06T15:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/1000033192.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0db5092d8a42",
+      "title": "82-0 is the best basketball game, to hell with NBA 2K",
+      "link": "https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game",
+      "summary": "82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck. The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season. Obviously, if you just had free rein to pick whoever you wanted from throughout history, there woul...",
+      "date": "2026-06-06T14:30:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-06-at-10.14.26AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "ad7fcaa70423",
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - ...",
+      "date": "2026-06-06T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "id": "f8cc5bdc5a08",
       "title": "People Love to Hate This Fake Private Equity Guy",
       "link": "https://www.nytimes.com/2026/06/06/style/people-love-to-hate-this-fake-private-equity-guy.html",
@@ -42,118 +352,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
-    },
-    {
-      "id": "6937d99b044c",
-      "title": "Lembra da Cintra? O que aconteceu com a marca de cervejas que chegou a ser a 4ª maior do Brasil",
-      "link": "https://exame.com/negocios/lembra-da-cintra-o-que-aconteceu-com-a-marca-de-cervejas-que-chegou-a-ser-a-4a-maior-do-brasil/",
-      "summary": "Criada por um empresário português que já tinha presidido o Sporting, a Cintra apostou no preço baixo para enfrentar Brahma e Antarctica",
-      "date": "2026-06-06T08:12:10+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/cintra_cerveja.jpg"
-    },
-    {
-      "id": "5abcc8069c4d",
-      "title": "Aos 90 anos, como o maior supermercado do RS compete no setor bilionário dos shoppings",
-      "link": "https://exame.com/negocios/aos-90-anos-como-o-maior-supermercado-do-rs-compete-no-setor-bilionario-dos-shoppings/",
-      "summary": "Dona de 43 empreendimentos, companhia faturou R$ 8,8 bilhões em 2025 com supermercados, no ano em que inaugurou mais um centro comercial em Porto Alegre",
-      "date": "2026-06-06T08:10:52+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/07/MG_7333.jpg"
-    },
-    {
-      "id": "13769d40562a",
-      "title": "As mansões dos convocados do Brasil para a Copa do Mundo 2026",
-      "link": "https://exame.com/casual/as-mansoes-dos-convocados-do-brasil-para-a-copa-do-mundo-2026/",
-      "summary": "Neymar lidera com uma cobertura de US$ 54 milhões em Dubai. Vini Jr. vive na mesma mansão que já foi de Sergio Ramos e de Ronaldo Fenômeno",
-      "date": "2026-06-06T08:03:59+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/CASAS-JOGADORES.jpg"
-    },
-    {
-      "id": "76728f3ee603",
-      "title": "Peru: segundo turno das eleições conta com filha de Fujimori",
-      "link": "https://exame.com/mundo/peru-segundo-turno-das-eleicoes-conta-com-filha-de-fujimori/",
-      "summary": "Turno final das eleições peruanas verá duelo entre esquerdista Roberto Sanchez e a direitista Keiko Fujimori, que carrega o nome de uma das famílias mais polarizadoras da política do país",
-      "date": "2026-06-06T08:01:35+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260412__A7JP7ZT__v2__HighRes__TopshotPeruElectionVote.jpg"
-    },
-    {
-      "id": "f05c0b98370f",
-      "title": "800 prefeitos e viagens pelo Brasil: a estratégia de Caiado para crescer nas pesquisas",
-      "link": "https://exame.com/brasil/800-prefeitos-e-viagens-pelo-brasil-a-estrategia-de-caiado-para-crescer-na-pre-campanha/",
-      "summary": "Ex-governador de Goiás intensifica agenda de viagens e aposta na capilaridade do PSD, que elegeu mais de 800 prefeitos em 2024, para ampliar sua presença nacional antes de 2026",
-      "date": "2026-06-06T08:00:56+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/ronaldo-caiado.jpg"
-    }
-  ],
-  "articles": [
-    {
-      "id": "88cab4c16348",
-      "title": "Exportações de frango dos EUA perdem força e ameaçam margens da Tyson Foods",
-      "link": "https://exame.com/agro/exportacoes-de-frango-dos-eua-perdem-forca-e-ameacam-margens-da-tyson/",
-      "summary": "Relatório do BTG aponta queda atípica nos preços externos em março e vê risco de perda de rentabilidade no setor",
-      "date": "2026-06-06T08:00:31+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/TysonFoods_MediaPhotos_Transportation.png"
-    },
-    {
-      "id": "e98f1abd6b33",
-      "title": "Eleições 2026: quem são os possíveis candidatos ao Senado na Paraíba?",
-      "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-possiveis-candidatos-ao-senado-na-paraiba/",
-      "summary": "Estado deverá eleger duas pessoas ao Senado no pleito eleitoral deste ano",
-      "date": "2026-06-06T08:00:27+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "a4c6f1ad0799",
-      "title": "Emprego, renda e floresta: a aposta da Suzano para tirar 200 mil pessoas da pobreza",
-      "link": "https://exame.com/esg/emprego-renda-e-floresta-a-aposta-da-suzano-para-tirar-200-mil-pessoas-da-pobreza/",
-      "summary": "Companhia investiu R$ 20 milhões em projetos sociais, captou outros R$ 60 milhões com parceiros e já alcançou mais da metade da meta de retirar 200 mil pessoas da pobreza até 2030",
-      "date": "2026-06-06T07:56:14+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/03/suzano.jpg"
-    },
-    {
-      "id": "3ebf44847e53",
-      "title": "Nem preço, nem distância: a invasão escocesa na Copa do Mundo de 2026",
-      "link": "https://exame.com/esporte/nem-preco-nem-distancia-a-invasao-escocesa-na-copa-do-mundo-de-2026/",
-      "summary": "Após 28 anos longe do torneio, torcedores da Escócia ignoram custos elevados e prometem marcar presença nos Estados Unidos",
-      "date": "2026-06-06T07:54:17+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/escocia.png"
-    },
-    {
-      "id": "6d47fcfce945",
-      "title": "Uma ilha flutuante movida a energia nuclear: o plano da China para o transporte marítimo",
-      "link": "https://exame.com/tecnologia/uma-ilha-flutuante-movida-a-energia-nuclear-o-plano-da-china-para-o-transporte-maritimo/",
-      "summary": "Conceito reúne porto offshore, geração de energia e produção de combustível verde em estrutura movida a sal fundido",
-      "date": "2026-06-06T07:31:08+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/ilha_nuclear.png"
     },
     {
       "id": "10e6007e0c9b",
@@ -189,39 +387,6 @@
       "image": "https://static01.nyt.com/images/2026/06/05/multimedia/05biz-spacex-google-qzjh/05biz-spacex-google-qzjh-mediumSquareAt3X.jpg"
     },
     {
-      "id": "d51717c31d68",
-      "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
-      "link": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
-      "summary": "Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N. At the time, cofounder Raigan Burns issued some famous last words: \"We hope it's not another 10 yea...",
-      "date": "2026-06-05T23:25:34+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Image-3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "09cf6c04d64f",
-      "title": "Grand Theft Auto VI is warping the video game release calendar",
-      "link": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
-      "summary": "Who's afraid of the next GTA? Based on the last few days of Summer Game Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt every time a release date was announced. The month of November, when GTA VI launches, is virtually emp...",
-      "date": "2026-06-05T23:05:27+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "de8468f0b561",
-      "title": "Final Fantasy VII’s remake trilogy will conclude with Revelation",
-      "link": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
-      "summary": "Square Enix has officially announced the third and final game in its Final Fantasy VII remake trilogy: Final Fantasy VII Revelation. It will release on multiple platforms simultaneously - PC, PS5, Xbox Series X / S, and Nintendo Switch 2 - in spring 2027. In footage shown onstage at Summer Game F...",
-      "date": "2026-06-05T22:52:06+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/FFVII_Revelation_Switch_2_June_Screenshots_1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "072dfb5bf297",
       "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus",
       "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
@@ -230,7 +395,7 @@
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": null
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799"
     },
     {
       "id": "62199353b361",
@@ -242,39 +407,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
-    },
-    {
-      "id": "31002e764383",
-      "title": "Control Resonant is a sequel — and also a starting point",
-      "link": "https://www.theverge.com/games/944151/control-resonant-hands-on",
-      "summary": "Chronologically, Control Resonant is a sequel to 2019's Control. But in most other ways, the games aren't directly connected. To developer Remedy, they're more like two sides of the same coin. When Resonant was first revealed last year, creative director Mikael Kasurinen said you can play the gam...",
-      "date": "2026-06-05T21:45:44+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Story_04.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "9f4afb524cc6",
-      "title": "Congress still can’t decide what to do about warrantless surveillance",
-      "link": "https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte",
-      "summary": "The deadline to reauthorize Section 702 of the Foreign Intelligence Surveillance Act is coming up a week from now on June 12th, and legislators seem no closer to reaching a deal. If this sounds like deja vu, it's because we've been here before. Congress reauthorized Section 702 in late April - bu...",
-      "date": "2026-06-05T21:15:48+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "aa6fc8133c1d",
-      "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
-      "link": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
-      "summary": "Geoff Keighley’s annual June showcase for videos games has officially happened, and it was a big one. Across a two hour event — and another hour for Day of the Devs — we got news about the third Final Fantasy VII remake game, a new look at Control Resonant, the reveal of Tupac for RGG […]",
-      "date": "2026-06-05T20:40:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/FFVII_Revelation_June_Screenshots_18.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "7246a6a5862f",
@@ -293,138 +425,6 @@
       "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
       "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
       "date": "2026-06-05T20:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "d67429affa5d",
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-      "date": "2026-06-05T18:57:20+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024"
-    },
-    {
-      "id": "ea5a842cff0d",
-      "title": "Gone in 60 minutes",
-      "link": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
-      "summary": "It should have been the final straw. The new power couple of editorial failure - Bari Weiss and Nick Bilton - had fired legendary 60 Minutes journalist Scott Pelley. Why? Because he dared to question the fact that CBS had installed sycophants in its top ranks. Instead of standing in solidarity, c...",
-      "date": "2026-06-05T18:44:20+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2241234477.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "34b42a212e66",
-      "title": "Reid Hoffman to Leave Microsoft’s Board of Directors",
-      "link": "https://www.nytimes.com/2026/06/05/technology/reid-hoffman-leaving-microsoft-board.html",
-      "summary": "The LinkedIn co-founder was a key bridge to Microsoft’s relationship with OpenAI, but he also came with some baggage.",
-      "date": "2026-06-05T18:25:38+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/06/05/multimedia/05biz-microsoft-hoffman-mzhg/05biz-microsoft-hoffman-mzhg-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "8f405c0238e9",
-      "title": "GM’s electric future depends on a new battery — and this facility",
-      "link": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
-      "summary": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
-      "date": "2026-06-05T17:44:18+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "23e3413536ec",
-      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
-      "link": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
-      "summary": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.",
-      "date": "2026-06-05T17:38:06+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "57d58d9a7df7",
-      "title": "The most interesting startups right now want to get you off your phone",
-      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going v...",
-      "date": "2026-06-05T17:17:06+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "4215bd6f0dca",
-      "title": "The Sonos Era 100 speaker is down to its lowest price in months",
-      "link": "https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale",
-      "summary": "Whether you’re considering starting a Sonos speaker setup, or adding to an existing group, the Sonos Era 100 is worth picking up. The compact, capable smart speaker is currently marked down to $189 ($30 off) at a variety of retailers, including Amazon, Best Buy, and directly from Sonos. If you wa...",
-      "date": "2026-06-05T17:00:47+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sonos-era-100-deal-image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "7f2129ce4643",
-      "title": "2026.23: Power Shifts",
-      "link": "https://stratechery.com/2026/power-shifts/",
-      "summary": "The best Stratechery content from the week of June 1, 2026, including Google and Microsoft, YouTubers taking over Hollywood, and a guide to the NBA Finals.",
-      "date": "2026-06-05T17:00:00+00:00",
-      "source": "Stratechery",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/06/GettyImages-2279708354.jpg?resize=1700%2C1133&#038;ssl=1"
-    },
-    {
-      "id": "a32124ba0438",
-      "title": "This is your laptop… on AI",
-      "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new wa...",
-      "date": "2026-06-05T16:39:07+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "d42d70564a4d",
-      "title": "Supabase doubles valuation to $10B in 8 months",
-      "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
-      "summary": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
-      "date": "2026-06-05T16:32:27+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "3db9535f3c55",
-      "title": "What happens when your phone is confiscated at the airport",
-      "link": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists",
-      "summary": "Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're US citizens. When Minnesota labor organizer Janette Zahia Corcelius returned home from a three-week trip to Europe in l...",
-      "date": "2026-06-05T16:15:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257631_border_agents_phone_search_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "17bcfa04472e",
-      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
-      "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
-      "summary": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
-      "date": "2026-06-05T16:07:46+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
@@ -433,6 +433,314 @@
   ],
   "all_articles": [
     {
+      "id": "cd35888373be",
+      "title": "Inglaterra chega à Copa de 2026 com elenco estrelado e sonho de encerrar jejum histórico",
+      "link": "https://exame.com/esporte/inglaterra-chega-a-copa-de-2026-com-elenco-estrelado-e-sonho-de-encerrar-jejum-historico/",
+      "summary": "Vice-campeã da Eurocopa aposta em uma geração talentosa para voltar a conquistar o mundo após 60 anos",
+      "date": "2026-06-07T08:38:33+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/tomas-tuchel-e-tecnico-da-Inglaterra.jpg"
+    },
+    {
+      "id": "b9a4c9ad40f9",
+      "title": "Este gaúcho fatura R$ 304 milhões alugando 3.800 empilhadeiras pelo Brasil",
+      "link": "https://exame.com/negocios/este-gaucho-fatura-r-304-milhoes-alugando-3-800-empilhadeiras-pelo-brasil/",
+      "summary": "Distribuidora da Toyota no Sul, a Carmak surfa a virada da indústria brasileira, que tem trocado a compra de máquinas pela locação",
+      "date": "2026-06-07T08:31:28+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/carmak.jpg"
+    },
+    {
+      "id": "78a9749d44f3",
+      "title": "IA surpreende especialistas ao resolver problemas que levaram décadas para humanos",
+      "link": "https://exame.com/ciencia/ia-surpreende-especialistas-ao-resolver-problemas-que-levaram-decadas-para-humanos/",
+      "summary": "Avanço acelerado da inteligência artificial na resolução de problemas matemáticos leva especialistas a repensarem o futuro da profissão",
+      "date": "2026-06-07T08:27:21+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/05/mlb-robot-humanoid-using-tablet-computer-engineering-science-studying.jpg"
+    },
+    {
+      "id": "cbe65aa2d1a7",
+      "title": "'Mundo paralelo': quando sonhar acordado deixa de ser saudável",
+      "link": "https://exame.com/ciencia/mundo-paralelo-quando-sonhar-acordado-deixa-de-ser-saudavel/",
+      "summary": "Estudos sugerem que entre 2% e 4% dos adultos podem sofrer de devaneio desadaptativo, condição marcada por fantasias intensas e compulsivas",
+      "date": "2026-06-07T08:21:26+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/silhouette-human-head-with-gear-figure-concept-mental-health-world-mental-health-day.jpg"
+    },
+    {
+      "id": "bebdfd9ab736",
+      "title": "Novo medicamento reduz em 60% o risco de morte por câncer de pâncreas",
+      "link": "https://exame.com/ciencia/novo-medicamento-reduz-em-60-o-risco-de-morte-por-cancer-de-pancreas/",
+      "summary": "Estudo com cerca de 500 pacientes mostrou aumento da sobrevida e menor risco de morte em comparação com a quimioterapia",
+      "date": "2026-06-07T08:17:07+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "0edf40c8ab6c",
+      "title": "Os carros milionários da Seleção do Brasil para a Copa do Mundo 2026",
+      "link": "https://exame.com/casual/os-carros-milionarios-da-selecao-do-brasil-para-a-copa-do-mundo-2026/",
+      "summary": "De um Rolls-Royce com interior laranja a uma réplica do Batmóvel: o que os jogadores da Seleção guardam nas garagens",
+      "date": "2026-06-07T08:04:07+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "6d9cf859dd14",
+      "title": "Eu cuido sozinha da casa que era dos nossos pais. Posso fazer usucapião?",
+      "link": "https://exame.com/mercado-imobiliario/eu-cuido-sozinha-da-casa-que-era-dos-nossos-pais-posso-fazer-usucapiao/",
+      "summary": "Especialista responde dúvida de leitores; envie você também suas perguntas",
+      "date": "2026-06-07T08:00:47+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "ed34be3b3aee",
+      "title": "Caiado e Zema só devem crescer após início da campanha, diz CEO do Ideia",
+      "link": "https://exame.com/brasil/caiado-e-zema-so-devem-crescer-apos-inicio-da-campanha-diz-ceo-do-ideia/",
+      "summary": "Durante participação no programa Eleições em Pauta, da EXAME, Schulman afirmou que tanto Caiado quanto Zema ainda enfrentam o desafio do baixo conhecimento nacional",
+      "date": "2026-06-07T08:00:29+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "2d06bd81ce39",
+      "title": "Eleições 2026: quem são os possíveis candidatos ao Senado no Paraná?",
+      "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-possiveis-candidatos-ao-senado-no-parana/",
+      "summary": "Estado deverá eleger duas pessoas ao Senado no pleito eleitoral deste ano",
+      "date": "2026-06-07T08:00:06+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "9234a33b0239",
+      "title": "Eleições 2026: quem são os possíveis candidatos ao Senado no Piauí?",
+      "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-possiveis-candidatos-ao-senado-no-piaui/",
+      "summary": "Estado deverá eleger duas pessoas ao Senado no pleito eleitoral deste ano",
+      "date": "2026-06-07T08:00:01+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "9e34ed21506c",
+      "title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
+      "link": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
+      "summary": "Sorry Anker: JMGO now makes my favorite flagship portable projector. The N3 Ultimate is an excellent portable 4K projector that defeats moderate ambient light at severe placement angles and can rival more expensive home theater installations at night. After a few weeks of testing, I think the raw...",
+      "date": "2026-06-07T07:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_0796.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "3ac63e4b299c",
+      "title": "Why is the USMNT not better at soccer?",
+      "link": "https://www.morningbrew.com/stories/why-is-the-usmnt-not-better-at-soccer?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "The US has never won a men’s World Cup, despite being the third-most populous country in the world.",
+      "date": "2026-06-07T05:57:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-02/image-70a25fccb43017d29e72c546cbe0dd5ffe411833-4719x3146-jpg/GettyImages-2277736801.jpg"
+    },
+    {
+      "id": "1a9631a424ab",
+      "title": "Is hosting the World Cup worth it?",
+      "link": "https://www.morningbrew.com/stories/is-hosting-the-world-cup-worth-it?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "FIFA estimates that the tournament could inject up to $9.6 billion into the US economy.",
+      "date": "2026-06-07T05:53:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-02/image-a23a9d9dfd77bb6ce9d68f17024e631d2da5a533-7488x4994-jpg/GettyImages-2243594355.jpg"
+    },
+    {
+      "id": "b2d647f210d6",
+      "title": "Why this year’s broadcast deals are so chaotic",
+      "link": "https://www.morningbrew.com/stories/why-this-years-broadcast-deals-are-so-chaotic?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "FIFA’s global media rights for World Cup 2026 are like a kids’ rec soccer game: slow-going, messy, and featuring many players who aren’t doing what the big bosses wish they would.",
+      "date": "2026-06-07T05:11:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-02/image-5ce3241489002ac0f3f375510af7b6c6e51bf868-3811x2541-jpg/GettyImages-1245109433.jpg"
+    },
+    {
+      "id": "4c996b799e17",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "date": "2026-06-06T20:32:24+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798"
+    },
+    {
+      "id": "1af498ed18f6",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "date": "2026-06-06T18:13:36+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "4db576ec9b71",
+      "title": "The first Story-Rich showcase was packed with narrative-driven games",
+      "link": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
+      "summary": "Fellow Traveller, the publisher behind games like Titanium Court and 1000xResist, just wrapped up its Story-Rich Showcase, which featured a bunch of narrative-driven indie games. With more than 20 games on display, there was a lot to follow, but we've pulled together some of the most notable anno...",
+      "date": "2026-06-06T18:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_7d979e3a1f620ba9ba549819da6c8bd15437e5d9.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "c1f1b19c158b",
+      "title": "GOG apologizes for emailing people Nazi symbols",
+      "link": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
+      "summary": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a \"series of mistakes,\" including miscommunication with the German QA team, inconsistent font rendering, and ...",
+      "date": "2026-06-06T17:59:37+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0401019b4079",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "date": "2026-06-06T17:42:15+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "71425e43ec2b",
+      "title": "The cutest games from the Wholesome Direct 2026 showcase",
+      "link": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
+      "summary": "Every year at Summer Game Fest, nestled in between the splashy blockbuster showcases, the Wholesome Direct provides a nice change of pace. It's similarly packed with games - this year's edition had more than 50 - but the vibe is more chill and, well, wholesome. As in years past, I've pulled out s...",
+      "date": "2026-06-06T17:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-HF2-Ferris-Wheel.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "35ed45298745",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "date": "2026-06-06T16:17:21+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800"
+    },
+    {
+      "id": "00840534ec08",
+      "title": "Summer Game Fest 2026: All the news from gaming’s busiest week",
+      "link": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
+      "summary": "Get ready for some gaming news. It’s officially June, which means splashy new events from PlayStation, Xbox, gaming hype man Geoff Keighley, and more. PlayStation kicked things off with a big event that was mostly about premium single-player games like the new God of War Laufey — a statement from...",
+      "date": "2026-06-06T16:14:23+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/FFVII_Revelation_June_Screenshots_16.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "32839489bb71",
+      "title": "4K Blu-rays are three for $33 ahead of Father’s Day",
+      "link": "https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale",
+      "summary": "If you know a dad with a predilection for physical media, he might really dig what you buy for him with this deal at Gruv. Ahead of Father’s Day on June 21st, the online seller (operated by Universal Pictures, in case you didn’t know) is letting you check out with three movies from a large […]",
+      "date": "2026-06-06T16:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/12972341/2493_D030_00395R_GRD.JPG_cmyk_2040.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "501f4e410442",
+      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all ov...",
+      "date": "2026-06-06T15:05:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "c9ab4b704e04",
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "summary": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.",
+      "date": "2026-06-06T15:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/image_664f47.png?resize=1200,732"
+    },
+    {
+      "id": "1d7a80729470",
+      "title": "Benn Jordan longs for the days of tech that didn’t spy on you",
+      "link": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire",
+      "summary": "Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to take his YouTube channel in a different direction. He didn't stop covering music gear overnight, but ...",
+      "date": "2026-06-06T15:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/1000033192.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0db5092d8a42",
+      "title": "82-0 is the best basketball game, to hell with NBA 2K",
+      "link": "https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game",
+      "summary": "82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck. The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season. Obviously, if you just had free rein to pick whoever you wanted from throughout history, there woul...",
+      "date": "2026-06-06T14:30:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-06-at-10.14.26AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "ad7fcaa70423",
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - ...",
+      "date": "2026-06-06T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "id": "f8cc5bdc5a08",
       "title": "People Love to Hate This Fake Private Equity Guy",
       "link": "https://www.nytimes.com/2026/06/06/style/people-love-to-hate-this-fake-private-equity-guy.html",
@@ -442,116 +750,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
-    },
-    {
-      "id": "6937d99b044c",
-      "title": "Lembra da Cintra? O que aconteceu com a marca de cervejas que chegou a ser a 4ª maior do Brasil",
-      "link": "https://exame.com/negocios/lembra-da-cintra-o-que-aconteceu-com-a-marca-de-cervejas-que-chegou-a-ser-a-4a-maior-do-brasil/",
-      "summary": "Criada por um empresário português que já tinha presidido o Sporting, a Cintra apostou no preço baixo para enfrentar Brahma e Antarctica",
-      "date": "2026-06-06T08:12:10+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/cintra_cerveja.jpg"
-    },
-    {
-      "id": "5abcc8069c4d",
-      "title": "Aos 90 anos, como o maior supermercado do RS compete no setor bilionário dos shoppings",
-      "link": "https://exame.com/negocios/aos-90-anos-como-o-maior-supermercado-do-rs-compete-no-setor-bilionario-dos-shoppings/",
-      "summary": "Dona de 43 empreendimentos, companhia faturou R$ 8,8 bilhões em 2025 com supermercados, no ano em que inaugurou mais um centro comercial em Porto Alegre",
-      "date": "2026-06-06T08:10:52+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/07/MG_7333.jpg"
-    },
-    {
-      "id": "13769d40562a",
-      "title": "As mansões dos convocados do Brasil para a Copa do Mundo 2026",
-      "link": "https://exame.com/casual/as-mansoes-dos-convocados-do-brasil-para-a-copa-do-mundo-2026/",
-      "summary": "Neymar lidera com uma cobertura de US$ 54 milhões em Dubai. Vini Jr. vive na mesma mansão que já foi de Sergio Ramos e de Ronaldo Fenômeno",
-      "date": "2026-06-06T08:03:59+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/CASAS-JOGADORES.jpg"
-    },
-    {
-      "id": "76728f3ee603",
-      "title": "Peru: segundo turno das eleições conta com filha de Fujimori",
-      "link": "https://exame.com/mundo/peru-segundo-turno-das-eleicoes-conta-com-filha-de-fujimori/",
-      "summary": "Turno final das eleições peruanas verá duelo entre esquerdista Roberto Sanchez e a direitista Keiko Fujimori, que carrega o nome de uma das famílias mais polarizadoras da política do país",
-      "date": "2026-06-06T08:01:35+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260412__A7JP7ZT__v2__HighRes__TopshotPeruElectionVote.jpg"
-    },
-    {
-      "id": "f05c0b98370f",
-      "title": "800 prefeitos e viagens pelo Brasil: a estratégia de Caiado para crescer nas pesquisas",
-      "link": "https://exame.com/brasil/800-prefeitos-e-viagens-pelo-brasil-a-estrategia-de-caiado-para-crescer-na-pre-campanha/",
-      "summary": "Ex-governador de Goiás intensifica agenda de viagens e aposta na capilaridade do PSD, que elegeu mais de 800 prefeitos em 2024, para ampliar sua presença nacional antes de 2026",
-      "date": "2026-06-06T08:00:56+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/ronaldo-caiado.jpg"
-    },
-    {
-      "id": "88cab4c16348",
-      "title": "Exportações de frango dos EUA perdem força e ameaçam margens da Tyson Foods",
-      "link": "https://exame.com/agro/exportacoes-de-frango-dos-eua-perdem-forca-e-ameacam-margens-da-tyson/",
-      "summary": "Relatório do BTG aponta queda atípica nos preços externos em março e vê risco de perda de rentabilidade no setor",
-      "date": "2026-06-06T08:00:31+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/TysonFoods_MediaPhotos_Transportation.png"
-    },
-    {
-      "id": "e98f1abd6b33",
-      "title": "Eleições 2026: quem são os possíveis candidatos ao Senado na Paraíba?",
-      "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-possiveis-candidatos-ao-senado-na-paraiba/",
-      "summary": "Estado deverá eleger duas pessoas ao Senado no pleito eleitoral deste ano",
-      "date": "2026-06-06T08:00:27+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "a4c6f1ad0799",
-      "title": "Emprego, renda e floresta: a aposta da Suzano para tirar 200 mil pessoas da pobreza",
-      "link": "https://exame.com/esg/emprego-renda-e-floresta-a-aposta-da-suzano-para-tirar-200-mil-pessoas-da-pobreza/",
-      "summary": "Companhia investiu R$ 20 milhões em projetos sociais, captou outros R$ 60 milhões com parceiros e já alcançou mais da metade da meta de retirar 200 mil pessoas da pobreza até 2030",
-      "date": "2026-06-06T07:56:14+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/03/suzano.jpg"
-    },
-    {
-      "id": "3ebf44847e53",
-      "title": "Nem preço, nem distância: a invasão escocesa na Copa do Mundo de 2026",
-      "link": "https://exame.com/esporte/nem-preco-nem-distancia-a-invasao-escocesa-na-copa-do-mundo-de-2026/",
-      "summary": "Após 28 anos longe do torneio, torcedores da Escócia ignoram custos elevados e prometem marcar presença nos Estados Unidos",
-      "date": "2026-06-06T07:54:17+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/escocia.png"
-    },
-    {
-      "id": "6d47fcfce945",
-      "title": "Uma ilha flutuante movida a energia nuclear: o plano da China para o transporte marítimo",
-      "link": "https://exame.com/tecnologia/uma-ilha-flutuante-movida-a-energia-nuclear-o-plano-da-china-para-o-transporte-maritimo/",
-      "summary": "Conceito reúne porto offshore, geração de energia e produção de combustível verde em estrutura movida a sal fundido",
-      "date": "2026-06-06T07:31:08+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/ilha_nuclear.png"
     },
     {
       "id": "10e6007e0c9b",
@@ -587,39 +785,6 @@
       "image": "https://static01.nyt.com/images/2026/06/05/multimedia/05biz-spacex-google-qzjh/05biz-spacex-google-qzjh-mediumSquareAt3X.jpg"
     },
     {
-      "id": "d51717c31d68",
-      "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
-      "link": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
-      "summary": "Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N. At the time, cofounder Raigan Burns issued some famous last words: \"We hope it's not another 10 yea...",
-      "date": "2026-06-05T23:25:34+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Image-3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "09cf6c04d64f",
-      "title": "Grand Theft Auto VI is warping the video game release calendar",
-      "link": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
-      "summary": "Who's afraid of the next GTA? Based on the last few days of Summer Game Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt every time a release date was announced. The month of November, when GTA VI launches, is virtually emp...",
-      "date": "2026-06-05T23:05:27+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "de8468f0b561",
-      "title": "Final Fantasy VII’s remake trilogy will conclude with Revelation",
-      "link": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
-      "summary": "Square Enix has officially announced the third and final game in its Final Fantasy VII remake trilogy: Final Fantasy VII Revelation. It will release on multiple platforms simultaneously - PC, PS5, Xbox Series X / S, and Nintendo Switch 2 - in spring 2027. In footage shown onstage at Summer Game F...",
-      "date": "2026-06-05T22:52:06+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/FFVII_Revelation_Switch_2_June_Screenshots_1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "072dfb5bf297",
       "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus",
       "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
@@ -628,7 +793,7 @@
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": null
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799"
     },
     {
       "id": "62199353b361",
@@ -640,39 +805,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
-    },
-    {
-      "id": "31002e764383",
-      "title": "Control Resonant is a sequel — and also a starting point",
-      "link": "https://www.theverge.com/games/944151/control-resonant-hands-on",
-      "summary": "Chronologically, Control Resonant is a sequel to 2019's Control. But in most other ways, the games aren't directly connected. To developer Remedy, they're more like two sides of the same coin. When Resonant was first revealed last year, creative director Mikael Kasurinen said you can play the gam...",
-      "date": "2026-06-05T21:45:44+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Story_04.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "9f4afb524cc6",
-      "title": "Congress still can’t decide what to do about warrantless surveillance",
-      "link": "https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte",
-      "summary": "The deadline to reauthorize Section 702 of the Foreign Intelligence Surveillance Act is coming up a week from now on June 12th, and legislators seem no closer to reaching a deal. If this sounds like deja vu, it's because we've been here before. Congress reauthorized Section 702 in late April - bu...",
-      "date": "2026-06-05T21:15:48+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "aa6fc8133c1d",
-      "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
-      "link": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
-      "summary": "Geoff Keighley’s annual June showcase for videos games has officially happened, and it was a big one. Across a two hour event — and another hour for Day of the Devs — we got news about the third Final Fantasy VII remake game, a new look at Control Resonant, the reveal of Tupac for RGG […]",
-      "date": "2026-06-05T20:40:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/FFVII_Revelation_June_Screenshots_18.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "7246a6a5862f",
@@ -705,18 +837,7 @@
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024"
-    },
-    {
-      "id": "ea5a842cff0d",
-      "title": "Gone in 60 minutes",
-      "link": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
-      "summary": "It should have been the final straw. The new power couple of editorial failure - Bari Weiss and Nick Bilton - had fired legendary 60 Minutes journalist Scott Pelley. Why? Because he dared to question the fact that CBS had installed sycophants in its top ranks. Instead of standing in solidarity, c...",
-      "date": "2026-06-05T18:44:20+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2241234477.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": null
     },
     {
       "id": "34b42a212e66",
@@ -730,50 +851,6 @@
       "image": "https://static01.nyt.com/images/2026/06/05/multimedia/05biz-microsoft-hoffman-mzhg/05biz-microsoft-hoffman-mzhg-mediumSquareAt3X.jpg"
     },
     {
-      "id": "8f405c0238e9",
-      "title": "GM’s electric future depends on a new battery — and this facility",
-      "link": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
-      "summary": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
-      "date": "2026-06-05T17:44:18+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "23e3413536ec",
-      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
-      "link": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
-      "summary": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.",
-      "date": "2026-06-05T17:38:06+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "57d58d9a7df7",
-      "title": "The most interesting startups right now want to get you off your phone",
-      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going v...",
-      "date": "2026-06-05T17:17:06+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "4215bd6f0dca",
-      "title": "The Sonos Era 100 speaker is down to its lowest price in months",
-      "link": "https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale",
-      "summary": "Whether you’re considering starting a Sonos speaker setup, or adding to an existing group, the Sonos Era 100 is worth picking up. The compact, capable smart speaker is currently marked down to $189 ($30 off) at a variety of retailers, including Amazon, Best Buy, and directly from Sonos. If you wa...",
-      "date": "2026-06-05T17:00:47+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sonos-era-100-deal-image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "7f2129ce4643",
       "title": "2026.23: Power Shifts",
       "link": "https://stratechery.com/2026/power-shifts/",
@@ -785,55 +862,11 @@
       "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/06/GettyImages-2279708354.jpg?resize=1700%2C1133&#038;ssl=1"
     },
     {
-      "id": "a32124ba0438",
-      "title": "This is your laptop… on AI",
-      "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new wa...",
-      "date": "2026-06-05T16:39:07+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "d42d70564a4d",
-      "title": "Supabase doubles valuation to $10B in 8 months",
-      "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
-      "summary": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
-      "date": "2026-06-05T16:32:27+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "3db9535f3c55",
-      "title": "What happens when your phone is confiscated at the airport",
-      "link": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists",
-      "summary": "Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're US citizens. When Minnesota labor organizer Janette Zahia Corcelius returned home from a three-week trip to Europe in l...",
-      "date": "2026-06-05T16:15:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257631_border_agents_phone_search_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "17bcfa04472e",
-      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
-      "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
-      "summary": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
-      "date": "2026-06-05T16:07:46+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "8511fbe7dffb",
       "title": "Why the SpaceX IPO Will Affect Your 401(k), Like It or Not",
       "link": "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html",
       "summary": "Elon Musk’s rocket company, on the cusp of the largest initial public offering ever, will soon end up in index funds after rule changes by Nasdaq and other index providers.",
-      "date": "2026-06-05T14:59:26+00:00",
+      "date": "2026-06-05T14:59:27+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
@@ -983,17 +1016,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-04/image-04fda92e5b010cc8a41f43d94c7f134e26c62d6f-1500x1000-jpg/MBD_ScottPelley_SM_06032026.jpg"
     },
     {
-      "id": "9f4543069257",
-      "title": "Big Tech hunts for cash to pay for its AI spend",
-      "link": "https://www.morningbrew.com/stories/big-tech-hunts-for-cash-to-pay-for-its-ai-spend?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Google will sell more stock, and Meta will sell an AI agent to businesses for the first time.",
-      "date": "2026-06-04T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-04/image-3d083bb4889a221fee9710ca6d9b7a0a45a70660-1500x1000-jpg/MBD_GoogleMeta_SM_06032026.jpg"
-    },
-    {
       "id": "37f94baaca7e",
       "title": "On-page content formats answer engines actually favor [new research]",
       "link": "https://blog.hubspot.com/marketing/content-format-types-that-earn-citations",
@@ -1014,28 +1036,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
-    },
-    {
-      "id": "5c7649ecadaf",
-      "title": "UN says El Niño is likely to develop this year",
-      "link": "https://www.morningbrew.com/stories/un-says-el-nino-is-likely-to-develop-this-year?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "We’ll never be able to harness Bill Nye’s raw passion for meteorological phenomena, but we can try.",
-      "date": "2026-06-03T05:14:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-02/image-75df04a72e03e4719afff39b6f0e1a13e440ff2f-4288x2888-jpg/GettyImages-1630805339.jpg"
-    },
-    {
-      "id": "567c16d23575",
-      "title": "Curry chooses Chinese co as new sneaker partner",
-      "link": "https://www.morningbrew.com/stories/curry-chooses-chinese-co-as-new-sneaker-partner?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The NBA superstar agreed to a 10-year deal with Li-Ning",
-      "date": "2026-06-03T04:02:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-02/image-494ce00313ff3b84d969131b01be52b182104565-6984x4656-jpg/GettyImages-2270131472.jpg"
     },
     {
       "id": "662fb73ac8a7",
