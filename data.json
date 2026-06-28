@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T11:24:42.179176+00:00",
+  "generated_at": "2026-06-28T11:44:34.274682+00:00",
   "total_articles": 90,
   "categories": [
     {
@@ -33,116 +33,314 @@
   ],
   "featured": [
     {
-      "id": "9e6d1679a982",
-      "title": "Como uma startup virou a guardiã dos arquivos da CBF — e quer desafiar gigantes de fotografia",
-      "link": "https://exame.com/negocios/como-uma-startup-virou-a-guardia-dos-arquivos-da-cbf-e-quer-desafiar-gigantes-de-fotografia/",
-      "summary": "Yapoli desenvolve soluções de gestão de ativos digitais ganha escala com clientes como Globo, Havaianas e CBF e mira expansão internacional após crescer no mercado esportivo",
-      "date": "2026-06-27T08:12:09+00:00",
+      "id": "0d8dfaa861ee",
+      "title": "Linha 6-Laranja abre primeiro trecho após 10 anos de obras; veja como será a operação",
+      "link": "https://exame.com/brasil/infraestrutura/linha-6-laranja-abre-primeiro-trecho-apos-10-anos-de-obras-veja-como-sera-a-operacao/",
+      "summary": "Primeiras seis estações entram em operação assistida na próxima semana, sem cobrança de tarifa. Projeto de R$ 19 bilhões e 15 estações será entregue em 2027",
+      "date": "2026-06-28T08:36:42+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/recurso-humano-equipes-membros-da-equipe-yapoli-adalberto-generoso-laura-colo-2022-adalberto-e-laura-editadas-1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/55252247064_cc825c5e0c_o-1536x1024-1.jpg"
     },
     {
-      "id": "8a366af225de",
-      "title": "Governo Lula vai parcelar dívida de 3,5 milhões de MEIs em até 140 meses",
-      "link": "https://exame.com/brasil/governo-lula-vai-parcelar-divida-de-35-milhoes-de-meis-em-ate-140-meses/",
-      "summary": "Novo programa deve refinanciar R$ 12,4 bilhões em débitos acumulados por microempreendedores inadimplentes com descontos de até 70% sobre juros e encargos",
-      "date": "2026-06-27T08:12:06+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2020/04/mei-10-milhoes-brasil-1.jpg"
-    },
-    {
-      "id": "d3f4a89e8249",
-      "title": "Candidatos discutem Trump e esquecem preocupações do brasileiro, diz CEO da Alfa",
-      "link": "https://exame.com/brasil/candidatos-discutem-trump-e-esquecem-preocupacoes-do-brasileiro-diz-ceo-da-alfa/",
-      "summary": "No programa Eleições em Pauta, Emanoelton Borges afirma que assuntos que impactam a vida do brasileiro não estão em pauta pelas pré-campanhas",
-      "date": "2026-06-27T08:10:25+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Trump_IraAcordo.jpg"
-    },
-    {
-      "id": "6dc47bb4ffc8",
-      "title": "Assaí terá postos de combustível: 'Talvez consigamos entregar energia mais barata', diz CEO",
-      "link": "https://exame.com/negocios/assai-tera-postos-de-combustivel-talvez-consigamos-entregar-energia-mais-barata-diz-ceo/",
-      "summary": "Belmiro Gomes diz que a rede avalia entrar no mercado de postos de combustíveis e eletropostos para ampliar serviços e acompanhar o avanço dos carros elétricos",
-      "date": "2026-06-27T08:07:07+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/BELMIRO-1.jpg.jpeg"
-    },
-    {
-      "id": "d27975c55b99",
-      "title": "Calendário artístico: as principais feiras de arte que ocorrem até o fim do ano",
-      "link": "https://exame.com/casual/calendario-artistico-as-principais-feiras-de-arte-que-ocorrem-ate-o-fim-do-ano/",
-      "summary": "Depois da Bienal e da SP-Arte, separamos os próximos eventos no mundo todo para ver e comprar obras de arte",
-      "date": "2026-06-27T08:02:42+00:00",
+      "id": "5193b7ed6429",
+      "title": "Aranha usa 'catapulta' de seda para capturar formigas em 'armadilha mortal'",
+      "link": "https://exame.com/ciencia/aranha-usa-catapulta-de-seda-para-capturar-formigas-em-armadilha-mortal/",
+      "summary": "Pesquisadores descobriram um mecanismo de caça altamente especializado, criado para capturar apenas formigas-verdes agressivas",
+      "date": "2026-06-28T08:33:43+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "81e0a4c71341",
-      "title": "Por que o Desenrola é um 'paliativo', segundo este economista",
-      "link": "https://exame.com/economia/por-que-o-desenrola-e-um-paliativo-segundo-este-economista/",
-      "summary": "Alto endividamento da população e estímulo ao consumo, associados à penetração das bets, levam um cenário alarmante para as finanças das famílias, diz Sérgio Vale",
-      "date": "2026-06-27T08:01:58+00:00",
+      "id": "d9fd13d95187",
+      "title": "Mata-mata da Copa do Mundo: veja quem entra em campo neste domingo, 28",
+      "link": "https://exame.com/esporte/mata-mata-da-copa-do-mundo-veja-quem-entra-em-campo-neste-domingo-28/",
+      "summary": "A abertura do mata-mata do Mundial contará com apenas um jogo: o duelo entre Canadá e África do Sul, às 16h",
+      "date": "2026-06-28T08:31:35+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/02/MG_7211.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Africa-do-Sul.jpg"
+    },
+    {
+      "id": "293c3d439d4b",
+      "title": "O fim da era das privatizações? FMI vê nova onda global de nacionalizações",
+      "link": "https://exame.com/economia/o-fim-da-era-das-privatizacoes-fmi-ve-nova-onda-global-de-nacionalizacoes/",
+      "summary": "Edição especial de revista do FMI aponta que a geoeconomia voltou ao centro das decisões dos governos e que o mundo vive a quarta grande onda de nacionalizações dos últimos 100 anos",
+      "date": "2026-06-28T08:30:45+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/FMI_fimdasprivatizacoes.png"
+    },
+    {
+      "id": "643a248be2e5",
+      "title": "Os novos artistas brasileiros para ficar de olho no mercado de arte",
+      "link": "https://exame.com/casual/os-novos-artistas-brasileiros-para-ficar-de-olho-no-mercado-de-arte/",
+      "summary": "Com premiações em alta, vendas recordes no exterior e obras integrando acervos internacionais, novos nomes da arte contemporânea ditam as regras do mercado",
+      "date": "2026-06-28T08:25:20+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "f6c56a6aa57c",
+      "title": "Um novo estreito de Ormuz? A ameaça no Mar Vermelho",
+      "link": "https://exame.com/mundo/um-novo-estreito-de-ormuz-a-ameaca-no-mar-vermelho/",
+      "summary": "Outra rota marítima vital para a economia global, o Mar Vermelho está sob ameaça dos Houthis, um grupo financiado pelo Irã, após resolução incerta de conflito com os EUA",
+      "date": "2026-06-28T08:17:59+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
     }
   ],
   "articles": [
     {
-      "id": "563b2ed4122f",
-      "title": "A leitura do governo Lula sobre as vitórias da direita na Colômbia e no Peru",
-      "link": "https://exame.com/brasil/a-leitura-do-governo-lula-sobre-as-vitorias-da-direita-na-colombia-e-no-peru/",
-      "summary": "Em meio à onda de governos conservadores, Planalto prevê espaço para cooperação bilateral",
-      "date": "2026-06-27T08:01:56+00:00",
+      "id": "f913b1b658cc",
+      "title": "Com 'cidade perdida' e montanha-russa, interior de SP terá parque de dinossauros de R$ 60 milhões",
+      "link": "https://exame.com/negocios/com-cidade-perdida-e-montanha-russa-interior-de-sp-tera-parque-de-dinossauros-de-r-60-milhoes/",
+      "summary": "Parque ocupa 170 mil metros quadrados na Serra da Mantiqueira e espera 350 mil visitantes por ano; montanha-russa, primeira da cidade, virá em fase posterior",
+      "date": "2026-06-28T08:13:05+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260622__B7U82ZK__v1__HighRes__ColombiaElectionRunoffVoteResults.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-17.22.30.jpeg"
     },
     {
-      "id": "0bed1505dafd",
-      "title": "A competição, e não a geopolítica, é o maior obstáculo para multinacionais na China",
-      "link": "https://exame.com/mundo/a-competicao-e-nao-a-geopolitica-e-o-maior-obstaculo-para-multinacionais-na-china/",
-      "summary": "Mesmo assim, apesar das pressões, empresas estrangeiras apostam no potencial do mercado chinês, como evidenciado pelas ações da Apple e da Nvidia, aponta economista no World Economic Forum Summer Davos",
-      "date": "2026-06-27T08:01:29+00:00",
+      "id": "8f457f0692fd",
+      "title": "Consulado dos EUA abre vagas para curso gratuito de inglês com foco em tecnologia e empreendedorismo",
+      "link": "https://exame.com/carreira/consulado-dos-eua-abre-vagas-para-curso-gratuito-de-ingles-com-foco-em-tecnologia-e-empreendedorismo/",
+      "summary": "Programa da Embaixada dos Estados Unidos e do Grupo +Unidos oferece 100 horas de formação online, mentorias e networking para jovens brasileiros. Veja como participar",
+      "date": "2026-06-28T08:08:55+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2019/07/visao-global-1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2021/05/2021-01-20T141444Z_1056554214_HP1EH1K13KK0H_RTRMADP_3_USA-BIDEN-INAUGURATION.jpg"
     },
     {
-      "id": "aba635c5a8cb",
-      "title": "Sangramento na gengiva pode ser o primeiro alerta para doenças graves",
-      "link": "https://exame.com/ciencia/sangramento-na-gengiva-pode-ser-o-primeiro-alerta-para-doencas-graves/",
-      "summary": "O que parece ser apenas um pequeno sangramento durante a escovação pode representar um sinal de alerta",
-      "date": "2026-06-27T08:01:17+00:00",
+      "id": "c64e5d3aad6c",
+      "title": "Picada de escorpião no Brasil é perigosa? Veja os dados sobre a crise",
+      "link": "https://exame.com/brasil/picada-de-escorpiao-no-brasil-e-perigosa-veja-os-dados-sobre-a-crise/",
+      "summary": "O Brasil registrou 225 mil acidentes com escorpiões em 2025, dobro de mortes do ano anterior. Entenda por que isso virou uma crise de saúde pública urbana.",
+      "date": "2026-06-28T08:07:58+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/gengiva.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Escorpiao-amarelo.png"
     },
     {
-      "id": "948834850250",
-      "title": "Notebook com IA/NPU: qual a diferença do tradicional e como saber se vale a pena?",
-      "link": "https://exame.com/tecnologia/examelab/notebook-com-ia-npu-qual-a-diferenca-do-tradicional-e-como-saber-se-vale-a-pena/",
-      "summary": "Notebook com NPU e inteligência artificial: entenda o que muda na prática, para quem esse tipo de equipamento é indicado e como escolher o modelo certo",
-      "date": "2026-06-27T08:00:46+00:00",
+      "id": "f8372350734a",
+      "title": "A empresa dele criou um 'Tinder' para o mercado imobiliário e já soma R$ 2,3 bilhões em projetos",
+      "link": "https://exame.com/negocios/a-empresa-dele-criou-um-tinder-para-o-mercado-imobiliario-e-ja-soma-r-23-bilhoes-em-projetos/",
+      "summary": "Grupo OSPA, de Porto Alegre, deixou de atuar apenas como escritório de arquitetura e criou um ecossistema que une inteligência territorial, mercado de capitais e educação",
+      "date": "2026-06-28T08:02:21+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Notebook-NPU-IA.png"
+      "image": null
+    },
+    {
+      "id": "bd08535f0102",
+      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+      "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain Lock, but the combination of materials, performance, and i...",
+      "date": "2026-06-28T07:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1827.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "f80ebd41d0ff",
+      "title": "US homes aren’t getting any younger",
+      "link": "https://www.morningbrew.com/stories/us-homes-arent-getting-any-younger?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "The median US home is a record 44 years old, according to the Harvard Joint Center for Housing Studies.",
+      "date": "2026-06-28T05:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-27/image-4e98eac36ee6ac8a9b4755079d7d7902ec5f5528-5184x3888-jpg/Residentialstreetwithmodestdetachedhouseswithaluminumsidingorclapboard"
+    },
+    {
+      "id": "ed9d1ba1a51c",
+      "title": "Flipping houses isn’t paying like it used to",
+      "link": "https://www.morningbrew.com/stories/flipping-houses-isnt-paying-like-it-used-to?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "According to the real estate data company Attom, returns on home flipping in 2025 fell to 25.5%, the lowest level since the 2008 recession.",
+      "date": "2026-06-28T05:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-27/image-fb7d813bf8f26affb79ecb6f276b08552cb59733-8568x5712-jpg/Buildermeasuringdeckframingwhileleaningoverstructure"
+    },
+    {
+      "id": "9656065a79e1",
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+      "date": "2026-06-28T05:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "1858c73bc372",
+      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+      "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "summary": "Instagram users could soon see more ways to tune their content.",
+      "date": "2026-06-27T21:27:37+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "9bfa7f063e6e",
+      "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+      "link": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reverse, an arpeggiator, equal-length autochopping, and it ex...",
+      "date": "2026-06-27T21:20:32+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/teenageengineering1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "86c9a613b95e",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "date": "2026-06-27T20:42:36+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1160112941.jpg?resize=1200,800"
+    },
+    {
+      "id": "a38571b69e8c",
+      "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atw...",
+      "date": "2026-06-27T18:39:32+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "eebf467e82c7",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RA...",
+      "date": "2026-06-27T17:28:18+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "8af7b14e9258",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "date": "2026-06-27T16:45:09+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800"
+    },
+    {
+      "id": "647ecbe4ab55",
+      "title": "The Guardian’s Kai Wright refuses to buy a new phone",
+      "link": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
+      "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a Peabody Award-winning journalist who has profiled po...",
+      "date": "2026-06-27T15:15:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/KAI-FNL-0089-EV3-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "1dbb32715de4",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "date": "2026-06-27T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM-e1782596077369.png?w=1103"
+    },
+    {
+      "id": "0fb4029fc10c",
+      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
+      "link": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
+      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're na...",
+      "date": "2026-06-27T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_f13e94982ebee258e47fa7ae66350ed6270118d9.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "70fed3f214fc",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the f...",
+      "date": "2026-06-27T13:30:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "8266b00ab558",
+      "title": "Inside the room where the smart home industry is still betting on Matter",
+      "link": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+      "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is the result of years...",
+      "date": "2026-06-27T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Unify-3E1A1400.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "889df233d895",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "date": "2026-06-27T12:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+    },
+    {
+      "id": "9423fdf43aac",
+      "title": "This puzzle game’s simple premise hides surprising depth",
+      "link": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
+      "summary": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplicity gives solo developer Dan DiIorio, better known as TrampolineTales, lots o...",
+      "date": "2026-06-27T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0e9ea028678c",
+      "title": "This might be the new best smart speaker",
+      "link": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Polymarket lies and Jalen...",
+      "date": "2026-06-27T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Installer-134.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "9ed891b00b59",
@@ -167,40 +365,7 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-26/image-e5c8bb75f7ff8a2675b1d73bf0b03c22fc8c005b-5064x3376-jpg/GettyImages-937843652.jpg"
     },
     {
-      "id": "c452d4a6f101",
-      "title": "Prime Day is almost over, but these are still the best Apple deals I’ve seen",
-      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "summary": "Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179. […]",
-      "date": "2026-06-27T02:56:52+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "b7e358abcf77",
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve ...",
-      "date": "2026-06-27T02:54:45+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "023400c1abd7",
-      "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
-      "link": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
-      "summary": "There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we’ve already tested and can stand behind. But our recommendations are only one way to identify a worthwhile deal: another is seeing which products fellow Verge readers ac...",
-      "date": "2026-06-27T02:33:54+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/xteink_x4_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "9975b715843d",
+      "id": "1a69e6f48125",
       "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
@@ -222,17 +387,6 @@
       "image": "https://static01.nyt.com/images/2026/06/26/business/26biz-anthropic-deal-mythos/26biz-anthropic-deal-mythos-mediumSquareAt3X.jpg"
     },
     {
-      "id": "22e57e6718dd",
-      "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
-      "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "summary": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on the final day of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is still […]",
-      "date": "2026-06-27T00:42:42+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Roborock-S8-MaxV-Ultra.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "b371ce97341a",
       "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
       "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
@@ -244,59 +398,15 @@
       "image": null
     },
     {
-      "id": "ac2557d3613a",
-      "title": "Anthropic’s Mythos 5 is back",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fab...",
-      "date": "2026-06-27T00:33:44+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "ac28f2f4da5b",
-      "title": "Prime Day’s final hours bring rare discounts on Philips Hue smart lights",
-      "link": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
-      "summary": "Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable. Prices have dropped significantly across much of the company’s smart lighting lineup, with deals on everything from smart bulb starter kits and sleep lamps to smart buttons. If you’ve...",
-      "date": "2026-06-27T00:20:50+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/philips-hue-a19-bulb-spec-up-3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "aafee7529966",
-      "title": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
-      "link": "https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale",
-      "summary": "We’ve already rounded up the best Philips Hue deals of Prime Day, but if you’re looking for something a little more budget-friendly, Govee’s latest sale is worth checking out. The company has heavily discounted several of its color-changing smart lamps, including the Table Lamp 2 ($53.99, down fr...",
-      "date": "2026-06-26T22:51:28+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/goveefloorlampbasiclifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "c068637bff61",
       "title": "Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
       "link": "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html",
       "summary": "Gigaom, which he started in 2001, established him as a leading voice in the tech world and signaled a shift in how the media covered the industry.",
-      "date": "2026-06-26T22:41:22+00:00",
+      "date": "2026-06-26T22:41:23+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/06/26/multimedia/00Malik--zljw/00Malik--zljw-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "b6976188c586",
-      "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
-      "link": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
-      "summary": "We’ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I’m most hyped for is a simple tool for fixing my most egregious mistakes. I bought a pair of Vampliers. If you’re unfamiliar, Vampliers are...",
-      "date": "2026-06-26T22:09:46+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/062626_Vampliers_VT001_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "9afeb691743d",
@@ -310,237 +420,325 @@
       "image": null
     },
     {
-      "id": "1eefaaf2d6f9",
-      "title": "Our favorite Prime Day gadgets under $100 you don’t need but will really want",
-      "link": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
-      "summary": "Prime Day has a funny way of convincing you to buy things you weren’t shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C cables, and an hour later you’ve also added a gadget that can press your coffee maker’s power button and […]",
-      "date": "2026-06-26T21:25:22+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/goveefloorlights.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "a1e44306588c",
       "title": "Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi",
       "link": "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
       "summary": "Mr. Zuckerberg’s plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users.",
-      "date": "2026-06-26T21:03:17+00:00",
+      "date": "2026-06-26T21:03:18+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/06/26/multimedia/26biz-meta-polymark-1-ztlv/26biz-meta-polymark-1-ztlv-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "01e7da282784",
-      "title": "These are the best deals you can still get on MacBooks before Apple’s price hike kicks in",
-      "link": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
-      "summary": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook Pro just became significantly better deals. As a...",
-      "date": "2026-06-26T19:42:52+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "c03d81f1945b",
-      "title": "Novak Djokovic has a new job — advisor to private equity firm General Atlantic",
-      "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-      "summary": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
-      "date": "2026-06-26T19:13:40+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "06295a87388f",
-      "title": "How a Niche Technology Became a Choke Point for A.I.",
-      "link": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
-      "summary": "Advanced chip packaging, which boosts computing power for artificial intelligence, has made the United States more reliant on Taiwan than ever.",
-      "date": "2026-06-26T18:55:00+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/06/27/multimedia/00biz-chip-package-Iyer-kfhp/00biz-chip-package-Iyer-kfhp-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "1a47988d71d7",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-      "date": "2026-06-26T18:32:14+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "0c10273e98ab",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "date": "2026-06-26T18:19:36+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "33a5057d7488",
-      "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
-      "link": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
-      "summary": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive.",
-      "date": "2026-06-26T18:05:07+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/06/25/business/00tesla-rebound-2/00tesla-rebound-2-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "29df2e20c643",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out...",
-      "date": "2026-06-26T17:43:22+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
-    },
-    {
-      "id": "4053453d4aee",
-      "title": "Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report",
-      "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
-      "summary": "The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.",
-      "date": "2026-06-26T17:29:29+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "afed6ef5a089",
-      "title": "2026.26: Summer Vibes",
-      "link": "https://stratechery.com/2026/summer-vibes/",
-      "summary": "The best Stratechery content from the week of June 22, 2026, including a vibe coding adventure, Apple in Europe, and a midsummer mailbag.",
-      "date": "2026-06-26T17:00:00+00:00",
-      "source": "Stratechery",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-13.06.10.jpeg?resize=1536%2C1024&#038;ssl=1"
     }
   ],
   "all_articles": [
     {
-      "id": "9e6d1679a982",
-      "title": "Como uma startup virou a guardiã dos arquivos da CBF — e quer desafiar gigantes de fotografia",
-      "link": "https://exame.com/negocios/como-uma-startup-virou-a-guardia-dos-arquivos-da-cbf-e-quer-desafiar-gigantes-de-fotografia/",
-      "summary": "Yapoli desenvolve soluções de gestão de ativos digitais ganha escala com clientes como Globo, Havaianas e CBF e mira expansão internacional após crescer no mercado esportivo",
-      "date": "2026-06-27T08:12:09+00:00",
+      "id": "0d8dfaa861ee",
+      "title": "Linha 6-Laranja abre primeiro trecho após 10 anos de obras; veja como será a operação",
+      "link": "https://exame.com/brasil/infraestrutura/linha-6-laranja-abre-primeiro-trecho-apos-10-anos-de-obras-veja-como-sera-a-operacao/",
+      "summary": "Primeiras seis estações entram em operação assistida na próxima semana, sem cobrança de tarifa. Projeto de R$ 19 bilhões e 15 estações será entregue em 2027",
+      "date": "2026-06-28T08:36:42+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/recurso-humano-equipes-membros-da-equipe-yapoli-adalberto-generoso-laura-colo-2022-adalberto-e-laura-editadas-1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/55252247064_cc825c5e0c_o-1536x1024-1.jpg"
     },
     {
-      "id": "8a366af225de",
-      "title": "Governo Lula vai parcelar dívida de 3,5 milhões de MEIs em até 140 meses",
-      "link": "https://exame.com/brasil/governo-lula-vai-parcelar-divida-de-35-milhoes-de-meis-em-ate-140-meses/",
-      "summary": "Novo programa deve refinanciar R$ 12,4 bilhões em débitos acumulados por microempreendedores inadimplentes com descontos de até 70% sobre juros e encargos",
-      "date": "2026-06-27T08:12:06+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2020/04/mei-10-milhoes-brasil-1.jpg"
-    },
-    {
-      "id": "d3f4a89e8249",
-      "title": "Candidatos discutem Trump e esquecem preocupações do brasileiro, diz CEO da Alfa",
-      "link": "https://exame.com/brasil/candidatos-discutem-trump-e-esquecem-preocupacoes-do-brasileiro-diz-ceo-da-alfa/",
-      "summary": "No programa Eleições em Pauta, Emanoelton Borges afirma que assuntos que impactam a vida do brasileiro não estão em pauta pelas pré-campanhas",
-      "date": "2026-06-27T08:10:25+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Trump_IraAcordo.jpg"
-    },
-    {
-      "id": "6dc47bb4ffc8",
-      "title": "Assaí terá postos de combustível: 'Talvez consigamos entregar energia mais barata', diz CEO",
-      "link": "https://exame.com/negocios/assai-tera-postos-de-combustivel-talvez-consigamos-entregar-energia-mais-barata-diz-ceo/",
-      "summary": "Belmiro Gomes diz que a rede avalia entrar no mercado de postos de combustíveis e eletropostos para ampliar serviços e acompanhar o avanço dos carros elétricos",
-      "date": "2026-06-27T08:07:07+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/BELMIRO-1.jpg.jpeg"
-    },
-    {
-      "id": "d27975c55b99",
-      "title": "Calendário artístico: as principais feiras de arte que ocorrem até o fim do ano",
-      "link": "https://exame.com/casual/calendario-artistico-as-principais-feiras-de-arte-que-ocorrem-ate-o-fim-do-ano/",
-      "summary": "Depois da Bienal e da SP-Arte, separamos os próximos eventos no mundo todo para ver e comprar obras de arte",
-      "date": "2026-06-27T08:02:42+00:00",
+      "id": "5193b7ed6429",
+      "title": "Aranha usa 'catapulta' de seda para capturar formigas em 'armadilha mortal'",
+      "link": "https://exame.com/ciencia/aranha-usa-catapulta-de-seda-para-capturar-formigas-em-armadilha-mortal/",
+      "summary": "Pesquisadores descobriram um mecanismo de caça altamente especializado, criado para capturar apenas formigas-verdes agressivas",
+      "date": "2026-06-28T08:33:43+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "81e0a4c71341",
-      "title": "Por que o Desenrola é um 'paliativo', segundo este economista",
-      "link": "https://exame.com/economia/por-que-o-desenrola-e-um-paliativo-segundo-este-economista/",
-      "summary": "Alto endividamento da população e estímulo ao consumo, associados à penetração das bets, levam um cenário alarmante para as finanças das famílias, diz Sérgio Vale",
-      "date": "2026-06-27T08:01:58+00:00",
+      "id": "d9fd13d95187",
+      "title": "Mata-mata da Copa do Mundo: veja quem entra em campo neste domingo, 28",
+      "link": "https://exame.com/esporte/mata-mata-da-copa-do-mundo-veja-quem-entra-em-campo-neste-domingo-28/",
+      "summary": "A abertura do mata-mata do Mundial contará com apenas um jogo: o duelo entre Canadá e África do Sul, às 16h",
+      "date": "2026-06-28T08:31:35+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/02/MG_7211.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Africa-do-Sul.jpg"
     },
     {
-      "id": "563b2ed4122f",
-      "title": "A leitura do governo Lula sobre as vitórias da direita na Colômbia e no Peru",
-      "link": "https://exame.com/brasil/a-leitura-do-governo-lula-sobre-as-vitorias-da-direita-na-colombia-e-no-peru/",
-      "summary": "Em meio à onda de governos conservadores, Planalto prevê espaço para cooperação bilateral",
-      "date": "2026-06-27T08:01:56+00:00",
+      "id": "293c3d439d4b",
+      "title": "O fim da era das privatizações? FMI vê nova onda global de nacionalizações",
+      "link": "https://exame.com/economia/o-fim-da-era-das-privatizacoes-fmi-ve-nova-onda-global-de-nacionalizacoes/",
+      "summary": "Edição especial de revista do FMI aponta que a geoeconomia voltou ao centro das decisões dos governos e que o mundo vive a quarta grande onda de nacionalizações dos últimos 100 anos",
+      "date": "2026-06-28T08:30:45+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260622__B7U82ZK__v1__HighRes__ColombiaElectionRunoffVoteResults.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/FMI_fimdasprivatizacoes.png"
     },
     {
-      "id": "0bed1505dafd",
-      "title": "A competição, e não a geopolítica, é o maior obstáculo para multinacionais na China",
-      "link": "https://exame.com/mundo/a-competicao-e-nao-a-geopolitica-e-o-maior-obstaculo-para-multinacionais-na-china/",
-      "summary": "Mesmo assim, apesar das pressões, empresas estrangeiras apostam no potencial do mercado chinês, como evidenciado pelas ações da Apple e da Nvidia, aponta economista no World Economic Forum Summer Davos",
-      "date": "2026-06-27T08:01:29+00:00",
+      "id": "643a248be2e5",
+      "title": "Os novos artistas brasileiros para ficar de olho no mercado de arte",
+      "link": "https://exame.com/casual/os-novos-artistas-brasileiros-para-ficar-de-olho-no-mercado-de-arte/",
+      "summary": "Com premiações em alta, vendas recordes no exterior e obras integrando acervos internacionais, novos nomes da arte contemporânea ditam as regras do mercado",
+      "date": "2026-06-28T08:25:20+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2019/07/visao-global-1.jpg"
+      "image": null
     },
     {
-      "id": "aba635c5a8cb",
-      "title": "Sangramento na gengiva pode ser o primeiro alerta para doenças graves",
-      "link": "https://exame.com/ciencia/sangramento-na-gengiva-pode-ser-o-primeiro-alerta-para-doencas-graves/",
-      "summary": "O que parece ser apenas um pequeno sangramento durante a escovação pode representar um sinal de alerta",
-      "date": "2026-06-27T08:01:17+00:00",
+      "id": "f6c56a6aa57c",
+      "title": "Um novo estreito de Ormuz? A ameaça no Mar Vermelho",
+      "link": "https://exame.com/mundo/um-novo-estreito-de-ormuz-a-ameaca-no-mar-vermelho/",
+      "summary": "Outra rota marítima vital para a economia global, o Mar Vermelho está sob ameaça dos Houthis, um grupo financiado pelo Irã, após resolução incerta de conflito com os EUA",
+      "date": "2026-06-28T08:17:59+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/gengiva.jpg"
+      "image": null
     },
     {
-      "id": "948834850250",
-      "title": "Notebook com IA/NPU: qual a diferença do tradicional e como saber se vale a pena?",
-      "link": "https://exame.com/tecnologia/examelab/notebook-com-ia-npu-qual-a-diferenca-do-tradicional-e-como-saber-se-vale-a-pena/",
-      "summary": "Notebook com NPU e inteligência artificial: entenda o que muda na prática, para quem esse tipo de equipamento é indicado e como escolher o modelo certo",
-      "date": "2026-06-27T08:00:46+00:00",
+      "id": "f913b1b658cc",
+      "title": "Com 'cidade perdida' e montanha-russa, interior de SP terá parque de dinossauros de R$ 60 milhões",
+      "link": "https://exame.com/negocios/com-cidade-perdida-e-montanha-russa-interior-de-sp-tera-parque-de-dinossauros-de-r-60-milhoes/",
+      "summary": "Parque ocupa 170 mil metros quadrados na Serra da Mantiqueira e espera 350 mil visitantes por ano; montanha-russa, primeira da cidade, virá em fase posterior",
+      "date": "2026-06-28T08:13:05+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Notebook-NPU-IA.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-17.22.30.jpeg"
+    },
+    {
+      "id": "8f457f0692fd",
+      "title": "Consulado dos EUA abre vagas para curso gratuito de inglês com foco em tecnologia e empreendedorismo",
+      "link": "https://exame.com/carreira/consulado-dos-eua-abre-vagas-para-curso-gratuito-de-ingles-com-foco-em-tecnologia-e-empreendedorismo/",
+      "summary": "Programa da Embaixada dos Estados Unidos e do Grupo +Unidos oferece 100 horas de formação online, mentorias e networking para jovens brasileiros. Veja como participar",
+      "date": "2026-06-28T08:08:55+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2021/05/2021-01-20T141444Z_1056554214_HP1EH1K13KK0H_RTRMADP_3_USA-BIDEN-INAUGURATION.jpg"
+    },
+    {
+      "id": "c64e5d3aad6c",
+      "title": "Picada de escorpião no Brasil é perigosa? Veja os dados sobre a crise",
+      "link": "https://exame.com/brasil/picada-de-escorpiao-no-brasil-e-perigosa-veja-os-dados-sobre-a-crise/",
+      "summary": "O Brasil registrou 225 mil acidentes com escorpiões em 2025, dobro de mortes do ano anterior. Entenda por que isso virou uma crise de saúde pública urbana.",
+      "date": "2026-06-28T08:07:58+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Escorpiao-amarelo.png"
+    },
+    {
+      "id": "f8372350734a",
+      "title": "A empresa dele criou um 'Tinder' para o mercado imobiliário e já soma R$ 2,3 bilhões em projetos",
+      "link": "https://exame.com/negocios/a-empresa-dele-criou-um-tinder-para-o-mercado-imobiliario-e-ja-soma-r-23-bilhoes-em-projetos/",
+      "summary": "Grupo OSPA, de Porto Alegre, deixou de atuar apenas como escritório de arquitetura e criou um ecossistema que une inteligência territorial, mercado de capitais e educação",
+      "date": "2026-06-28T08:02:21+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "bd08535f0102",
+      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+      "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain Lock, but the combination of materials, performance, and i...",
+      "date": "2026-06-28T07:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1827.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "f80ebd41d0ff",
+      "title": "US homes aren’t getting any younger",
+      "link": "https://www.morningbrew.com/stories/us-homes-arent-getting-any-younger?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "The median US home is a record 44 years old, according to the Harvard Joint Center for Housing Studies.",
+      "date": "2026-06-28T05:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-27/image-4e98eac36ee6ac8a9b4755079d7d7902ec5f5528-5184x3888-jpg/Residentialstreetwithmodestdetachedhouseswithaluminumsidingorclapboard"
+    },
+    {
+      "id": "ed9d1ba1a51c",
+      "title": "Flipping houses isn’t paying like it used to",
+      "link": "https://www.morningbrew.com/stories/flipping-houses-isnt-paying-like-it-used-to?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "According to the real estate data company Attom, returns on home flipping in 2025 fell to 25.5%, the lowest level since the 2008 recession.",
+      "date": "2026-06-28T05:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-27/image-fb7d813bf8f26affb79ecb6f276b08552cb59733-8568x5712-jpg/Buildermeasuringdeckframingwhileleaningoverstructure"
+    },
+    {
+      "id": "9656065a79e1",
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+      "date": "2026-06-28T05:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "1858c73bc372",
+      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+      "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "summary": "Instagram users could soon see more ways to tune their content.",
+      "date": "2026-06-27T21:27:37+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "9bfa7f063e6e",
+      "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+      "link": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reverse, an arpeggiator, equal-length autochopping, and it ex...",
+      "date": "2026-06-27T21:20:32+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/teenageengineering1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "86c9a613b95e",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "date": "2026-06-27T20:42:36+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1160112941.jpg?resize=1200,800"
+    },
+    {
+      "id": "a38571b69e8c",
+      "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atw...",
+      "date": "2026-06-27T18:39:32+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "eebf467e82c7",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RA...",
+      "date": "2026-06-27T17:28:18+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "8af7b14e9258",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "date": "2026-06-27T16:45:09+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800"
+    },
+    {
+      "id": "647ecbe4ab55",
+      "title": "The Guardian’s Kai Wright refuses to buy a new phone",
+      "link": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
+      "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a Peabody Award-winning journalist who has profiled po...",
+      "date": "2026-06-27T15:15:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/KAI-FNL-0089-EV3-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "1dbb32715de4",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "date": "2026-06-27T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM-e1782596077369.png?w=1103"
+    },
+    {
+      "id": "0fb4029fc10c",
+      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
+      "link": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
+      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're na...",
+      "date": "2026-06-27T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_f13e94982ebee258e47fa7ae66350ed6270118d9.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "70fed3f214fc",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the f...",
+      "date": "2026-06-27T13:30:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "8266b00ab558",
+      "title": "Inside the room where the smart home industry is still betting on Matter",
+      "link": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+      "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is the result of years...",
+      "date": "2026-06-27T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Unify-3E1A1400.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "889df233d895",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "date": "2026-06-27T12:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+    },
+    {
+      "id": "9423fdf43aac",
+      "title": "This puzzle game’s simple premise hides surprising depth",
+      "link": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
+      "summary": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplicity gives solo developer Dan DiIorio, better known as TrampolineTales, lots o...",
+      "date": "2026-06-27T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0e9ea028678c",
+      "title": "This might be the new best smart speaker",
+      "link": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Polymarket lies and Jalen...",
+      "date": "2026-06-27T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Installer-134.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "9ed891b00b59",
@@ -565,40 +763,7 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-26/image-e5c8bb75f7ff8a2675b1d73bf0b03c22fc8c005b-5064x3376-jpg/GettyImages-937843652.jpg"
     },
     {
-      "id": "c452d4a6f101",
-      "title": "Prime Day is almost over, but these are still the best Apple deals I’ve seen",
-      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "summary": "Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179. […]",
-      "date": "2026-06-27T02:56:52+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "b7e358abcf77",
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve ...",
-      "date": "2026-06-27T02:54:45+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "023400c1abd7",
-      "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
-      "link": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
-      "summary": "There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we’ve already tested and can stand behind. But our recommendations are only one way to identify a worthwhile deal: another is seeing which products fellow Verge readers ac...",
-      "date": "2026-06-27T02:33:54+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/xteink_x4_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "9975b715843d",
+      "id": "1a69e6f48125",
       "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
@@ -620,17 +785,6 @@
       "image": "https://static01.nyt.com/images/2026/06/26/business/26biz-anthropic-deal-mythos/26biz-anthropic-deal-mythos-mediumSquareAt3X.jpg"
     },
     {
-      "id": "22e57e6718dd",
-      "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
-      "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "summary": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on the final day of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is still […]",
-      "date": "2026-06-27T00:42:42+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Roborock-S8-MaxV-Ultra.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "b371ce97341a",
       "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
       "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
@@ -642,59 +796,15 @@
       "image": null
     },
     {
-      "id": "ac2557d3613a",
-      "title": "Anthropic’s Mythos 5 is back",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fab...",
-      "date": "2026-06-27T00:33:44+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "ac28f2f4da5b",
-      "title": "Prime Day’s final hours bring rare discounts on Philips Hue smart lights",
-      "link": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
-      "summary": "Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable. Prices have dropped significantly across much of the company’s smart lighting lineup, with deals on everything from smart bulb starter kits and sleep lamps to smart buttons. If you’ve...",
-      "date": "2026-06-27T00:20:50+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/philips-hue-a19-bulb-spec-up-3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "aafee7529966",
-      "title": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
-      "link": "https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale",
-      "summary": "We’ve already rounded up the best Philips Hue deals of Prime Day, but if you’re looking for something a little more budget-friendly, Govee’s latest sale is worth checking out. The company has heavily discounted several of its color-changing smart lamps, including the Table Lamp 2 ($53.99, down fr...",
-      "date": "2026-06-26T22:51:28+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/goveefloorlampbasiclifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "c068637bff61",
       "title": "Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
       "link": "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html",
       "summary": "Gigaom, which he started in 2001, established him as a leading voice in the tech world and signaled a shift in how the media covered the industry.",
-      "date": "2026-06-26T22:41:22+00:00",
+      "date": "2026-06-26T22:41:23+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/06/26/multimedia/00Malik--zljw/00Malik--zljw-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "b6976188c586",
-      "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
-      "link": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
-      "summary": "We’ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I’m most hyped for is a simple tool for fixing my most egregious mistakes. I bought a pair of Vampliers. If you’re unfamiliar, Vampliers are...",
-      "date": "2026-06-26T22:09:46+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/062626_Vampliers_VT001_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "9afeb691743d",
@@ -708,37 +818,15 @@
       "image": null
     },
     {
-      "id": "1eefaaf2d6f9",
-      "title": "Our favorite Prime Day gadgets under $100 you don’t need but will really want",
-      "link": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
-      "summary": "Prime Day has a funny way of convincing you to buy things you weren’t shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C cables, and an hour later you’ve also added a gadget that can press your coffee maker’s power button and […]",
-      "date": "2026-06-26T21:25:22+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/goveefloorlights.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "a1e44306588c",
       "title": "Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi",
       "link": "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
       "summary": "Mr. Zuckerberg’s plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users.",
-      "date": "2026-06-26T21:03:17+00:00",
+      "date": "2026-06-26T21:03:18+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/06/26/multimedia/26biz-meta-polymark-1-ztlv/26biz-meta-polymark-1-ztlv-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "01e7da282784",
-      "title": "These are the best deals you can still get on MacBooks before Apple’s price hike kicks in",
-      "link": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
-      "summary": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook Pro just became significantly better deals. As a...",
-      "date": "2026-06-26T19:42:52+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "c03d81f1945b",
@@ -763,28 +851,6 @@
       "image": "https://static01.nyt.com/images/2026/06/27/multimedia/00biz-chip-package-Iyer-kfhp/00biz-chip-package-Iyer-kfhp-mediumSquareAt3X.jpg"
     },
     {
-      "id": "1a47988d71d7",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-      "date": "2026-06-26T18:32:14+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "0c10273e98ab",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "date": "2026-06-26T18:19:36+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "33a5057d7488",
       "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
       "link": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
@@ -796,28 +862,6 @@
       "image": "https://static01.nyt.com/images/2026/06/25/business/00tesla-rebound-2/00tesla-rebound-2-mediumSquareAt3X.jpg"
     },
     {
-      "id": "29df2e20c643",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out...",
-      "date": "2026-06-26T17:43:22+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
-    },
-    {
-      "id": "4053453d4aee",
-      "title": "Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report",
-      "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
-      "summary": "The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.",
-      "date": "2026-06-26T17:29:29+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "afed6ef5a089",
       "title": "2026.26: Summer Vibes",
       "link": "https://stratechery.com/2026/summer-vibes/",
@@ -827,28 +871,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-13.06.10.jpeg?resize=1536%2C1024&#038;ssl=1"
-    },
-    {
-      "id": "7f4c4a9749b5",
-      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
-      "link": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
-      "summary": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
-      "date": "2026-06-26T16:32:55+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "c5dcc1d09e05",
-      "title": "TikTok’s road to becoming a super app",
-      "link": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
-      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "date": "2026-06-26T16:29:48+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     },
     {
       "id": "1eddfd868964",
@@ -1036,28 +1058,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
-    },
-    {
-      "id": "5a9e2fc0f908",
-      "title": "Meta designs its own glasses in the race for your face",
-      "link": "https://www.morningbrew.com/stories/meta-designs-its-own-glasses-in-the-race-for-your-face?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Each Big Tech company has its own approach to making AI-enabled glasses mainstream.",
-      "date": "2026-06-24T05:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-23/image-2c05377798713b807a8a8d8a3e8a97adaa32d34f-1500x1000-jpg/MBD-MetaSnapGlasses-0626.jpg"
-    },
-    {
-      "id": "41e611cf9dd7",
-      "title": "Investors are pulling away from AI on a global scale",
-      "link": "https://www.morningbrew.com/stories/investors-are-pulling-away-from-ai-on-a-global-scale?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Tech stocks were sold off worldwide to start the week",
-      "date": "2026-06-24T04:02:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-03-27/image-de55cce4a88bb47703ba687078168402d0b4dcc7-8192x5464-jpg/GettyImages-2268627493.jpg"
     },
     {
       "id": "01d1d742054b",
