@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T12:30:55.210050+00:00",
+  "generated_at": "2026-07-02T12:06:08.859216+00:00",
   "total_articles": 90,
   "categories": [
     {
@@ -33,37 +33,391 @@
   ],
   "featured": [
     {
-      "id": "767f73bbe3cd",
-      "title": "Sony is killing all physical PlayStation game discs",
-      "link": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
-      "summary": "Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games. From that point onwards, new releases will only be available in digital versions from the PlayStation Store and other retailers. Games released before January 2028 will stil...",
-      "date": "2026-07-01T12:15:13+00:00",
-      "source": "The Verge",
+      "id": "16f89f1bbcf9",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "date": "2026-07-02T12:00:00+00:00",
+      "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": null
     },
     {
-      "id": "4dd96309aebb",
-      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last ...",
-      "date": "2026-07-01T12:00:00+00:00",
+      "id": "00b0f027fe8d",
+      "title": "Mystery box shows are complicated for everyone — even the actors",
+      "link": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
+      "summary": "Silo is such a complicated show that even its showrunner gets confused sometimes. While filming the final seasons of the Apple TV sci-fi thriller, Graham Yost remembers two instances where he messed up details: once it was an actor who realized that a conversation they were about to shoot should'...",
+      "date": "2026-07-02T12:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Silo_Photo_030110.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "cdbb01482e49",
-      "title": "Rhythm Heaven never misses a beat",
-      "link": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch",
-      "summary": "Rhythm Heaven isn't Nintendo's best-known series, nor its most prolific. Prior to the launch of Rhythm Heaven Groove on the Switch this week - it's out on July 2nd - there were only four previous entries, one of which was exclusive to Japan. The most recent came out more than a decade ago. Even s...",
-      "date": "2026-07-01T12:00:00+00:00",
+      "id": "a5566026210e",
+      "title": "BitTorrent’s disastrous, legendary, and controversial story",
+      "link": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
+      "summary": "Twenty-five years ago today, a young, little-known programmer by the name of Bram Cohen fired off a short message to a mailing list for peer-to-peer enthusiasts. \"My new app, BitTorrent, is now in working order, check it out here,\" Cohen wrote, followed by a link to his personal website. \"What's ...",
+      "date": "2026-07-02T11:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NintendoSwitch_RhythmHeavenGroove_Screenshot_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268597_BITTORRENT_25_V200.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "82f7415d30cd",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company wo...",
+      "date": "2026-07-02T10:23:27+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "2099ed597d73",
+      "title": "Amazon has enough satellites to launch its Starlink competitor",
+      "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+      "summary": "Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night's launch, Amazon Leo has 396 satellites deployed, which is \"enough to support continuous service across initial latitudes,\" according to Chris Weber, VP heading up b...",
+      "date": "2026-07-02T09:13:39+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rocket-expand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "8ad694fbbdca",
+      "title": "Is a ‘Frictionless’ Society a Trap?",
+      "link": "https://www.nytimes.com/2026/07/02/magazine/frictionless-productivity-marketing-tech.html",
+      "summary": "Eliminating whatever stands between you and a task sounds nice, but it probably has more to offer companies than users.",
+      "date": "2026-07-02T09:02:10+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    }
+  ],
+  "articles": [
+    {
+      "id": "68569ffae64c",
+      "title": "Brasil x Noruega: como reduzir o delay da CazéTV no jogo de domingo",
+      "link": "https://exame.com/tecnologia/examelab/brasil-x-noruega-como-reduzir-o-delay-da-cazetv-no-jogo-de-domingo/",
+      "summary": "Atraso das transmissões online em relação à TV aberta — o delay — pode passar de 20 segundos. A boa notícia é que dá para reduzir esse tempo",
+      "date": "2026-07-02T08:48:00+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "410e911d07f9",
+      "title": "JP Morgan parte para cima de fintechs com expansão de banco digital na Europa",
+      "link": "https://exame.com/invest/mercados/jp-morgan-parte-para-cima-de-fintechs-com-expansao-de-banco-digital-na-europa/",
+      "summary": "Banco prepara expansão para quatro países e tenta reduzir vantagem dos bancos digitais europeus",
+      "date": "2026-07-02T08:42:52+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2025/04/GettyImages-1835356274.jpg"
+    },
+    {
+      "id": "3ddfe4fe2028",
+      "title": "Vaticano confirma excomunhão de bispos conservadores",
+      "link": "https://exame.com/mundo/vaticano-confirma-excomunhao-de-bispos-conservadores/",
+      "summary": "Decisão do Vaticano amplia conflito histórico com a Fraternidade São Pio X, fundada em oposição às reformas do Concílio Vaticano II",
+      "date": "2026-07-02T08:42:28+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2024/01/BasilicadeSaoPedro.jpg"
+    },
+    {
+      "id": "6889f30bb363",
+      "title": "Espanha recebe 1,17 milhão de pedidos em programa de regularização de imigrantes",
+      "link": "https://exame.com/mundo/espanha-recebe-117-milhao-de-pedidos-em-programa-de-regularizacao-de-imigrantes/",
+      "summary": "Mais da metade dos pedidos já foi aceita para tramitação, garantindo autorização temporária de residência aos requerentes",
+      "date": "2026-07-02T08:37:56+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2023/10/Valencia-Espanha.jpg"
+    },
+    {
+      "id": "038b0ee1a157",
+      "title": "VAR vira vilão dos Estados Unidos e tira artilheiro de jogo contra a Bélgica na Copa do Mundo",
+      "link": "https://exame.com/esporte/var-vira-vilao-dos-estados-unidos-e-tira-artilheiro-de-jogo-contra-a-belgica-na-copa-do-mundo/",
+      "summary": "Atacante marcou na vitória dos EUA, mas foi expulso após revisão e não enfrenta a Bélgica em Seattle",
+      "date": "2026-07-02T08:33:57+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2022/11/Turquia-x-Estados-Unidos-copa-do-mundo-onde-assistir-horario-escalacao.jpg"
+    },
+    {
+      "id": "d10b92b9d719",
+      "title": "Irã reivindica controle do Estreito de Ormuz e critica reunião militar liderada pelos EUA",
+      "link": "https://exame.com/mundo/ira-reivindica-controle-do-estreito-de-ormuz-e-critica-reuniao-militar-liderada-pelos-eua/",
+      "summary": "Teerã afirmou que a segurança regional depende da retirada das forças americanas e contestou reunião realizada no Bahrein",
+      "date": "2026-07-02T08:31:12+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260306__A28U3QH__v1__HighRes__IranIsraelUsWar.jpg"
+    },
+    {
+      "id": "136b9ee15326",
+      "title": "EUA e Irã registram avanços em negociações e marcam nova rodada após funeral de Khamenei",
+      "link": "https://exame.com/mundo/eua-e-ira-registram-avancos-em-negociacoes-e-marcam-nova-rodada-apos-funeral-de-khamenei/",
+      "summary": "Conversas indiretas abordaram o programa nuclear, ativos iranianos bloqueados e mecanismos para monitorar o cumprimento dos acordos",
+      "date": "2026-07-02T08:27:03+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260309__A2HJ7GV__v2__HighRes__TopshotIranUsIsraelWar.jpg"
+    },
+    {
+      "id": "4e3c10f68103",
+      "title": "É o fim dos discos? Sony define data para abandonar jogos físicos no PlayStation",
+      "link": "https://exame.com/tecnologia/e-o-fim-dos-discos-sony-define-data-para-abandonar-jogos-fisicos-no-playstation/",
+      "summary": "Mudança da Sony acompanha o avanço das vendas digitais e reacende o debate sobre o acesso a jogos em casos de descontinuidade das lojas",
+      "date": "2026-07-02T08:22:47+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "344c03048ca1",
+      "title": "OpenAI, do ChatGPT, avalia ceder fatia bilionária ao governo Trump",
+      "link": "https://exame.com/inteligencia-artificial/openai-do-chatgpt-avalia-ceder-fatia-bilionaria-ao-governo-trump/",
+      "summary": "Ideia busca reduzir resistência política à IA e criar um modelo de participação pública nos ganhos da tecnologia",
+      "date": "2026-07-02T08:16:29+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/g7_f7be1c.jpg"
+    },
+    {
+      "id": "ec4d15a5c6aa",
+      "title": "Dólar recua antes do payroll dos EUA e iene dispara em valorização repentina",
+      "link": "https://exame.com/invest/mercados/dolar-recua-antes-do-payroll-dos-eua-e-iene-dispara-em-valorizacao-repentina/",
+      "summary": "Queda das ações de chips e do petróleo aumenta a cautela nos mercados globais",
+      "date": "2026-07-02T08:15:22+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2025/08/dolar_dolar.jpg"
+    },
+    {
+      "id": "b3680b0f8bd7",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "date": "2026-07-02T05:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "6d8155b5bae9",
+      "title": "Meta will start selling its computing power and AI models",
+      "link": "https://www.morningbrew.com/stories/meta-selling-computing-power-ai-models?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "We do know that it’s got computing power to spare that other AI companies are willing to pay a premium price for.",
+      "date": "2026-07-02T05:14:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-01/image-02f879362d876a08078f1e4aaecfdf317c0ad991-5500x3666-jpg/MBD-MetaCloudComputing-0626.jpeg"
+    },
+    {
+      "id": "d04585469553",
+      "title": "Paying back your student loans just got harder",
+      "link": "https://www.morningbrew.com/stories/paying-back-your-student-loans-just-got-harder?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "New rules took effect that cap loan amounts, increase repayments for some",
+      "date": "2026-07-02T04:03:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-01/image-59135fb0d144e4fb7dcbbb33cab1c75b991e6cbe-8164x5443-jpg/GettyImages-2278457566.jpg"
+    },
+    {
+      "id": "fc01a0d32228",
+      "title": "PlayStation will discontinue physical game discs",
+      "link": "https://www.morningbrew.com/stories/playstation-will-discontinue-physical-game-discs?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "One gaming journalist called Sony’s move a “body blow to consumer rights.”",
+      "date": "2026-07-02T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-01/image-6738e5d7cc4d0ba7179528809332ac18c5e0d9f0-3000x2000-png/MBD_20260701_PSDISC_NI_01.png"
+    },
+    {
+      "id": "7dd0e7d71c81",
+      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+      "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+      "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
+      "date": "2026-07-01T23:57:55+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "387ccbd16414",
+      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+      "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
+      "date": "2026-07-01T22:47:04+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "5ff00896e4ae",
+      "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
+      "link": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+      "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on \"internal improvements.\" The updated MacBook Pro, ...",
+      "date": "2026-07-01T22:39:43+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-MacBook-Pro-14-in-hero-251015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "d266cf9bc6ab",
+      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+      "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+      "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
+      "date": "2026-07-01T22:28:35+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "69c3c510e1ff",
+      "title": "The funeral for PlayStation discs has begun",
+      "link": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
+      "summary": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games starting January 2028. \"It's sad to see. This decision is only a negative for gamers. We're losing th...",
+      "date": "2026-07-01T22:03:37+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072867/110923_new_Playstation_5_Slim_ADiBenedetto_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "fcad55c644c9",
+      "title": "WhatsApp usernames are already raising impersonation red flags",
+      "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+      "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
+      "date": "2026-07-01T22:02:24+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "f0bf7ecfb17c",
+      "title": "Xbox’s ‘reset’: all the news about Microsoft’s looming layoffs and studio closures",
+      "link": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+      "summary": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly promoted chief content officer Matt Booty sent a memo to staff warning of an “Xbox reset.” The business, they said, is facing significant challenges, including a 3 percent “accoun...",
+      "date": "2026-07-01T21:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "03026890048c",
+      "title": "Elon Musk denies a report about SpaceX’s AI phone prototype",
+      "link": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+      "summary": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-like prototype\" to some investors before launching its record-breaking initial public offering in June. The device was \"sl...",
+      "date": "2026-07-01T20:10:21+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355897/STK022_ELON_MUSK_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "d86da15947f5",
+      "title": "How To Come Up With Profound Ideas With Craig Perry",
+      "link": "https://letters.thedankoe.com/p/how-to-come-up-with-profound-ideas",
+      "summary": "The secret to growing on socials while writing about ideas you love",
+      "date": "2026-07-01T19:27:24+00:00",
+      "source": "Dan Koe",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "bef7761c3cb0",
+      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+      "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+      "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
+      "date": "2026-07-01T19:18:07+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "a50253f2043f",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "date": "2026-07-01T18:54:18+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "14678d93bcee",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "date": "2026-07-01T18:47:22+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "d17f4f64a3a1",
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "summary": "The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.",
+      "date": "2026-07-01T18:29:14+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "5538948e7e85",
+      "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
+      "link": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
+      "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland ...",
+      "date": "2026-07-01T17:45:23+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/SN2_Coral_Gardens_with_Friends_4K.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "38062fdf870c",
+      "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
+      "link": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
+      "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to ...",
+      "date": "2026-07-01T17:41:23+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "a75c3fe47b91",
@@ -75,395 +429,393 @@
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://no-cache.hubspot.com/cta/default/53/07e52e2e-2c66-4776-81a2-d2fc00199367.png"
-    },
-    {
-      "id": "7d5e9c26920b",
-      "title": "Range anxiety",
-      "link": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
-      "summary": "The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of wind were several smaller, quick-forming tornadoes, one of w...",
-      "date": "2026-07-01T11:00:02+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268434_Rivian_Factory_ATahlier_0009_3x4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "bb53690bf1e3",
-      "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
-      "link": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
-      "summary": "Dbrand is the company that shipped a product that told Nintendo's legal team to \"go fuck yourself,\" and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th, the company finally ate some serious humble pie, canceling...",
-      "date": "2026-07-01T11:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-dbrand-companion-cube-sean-hollister-11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    }
-  ],
-  "articles": [
-    {
-      "id": "35d1283aa5dc",
-      "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can’t get enough",
-      "link": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
-      "summary": "Fujifilm is expanding its QuickSnap lineup with a new disposable camera focused on taking monochrome photos and another built to survive harsh outdoor environments. The $22.90 QuickSnap Black and White and the $24.75 QuickSnap Active are expected to launch sometime later this fall, to the delight...",
-      "date": "2026-07-01T10:05:28+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Fujifilm-quicksnap-black-and-white-active-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "d0ec9c544edd",
-      "title": "Em busca de proteção: bolsa lidera em 12 meses, mas renda fixa ganha força em junho",
-      "link": "https://exame.com/invest/mercados/em-busca-de-protecao-bolsa-lidera-em-12-meses-mas-renda-fixa-ganha-forca-em-junho/",
-      "summary": "Levantamento da Elos Ayta mostra alternância entre classes de ativos no primeiro semestre de 2026, com Ibovespa em alta no ano e maior interesse por ativos defensivos no mês passado",
-      "date": "2026-07-01T09:25:14+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2022/03/Bolsa-lupa-filtro.jpeg"
-    },
-    {
-      "id": "ff4c7f82b23b",
-      "title": "A história do Madison Square Garden, provável local do casamento de Taylor Swift",
-      "link": "https://exame.com/casual/a-historia-do-madison-square-garden-provavel-local-do-casamento-de-taylor-swift/",
-      "summary": "Arena de Nova York teria sido escolhida pela cantora e pelo noivo Travis Kelce para a cerimônia, mas o espaço já abrigou eventos memoráveis, incluindo o casamento de Sly Stone e a festa de Mike Todd",
-      "date": "2026-07-01T09:16:23+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/madison-square-garden.jpg"
-    },
-    {
-      "id": "85304e89ad5d",
-      "title": "Brasil lidera número de agtechs na América Latina e reforça transformação do agronegócio",
-      "link": "https://exame.com/agro/brasil-lidera-numero-de-agtechs-na-america-latina-e-reforca-transformacao-do-agronegocio/",
-      "summary": "Estudo mostra que o Brasil concentra 78% das agtechs da América Latina, reforçando o protagonismo do agronegócio nacional em inovação e transformação digital",
-      "date": "2026-07-01T09:15:37+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/124634.jpg"
-    },
-    {
-      "id": "5d9f112d7cfd",
-      "title": "Imóveis de um dormitório têm maior valorização anual no Brasil",
-      "link": "https://exame.com/mercado-imobiliario/imoveis-de-um-dormitorio-tem-maior-valorizacao-anual-no-brasil/",
-      "summary": "Levantamento do FipeZAP aponta valorização de 7,3% para unidades pequenas, acima da média nacional",
-      "date": "2026-07-01T09:13:40+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/02/MG_6540.jpg"
-    },
-    {
-      "id": "42fcc9d14928",
-      "title": "Paraná Pesquisas: ACM Neto tem 49,2% e Jerônimo, 37,5%, no 1º turno na Bahia",
-      "link": "https://exame.com/brasil/parana-pesquisas-acm-neto-tem-492-e-jeronimo-375-no-1o-turno-na-bahia/",
-      "summary": "Popularidade de ACM Neto cresce desde maio, quando o índice de intenção de voto do pré-candidato era de 47,8%",
-      "date": "2026-07-01T09:12:20+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "4044ca9030f5",
-      "title": "Que horas a Inglaterra joga hoje pela Copa do Mundo?",
-      "link": "https://exame.com/esporte/que-horas-a-inglaterra-joga-hoje-pela-copa-do-mundo/",
-      "summary": "É um duelo eliminatório: quem perder está fora do torneio; veja horário e onde assistir ao jogo de hoje",
-      "date": "2026-07-01T09:09:58+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/saka-panama-inglaterra-copa-do-mundo-sabado.jpg"
-    },
-    {
-      "id": "1543570e8a35",
-      "title": "Como a Alice chegou a R$ 1 bilhão com um modelo que desafia os gigantes dos planos de saúde",
-      "link": "https://exame.com/negocios/como-a-alice-chegou-a-r-1-bilhao-com-um-modelo-que-desafia-os-gigantes-dos-planos-de-saude/",
-      "summary": "Operadora focada em PMES já investiu mais de R$ 300 milhões em tecnologia e quer dobrar a receita recorrente até 2027",
-      "date": "2026-07-01T09:09:54+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "4bb099dea165",
-      "title": "The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’",
-      "link": "https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html",
-      "summary": "Amid widespread “techlash” over addictive screens and apps, the Yoto, an audio player for children, shows there’s still a way to make money while doing something nice.",
-      "date": "2026-07-01T09:01:48+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "d5b484847b76",
-      "title": "Veja quais empresas da bolsa vão pagar dividendos em julho",
-      "link": "https://exame.com/invest/mercados/veja-quais-empresas-da-bolsa-vao-pagar-dividendos-em-julho/",
-      "summary": "Agenda reúne pagamentos de empresas de diversos setores, entre elas, dois dois grandes bancos",
-      "date": "2026-07-01T09:00:45+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/10/dividendos.jpg"
-    },
-    {
-      "id": "b2fd0dab4a90",
-      "title": "O plano do Carrefour para fazer o cliente do Atacadão comprar no hipermercado — e vice-versa",
-      "link": "https://exame.com/negocios/o-plano-do-carrefour-para-fazer-o-cliente-do-atacadao-comprar-no-hipermercado-e-vice-versa/",
-      "summary": "Grupo lança programa de fidelidade que dá cashback válido entre Carrefour e Atacadão. No piloto na Paraíba, a frequência de compra dos clientes mais do que dobrou",
-      "date": "2026-07-01T09:00:39+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/09/MG_0331.jpg"
-    },
-    {
-      "id": "a9592032bc51",
-      "title": "'Tecnologia sem governança gera ruído', afirma Roberto Di Biase, ex-diretor operacional da Vale",
-      "link": "https://exame.com/carreira/tecnologia-sem-governanca-gera-ruido-afirma-roberto-di-biase-ex-diretor-operacional-da-vale/",
-      "summary": "Com mais de 30 anos liderando projetos de grande escala no Brasil e no exterior, o executivo explica como une sua experiência industrial à inteligência artificial para apoiar a tomada de decisão",
-      "date": "2026-07-01T09:00:31+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/ChatGPT-Image-30_06_2026-11_08_09.png"
-    },
-    {
-      "id": "d950224cfab0",
-      "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
-      "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
-      "summary": "Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock's business from being included in the deal. The move comes despite the US Department of Justice granting the deal \"unconditional antitrust...",
-      "date": "2026-07-01T08:41:26+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "9a3b2703a171",
-      "title": "Stocks just had their best quarter since 2020",
-      "link": "https://www.morningbrew.com/stories/stocks-just-had-their-best-quarter-since-2020?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "",
-      "date": "2026-07-01T05:14:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-996b6994c94ed0e68e7eddb7b3936cbf55ce2859-8158x5439-jpg/GettyImages-1968239106.jpg"
-    },
-    {
-      "id": "c97eb6f4bc35",
-      "title": "Why Supergirl couldn’t get off the ground",
-      "link": "https://www.morningbrew.com/stories/why-supergirl-couldnt-get-off-the-ground?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The DC tentpole movie was up against poor reviews and toxic fanboy culture",
-      "date": "2026-07-01T04:02:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-a77e5bec4b37441186b573bbd07380e34b182196-1500x1000-jpg/MBD-Supergirl-0626.jpg"
-    },
-    {
-      "id": "1ab1ce8a0a09",
-      "title": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models",
-      "link": "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html",
-      "summary": "The move allows Anthropic to bring its most powerful technologies back online, de-escalating a feud with the Trump administration.",
-      "date": "2026-07-01T03:17:31+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30BIZ-ANTHROPIC-gjtq/30BIZ-ANTHROPIC-gjtq-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "232801b2e914",
-      "title": "The ‘Father of the Internet’ is finally retiring",
-      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-      "date": "2026-07-01T03:15:37+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "5531117857df",
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
-      "date": "2026-07-01T02:16:06+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "78c4a069cb25",
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-      "date": "2026-07-01T02:04:40+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "bcfb40f55d1f",
-      "title": "Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses",
-      "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
-      "summary": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscri...",
-      "date": "2026-07-01T00:51:03+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0129.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "c2d34d5d093f",
-      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AW...",
-      "date": "2026-07-01T00:03:55+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "f264421354ba",
-      "title": "Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It",
-      "link": "https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html",
-      "summary": "Neon purchased “Artificial,” which focuses on OpenAI’s chief, Sam Altman, after Amazon walked away from it following an investment in the start-up.",
-      "date": "2026-06-30T23:02:46+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/00biz-NeonArtificial-vjwz/00biz-NeonArtificial-vjwz-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "aa3abdc69e20",
-      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
-      "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
-      "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
-      "date": "2026-06-30T23:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "5f1e183bedd6",
-      "title": "Dish files for bankruptcy, but is not shutting down",
-      "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
-      "summary": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen delays\" held back its sale of $23 billion worth of 5G spect...",
-      "date": "2026-06-30T22:46:52+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_STK052_01-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "54cd95b05b27",
-      "title": "Comforting news about AI’s threat to jobs",
-      "link": "https://www.morningbrew.com/stories/comforting-news-about-ais-threat-to-jobs?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "A new study suggests that AI adoption could be accelerating hiring.",
-      "date": "2026-06-30T21:56:32+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-7969520cd8f5016d0a9b9293d67c80ba43bf7ae0-1500x1000-jpg/MBD_06302026_AILayoffReport_03.jpg"
-    },
-    {
-      "id": "58f1c065e9d3",
-      "title": "OpenClaw is finally available on Android and iOS",
-      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "summary": "The free open source agentic program is finally invading your phone.",
-      "date": "2026-06-30T21:53:28+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "017b71e231bb",
-      "title": "BMW Will Build a New Electric S.U.V. in South Carolina",
-      "link": "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html",
-      "summary": "The German company is doubling down on electric vehicles even as other automakers pull back after acknowledging billions of dollars in losses.",
-      "date": "2026-06-30T21:49:52+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30biz-bmw-4-hjpm/30biz-bmw-4-hjpm-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "3d73fd687b2b",
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-      "date": "2026-06-30T20:33:48+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "4a6e7563e969",
-      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
-      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
-      "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
-      "date": "2026-06-30T19:12:43+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "bf6e93302e4d",
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-      "date": "2026-06-30T19:02:38+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     }
   ],
   "all_articles": [
     {
-      "id": "767f73bbe3cd",
-      "title": "Sony is killing all physical PlayStation game discs",
-      "link": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
-      "summary": "Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games. From that point onwards, new releases will only be available in digital versions from the PlayStation Store and other retailers. Games released before January 2028 will stil...",
-      "date": "2026-07-01T12:15:13+00:00",
-      "source": "The Verge",
+      "id": "16f89f1bbcf9",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "date": "2026-07-02T12:00:00+00:00",
+      "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": null
     },
     {
-      "id": "4dd96309aebb",
-      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last ...",
-      "date": "2026-07-01T12:00:00+00:00",
+      "id": "00b0f027fe8d",
+      "title": "Mystery box shows are complicated for everyone — even the actors",
+      "link": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
+      "summary": "Silo is such a complicated show that even its showrunner gets confused sometimes. While filming the final seasons of the Apple TV sci-fi thriller, Graham Yost remembers two instances where he messed up details: once it was an actor who realized that a conversation they were about to shoot should'...",
+      "date": "2026-07-02T12:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Silo_Photo_030110.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "cdbb01482e49",
-      "title": "Rhythm Heaven never misses a beat",
-      "link": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch",
-      "summary": "Rhythm Heaven isn't Nintendo's best-known series, nor its most prolific. Prior to the launch of Rhythm Heaven Groove on the Switch this week - it's out on July 2nd - there were only four previous entries, one of which was exclusive to Japan. The most recent came out more than a decade ago. Even s...",
-      "date": "2026-07-01T12:00:00+00:00",
+      "id": "a5566026210e",
+      "title": "BitTorrent’s disastrous, legendary, and controversial story",
+      "link": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
+      "summary": "Twenty-five years ago today, a young, little-known programmer by the name of Bram Cohen fired off a short message to a mailing list for peer-to-peer enthusiasts. \"My new app, BitTorrent, is now in working order, check it out here,\" Cohen wrote, followed by a link to his personal website. \"What's ...",
+      "date": "2026-07-02T11:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NintendoSwitch_RhythmHeavenGroove_Screenshot_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268597_BITTORRENT_25_V200.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "82f7415d30cd",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company wo...",
+      "date": "2026-07-02T10:23:27+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "2099ed597d73",
+      "title": "Amazon has enough satellites to launch its Starlink competitor",
+      "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+      "summary": "Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night's launch, Amazon Leo has 396 satellites deployed, which is \"enough to support continuous service across initial latitudes,\" according to Chris Weber, VP heading up b...",
+      "date": "2026-07-02T09:13:39+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rocket-expand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "8ad694fbbdca",
+      "title": "Is a ‘Frictionless’ Society a Trap?",
+      "link": "https://www.nytimes.com/2026/07/02/magazine/frictionless-productivity-marketing-tech.html",
+      "summary": "Eliminating whatever stands between you and a task sounds nice, but it probably has more to offer companies than users.",
+      "date": "2026-07-02T09:02:10+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "68569ffae64c",
+      "title": "Brasil x Noruega: como reduzir o delay da CazéTV no jogo de domingo",
+      "link": "https://exame.com/tecnologia/examelab/brasil-x-noruega-como-reduzir-o-delay-da-cazetv-no-jogo-de-domingo/",
+      "summary": "Atraso das transmissões online em relação à TV aberta — o delay — pode passar de 20 segundos. A boa notícia é que dá para reduzir esse tempo",
+      "date": "2026-07-02T08:48:00+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "410e911d07f9",
+      "title": "JP Morgan parte para cima de fintechs com expansão de banco digital na Europa",
+      "link": "https://exame.com/invest/mercados/jp-morgan-parte-para-cima-de-fintechs-com-expansao-de-banco-digital-na-europa/",
+      "summary": "Banco prepara expansão para quatro países e tenta reduzir vantagem dos bancos digitais europeus",
+      "date": "2026-07-02T08:42:52+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2025/04/GettyImages-1835356274.jpg"
+    },
+    {
+      "id": "3ddfe4fe2028",
+      "title": "Vaticano confirma excomunhão de bispos conservadores",
+      "link": "https://exame.com/mundo/vaticano-confirma-excomunhao-de-bispos-conservadores/",
+      "summary": "Decisão do Vaticano amplia conflito histórico com a Fraternidade São Pio X, fundada em oposição às reformas do Concílio Vaticano II",
+      "date": "2026-07-02T08:42:28+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2024/01/BasilicadeSaoPedro.jpg"
+    },
+    {
+      "id": "6889f30bb363",
+      "title": "Espanha recebe 1,17 milhão de pedidos em programa de regularização de imigrantes",
+      "link": "https://exame.com/mundo/espanha-recebe-117-milhao-de-pedidos-em-programa-de-regularizacao-de-imigrantes/",
+      "summary": "Mais da metade dos pedidos já foi aceita para tramitação, garantindo autorização temporária de residência aos requerentes",
+      "date": "2026-07-02T08:37:56+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2023/10/Valencia-Espanha.jpg"
+    },
+    {
+      "id": "038b0ee1a157",
+      "title": "VAR vira vilão dos Estados Unidos e tira artilheiro de jogo contra a Bélgica na Copa do Mundo",
+      "link": "https://exame.com/esporte/var-vira-vilao-dos-estados-unidos-e-tira-artilheiro-de-jogo-contra-a-belgica-na-copa-do-mundo/",
+      "summary": "Atacante marcou na vitória dos EUA, mas foi expulso após revisão e não enfrenta a Bélgica em Seattle",
+      "date": "2026-07-02T08:33:57+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2022/11/Turquia-x-Estados-Unidos-copa-do-mundo-onde-assistir-horario-escalacao.jpg"
+    },
+    {
+      "id": "d10b92b9d719",
+      "title": "Irã reivindica controle do Estreito de Ormuz e critica reunião militar liderada pelos EUA",
+      "link": "https://exame.com/mundo/ira-reivindica-controle-do-estreito-de-ormuz-e-critica-reuniao-militar-liderada-pelos-eua/",
+      "summary": "Teerã afirmou que a segurança regional depende da retirada das forças americanas e contestou reunião realizada no Bahrein",
+      "date": "2026-07-02T08:31:12+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260306__A28U3QH__v1__HighRes__IranIsraelUsWar.jpg"
+    },
+    {
+      "id": "136b9ee15326",
+      "title": "EUA e Irã registram avanços em negociações e marcam nova rodada após funeral de Khamenei",
+      "link": "https://exame.com/mundo/eua-e-ira-registram-avancos-em-negociacoes-e-marcam-nova-rodada-apos-funeral-de-khamenei/",
+      "summary": "Conversas indiretas abordaram o programa nuclear, ativos iranianos bloqueados e mecanismos para monitorar o cumprimento dos acordos",
+      "date": "2026-07-02T08:27:03+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260309__A2HJ7GV__v2__HighRes__TopshotIranUsIsraelWar.jpg"
+    },
+    {
+      "id": "4e3c10f68103",
+      "title": "É o fim dos discos? Sony define data para abandonar jogos físicos no PlayStation",
+      "link": "https://exame.com/tecnologia/e-o-fim-dos-discos-sony-define-data-para-abandonar-jogos-fisicos-no-playstation/",
+      "summary": "Mudança da Sony acompanha o avanço das vendas digitais e reacende o debate sobre o acesso a jogos em casos de descontinuidade das lojas",
+      "date": "2026-07-02T08:22:47+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "344c03048ca1",
+      "title": "OpenAI, do ChatGPT, avalia ceder fatia bilionária ao governo Trump",
+      "link": "https://exame.com/inteligencia-artificial/openai-do-chatgpt-avalia-ceder-fatia-bilionaria-ao-governo-trump/",
+      "summary": "Ideia busca reduzir resistência política à IA e criar um modelo de participação pública nos ganhos da tecnologia",
+      "date": "2026-07-02T08:16:29+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/g7_f7be1c.jpg"
+    },
+    {
+      "id": "ec4d15a5c6aa",
+      "title": "Dólar recua antes do payroll dos EUA e iene dispara em valorização repentina",
+      "link": "https://exame.com/invest/mercados/dolar-recua-antes-do-payroll-dos-eua-e-iene-dispara-em-valorizacao-repentina/",
+      "summary": "Queda das ações de chips e do petróleo aumenta a cautela nos mercados globais",
+      "date": "2026-07-02T08:15:22+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2025/08/dolar_dolar.jpg"
+    },
+    {
+      "id": "b3680b0f8bd7",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "date": "2026-07-02T05:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "6d8155b5bae9",
+      "title": "Meta will start selling its computing power and AI models",
+      "link": "https://www.morningbrew.com/stories/meta-selling-computing-power-ai-models?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "We do know that it’s got computing power to spare that other AI companies are willing to pay a premium price for.",
+      "date": "2026-07-02T05:14:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-01/image-02f879362d876a08078f1e4aaecfdf317c0ad991-5500x3666-jpg/MBD-MetaCloudComputing-0626.jpeg"
+    },
+    {
+      "id": "d04585469553",
+      "title": "Paying back your student loans just got harder",
+      "link": "https://www.morningbrew.com/stories/paying-back-your-student-loans-just-got-harder?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "New rules took effect that cap loan amounts, increase repayments for some",
+      "date": "2026-07-02T04:03:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-01/image-59135fb0d144e4fb7dcbbb33cab1c75b991e6cbe-8164x5443-jpg/GettyImages-2278457566.jpg"
+    },
+    {
+      "id": "fc01a0d32228",
+      "title": "PlayStation will discontinue physical game discs",
+      "link": "https://www.morningbrew.com/stories/playstation-will-discontinue-physical-game-discs?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "One gaming journalist called Sony’s move a “body blow to consumer rights.”",
+      "date": "2026-07-02T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-01/image-6738e5d7cc4d0ba7179528809332ac18c5e0d9f0-3000x2000-png/MBD_20260701_PSDISC_NI_01.png"
+    },
+    {
+      "id": "7dd0e7d71c81",
+      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+      "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+      "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
+      "date": "2026-07-01T23:57:55+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "387ccbd16414",
+      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+      "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
+      "date": "2026-07-01T22:47:04+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "5ff00896e4ae",
+      "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
+      "link": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+      "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on \"internal improvements.\" The updated MacBook Pro, ...",
+      "date": "2026-07-01T22:39:43+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-MacBook-Pro-14-in-hero-251015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "d266cf9bc6ab",
+      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+      "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+      "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
+      "date": "2026-07-01T22:28:35+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "69c3c510e1ff",
+      "title": "The funeral for PlayStation discs has begun",
+      "link": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
+      "summary": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games starting January 2028. \"It's sad to see. This decision is only a negative for gamers. We're losing th...",
+      "date": "2026-07-01T22:03:37+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072867/110923_new_Playstation_5_Slim_ADiBenedetto_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "fcad55c644c9",
+      "title": "WhatsApp usernames are already raising impersonation red flags",
+      "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+      "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
+      "date": "2026-07-01T22:02:24+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "f0bf7ecfb17c",
+      "title": "Xbox’s ‘reset’: all the news about Microsoft’s looming layoffs and studio closures",
+      "link": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+      "summary": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly promoted chief content officer Matt Booty sent a memo to staff warning of an “Xbox reset.” The business, they said, is facing significant challenges, including a 3 percent “accoun...",
+      "date": "2026-07-01T21:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "03026890048c",
+      "title": "Elon Musk denies a report about SpaceX’s AI phone prototype",
+      "link": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+      "summary": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-like prototype\" to some investors before launching its record-breaking initial public offering in June. The device was \"sl...",
+      "date": "2026-07-01T20:10:21+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355897/STK022_ELON_MUSK_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "d86da15947f5",
+      "title": "How To Come Up With Profound Ideas With Craig Perry",
+      "link": "https://letters.thedankoe.com/p/how-to-come-up-with-profound-ideas",
+      "summary": "The secret to growing on socials while writing about ideas you love",
+      "date": "2026-07-01T19:27:24+00:00",
+      "source": "Dan Koe",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "bef7761c3cb0",
+      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+      "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+      "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
+      "date": "2026-07-01T19:18:07+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "a50253f2043f",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "date": "2026-07-01T18:54:18+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "14678d93bcee",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "date": "2026-07-01T18:47:22+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "d17f4f64a3a1",
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "summary": "The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.",
+      "date": "2026-07-01T18:29:14+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "5538948e7e85",
+      "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
+      "link": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
+      "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland ...",
+      "date": "2026-07-01T17:45:23+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/SN2_Coral_Gardens_with_Friends_4K.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "38062fdf870c",
+      "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
+      "link": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
+      "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to ...",
+      "date": "2026-07-01T17:41:23+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "a75c3fe47b91",
@@ -477,116 +829,6 @@
       "image": "https://no-cache.hubspot.com/cta/default/53/07e52e2e-2c66-4776-81a2-d2fc00199367.png"
     },
     {
-      "id": "7d5e9c26920b",
-      "title": "Range anxiety",
-      "link": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
-      "summary": "The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of wind were several smaller, quick-forming tornadoes, one of w...",
-      "date": "2026-07-01T11:00:02+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268434_Rivian_Factory_ATahlier_0009_3x4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "bb53690bf1e3",
-      "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
-      "link": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
-      "summary": "Dbrand is the company that shipped a product that told Nintendo's legal team to \"go fuck yourself,\" and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th, the company finally ate some serious humble pie, canceling...",
-      "date": "2026-07-01T11:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-dbrand-companion-cube-sean-hollister-11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "35d1283aa5dc",
-      "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can’t get enough",
-      "link": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
-      "summary": "Fujifilm is expanding its QuickSnap lineup with a new disposable camera focused on taking monochrome photos and another built to survive harsh outdoor environments. The $22.90 QuickSnap Black and White and the $24.75 QuickSnap Active are expected to launch sometime later this fall, to the delight...",
-      "date": "2026-07-01T10:05:28+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Fujifilm-quicksnap-black-and-white-active-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "d0ec9c544edd",
-      "title": "Em busca de proteção: bolsa lidera em 12 meses, mas renda fixa ganha força em junho",
-      "link": "https://exame.com/invest/mercados/em-busca-de-protecao-bolsa-lidera-em-12-meses-mas-renda-fixa-ganha-forca-em-junho/",
-      "summary": "Levantamento da Elos Ayta mostra alternância entre classes de ativos no primeiro semestre de 2026, com Ibovespa em alta no ano e maior interesse por ativos defensivos no mês passado",
-      "date": "2026-07-01T09:25:14+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2022/03/Bolsa-lupa-filtro.jpeg"
-    },
-    {
-      "id": "ff4c7f82b23b",
-      "title": "A história do Madison Square Garden, provável local do casamento de Taylor Swift",
-      "link": "https://exame.com/casual/a-historia-do-madison-square-garden-provavel-local-do-casamento-de-taylor-swift/",
-      "summary": "Arena de Nova York teria sido escolhida pela cantora e pelo noivo Travis Kelce para a cerimônia, mas o espaço já abrigou eventos memoráveis, incluindo o casamento de Sly Stone e a festa de Mike Todd",
-      "date": "2026-07-01T09:16:23+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/madison-square-garden.jpg"
-    },
-    {
-      "id": "85304e89ad5d",
-      "title": "Brasil lidera número de agtechs na América Latina e reforça transformação do agronegócio",
-      "link": "https://exame.com/agro/brasil-lidera-numero-de-agtechs-na-america-latina-e-reforca-transformacao-do-agronegocio/",
-      "summary": "Estudo mostra que o Brasil concentra 78% das agtechs da América Latina, reforçando o protagonismo do agronegócio nacional em inovação e transformação digital",
-      "date": "2026-07-01T09:15:37+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/124634.jpg"
-    },
-    {
-      "id": "5d9f112d7cfd",
-      "title": "Imóveis de um dormitório têm maior valorização anual no Brasil",
-      "link": "https://exame.com/mercado-imobiliario/imoveis-de-um-dormitorio-tem-maior-valorizacao-anual-no-brasil/",
-      "summary": "Levantamento do FipeZAP aponta valorização de 7,3% para unidades pequenas, acima da média nacional",
-      "date": "2026-07-01T09:13:40+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/02/MG_6540.jpg"
-    },
-    {
-      "id": "42fcc9d14928",
-      "title": "Paraná Pesquisas: ACM Neto tem 49,2% e Jerônimo, 37,5%, no 1º turno na Bahia",
-      "link": "https://exame.com/brasil/parana-pesquisas-acm-neto-tem-492-e-jeronimo-375-no-1o-turno-na-bahia/",
-      "summary": "Popularidade de ACM Neto cresce desde maio, quando o índice de intenção de voto do pré-candidato era de 47,8%",
-      "date": "2026-07-01T09:12:20+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "4044ca9030f5",
-      "title": "Que horas a Inglaterra joga hoje pela Copa do Mundo?",
-      "link": "https://exame.com/esporte/que-horas-a-inglaterra-joga-hoje-pela-copa-do-mundo/",
-      "summary": "É um duelo eliminatório: quem perder está fora do torneio; veja horário e onde assistir ao jogo de hoje",
-      "date": "2026-07-01T09:09:58+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/saka-panama-inglaterra-copa-do-mundo-sabado.jpg"
-    },
-    {
-      "id": "1543570e8a35",
-      "title": "Como a Alice chegou a R$ 1 bilhão com um modelo que desafia os gigantes dos planos de saúde",
-      "link": "https://exame.com/negocios/como-a-alice-chegou-a-r-1-bilhao-com-um-modelo-que-desafia-os-gigantes-dos-planos-de-saude/",
-      "summary": "Operadora focada em PMES já investiu mais de R$ 300 milhões em tecnologia e quer dobrar a receita recorrente até 2027",
-      "date": "2026-07-01T09:09:54+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
       "id": "4bb099dea165",
       "title": "The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’",
       "link": "https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html",
@@ -596,50 +838,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
-    },
-    {
-      "id": "d5b484847b76",
-      "title": "Veja quais empresas da bolsa vão pagar dividendos em julho",
-      "link": "https://exame.com/invest/mercados/veja-quais-empresas-da-bolsa-vao-pagar-dividendos-em-julho/",
-      "summary": "Agenda reúne pagamentos de empresas de diversos setores, entre elas, dois dois grandes bancos",
-      "date": "2026-07-01T09:00:45+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/10/dividendos.jpg"
-    },
-    {
-      "id": "b2fd0dab4a90",
-      "title": "O plano do Carrefour para fazer o cliente do Atacadão comprar no hipermercado — e vice-versa",
-      "link": "https://exame.com/negocios/o-plano-do-carrefour-para-fazer-o-cliente-do-atacadao-comprar-no-hipermercado-e-vice-versa/",
-      "summary": "Grupo lança programa de fidelidade que dá cashback válido entre Carrefour e Atacadão. No piloto na Paraíba, a frequência de compra dos clientes mais do que dobrou",
-      "date": "2026-07-01T09:00:39+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/09/MG_0331.jpg"
-    },
-    {
-      "id": "a9592032bc51",
-      "title": "'Tecnologia sem governança gera ruído', afirma Roberto Di Biase, ex-diretor operacional da Vale",
-      "link": "https://exame.com/carreira/tecnologia-sem-governanca-gera-ruido-afirma-roberto-di-biase-ex-diretor-operacional-da-vale/",
-      "summary": "Com mais de 30 anos liderando projetos de grande escala no Brasil e no exterior, o executivo explica como une sua experiência industrial à inteligência artificial para apoiar a tomada de decisão",
-      "date": "2026-07-01T09:00:31+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/ChatGPT-Image-30_06_2026-11_08_09.png"
-    },
-    {
-      "id": "d950224cfab0",
-      "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
-      "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
-      "summary": "Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock's business from being included in the deal. The move comes despite the US Department of Justice granting the deal \"unconditional antitrust...",
-      "date": "2026-07-01T08:41:26+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "9a3b2703a171",
@@ -675,61 +873,6 @@
       "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30BIZ-ANTHROPIC-gjtq/30BIZ-ANTHROPIC-gjtq-mediumSquareAt3X.jpg"
     },
     {
-      "id": "232801b2e914",
-      "title": "The ‘Father of the Internet’ is finally retiring",
-      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-      "date": "2026-07-01T03:15:37+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "5531117857df",
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
-      "date": "2026-07-01T02:16:06+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "78c4a069cb25",
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-      "date": "2026-07-01T02:04:40+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "bcfb40f55d1f",
-      "title": "Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses",
-      "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
-      "summary": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscri...",
-      "date": "2026-07-01T00:51:03+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0129.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "c2d34d5d093f",
-      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AW...",
-      "date": "2026-07-01T00:03:55+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "f264421354ba",
       "title": "Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It",
       "link": "https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html",
@@ -739,28 +882,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/06/30/multimedia/00biz-NeonArtificial-vjwz/00biz-NeonArtificial-vjwz-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "aa3abdc69e20",
-      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
-      "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
-      "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
-      "date": "2026-06-30T23:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "5f1e183bedd6",
-      "title": "Dish files for bankruptcy, but is not shutting down",
-      "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
-      "summary": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen delays\" held back its sale of $23 billion worth of 5G spect...",
-      "date": "2026-06-30T22:46:52+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_STK052_01-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "54cd95b05b27",
@@ -774,17 +895,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-7969520cd8f5016d0a9b9293d67c80ba43bf7ae0-1500x1000-jpg/MBD_06302026_AILayoffReport_03.jpg"
     },
     {
-      "id": "58f1c065e9d3",
-      "title": "OpenClaw is finally available on Android and iOS",
-      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "summary": "The free open source agentic program is finally invading your phone.",
-      "date": "2026-06-30T21:53:28+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "017b71e231bb",
       "title": "BMW Will Build a New Electric S.U.V. in South Carolina",
       "link": "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html",
@@ -794,39 +904,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30biz-bmw-4-hjpm/30biz-bmw-4-hjpm-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "3d73fd687b2b",
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-      "date": "2026-06-30T20:33:48+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "4a6e7563e969",
-      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
-      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
-      "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
-      "date": "2026-06-30T19:12:43+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "bf6e93302e4d",
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-      "date": "2026-06-30T19:02:38+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     },
     {
       "id": "a5016c388d20",
@@ -838,28 +915,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/06/26/business/00bending-spoons/00bending-spoons-mediumSquareAt3X.png"
-    },
-    {
-      "id": "73efad619b0d",
-      "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
-      "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
-      "summary": "A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.",
-      "date": "2026-06-30T18:34:22+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "ad9c5b8aec64",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-      "date": "2026-06-30T18:13:02+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     },
     {
       "id": "0a8fc8e1bbf0",
@@ -994,39 +1049,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-29/image-d2c00072cee1c81731715a5e78200dc96ce1d8b5-5381x3588-jpg/PresidentTrumpAttendsG7SummitInEvianFrance"
     },
     {
-      "id": "acecbbba9813",
-      "title": "Obesity drug access is about to expand via Medicare",
-      "link": "https://www.morningbrew.com/stories/obesity-drug-access-is-about-to-expand-via-medicare?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Starting on Wednesday, Medicare will begin covering obesity drugs for the first time.",
-      "date": "2026-06-29T06:19:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-29/image-15e3a0b1a6f3883c34c17b08332c908a7b28b97b-4984x3323-jpg/photoillustrationofagroupofweightlossmedicationsonawhitebackground."
-    },
-    {
-      "id": "f80ebd41d0ff",
-      "title": "US homes aren’t getting any younger",
-      "link": "https://www.morningbrew.com/stories/us-homes-arent-getting-any-younger?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The median US home is a record 44 years old, according to the Harvard Joint Center for Housing Studies.",
-      "date": "2026-06-28T05:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-27/image-4e98eac36ee6ac8a9b4755079d7d7902ec5f5528-5184x3888-jpg/Residentialstreetwithmodestdetachedhouseswithaluminumsidingorclapboard"
-    },
-    {
-      "id": "ed9d1ba1a51c",
-      "title": "Flipping houses isn’t paying like it used to",
-      "link": "https://www.morningbrew.com/stories/flipping-houses-isnt-paying-like-it-used-to?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "According to the real estate data company Attom, returns on home flipping in 2025 fell to 25.5%, the lowest level since the 2008 recession.",
-      "date": "2026-06-28T05:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-27/image-fb7d813bf8f26affb79ecb6f276b08552cb59733-8568x5712-jpg/Buildermeasuringdeckframingwhileleaningoverstructure"
-    },
-    {
       "id": "f6bbfa41bc10",
       "title": "U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model",
       "link": "https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html",
@@ -1036,17 +1058,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/06/26/business/26biz-anthropic-deal-mythos/26biz-anthropic-deal-mythos-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "c068637bff61",
-      "title": "Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
-      "link": "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html",
-      "summary": "Gigaom, which he started in 2001, established him as a leading voice in the tech world and signaled a shift in how the media covered the industry.",
-      "date": "2026-06-26T22:41:23+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/00Malik--zljw/00Malik--zljw-mediumSquareAt3X.jpg"
     },
     {
       "id": "afed6ef5a089",
@@ -1137,8 +1148,8 @@
       "image": null
     },
     {
-      "id": "c20eb98d6c6c",
-      "title": "You need to become \"unemployable\" if you want to succeed",
+      "id": "c947474182c3",
+      "title": "How to become so valuable AI will never replace you",
       "link": "https://letters.thedankoe.com/p/how-to-survive-ai-mass-replacement",
       "summary": "The 5 ingredients of success",
       "date": "2026-06-22T22:13:18+00:00",
@@ -1410,17 +1421,6 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/bcbc77bd-c271-41b6-9b21-0d1ea100a3c3_1920x1080.jpeg"
-    },
-    {
-      "id": "28ce873dc320",
-      "title": "How to become so creative it feels illegal",
-      "link": "https://letters.thedankoe.com/p/how-to-become-so-creative-it-feels",
-      "summary": "For those who want to slow the f*ck down and feel alive again",
-      "date": "2026-03-24T19:38:43+00:00",
-      "source": "Dan Koe",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ffd459d5-5fd6-466b-946a-baca0105ab24_1920x1080.jpeg"
     }
   ]
 }
