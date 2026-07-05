@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T11:22:36.548733+00:00",
+  "generated_at": "2026-07-05T11:27:05.953140+00:00",
   "total_articles": 90,
   "categories": [
     {
@@ -33,116 +33,281 @@
   ],
   "featured": [
     {
-      "id": "bf8da3ec275b",
-      "title": "O conselho de Carole Crema para quem odeia a parte administrativa da empresa",
-      "link": "https://exame.com/negocios/o-conselho-de-carole-crema-para-quem-odeia-a-parte-administrativa-da-empresa/",
-      "summary": "No Choque de Gestão, chef e empresária explica por que fugir dos números é um erro comum entre empreendedores e como transformar a gestão em uma aliada do crescimento",
-      "date": "2026-07-04T08:08:41+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/imagem-site-exame2.jpg"
+      "id": "6272d5a3958d",
+      "title": "How Meta’s Threads Became as Popular as X",
+      "link": "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html",
+      "summary": "The social platform that Meta once positioned as a rival to Elon Musk’s X now has 500 million users. It increasingly resembles Reddit.",
+      "date": "2026-07-05T09:01:41+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/META-THREADS-1-03-tgph/META-THREADS-1-03-tgph-mediumSquareAt3X.jpg"
     },
     {
-      "id": "04c646e4656f",
-      "title": "EUA, 250 anos: os desafios da maior potência global — e o que a história ensina",
-      "link": "https://exame.com/mundo/eua-250-anos-os-desafios-da-maior-potencia-global-e-o-que-a-historia-ensina/",
-      "summary": "Polarização política, desconfiança nas instituições e insatisfação econômica alimentam questionamentos sobre a confiança no governo americano",
-      "date": "2026-07-04T08:05:57+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/08/bandeira-eua-pib-2-tri.jpg"
-    },
-    {
-      "id": "01f6c729a4d0",
-      "title": "De canetas emagrecedoras à marca própria para carnes: o investimento do Assaí no novo consumidor",
-      "link": "https://exame.com/negocios/de-canetas-emagrecedoras-a-marca-propria-para-carnes-o-investimento-do-assai-no-novo-consumidor/",
-      "summary": "O CEO Belmiro Gomes conta como está transformando o negócio de R$ 84 bilhões em um ecossistema para todos os tipos de clientes. Além de farmácia e açougues, até postos de gasolinas e eletropostos estão no radar deste atacarejo",
-      "date": "2026-07-04T08:04:53+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2022/05/ASSAI-2.jpg"
-    },
-    {
-      "id": "f71fdc9a73a6",
-      "title": "A aposta de R$ 1 bilhão na cidade entre Balneário Camboriú e Florianópolis que 'ninguém olhava'",
-      "link": "https://exame.com/negocios/a-aposta-de-r-1-bilhao-na-cidade-entre-balneario-camboriu-e-florianopolis-que-ninguem-olhava/",
-      "summary": "Ricardo Laus passou mais de duas décadas valorizando terrenos de outras incorporadoras no litoral de Santa Catarina. Agora fundou a própria empresa e vendeu 80% dos lotes unifamiliares do primeiro lançamento em uma semana",
-      "date": "2026-07-04T08:02:43+00:00",
+      "id": "a63f73b2da1f",
+      "title": "Empresa do Paraná vai faturar R$ 360 milhões com comida saudável que até criança birrenta gosta",
+      "link": "https://exame.com/negocios/empresa-do-parana-vai-faturar-r-360-milhoes-com-comida-saudavel-que-ate-crianca-birrenta-gosta/",
+      "summary": "Com a marca Era uma vez, a Papapá sai do berço do bebê para encarar gigantes do biscoito, do salgadinho e do achocolatado",
+      "date": "2026-07-05T08:18:26+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "ba3d29c29644",
-      "title": "Aos 67 anos, clássica churrascaria de SP muda de endereço e prepara unidade em Brasília",
-      "link": "https://exame.com/negocios/aos-67-anos-classica-churrascaria-de-sp-muda-de-endereco-e-prepara-unidade-em-brasilia/",
-      "summary": "Com duas unidades que atendem 16 mil clientes por mês, Rodeio inaugura nova operação de R$ 20 milhões e avança no plano de crescimento nacional",
-      "date": "2026-07-04T08:02:20+00:00",
+      "id": "5b4d54485cc0",
+      "title": "As típicas férias do brasileiro: só 33% dos profissionais usam 100% dos dias para descanso",
+      "link": "https://exame.com/carreira/as-tipicas-ferias-do-brasileiro-so-33-dos-profissionais-usam-100-dos-dias-para-descanso/",
+      "summary": "Estudo mostra que, apesar de oferecer a segunda maior quantidade de férias do mundo, atrás apenas da França (34 dias), os brasileiros utilizam apenas 72% do benefício",
+      "date": "2026-07-05T08:05:33+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Nova-imagem-9.jpg"
+      "image": null
     },
     {
-      "id": "6e3be03f3c77",
-      "title": "88% das casas impactadas: IBGE revela dimensão das enchentes no RS",
-      "link": "https://exame.com/esg/88-das-casas-impactadas-ibge-revela-dimensao-das-enchentes-no-rs/",
-      "summary": "Dados mostram que a maioria dos domicílios enfrentou ocorrências relacionadas às enchentes, com impacto também na estrutura das casas e no bem-estar psicológico da população",
-      "date": "2026-07-04T08:01:54+00:00",
+      "id": "f3018e20fcdb",
+      "title": "Eles construíram uma marca renomada com formaturas em Curitiba — e agora querem ir além",
+      "link": "https://exame.com/negocios/eles-construiram-uma-marca-renomada-com-formaturas-em-curitiba-e-agora-querem-ir-alem/",
+      "summary": "Fundado em 2011, o Grupo Torres criou uma holding para reunir diferentes operações e estuda ampliar buffet infantil, fábrica de salgados e estrutura de eventos na capital paranaense",
+      "date": "2026-07-05T08:04:27+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/05/000_34QZ6LR.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-15.09.43.jpeg"
+    },
+    {
+      "id": "17639401286b",
+      "title": "Indústria de suplementos do Paraná investe R$ 67 milhões em fábrica e novo centro logístico",
+      "link": "https://exame.com/negocios/industria-de-suplementos-do-parana-investe-r-67-milhoes-em-fabrica-e-novo-centro-logistico/",
+      "summary": "Presente em mais de 83 mil farmácias, a Maxinutri quer ampliar a capacidade produtiva e atingir R$ 500 milhões em faturamento em 2027",
+      "date": "2026-07-05T08:02:07+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Nova-imagem-11.jpg"
+    },
+    {
+      "id": "7f22be693a82",
+      "title": "Militares ucranianos que atacam Moscou com drones vivem nas sombras",
+      "link": "https://exame.com/mundo/militares-ucranianos-que-atacam-moscou-com-drones-vivem-nas-sombras/",
+      "summary": "Ucrânia tem feito ofensiva contra território russo para tentar mudar destino da guerra que dura mais de 4 anos",
+      "date": "2026-07-05T08:01:42+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260701__B8RH8NQ__v1__HighRes__FilesUkraineRussiaConflictWar.jpg"
     }
   ],
   "articles": [
     {
-      "id": "a45341fb994a",
-      "title": "Sem arábica, sem espresso: a corrida para salvar o café das mudanças climáticas",
-      "link": "https://exame.com/ciencia/sem-arabica-sem-espresso-a-corrida-para-salvar-o-cafe-das-mudancas-climaticas/",
-      "summary": "Com as mudanças climáticas, o café está em uma crise que envolve biologia, economia e o futuro de milhões de agricultores em países de baixa renda",
-      "date": "2026-07-04T08:01:53+00:00",
+      "id": "eab272e1ba26",
+      "title": "Natura cria startup para conectar bioeconomia da Amazônia ao mundo",
+      "link": "https://exame.com/esg/natura-cria-startup-para-conectar-bioeconomia-da-amazonia-ao-mundo/",
+      "summary": "Iniciativa conecta mais de 11 mil famílias na Pan-Amazônia a novos mercados e mantém rastreabilidade de insumos usados em cadeias de cosméticos e outros setores",
+      "date": "2026-07-05T08:01:37+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Colheita-mecanizada.JPG.jpeg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/05/MG_0549.jpg"
     },
     {
-      "id": "9a0a16b70ded",
-      "title": "Prioridade é reajustar limite do faturamento de microempresas, diz presidente da ACSP",
-      "link": "https://exame.com/brasil/prioridade-e-reajustar-limite-do-faturamento-de-microempresas-diz-presidente-da-acsp/",
-      "summary": "Para Alfredo Cotait Neto, aumentar só o teto de MEIs é insuficiente para associações empresariais",
-      "date": "2026-07-04T08:01:33+00:00",
+      "id": "b2d4661ffe99",
+      "title": "PL e MDB concentram mais pré-candidatos competitivos ao Senado",
+      "link": "https://exame.com/brasil/pl-e-mdb-concentram-mais-pre-candidatos-competitivos-ao-senado/",
+      "summary": "O PT, por sua vez, tem 7 dos 64 pré-candidatos que lideram pesquisas à Casa Alta",
+      "date": "2026-07-05T08:01:06+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Cotait-2.jpg"
+      "image": null
     },
     {
-      "id": "f1dfd3214b3b",
-      "title": "4 de julho: EUA terão festa de 250 anos com recorde de calor",
-      "link": "https://exame.com/mundo/4-de-julho-eua-terao-festa-de-250-anos-com-recorde-de-calor/",
-      "summary": "Temperaturas escaldantes ameaçam interromper celebrações, e termômetros registram altas que já batem recordes",
-      "date": "2026-07-04T08:01:26+00:00",
+      "id": "fac2494b7b18",
+      "title": "Seção 301: audiência sobre tarifas ao Brasil terá 81 discursos; veja lista",
+      "link": "https://exame.com/mundo/secao-301-audiencia-sobre-tarifas-ao-brasil-tera-81-discursos-veja-lista/",
+      "summary": "Governo Trump analisa impor novas tarifas a produtos brasileiros; Flávio Bolsonaro irá ao evento",
+      "date": "2026-07-05T08:01:04+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/07/EstadosUnidos_independencia.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260703__2284510798__v1__HighRes__ConstructionContinuesAroundDCAsTheNationSCap.jpg"
     },
     {
-      "id": "edb8b280068a",
-      "title": "Como dois donos de loja de suplemento criaram uma marca 'clean label' que desafia o whey tradicional",
-      "link": "https://exame.com/negocios/como-dois-donos-de-loja-de-suplemento-criaram-uma-marca-clean-label-que-desafia-o-whey-tradicional/",
-      "summary": "True Suplementos quer crescer 50% com aposta em proteína líquida, rotina matinal e expansão para farmácias e supermercados",
-      "date": "2026-07-04T08:01:23+00:00",
+      "id": "9541168d9b7e",
+      "title": "Como pequena fruta virou símbolo do maior torneio de tênis do mundo",
+      "link": "https://exame.com/agro/como-pequena-fruta-virou-simbolo-do-maior-torneio-de-tenis-do-mundo/",
+      "summary": "Setor movimenta uma indústria de frutas vermelhas avaliada em aproximadamente US$ 2,8 bilhões (R$ 14,7 bilhões)",
+      "date": "2026-07-05T08:00:54+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/TRUE-RETRATOS-27-03-2026-111553.jpg"
+      "image": null
+    },
+    {
+      "id": "056431b80135",
+      "title": "Como uma 'simples' torção pode aproximar computadores quânticos da realidade",
+      "link": "https://exame.com/ciencia/como-uma-simples-torcao-pode-aproximar-computadores-quanticos-da-realidade/",
+      "summary": "Pesquisadores conseguiram alterar a luz emitida por materiais atômicos, ampliando o controle sobre tecnologias do futuro",
+      "date": "2026-07-05T08:00:44+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/02/gettyimages-2156615862.jpg"
+    },
+    {
+      "id": "842e35ab6a96",
+      "title": "The most iconic US brands of the last 250 years",
+      "link": "https://www.morningbrew.com/stories/the-most-iconic-us-brands-of-the-last-250-years?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "These brands changed business and culture, churned out legendary logos, and made commercials that will flash before our eyes on our deathbeds.",
+      "date": "2026-07-05T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-90a7d054ca08c6c006ea5df099d31818fb82af5c-2289x1526-png/MBD-SundaySpecial-America250-IconicBrands-0626.png"
+    },
+    {
+      "id": "8e8e3a82900f",
+      "title": "US companies that will define the next 250 years",
+      "link": "https://www.morningbrew.com/stories/us-companies-that-will-define-the-next-250-years?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "We take a stab at predicting the companies that will shape the US’ next 250 years.",
+      "date": "2026-07-05T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-a4d98bf9be5e954c8a28c6f4988083056f607a8e-3000x2000-jpg/MBD-SundaySpecial-America250-Next250-0626.jpg"
+    },
+    {
+      "id": "20a8f0925af1",
+      "title": "The state of ‘Made in the USA’ products",
+      "link": "https://www.morningbrew.com/stories/the-challenge-of-finding-products-made-in-usa?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "There are significant obstacles for products to get made 100% in the country that brought the world Waffle House.",
+      "date": "2026-07-05T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-4dc1306dd3e4f40facd8e785daeb2df434ba6c11-3000x2000-jpg/MBD-SundaySpecial-America250-MadeInUSA-0626.jpg"
+    },
+    {
+      "id": "e95fac8a90b4",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "date": "2026-07-04T20:55:25+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "9ba1b5abc35e",
+      "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+      "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+      "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Frid...",
+      "date": "2026-07-04T19:06:27+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Testing-Link-Vibration-tests-2_4000x2600.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "3b9c6f2ff5d5",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "date": "2026-07-04T18:00:05+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "1f1d17adca7b",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "date": "2026-07-04T16:32:08+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "2ccdfaf30123",
+      "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+      "link": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+      "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayor Zohran Mamdani asking New Yorkers to help reduce strain on the grid by sett...",
+      "date": "2026-07-04T16:19:06+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25739860/1998630585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100.51963048499,100.51966048848"
+    },
+    {
+      "id": "2d5c48812616",
+      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
+      "link": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+      "summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you’ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on September 9th, going from $1,245 to $1,495. Matic told The Verge that the new price refl...",
+      "date": "2026-07-04T16:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258028_Matic_Robot_Vacuum_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "08fd878d71c8",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "date": "2026-07-04T15:51:32+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "76844ab29db0",
+      "title": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
+      "link": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
+      "summary": "Erick the Architect is a founding member of, and the primary producer for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel and Fallon, played Coachella, and collaborated with everyone from Joey Bada$$ and the Rza to James Blake and hardcore punk band Trash Talk. But per...",
+      "date": "2026-07-04T15:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Erick_Press_Photos4063.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "a953f65306d1",
+      "title": "Hey number pad lovers, this is a keyboard we can finally agree on",
+      "link": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+      "summary": "I know a vocal group of people who swear by the number pad on their keyboard. And yet, for years I haven't cared about using one - until I put my hands on the Epomaker RT98. It's a mechanical keyboard with a charming retro aesthetic, a fun CRT-like screen, VIA compatibility, a nice typing feel, […]",
+      "date": "2026-07-04T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268621_Epomaker_RT98_mechanical_keyboard_review_ADiBenedetto_0049.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "804b42ca4362",
+      "title": "The square-ish phone that I wanted to love",
+      "link": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+      "summary": "The Ikko MindOne Pro is delightfully small. I keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips up so you can use it for selfies - you can even open it partway to use as a stand or a kind […]",
+      "date": "2026-07-04T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268620_ikko_MindOne_Pro_AJohnson_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "6ae1a2919d43",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI to...",
+      "date": "2026-07-04T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "3f15ef1eec7c",
@@ -208,7 +373,7 @@
       "source": "Dan Koe",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/db2f6263-96c5-4819-a233-6ed3a6a1cdff_1920x1080.jpeg"
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/bda02988-0853-4983-af53-555e7369ddb3_2912x1632.png"
     },
     {
       "id": "32ef8d9dc0b7",
@@ -231,83 +396,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS525_MASS_SURVEILLANCE6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "159ed7e63255",
-      "title": "This slim camera has a transparent LCD screen for a viewfinder",
-      "link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-      "summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Canon cameras on eBay. Godox, a company best known for its ph...",
-      "date": "2026-07-03T14:51:38+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "2888db0bf5c6",
-      "title": "I finally got my Trump phone",
-      "link": "https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump Mobile's T1 Phone 8002 (gold version), I'm finally holding one in my own hands. That's right, The Ve...",
-      "date": "2026-07-03T14:41:11+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/trump-mobile-t1-phone-first-impressions-09.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "95e63cea487b",
-      "title": "Hydration isn’t complicated: Just drink water",
-      "link": "https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Europe is melting, the eastern US is currently trapped in a \"heat dome,\" the Midw...",
-      "date": "2026-07-03T14:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283910763.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "350ff7a4ffa4",
-      "title": "Anthropic wants to develop its own drugs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular codi...",
-      "date": "2026-07-03T13:56:52+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "6dd893cd594a",
-      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
-      "link": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
-      "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he \"planned or participated in any conspiracy or coordinated scheme\" for the \"purpose of injuring Apple.\" Ho...",
-      "date": "2026-07-03T13:12:35+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_44382.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "13fb80432f6d",
-      "title": "The Verge’s annual summer ‘in’ and ‘out’ list",
-      "link": "https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list",
-      "summary": "In the AI slop-loaded, algorithm-powered modern reality, trends come and go - and the tech industry is no different. For the last few years, The Verge staff has compiled a selection of things that are IN for summer and OUT for summer - and each time there are some strong feelings. (Here are the l...",
-      "date": "2026-07-03T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268616_THE_VERGE_SUMMER_IN___OUT_LIST_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "1261d70e5f74",
-      "title": "Apple TV is hitting its stride",
-      "link": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
-      "summary": "Since its inception, Apple TV, née Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally speaking, the projects it does put out are quite good. It's a strategy that has brought comparisons to the H...",
-      "date": "2026-07-03T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Maximum_Pleasure_Guaranteed_Photo_010904.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "437860725cda",
@@ -341,206 +429,283 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-02/image-ab3b9f7b291fd0c425905c9f2558790ff420fade-1024x683-jpg/GettyImages-2277901710.jpg"
-    },
-    {
-      "id": "4615c2b6437b",
-      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-      "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-      "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
-      "date": "2026-07-03T05:05:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "2b00a42f8ab0",
-      "title": "America’s job creation report card disappoints",
-      "link": "https://www.morningbrew.com/stories/americas-job-creation-report-card-disappoints?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The US added fewer jobs than expected but employers are still hiring.",
-      "date": "2026-07-03T05:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-01-15/image-eb813c44b62934cb79050f74c217e0f7b46bb48d-8659x5773-jpg/USLaborDepartmentHeadquarters"
-    },
-    {
-      "id": "2d4b1570cd72",
-      "title": "Tesla snags a sales dub",
-      "link": "https://www.morningbrew.com/stories/tesla-snags-a-sales-dub?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The company delivered 480,000 EVs in Q2, smashing Wall Street’s predictions of ~400,000.",
-      "date": "2026-07-03T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-02/image-75dfb164bcbad0836442aa3bb83fdccb8fa23e72-1024x668-jpg/GettyImages-2092455640.jpg"
-    },
-    {
-      "id": "23c7f163dafa",
-      "title": "Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter",
-      "link": "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html",
-      "summary": "A front-door video camera of the crash, which killed a woman inside her home, showed the Tesla plowing into a house through its driveway.",
-      "date": "2026-07-03T00:01:43+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/07/02/multimedia/02XP-TESLA-hmgj/02XP-TESLA-hmgj-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "86d962f434e1",
-      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-      "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-      "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
-      "date": "2026-07-03T00:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "1330bf12d913",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "date": "2026-07-02T23:38:10+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "b58e92132a8f",
-      "title": "Private space pilots are flying orbital missions for the US Space Force",
-      "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-      "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
-      "date": "2026-07-02T23:01:06+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "9f7b911a11b1",
-      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-      "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-      "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
-      "date": "2026-07-02T21:57:10+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     }
   ],
   "all_articles": [
     {
-      "id": "bf8da3ec275b",
-      "title": "O conselho de Carole Crema para quem odeia a parte administrativa da empresa",
-      "link": "https://exame.com/negocios/o-conselho-de-carole-crema-para-quem-odeia-a-parte-administrativa-da-empresa/",
-      "summary": "No Choque de Gestão, chef e empresária explica por que fugir dos números é um erro comum entre empreendedores e como transformar a gestão em uma aliada do crescimento",
-      "date": "2026-07-04T08:08:41+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/imagem-site-exame2.jpg"
+      "id": "6272d5a3958d",
+      "title": "How Meta’s Threads Became as Popular as X",
+      "link": "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html",
+      "summary": "The social platform that Meta once positioned as a rival to Elon Musk’s X now has 500 million users. It increasingly resembles Reddit.",
+      "date": "2026-07-05T09:01:41+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/META-THREADS-1-03-tgph/META-THREADS-1-03-tgph-mediumSquareAt3X.jpg"
     },
     {
-      "id": "04c646e4656f",
-      "title": "EUA, 250 anos: os desafios da maior potência global — e o que a história ensina",
-      "link": "https://exame.com/mundo/eua-250-anos-os-desafios-da-maior-potencia-global-e-o-que-a-historia-ensina/",
-      "summary": "Polarização política, desconfiança nas instituições e insatisfação econômica alimentam questionamentos sobre a confiança no governo americano",
-      "date": "2026-07-04T08:05:57+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/08/bandeira-eua-pib-2-tri.jpg"
-    },
-    {
-      "id": "01f6c729a4d0",
-      "title": "De canetas emagrecedoras à marca própria para carnes: o investimento do Assaí no novo consumidor",
-      "link": "https://exame.com/negocios/de-canetas-emagrecedoras-a-marca-propria-para-carnes-o-investimento-do-assai-no-novo-consumidor/",
-      "summary": "O CEO Belmiro Gomes conta como está transformando o negócio de R$ 84 bilhões em um ecossistema para todos os tipos de clientes. Além de farmácia e açougues, até postos de gasolinas e eletropostos estão no radar deste atacarejo",
-      "date": "2026-07-04T08:04:53+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2022/05/ASSAI-2.jpg"
-    },
-    {
-      "id": "f71fdc9a73a6",
-      "title": "A aposta de R$ 1 bilhão na cidade entre Balneário Camboriú e Florianópolis que 'ninguém olhava'",
-      "link": "https://exame.com/negocios/a-aposta-de-r-1-bilhao-na-cidade-entre-balneario-camboriu-e-florianopolis-que-ninguem-olhava/",
-      "summary": "Ricardo Laus passou mais de duas décadas valorizando terrenos de outras incorporadoras no litoral de Santa Catarina. Agora fundou a própria empresa e vendeu 80% dos lotes unifamiliares do primeiro lançamento em uma semana",
-      "date": "2026-07-04T08:02:43+00:00",
+      "id": "a63f73b2da1f",
+      "title": "Empresa do Paraná vai faturar R$ 360 milhões com comida saudável que até criança birrenta gosta",
+      "link": "https://exame.com/negocios/empresa-do-parana-vai-faturar-r-360-milhoes-com-comida-saudavel-que-ate-crianca-birrenta-gosta/",
+      "summary": "Com a marca Era uma vez, a Papapá sai do berço do bebê para encarar gigantes do biscoito, do salgadinho e do achocolatado",
+      "date": "2026-07-05T08:18:26+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "ba3d29c29644",
-      "title": "Aos 67 anos, clássica churrascaria de SP muda de endereço e prepara unidade em Brasília",
-      "link": "https://exame.com/negocios/aos-67-anos-classica-churrascaria-de-sp-muda-de-endereco-e-prepara-unidade-em-brasilia/",
-      "summary": "Com duas unidades que atendem 16 mil clientes por mês, Rodeio inaugura nova operação de R$ 20 milhões e avança no plano de crescimento nacional",
-      "date": "2026-07-04T08:02:20+00:00",
+      "id": "5b4d54485cc0",
+      "title": "As típicas férias do brasileiro: só 33% dos profissionais usam 100% dos dias para descanso",
+      "link": "https://exame.com/carreira/as-tipicas-ferias-do-brasileiro-so-33-dos-profissionais-usam-100-dos-dias-para-descanso/",
+      "summary": "Estudo mostra que, apesar de oferecer a segunda maior quantidade de férias do mundo, atrás apenas da França (34 dias), os brasileiros utilizam apenas 72% do benefício",
+      "date": "2026-07-05T08:05:33+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Nova-imagem-9.jpg"
+      "image": null
     },
     {
-      "id": "6e3be03f3c77",
-      "title": "88% das casas impactadas: IBGE revela dimensão das enchentes no RS",
-      "link": "https://exame.com/esg/88-das-casas-impactadas-ibge-revela-dimensao-das-enchentes-no-rs/",
-      "summary": "Dados mostram que a maioria dos domicílios enfrentou ocorrências relacionadas às enchentes, com impacto também na estrutura das casas e no bem-estar psicológico da população",
-      "date": "2026-07-04T08:01:54+00:00",
+      "id": "f3018e20fcdb",
+      "title": "Eles construíram uma marca renomada com formaturas em Curitiba — e agora querem ir além",
+      "link": "https://exame.com/negocios/eles-construiram-uma-marca-renomada-com-formaturas-em-curitiba-e-agora-querem-ir-alem/",
+      "summary": "Fundado em 2011, o Grupo Torres criou uma holding para reunir diferentes operações e estuda ampliar buffet infantil, fábrica de salgados e estrutura de eventos na capital paranaense",
+      "date": "2026-07-05T08:04:27+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/05/000_34QZ6LR.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-15.09.43.jpeg"
     },
     {
-      "id": "a45341fb994a",
-      "title": "Sem arábica, sem espresso: a corrida para salvar o café das mudanças climáticas",
-      "link": "https://exame.com/ciencia/sem-arabica-sem-espresso-a-corrida-para-salvar-o-cafe-das-mudancas-climaticas/",
-      "summary": "Com as mudanças climáticas, o café está em uma crise que envolve biologia, economia e o futuro de milhões de agricultores em países de baixa renda",
-      "date": "2026-07-04T08:01:53+00:00",
+      "id": "17639401286b",
+      "title": "Indústria de suplementos do Paraná investe R$ 67 milhões em fábrica e novo centro logístico",
+      "link": "https://exame.com/negocios/industria-de-suplementos-do-parana-investe-r-67-milhoes-em-fabrica-e-novo-centro-logistico/",
+      "summary": "Presente em mais de 83 mil farmácias, a Maxinutri quer ampliar a capacidade produtiva e atingir R$ 500 milhões em faturamento em 2027",
+      "date": "2026-07-05T08:02:07+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/Colheita-mecanizada.JPG.jpeg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Nova-imagem-11.jpg"
     },
     {
-      "id": "9a0a16b70ded",
-      "title": "Prioridade é reajustar limite do faturamento de microempresas, diz presidente da ACSP",
-      "link": "https://exame.com/brasil/prioridade-e-reajustar-limite-do-faturamento-de-microempresas-diz-presidente-da-acsp/",
-      "summary": "Para Alfredo Cotait Neto, aumentar só o teto de MEIs é insuficiente para associações empresariais",
-      "date": "2026-07-04T08:01:33+00:00",
+      "id": "7f22be693a82",
+      "title": "Militares ucranianos que atacam Moscou com drones vivem nas sombras",
+      "link": "https://exame.com/mundo/militares-ucranianos-que-atacam-moscou-com-drones-vivem-nas-sombras/",
+      "summary": "Ucrânia tem feito ofensiva contra território russo para tentar mudar destino da guerra que dura mais de 4 anos",
+      "date": "2026-07-05T08:01:42+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Cotait-2.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260701__B8RH8NQ__v1__HighRes__FilesUkraineRussiaConflictWar.jpg"
     },
     {
-      "id": "f1dfd3214b3b",
-      "title": "4 de julho: EUA terão festa de 250 anos com recorde de calor",
-      "link": "https://exame.com/mundo/4-de-julho-eua-terao-festa-de-250-anos-com-recorde-de-calor/",
-      "summary": "Temperaturas escaldantes ameaçam interromper celebrações, e termômetros registram altas que já batem recordes",
-      "date": "2026-07-04T08:01:26+00:00",
+      "id": "eab272e1ba26",
+      "title": "Natura cria startup para conectar bioeconomia da Amazônia ao mundo",
+      "link": "https://exame.com/esg/natura-cria-startup-para-conectar-bioeconomia-da-amazonia-ao-mundo/",
+      "summary": "Iniciativa conecta mais de 11 mil famílias na Pan-Amazônia a novos mercados e mantém rastreabilidade de insumos usados em cadeias de cosméticos e outros setores",
+      "date": "2026-07-05T08:01:37+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/07/EstadosUnidos_independencia.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/05/MG_0549.jpg"
     },
     {
-      "id": "edb8b280068a",
-      "title": "Como dois donos de loja de suplemento criaram uma marca 'clean label' que desafia o whey tradicional",
-      "link": "https://exame.com/negocios/como-dois-donos-de-loja-de-suplemento-criaram-uma-marca-clean-label-que-desafia-o-whey-tradicional/",
-      "summary": "True Suplementos quer crescer 50% com aposta em proteína líquida, rotina matinal e expansão para farmácias e supermercados",
-      "date": "2026-07-04T08:01:23+00:00",
+      "id": "b2d4661ffe99",
+      "title": "PL e MDB concentram mais pré-candidatos competitivos ao Senado",
+      "link": "https://exame.com/brasil/pl-e-mdb-concentram-mais-pre-candidatos-competitivos-ao-senado/",
+      "summary": "O PT, por sua vez, tem 7 dos 64 pré-candidatos que lideram pesquisas à Casa Alta",
+      "date": "2026-07-05T08:01:06+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/TRUE-RETRATOS-27-03-2026-111553.jpg"
+      "image": null
+    },
+    {
+      "id": "fac2494b7b18",
+      "title": "Seção 301: audiência sobre tarifas ao Brasil terá 81 discursos; veja lista",
+      "link": "https://exame.com/mundo/secao-301-audiencia-sobre-tarifas-ao-brasil-tera-81-discursos-veja-lista/",
+      "summary": "Governo Trump analisa impor novas tarifas a produtos brasileiros; Flávio Bolsonaro irá ao evento",
+      "date": "2026-07-05T08:01:04+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260703__2284510798__v1__HighRes__ConstructionContinuesAroundDCAsTheNationSCap.jpg"
+    },
+    {
+      "id": "9541168d9b7e",
+      "title": "Como pequena fruta virou símbolo do maior torneio de tênis do mundo",
+      "link": "https://exame.com/agro/como-pequena-fruta-virou-simbolo-do-maior-torneio-de-tenis-do-mundo/",
+      "summary": "Setor movimenta uma indústria de frutas vermelhas avaliada em aproximadamente US$ 2,8 bilhões (R$ 14,7 bilhões)",
+      "date": "2026-07-05T08:00:54+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "056431b80135",
+      "title": "Como uma 'simples' torção pode aproximar computadores quânticos da realidade",
+      "link": "https://exame.com/ciencia/como-uma-simples-torcao-pode-aproximar-computadores-quanticos-da-realidade/",
+      "summary": "Pesquisadores conseguiram alterar a luz emitida por materiais atômicos, ampliando o controle sobre tecnologias do futuro",
+      "date": "2026-07-05T08:00:44+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/02/gettyimages-2156615862.jpg"
+    },
+    {
+      "id": "842e35ab6a96",
+      "title": "The most iconic US brands of the last 250 years",
+      "link": "https://www.morningbrew.com/stories/the-most-iconic-us-brands-of-the-last-250-years?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "These brands changed business and culture, churned out legendary logos, and made commercials that will flash before our eyes on our deathbeds.",
+      "date": "2026-07-05T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-90a7d054ca08c6c006ea5df099d31818fb82af5c-2289x1526-png/MBD-SundaySpecial-America250-IconicBrands-0626.png"
+    },
+    {
+      "id": "8e8e3a82900f",
+      "title": "US companies that will define the next 250 years",
+      "link": "https://www.morningbrew.com/stories/us-companies-that-will-define-the-next-250-years?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "We take a stab at predicting the companies that will shape the US’ next 250 years.",
+      "date": "2026-07-05T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-a4d98bf9be5e954c8a28c6f4988083056f607a8e-3000x2000-jpg/MBD-SundaySpecial-America250-Next250-0626.jpg"
+    },
+    {
+      "id": "20a8f0925af1",
+      "title": "The state of ‘Made in the USA’ products",
+      "link": "https://www.morningbrew.com/stories/the-challenge-of-finding-products-made-in-usa?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "There are significant obstacles for products to get made 100% in the country that brought the world Waffle House.",
+      "date": "2026-07-05T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-4dc1306dd3e4f40facd8e785daeb2df434ba6c11-3000x2000-jpg/MBD-SundaySpecial-America250-MadeInUSA-0626.jpg"
+    },
+    {
+      "id": "e95fac8a90b4",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "date": "2026-07-04T20:55:25+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "9ba1b5abc35e",
+      "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+      "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+      "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Frid...",
+      "date": "2026-07-04T19:06:27+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Testing-Link-Vibration-tests-2_4000x2600.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "3b9c6f2ff5d5",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "date": "2026-07-04T18:00:05+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "1f1d17adca7b",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "date": "2026-07-04T16:32:08+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "2ccdfaf30123",
+      "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+      "link": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+      "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayor Zohran Mamdani asking New Yorkers to help reduce strain on the grid by sett...",
+      "date": "2026-07-04T16:19:06+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25739860/1998630585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100.51963048499,100.51966048848"
+    },
+    {
+      "id": "2d5c48812616",
+      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
+      "link": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+      "summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you’ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on September 9th, going from $1,245 to $1,495. Matic told The Verge that the new price refl...",
+      "date": "2026-07-04T16:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258028_Matic_Robot_Vacuum_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "08fd878d71c8",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "date": "2026-07-04T15:51:32+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "76844ab29db0",
+      "title": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
+      "link": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
+      "summary": "Erick the Architect is a founding member of, and the primary producer for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel and Fallon, played Coachella, and collaborated with everyone from Joey Bada$$ and the Rza to James Blake and hardcore punk band Trash Talk. But per...",
+      "date": "2026-07-04T15:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Erick_Press_Photos4063.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "a953f65306d1",
+      "title": "Hey number pad lovers, this is a keyboard we can finally agree on",
+      "link": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+      "summary": "I know a vocal group of people who swear by the number pad on their keyboard. And yet, for years I haven't cared about using one - until I put my hands on the Epomaker RT98. It's a mechanical keyboard with a charming retro aesthetic, a fun CRT-like screen, VIA compatibility, a nice typing feel, […]",
+      "date": "2026-07-04T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268621_Epomaker_RT98_mechanical_keyboard_review_ADiBenedetto_0049.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "804b42ca4362",
+      "title": "The square-ish phone that I wanted to love",
+      "link": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+      "summary": "The Ikko MindOne Pro is delightfully small. I keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips up so you can use it for selfies - you can even open it partway to use as a stand or a kind […]",
+      "date": "2026-07-04T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268620_ikko_MindOne_Pro_AJohnson_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "6ae1a2919d43",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI to...",
+      "date": "2026-07-04T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "3f15ef1eec7c",
@@ -606,7 +771,7 @@
       "source": "Dan Koe",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/db2f6263-96c5-4819-a233-6ed3a6a1cdff_1920x1080.jpeg"
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/bda02988-0853-4983-af53-555e7369ddb3_2912x1632.png"
     },
     {
       "id": "32ef8d9dc0b7",
@@ -629,83 +794,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS525_MASS_SURVEILLANCE6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "159ed7e63255",
-      "title": "This slim camera has a transparent LCD screen for a viewfinder",
-      "link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-      "summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Canon cameras on eBay. Godox, a company best known for its ph...",
-      "date": "2026-07-03T14:51:38+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "2888db0bf5c6",
-      "title": "I finally got my Trump phone",
-      "link": "https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump Mobile's T1 Phone 8002 (gold version), I'm finally holding one in my own hands. That's right, The Ve...",
-      "date": "2026-07-03T14:41:11+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/trump-mobile-t1-phone-first-impressions-09.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "95e63cea487b",
-      "title": "Hydration isn’t complicated: Just drink water",
-      "link": "https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Europe is melting, the eastern US is currently trapped in a \"heat dome,\" the Midw...",
-      "date": "2026-07-03T14:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283910763.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "350ff7a4ffa4",
-      "title": "Anthropic wants to develop its own drugs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular codi...",
-      "date": "2026-07-03T13:56:52+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "6dd893cd594a",
-      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
-      "link": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
-      "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he \"planned or participated in any conspiracy or coordinated scheme\" for the \"purpose of injuring Apple.\" Ho...",
-      "date": "2026-07-03T13:12:35+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_44382.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "13fb80432f6d",
-      "title": "The Verge’s annual summer ‘in’ and ‘out’ list",
-      "link": "https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list",
-      "summary": "In the AI slop-loaded, algorithm-powered modern reality, trends come and go - and the tech industry is no different. For the last few years, The Verge staff has compiled a selection of things that are IN for summer and OUT for summer - and each time there are some strong feelings. (Here are the l...",
-      "date": "2026-07-03T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268616_THE_VERGE_SUMMER_IN___OUT_LIST_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "1261d70e5f74",
-      "title": "Apple TV is hitting its stride",
-      "link": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
-      "summary": "Since its inception, Apple TV, née Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally speaking, the projects it does put out are quite good. It's a strategy that has brought comparisons to the H...",
-      "date": "2026-07-03T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Maximum_Pleasure_Guaranteed_Photo_010904.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "437860725cda",
@@ -790,50 +878,6 @@
       "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
       "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
       "date": "2026-07-03T00:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "1330bf12d913",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "date": "2026-07-02T23:38:10+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "b58e92132a8f",
-      "title": "Private space pilots are flying orbital missions for the US Space Force",
-      "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-      "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
-      "date": "2026-07-02T23:01:06+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "9f7b911a11b1",
-      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-      "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-      "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
-      "date": "2026-07-02T21:57:10+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "95769a4bd3f9",
-      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-      "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-      "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
-      "date": "2026-07-02T20:42:48+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
@@ -871,17 +915,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/07/02/business/02biz-auto-sales-1/02biz-auto-sales-1-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "8ad694fbbdca",
-      "title": "Is a ‘Frictionless’ Society a Trap?",
-      "link": "https://www.nytimes.com/2026/07/02/magazine/frictionless-productivity-marketing-tech.html",
-      "summary": "Eliminating whatever stands between you and a task sounds nice, but it probably has more to offer companies than users.",
-      "date": "2026-07-02T09:02:10+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     },
     {
       "id": "6d8155b5bae9",
@@ -961,17 +994,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-996b6994c94ed0e68e7eddb7b3936cbf55ce2859-8158x5439-jpg/GettyImages-1968239106.jpg"
     },
     {
-      "id": "c97eb6f4bc35",
-      "title": "Why Supergirl couldn’t get off the ground",
-      "link": "https://www.morningbrew.com/stories/why-supergirl-couldnt-get-off-the-ground?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The DC tentpole movie was up against poor reviews and toxic fanboy culture",
-      "date": "2026-07-01T04:02:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-a77e5bec4b37441186b573bbd07380e34b182196-1500x1000-jpg/MBD-Supergirl-0626.jpg"
-    },
-    {
       "id": "1ab1ce8a0a09",
       "title": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models",
       "link": "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html",
@@ -992,17 +1014,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/06/30/multimedia/00biz-NeonArtificial-vjwz/00biz-NeonArtificial-vjwz-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "54cd95b05b27",
-      "title": "Comforting news about AI’s threat to jobs",
-      "link": "https://www.morningbrew.com/stories/comforting-news-about-ais-threat-to-jobs?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "A new study suggests that AI adoption could be accelerating hiring.",
-      "date": "2026-06-30T21:56:32+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-30/image-7969520cd8f5016d0a9b9293d67c80ba43bf7ae0-1500x1000-jpg/MBD_06302026_AILayoffReport_03.jpg"
     },
     {
       "id": "a5016c388d20",
@@ -1036,17 +1047,6 @@
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://no-cache.hubspot.com/cta/default/53/887c58e0-5bc7-4fe2-8ea4-7a360452eaaf.png"
-    },
-    {
-      "id": "3b0a72c3f301",
-      "title": "SCOTUS rules Trump can’t dismiss the Fed’s Cook",
-      "link": "https://www.morningbrew.com/stories/scotus-rules-trump-cant-dismiss-the-feds-cook?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "While one decision limited the President's power, another granted authority to fire people at other agencies",
-      "date": "2026-06-30T04:02:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-06-29/image-5b8d35fca8b483d0349e3278258083ba6b556092-8256x5504-jpg/GettyImages-2262841692.jpg"
     },
     {
       "id": "5e28a4ec84e7",
