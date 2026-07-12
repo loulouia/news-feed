@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T11:00:04.011537+00:00",
+  "generated_at": "2026-07-12T11:07:25.620993+00:00",
   "total_articles": 90,
   "categories": [
     {
@@ -33,116 +33,292 @@
   ],
   "featured": [
     {
-      "id": "544e6f472f0f",
-      "title": "Ele vendeu uma Brasília para abrir uma loja em frente à rodoviária. Hoje a rede fatura R$ 2 bilhões",
-      "link": "https://exame.com/negocios/ele-vendeu-uma-brasilia-para-abrir-uma-loja-em-frente-a-rodoviaria-hoje-a-rede-fatura-r-2-bilhoes/",
-      "summary": "A primeira loja da MM abriu ao lado de uma rodoviária, sobreviveu a sucessivas crises do varejo e hoje lidera em cidades que as grandes redes não conseguem operar",
-      "date": "2026-07-11T07:43:28+00:00",
+      "id": "634f700ff434",
+      "title": "Some national parks are stargazing sanctuaries",
+      "link": "https://www.morningbrew.com/stories/national-parks-are-the-last-stargazing-sanctuaries?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Nocturnal purists head to the 18 national parks that are designated as official Dark Sky Places.",
+      "date": "2026-07-12T08:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-09/image-8be292efe775ce922393b85fbb30cb9d738e0936-3000x2000-jpg/MBD-SundaySpecial-NationalParks-Stargazing-0726.jpg"
+    },
+    {
+      "id": "8d012cd203f3",
+      "title": "How much it costs to run a national park",
+      "link": "https://www.morningbrew.com/stories/how-much-it-costs-to-run-a-national-park?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "In January, Congress passed an annual budget bill that approved $2.88 billion to operate the NPS through October of this year.",
+      "date": "2026-07-12T08:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-09/image-7ff1451ec2f2a891dc29b20ca5cb3fb3c2678f81-5170x3447-jpg/GettyImages-487668440.jpg"
+    },
+    {
+      "id": "cb73fb1ccbe0",
+      "title": "Deixamos o inventário para depois, mas já se passaram 12 anos. E agora?",
+      "link": "https://exame.com/mercado-imobiliario/deixamos-o-inventario-para-depois-mas-ja-se-passaram-12-anos-e-agora/",
+      "summary": "Especialista responde dúvida de leitores; envie você também suas perguntas",
+      "date": "2026-07-12T08:00:58+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "b2e12ef00d5c",
-      "title": "Além dos gols: veja o detalhe que diferencia Messi e Mbappé na Copa do Mundo",
-      "link": "https://exame.com/esporte/alem-dos-gols-veja-o-detalhe-que-diferencia-messi-e-mbappe-na-copa-do-mundo/",
-      "summary": "Os dois têm oito gols, desperdiçaram pênaltis e podem decidir o Mundial outra vez, mas as campanhas revelam histórias completamente distintas",
-      "date": "2026-07-11T07:38:13+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/messi-mbappe-copa-do-mundo.jpg"
-    },
-    {
-      "id": "fda0a31d9490",
-      "title": "Relembre o duelo entre Argentina e Suíça pelas oitavas de final da Copa de 2014",
-      "link": "https://exame.com/esporte/relembre-o-duelo-entre-argentina-e-suica-pelas-oitavas-de-final-da-copa-de-2014/",
-      "summary": "As seleções se cruzaram em um mata-mata de Mundial há 12 anos e voltam a repetir o duelo na edição de 2026",
-      "date": "2026-07-11T07:34:50+00:00",
+      "id": "230489a5f932",
+      "title": "90% dos projetos renováveis foram mais baratos que usinas fósseis em 2025",
+      "link": "https://exame.com/esg/90-dos-projetos-renovaveis-foram-mais-baratos-que-usinas-fosseis-em-2025/",
+      "summary": "Energia solar e eólica mantiveram vantagem econômica em novos empreendimentos, enquanto sistemas com baterias ganham espaço no mercado",
+      "date": "2026-07-12T08:00:57+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "a8928d9cb60a",
-      "title": "IA ajuda a desvendar como surgem os elementos mais pesados do Universo",
-      "link": "https://exame.com/ciencia/ia-ajuda-a-desvendar-como-surgem-os-elementos-mais-pesados-do-universo/",
-      "summary": "Modelo acelera simulações de kilonovas e pode aproximar observações astronômicas de experimentos em física nuclear",
-      "date": "2026-07-11T07:04:31+00:00",
+      "id": "36e831b467d3",
+      "title": "Argentina se irrita com possível exploração de petróleo nas Malvinas",
+      "link": "https://exame.com/mundo/argentina-se-irrita-com-possivel-exploracao-de-petroleo-nas-malvinas/",
+      "summary": "Produção de petróleo comercial pode começar em 2028 e promete revolucionar a economia do arquipélago, mas revive antigas cicatrizes políticas",
+      "date": "2026-07-12T08:00:08+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/elementos-mais-pesados-do-Universo.png"
+      "image": null
     },
     {
-      "id": "69167fecc322",
-      "title": "A inteligência artificial também fica desatualizada; entenda por que isso acontece",
-      "link": "https://exame.com/inteligencia-artificial/a-inteligencia-artificial-tambem-fica-desatualizada-entenda-por-que-isso-acontece/",
-      "summary": "Embora pareçam saber tudo, modelos de inteligência artificial não aprendem sozinhos após serem lançados — sem novos treinamentos e atualizações, eles podem perder precisão diante de mudanças no mundo real.",
-      "date": "2026-07-11T07:02:52+00:00",
+      "id": "b6530cff6764",
+      "title": "Por que a rivalidade entre Europa e Rússia deve ir além da Guerra na Ucrânia?",
+      "link": "https://exame.com/mundo/por-que-a-rivalidade-entre-europa-e-russia-deve-ir-alem-da-guerra-na-ucrania/",
+      "summary": "Think tank CSIS aponta que Moscou amplia suas capacidades militares, intensifica ações híbridas contra países europeus e pode explorar divisões entre os aliados da Otan nos próximos anos",
+      "date": "2026-07-12T08:00:00+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/artificial-intelligence-brain-circuitry-and-data-i-2026-03-26-05-25-54-utc.jpg"
-    },
-    {
-      "id": "f091529bd820",
-      "title": "Wimbledon: como a marca mais desejada do tênis cresce dizendo \"não\"",
-      "link": "https://exame.com/esporte/wimbledon-como-a-marca-mais-desejada-do-tenis-cresce-dizendo-nao/",
-      "summary": "Patrocinadores discretos, tradição rígida e contradições improváveis revelam o que o All England Club ensina a fundadores, CEOs e conselhos",
-      "date": "2026-07-11T07:02:49+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Strawberries_and_cream_at_Wimbledon_2023_01.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/12/putin-eua-fim-da-guerra-da-ucrania.jpg"
     }
   ],
   "articles": [
     {
-      "id": "a450f294e9a9",
-      "title": "Do diesel à terra: produzir grãos nos EUA nunca foi tão caro — e 2027 será ainda pior",
-      "link": "https://exame.com/agro/do-diesel-a-terra-produzir-graos-nos-eua-nunca-foi-tao-caro-e-2027-sera-ainda-pior/",
-      "summary": "Sementes, mão de obra e arrendamentos devem manter custos elevados no próximo ano, aponta Departamento de Agriculltura dos Estados Unidos (USDA)",
-      "date": "2026-07-11T07:00:43+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/weathered-american-flag-hay-bale-field.jpg"
-    },
-    {
-      "id": "b81ebe7334a2",
-      "title": "6 estratégias para empresas que precisam ‘decolar’ no 2º semestre",
-      "link": "https://exame.com/bussola/6-estrategias-para-empresas-que-precisam-decolar-no-2o-semestre/",
-      "summary": "A partir da metáfora de um avião, Donald Miller mostra em livro como profissionalizar pequenas empresas e garantir um crescimento sustentável",
-      "date": "2026-07-11T07:00:37+00:00",
+      "id": "fb4987905126",
+      "title": "Cientistas descobrem comportamento inesperado de metal após 150 anos",
+      "link": "https://exame.com/ciencia/cientistas-descobrem-comportamento-inesperado-de-metal-apos-150-anos/",
+      "summary": "Estudo revela comportamento atômico inesperado do metal e pode impulsionar avanços em semicondutores e nanotecnologia",
+      "date": "2026-07-12T07:38:23+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "9dac65149a73",
-      "title": "Lula ou Flávio: quem está na frente nas pesquisas para presidente?",
-      "link": "https://exame.com/brasil/lula-ou-flavio-quem-esta-na-frente-nas-pesquisas-para-presidente/",
-      "summary": "Ao longo desta semana, um dos dois levantamentos presidenciais publicados mostram o presidente Luiz Inácio Lula da Silva (PT) à frente do senador Flávio Bolsonaro (PL)",
-      "date": "2026-07-11T07:00:21+00:00",
+      "id": "396db2570184",
+      "title": "Semifinal da Copa do Mundo terá os quatro primeiros do ranking da Fifa pela 1ª vez",
+      "link": "https://exame.com/esporte/semifinal-da-copa-do-mundo-tera-os-quatro-primeiros-do-ranking-da-fifa-pela-1a-vez/",
+      "summary": "Os quatro países já eram tidos como favoritos no início da competição",
+      "date": "2026-07-12T07:34:57+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/lula-e-Flavio-2-pb.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Argentina-comemora-vitoria.jpg"
     },
     {
-      "id": "206107aadde5",
-      "title": "O brasileiro que está entre os nomes do grupo de trabalho do Fed, nos EUA",
-      "link": "https://exame.com/invest/mercados/o-brasileiro-que-esta-entre-os-nomes-do-grupo-de-trabalho-do-fed-nos-eua/",
-      "summary": "Ex-presidente do Banco Central do Brasil, Arminio Fraga, integra grupo que vai revisar a comunicação do banco central dos EUA",
-      "date": "2026-07-11T07:00:09+00:00",
+      "id": "b2f0470b2fd8",
+      "title": "Muito além dos algoritmos: conheça as pessoas que ensinam a inteligência artificial",
+      "link": "https://exame.com/inteligencia-artificial/muito-alem-dos-algoritmos-conheca-as-pessoas-que-ensinam-a-inteligencia-artificial/",
+      "summary": "Por trás de respostas rápidas e aparentemente espontâneas existe uma cadeia de profissionais responsável por revisar dados, corrigir erros e treinar modelos para que a inteligência artificial aprenda a responder de forma mais precisa",
+      "date": "2026-07-12T07:08:43+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
+    },
+    {
+      "id": "2438a81e9018",
+      "title": "De trem pela costa do Mississippi: um roteiro entre cafeterias e cidades à beira-mar",
+      "link": "https://exame.com/casual/de-trem-pela-costa-do-mississippi-um-roteiro-entre-cafeterias-e-cidades-a-beira-mar/",
+      "summary": "Com paradas em cidades à beira-mar como Bay St. Louis, Gulfport, Biloxi e Pascagoula, novo trem de passageiros convida a explorar a região entre paisagens litorâneas e boas xícaras de café",
+      "date": "2026-07-12T07:04:08+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "2939e60eea8e",
+      "title": "Como Emily Henry vendeu 12 milhões de livros e virou a nova aposta de Hollywood",
+      "link": "https://exame.com/pop/como-emily-henry-vendeu-12-milhoes-de-livros-e-virou-a-nova-aposta-de-hollywood/",
+      "summary": "Com uma sequência de adaptações em andamento, a escritora americana de romance se tornou uma das maiores apostas da indústria do entretenimento",
+      "date": "2026-07-12T07:01:20+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/ChatGPT-Image-10-de-jul.-de-2026-10_48_00.png"
+    },
+    {
+      "id": "1ffdf8598565",
+      "title": "A queda de braço no setor de leite: por que os preços não devem cair tão cedo",
+      "link": "https://exame.com/agro/a-queda-de-braco-no-setor-de-leite-por-que-os-precos-nao-devem-cair-tao-cedo/",
+      "summary": "Oferta cresce entre os principais produtores, mas consumo resiliente e riscos ligados ao El Niño limitam uma queda mais intensa dos preços, diz StoneX",
+      "date": "2026-07-12T07:00:44+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/farm-cows-person-with-milk-bucket-process-food-production-feeding-animals-barn-sustainability-farmer-cream-container-dairy-small-business-nutrition-young-calf.jpg"
+    },
+    {
+      "id": "a16212b8a40a",
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same w...",
+      "date": "2026-07-12T00:16:06+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "5e661dc5cb57",
+      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+      "summary": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja’s latest slushie machine builds on the popu...",
+      "date": "2026-07-11T22:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "e89110a8812a",
+      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+      "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+      "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching...",
+      "date": "2026-07-11T20:57:42+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "e76c2ee4d298",
+      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+      "link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+      "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could review the documents. But according to Deadline an...",
+      "date": "2026-07-11T18:44:12+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "36bca3a868a7",
+      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+      "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+      "summary": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
+      "date": "2026-07-11T18:00:01+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "7ed413e4871d",
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+      "date": "2026-07-11T17:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "d7c5e9e6d7d1",
+      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+      "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+      "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age...",
+      "date": "2026-07-11T15:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "9caa052f48b2",
+      "title": "Nintendo’s Talking Flower got a small price cut",
+      "link": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+      "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a character from Super Mario Bros. Wonder that guides Mario through levels with q...",
+      "date": "2026-07-11T15:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "d9d2f2da34a7",
+      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
+      "link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
+      "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the UAP Governing Boar...",
+      "date": "2026-07-11T14:18:33+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/pentagon-ufo-videos-flir-gimbal-and-gofast.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0effca1279e3",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "date": "2026-07-11T14:13:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "27bb21349b25",
+      "title": "ICE are heavily armed killers. They’re also huge losers",
+      "link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+      "summary": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who sa...",
+      "date": "2026-07-11T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "be2cefe03926",
+      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+      "summary": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
+      "date": "2026-07-11T12:34:16+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "b8c693a36d47",
+      "title": "A tasty RPG that will make you very hungry",
+      "link": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+      "summary": "Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to explore, and casts so big you start forgetting character names. That's part of what makes these games feel like epic ad...",
+      "date": "2026-07-11T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dosa_Divas_Screenshot_cooking02_4k.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "bd8581674e3a",
+      "title": "The perfect kit for all your tiny repairs",
+      "link": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about cold plunges and Colson Whitehead and the food...",
+      "date": "2026-07-11T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-135.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "5bca9232dd8e",
@@ -176,17 +352,6 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-10/image-e585d5f606281dbcb4c8bff3bb8dd048f1c067ea-5000x3336-jpg/GettyImages-2271833760.jpg"
-    },
-    {
-      "id": "be2cefe03926",
-      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
-      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-      "summary": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
-      "date": "2026-07-11T02:03:34+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     },
     {
       "id": "9c7c481b13c4",
@@ -233,39 +398,6 @@
       "image": null
     },
     {
-      "id": "8d241099675b",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in A...",
-      "date": "2026-07-10T23:49:50+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "36bca3a868a7",
-      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-      "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-      "summary": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
-      "date": "2026-07-10T23:23:26+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "11b63df4f968",
-      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-      "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
-      "summary": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of starting to skirt the United States' foreign drone ban. But it appears the FCC...",
-      "date": "2026-07-10T22:35:18+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1409.jpg?quality=90&#038;strip=all&#038;crop=6,0,94,95.799934373975"
-    },
-    {
       "id": "4137b1de3f9d",
       "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
       "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
@@ -277,17 +409,6 @@
       "image": null
     },
     {
-      "id": "a4d7d36ef5b4",
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO P...",
-      "date": "2026-07-10T21:36:51+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "282d3dfac12a",
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
@@ -296,29 +417,7 @@
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024"
-    },
-    {
-      "id": "b2403c5f476c",
-      "title": "A decade later, Pokémon Go finally made good on its original promise",
-      "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-      "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pokémon Go showed the world how it's done. Almost 2,000 players (many of […]",
-      "date": "2026-07-10T19:51:10+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/AP26191114345728.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "74d4452a73fe",
-      "title": "ICE is threatening to deport witnesses of its latest shooting",
-      "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
-      "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved in the shooting weren...",
-      "date": "2026-07-10T19:20:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_Illo_K_Radtke_STK006_DHS_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": null
     },
     {
       "id": "d9692be21567",
@@ -330,217 +429,294 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10biz-eu-meta-jzgc/10biz-eu-meta-jzgc-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "a0a8d668fe1a",
-      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-      "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
-      "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
-      "date": "2026-07-10T17:42:36+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "11aae5aba176",
-      "title": "Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-      "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-      "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign company, according to...",
-      "date": "2026-07-10T17:31:35+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284882241.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "1e30c436ed1b",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "date": "2026-07-10T17:17:12+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "b450aa693f24",
-      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-      "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
-      "summary": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
-      "date": "2026-07-10T17:11:51+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "386327935483",
-      "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
-      "link": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
-      "summary": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new to you, and more. Listeners can choose from up to five opti...",
-      "date": "2026-07-10T17:02:13+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "e6f7746082e0",
-      "title": "2026.28: XBOX On the Rocks",
-      "link": "https://stratechery.com/2026/xbox-on-the-rocks/",
-      "summary": "The best Stratechery content from the week of July 6, 2026, including a word from Mark Zuckerberg*, pulling the plug on XBOX, and toilet talk.",
-      "date": "2026-07-10T17:00:00+00:00",
-      "source": "Stratechery",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/07/GettyImages-669589.jpg?resize=1700%2C1136&#038;ssl=1"
-    },
-    {
-      "id": "ee43c8324989",
-      "title": "China is catching up to Elon Musk’s reusable rockets",
-      "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
-      "summary": "China's state-owned space company recovered its first orbital rocket booster after launch.",
-      "date": "2026-07-10T16:51:07+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "0586b9d83768",
-      "title": "Netflix is turning into YouTube",
-      "link": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
-      "summary": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate. For a company that sees sleep as its primary competitor, it...",
-      "date": "2026-07-10T16:29:50+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260710.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "3bc027b7da53",
-      "title": "Disney+ is considering a free streaming tier, report says",
-      "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
-      "summary": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
-      "date": "2026-07-10T16:29:05+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     }
   ],
   "all_articles": [
     {
-      "id": "544e6f472f0f",
-      "title": "Ele vendeu uma Brasília para abrir uma loja em frente à rodoviária. Hoje a rede fatura R$ 2 bilhões",
-      "link": "https://exame.com/negocios/ele-vendeu-uma-brasilia-para-abrir-uma-loja-em-frente-a-rodoviaria-hoje-a-rede-fatura-r-2-bilhoes/",
-      "summary": "A primeira loja da MM abriu ao lado de uma rodoviária, sobreviveu a sucessivas crises do varejo e hoje lidera em cidades que as grandes redes não conseguem operar",
-      "date": "2026-07-11T07:43:28+00:00",
+      "id": "634f700ff434",
+      "title": "Some national parks are stargazing sanctuaries",
+      "link": "https://www.morningbrew.com/stories/national-parks-are-the-last-stargazing-sanctuaries?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Nocturnal purists head to the 18 national parks that are designated as official Dark Sky Places.",
+      "date": "2026-07-12T08:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-09/image-8be292efe775ce922393b85fbb30cb9d738e0936-3000x2000-jpg/MBD-SundaySpecial-NationalParks-Stargazing-0726.jpg"
+    },
+    {
+      "id": "8d012cd203f3",
+      "title": "How much it costs to run a national park",
+      "link": "https://www.morningbrew.com/stories/how-much-it-costs-to-run-a-national-park?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "In January, Congress passed an annual budget bill that approved $2.88 billion to operate the NPS through October of this year.",
+      "date": "2026-07-12T08:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-09/image-7ff1451ec2f2a891dc29b20ca5cb3fb3c2678f81-5170x3447-jpg/GettyImages-487668440.jpg"
+    },
+    {
+      "id": "cb73fb1ccbe0",
+      "title": "Deixamos o inventário para depois, mas já se passaram 12 anos. E agora?",
+      "link": "https://exame.com/mercado-imobiliario/deixamos-o-inventario-para-depois-mas-ja-se-passaram-12-anos-e-agora/",
+      "summary": "Especialista responde dúvida de leitores; envie você também suas perguntas",
+      "date": "2026-07-12T08:00:58+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "b2e12ef00d5c",
-      "title": "Além dos gols: veja o detalhe que diferencia Messi e Mbappé na Copa do Mundo",
-      "link": "https://exame.com/esporte/alem-dos-gols-veja-o-detalhe-que-diferencia-messi-e-mbappe-na-copa-do-mundo/",
-      "summary": "Os dois têm oito gols, desperdiçaram pênaltis e podem decidir o Mundial outra vez, mas as campanhas revelam histórias completamente distintas",
-      "date": "2026-07-11T07:38:13+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/messi-mbappe-copa-do-mundo.jpg"
-    },
-    {
-      "id": "fda0a31d9490",
-      "title": "Relembre o duelo entre Argentina e Suíça pelas oitavas de final da Copa de 2014",
-      "link": "https://exame.com/esporte/relembre-o-duelo-entre-argentina-e-suica-pelas-oitavas-de-final-da-copa-de-2014/",
-      "summary": "As seleções se cruzaram em um mata-mata de Mundial há 12 anos e voltam a repetir o duelo na edição de 2026",
-      "date": "2026-07-11T07:34:50+00:00",
+      "id": "230489a5f932",
+      "title": "90% dos projetos renováveis foram mais baratos que usinas fósseis em 2025",
+      "link": "https://exame.com/esg/90-dos-projetos-renovaveis-foram-mais-baratos-que-usinas-fosseis-em-2025/",
+      "summary": "Energia solar e eólica mantiveram vantagem econômica em novos empreendimentos, enquanto sistemas com baterias ganham espaço no mercado",
+      "date": "2026-07-12T08:00:57+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "a8928d9cb60a",
-      "title": "IA ajuda a desvendar como surgem os elementos mais pesados do Universo",
-      "link": "https://exame.com/ciencia/ia-ajuda-a-desvendar-como-surgem-os-elementos-mais-pesados-do-universo/",
-      "summary": "Modelo acelera simulações de kilonovas e pode aproximar observações astronômicas de experimentos em física nuclear",
-      "date": "2026-07-11T07:04:31+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/elementos-mais-pesados-do-Universo.png"
-    },
-    {
-      "id": "69167fecc322",
-      "title": "A inteligência artificial também fica desatualizada; entenda por que isso acontece",
-      "link": "https://exame.com/inteligencia-artificial/a-inteligencia-artificial-tambem-fica-desatualizada-entenda-por-que-isso-acontece/",
-      "summary": "Embora pareçam saber tudo, modelos de inteligência artificial não aprendem sozinhos após serem lançados — sem novos treinamentos e atualizações, eles podem perder precisão diante de mudanças no mundo real.",
-      "date": "2026-07-11T07:02:52+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/artificial-intelligence-brain-circuitry-and-data-i-2026-03-26-05-25-54-utc.jpg"
-    },
-    {
-      "id": "f091529bd820",
-      "title": "Wimbledon: como a marca mais desejada do tênis cresce dizendo \"não\"",
-      "link": "https://exame.com/esporte/wimbledon-como-a-marca-mais-desejada-do-tenis-cresce-dizendo-nao/",
-      "summary": "Patrocinadores discretos, tradição rígida e contradições improváveis revelam o que o All England Club ensina a fundadores, CEOs e conselhos",
-      "date": "2026-07-11T07:02:49+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Strawberries_and_cream_at_Wimbledon_2023_01.png"
-    },
-    {
-      "id": "a450f294e9a9",
-      "title": "Do diesel à terra: produzir grãos nos EUA nunca foi tão caro — e 2027 será ainda pior",
-      "link": "https://exame.com/agro/do-diesel-a-terra-produzir-graos-nos-eua-nunca-foi-tao-caro-e-2027-sera-ainda-pior/",
-      "summary": "Sementes, mão de obra e arrendamentos devem manter custos elevados no próximo ano, aponta Departamento de Agriculltura dos Estados Unidos (USDA)",
-      "date": "2026-07-11T07:00:43+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/10/weathered-american-flag-hay-bale-field.jpg"
-    },
-    {
-      "id": "b81ebe7334a2",
-      "title": "6 estratégias para empresas que precisam ‘decolar’ no 2º semestre",
-      "link": "https://exame.com/bussola/6-estrategias-para-empresas-que-precisam-decolar-no-2o-semestre/",
-      "summary": "A partir da metáfora de um avião, Donald Miller mostra em livro como profissionalizar pequenas empresas e garantir um crescimento sustentável",
-      "date": "2026-07-11T07:00:37+00:00",
+      "id": "36e831b467d3",
+      "title": "Argentina se irrita com possível exploração de petróleo nas Malvinas",
+      "link": "https://exame.com/mundo/argentina-se-irrita-com-possivel-exploracao-de-petroleo-nas-malvinas/",
+      "summary": "Produção de petróleo comercial pode começar em 2028 e promete revolucionar a economia do arquipélago, mas revive antigas cicatrizes políticas",
+      "date": "2026-07-12T08:00:08+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "9dac65149a73",
-      "title": "Lula ou Flávio: quem está na frente nas pesquisas para presidente?",
-      "link": "https://exame.com/brasil/lula-ou-flavio-quem-esta-na-frente-nas-pesquisas-para-presidente/",
-      "summary": "Ao longo desta semana, um dos dois levantamentos presidenciais publicados mostram o presidente Luiz Inácio Lula da Silva (PT) à frente do senador Flávio Bolsonaro (PL)",
-      "date": "2026-07-11T07:00:21+00:00",
+      "id": "b6530cff6764",
+      "title": "Por que a rivalidade entre Europa e Rússia deve ir além da Guerra na Ucrânia?",
+      "link": "https://exame.com/mundo/por-que-a-rivalidade-entre-europa-e-russia-deve-ir-alem-da-guerra-na-ucrania/",
+      "summary": "Think tank CSIS aponta que Moscou amplia suas capacidades militares, intensifica ações híbridas contra países europeus e pode explorar divisões entre os aliados da Otan nos próximos anos",
+      "date": "2026-07-12T08:00:00+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/lula-e-Flavio-2-pb.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/12/putin-eua-fim-da-guerra-da-ucrania.jpg"
     },
     {
-      "id": "206107aadde5",
-      "title": "O brasileiro que está entre os nomes do grupo de trabalho do Fed, nos EUA",
-      "link": "https://exame.com/invest/mercados/o-brasileiro-que-esta-entre-os-nomes-do-grupo-de-trabalho-do-fed-nos-eua/",
-      "summary": "Ex-presidente do Banco Central do Brasil, Arminio Fraga, integra grupo que vai revisar a comunicação do banco central dos EUA",
-      "date": "2026-07-11T07:00:09+00:00",
+      "id": "fb4987905126",
+      "title": "Cientistas descobrem comportamento inesperado de metal após 150 anos",
+      "link": "https://exame.com/ciencia/cientistas-descobrem-comportamento-inesperado-de-metal-apos-150-anos/",
+      "summary": "Estudo revela comportamento atômico inesperado do metal e pode impulsionar avanços em semicondutores e nanotecnologia",
+      "date": "2026-07-12T07:38:23+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
+    },
+    {
+      "id": "396db2570184",
+      "title": "Semifinal da Copa do Mundo terá os quatro primeiros do ranking da Fifa pela 1ª vez",
+      "link": "https://exame.com/esporte/semifinal-da-copa-do-mundo-tera-os-quatro-primeiros-do-ranking-da-fifa-pela-1a-vez/",
+      "summary": "Os quatro países já eram tidos como favoritos no início da competição",
+      "date": "2026-07-12T07:34:57+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/Argentina-comemora-vitoria.jpg"
+    },
+    {
+      "id": "b2f0470b2fd8",
+      "title": "Muito além dos algoritmos: conheça as pessoas que ensinam a inteligência artificial",
+      "link": "https://exame.com/inteligencia-artificial/muito-alem-dos-algoritmos-conheca-as-pessoas-que-ensinam-a-inteligencia-artificial/",
+      "summary": "Por trás de respostas rápidas e aparentemente espontâneas existe uma cadeia de profissionais responsável por revisar dados, corrigir erros e treinar modelos para que a inteligência artificial aprenda a responder de forma mais precisa",
+      "date": "2026-07-12T07:08:43+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "2438a81e9018",
+      "title": "De trem pela costa do Mississippi: um roteiro entre cafeterias e cidades à beira-mar",
+      "link": "https://exame.com/casual/de-trem-pela-costa-do-mississippi-um-roteiro-entre-cafeterias-e-cidades-a-beira-mar/",
+      "summary": "Com paradas em cidades à beira-mar como Bay St. Louis, Gulfport, Biloxi e Pascagoula, novo trem de passageiros convida a explorar a região entre paisagens litorâneas e boas xícaras de café",
+      "date": "2026-07-12T07:04:08+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "2939e60eea8e",
+      "title": "Como Emily Henry vendeu 12 milhões de livros e virou a nova aposta de Hollywood",
+      "link": "https://exame.com/pop/como-emily-henry-vendeu-12-milhoes-de-livros-e-virou-a-nova-aposta-de-hollywood/",
+      "summary": "Com uma sequência de adaptações em andamento, a escritora americana de romance se tornou uma das maiores apostas da indústria do entretenimento",
+      "date": "2026-07-12T07:01:20+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/ChatGPT-Image-10-de-jul.-de-2026-10_48_00.png"
+    },
+    {
+      "id": "1ffdf8598565",
+      "title": "A queda de braço no setor de leite: por que os preços não devem cair tão cedo",
+      "link": "https://exame.com/agro/a-queda-de-braco-no-setor-de-leite-por-que-os-precos-nao-devem-cair-tao-cedo/",
+      "summary": "Oferta cresce entre os principais produtores, mas consumo resiliente e riscos ligados ao El Niño limitam uma queda mais intensa dos preços, diz StoneX",
+      "date": "2026-07-12T07:00:44+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/farm-cows-person-with-milk-bucket-process-food-production-feeding-animals-barn-sustainability-farmer-cream-container-dairy-small-business-nutrition-young-calf.jpg"
+    },
+    {
+      "id": "a16212b8a40a",
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same w...",
+      "date": "2026-07-12T00:16:06+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "5e661dc5cb57",
+      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+      "summary": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja’s latest slushie machine builds on the popu...",
+      "date": "2026-07-11T22:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "e89110a8812a",
+      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+      "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+      "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching...",
+      "date": "2026-07-11T20:57:42+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "e76c2ee4d298",
+      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+      "link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+      "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could review the documents. But according to Deadline an...",
+      "date": "2026-07-11T18:44:12+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "36bca3a868a7",
+      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+      "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+      "summary": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
+      "date": "2026-07-11T18:00:01+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "7ed413e4871d",
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+      "date": "2026-07-11T17:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "d7c5e9e6d7d1",
+      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+      "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+      "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age...",
+      "date": "2026-07-11T15:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "9caa052f48b2",
+      "title": "Nintendo’s Talking Flower got a small price cut",
+      "link": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+      "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a character from Super Mario Bros. Wonder that guides Mario through levels with q...",
+      "date": "2026-07-11T15:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "d9d2f2da34a7",
+      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
+      "link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
+      "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the UAP Governing Boar...",
+      "date": "2026-07-11T14:18:33+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/pentagon-ufo-videos-flir-gimbal-and-gofast.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0effca1279e3",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "date": "2026-07-11T14:13:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "27bb21349b25",
+      "title": "ICE are heavily armed killers. They’re also huge losers",
+      "link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+      "summary": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who sa...",
+      "date": "2026-07-11T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "be2cefe03926",
+      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+      "summary": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
+      "date": "2026-07-11T12:34:16+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "b8c693a36d47",
+      "title": "A tasty RPG that will make you very hungry",
+      "link": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+      "summary": "Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to explore, and casts so big you start forgetting character names. That's part of what makes these games feel like epic ad...",
+      "date": "2026-07-11T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dosa_Divas_Screenshot_cooking02_4k.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "bd8581674e3a",
+      "title": "The perfect kit for all your tiny repairs",
+      "link": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about cold plunges and Colson Whitehead and the food...",
+      "date": "2026-07-11T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-135.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "5bca9232dd8e",
@@ -574,17 +750,6 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-10/image-e585d5f606281dbcb4c8bff3bb8dd048f1c067ea-5000x3336-jpg/GettyImages-2271833760.jpg"
-    },
-    {
-      "id": "be2cefe03926",
-      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
-      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-      "summary": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
-      "date": "2026-07-11T02:03:34+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     },
     {
       "id": "9c7c481b13c4",
@@ -631,39 +796,6 @@
       "image": null
     },
     {
-      "id": "8d241099675b",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in A...",
-      "date": "2026-07-10T23:49:50+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "36bca3a868a7",
-      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-      "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-      "summary": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
-      "date": "2026-07-10T23:23:26+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "11b63df4f968",
-      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-      "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
-      "summary": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of starting to skirt the United States' foreign drone ban. But it appears the FCC...",
-      "date": "2026-07-10T22:35:18+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1409.jpg?quality=90&#038;strip=all&#038;crop=6,0,94,95.799934373975"
-    },
-    {
       "id": "4137b1de3f9d",
       "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
       "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
@@ -675,17 +807,6 @@
       "image": null
     },
     {
-      "id": "a4d7d36ef5b4",
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO P...",
-      "date": "2026-07-10T21:36:51+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "282d3dfac12a",
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
@@ -694,29 +815,7 @@
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024"
-    },
-    {
-      "id": "b2403c5f476c",
-      "title": "A decade later, Pokémon Go finally made good on its original promise",
-      "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-      "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pokémon Go showed the world how it's done. Almost 2,000 players (many of […]",
-      "date": "2026-07-10T19:51:10+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/AP26191114345728.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "74d4452a73fe",
-      "title": "ICE is threatening to deport witnesses of its latest shooting",
-      "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
-      "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved in the shooting weren...",
-      "date": "2026-07-10T19:20:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_Illo_K_Radtke_STK006_DHS_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": null
     },
     {
       "id": "d9692be21567",
@@ -741,50 +840,6 @@
       "image": null
     },
     {
-      "id": "11aae5aba176",
-      "title": "Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-      "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-      "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign company, according to...",
-      "date": "2026-07-10T17:31:35+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284882241.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "1e30c436ed1b",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "date": "2026-07-10T17:17:12+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "b450aa693f24",
-      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-      "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
-      "summary": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
-      "date": "2026-07-10T17:11:51+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "386327935483",
-      "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
-      "link": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
-      "summary": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new to you, and more. Listeners can choose from up to five opti...",
-      "date": "2026-07-10T17:02:13+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "e6f7746082e0",
       "title": "2026.28: XBOX On the Rocks",
       "link": "https://stratechery.com/2026/xbox-on-the-rocks/",
@@ -794,39 +849,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/07/GettyImages-669589.jpg?resize=1700%2C1136&#038;ssl=1"
-    },
-    {
-      "id": "ee43c8324989",
-      "title": "China is catching up to Elon Musk’s reusable rockets",
-      "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
-      "summary": "China's state-owned space company recovered its first orbital rocket booster after launch.",
-      "date": "2026-07-10T16:51:07+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "0586b9d83768",
-      "title": "Netflix is turning into YouTube",
-      "link": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
-      "summary": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate. For a company that sees sleep as its primary competitor, it...",
-      "date": "2026-07-10T16:29:50+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260710.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "3bc027b7da53",
-      "title": "Disney+ is considering a free streaming tier, report says",
-      "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
-      "summary": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
-      "date": "2026-07-10T16:29:05+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     },
     {
       "id": "7c8f663e96e7",
@@ -1003,28 +1025,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
-    },
-    {
-      "id": "eafbb5b3942d",
-      "title": "Love Island USA is Gen Z’s favorite TV show",
-      "link": "https://www.morningbrew.com/stories/love-island-usa-is-gen-zs-favorite-tv-show?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "In its first two weeks, this season snagged 2.3 billion minutes of viewing, lapping other reality TV shows.",
-      "date": "2026-07-08T05:14:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-07/image-9e8a62b3ff16b9ab887ffaf5933c0d51f9a2e430-1200x800-jpg/MBD-LoveIslandGenZ-0726.jpg"
-    },
-    {
-      "id": "45b753214018",
-      "title": "The never-sell-Bitcoin company just sold Bitcoin",
-      "link": "https://www.morningbrew.com/stories/the-never-sell-bitcoin-company-just-sold-bitcoin?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Strategy sold $216 million worth of Bitcoin at a loss to pay back investors.",
-      "date": "2026-07-08T05:00:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-07-07/image-e88c3d5d1559d192098a1bb0e32e4a8be7421f99-1500x1000-jpg/MBD_BitcoinBurst_SM_07072026.jpg"
     },
     {
       "id": "8e63dedcddb7",
