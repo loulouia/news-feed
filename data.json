@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T13:21:24.155400+00:00",
+  "generated_at": "2026-09-07T15:27:37.420724+00:00",
   "total_articles": 90,
   "categories": [
     {
@@ -33,405 +33,293 @@
   ],
   "featured": [
     {
-      "id": "0257fa960d41",
-      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-      "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-      "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot o...",
-      "date": "2026-09-06T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268725_Fairphone_6_Plus_review_AJohnson_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "659f74f742c9",
-      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
-      "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
-      "summary": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pokémon Champions originally launched on the S...",
-      "date": "2026-09-06T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4405_91ad42.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "db0b3598f2f9",
-      "title": "DIY plug-in solar gains momentum in the US",
-      "link": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started With a dee...",
-      "date": "2026-09-06T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/banner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "50fcd251ad11",
-      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-      "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-      "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
-      "date": "2026-09-06T10:45:11+00:00",
+      "id": "7d67484110b9",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "link": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "summary": "Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition. Its maker says the drug also seems to reduce the biological hallmarks of age.",
+      "date": "2026-09-07T15:12:14+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-mediumSquareAt3X.jpg"
+      "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07SCI-AI-AGING-wtgl/07SCI-AI-AGING-wtgl-mediumSquareAt3X.jpg"
     },
     {
-      "id": "d5ed5f7f011b",
-      "title": "O que esta mochila de nylon da Prada diz sobre o novo luxo?",
-      "link": "https://exame.com/casual/o-que-esta-mochila-de-nylon-da-prada-diz-sobre-o-novo-luxo/",
-      "summary": "Relançada em versão sustentável, a peça que Miuccia Prada apresentou em 1984 volta ao centro do guarda-roupa da grife italiana",
-      "date": "2026-09-06T10:19:19+00:00",
+      "id": "a611e0e98c1c",
+      "title": "EcoFlow makes the miniature power station even smaller",
+      "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+      "summary": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the large...",
+      "date": "2026-09-07T14:59:41+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "3f4b444cd76c",
+      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
+      "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
+      "summary": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
+      "date": "2026-09-07T12:20:03+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/07/27/world/asia/27vid-virtual-taekwondo-cover-image/27vid-virtual-taekwondo-cover-image-facebookJumbo.jpg"
+    },
+    {
+      "id": "94604e651a65",
+      "title": "Inspirada por Dolly Parton, mulher ganha R$ 860 milhões na loteria e doa metade",
+      "link": "https://exame.com/pop/inspirada-por-dolly-parton-mulher-ganha-r-860-milhoes-na-loteria-e-doa-metade/",
+      "summary": "Prêmio de £ 115 milhões financiou projetos contra solidão, fome e apoio a jovens cuidadores",
+      "date": "2026-09-07T12:16:39+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/MOCHILA-PRADA-RENYLON.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/1-1-e1701965472263.png"
     },
     {
-      "id": "6b60117c99e0",
-      "title": "Fim de ciclo? Ancelotti indica mudanças na convocação da Seleção Brasileira",
-      "link": "https://exame.com/brasil/fim-de-ciclo-ancelotti-indica-mudancas-na-convocacao-da-selecao-brasileira/",
-      "summary": "Primeira convocação após a Copa de 2026 terá 26 nomes e será anunciada em 9 de setembro",
-      "date": "2026-09-06T10:16:50+00:00",
+      "id": "09e29e188843",
+      "title": "Rock in Rio 2026: que horas e onde assistir ao show do Gilberto Gil hoje",
+      "link": "https://exame.com/pop/rock-in-rio-2026-que-horas-e-o-show-do-gilberto-gil-hoje/",
+      "summary": "Show integra a turnê de despedida dos palcos do cantor baiano",
+      "date": "2026-09-07T12:10:37+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/ancelotti.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/02/GettyImages-2110393107.jpg"
+    },
+    {
+      "id": "0429022dda77",
+      "title": "Rock in Rio: que horas e onde assistir ao show do Elton John hoje?",
+      "link": "https://exame.com/pop/rock-in-rio-que-horas-comeca-o-show-do-elton-john-hoje/",
+      "summary": "Cantor britânico faz apresentação única na América Latina, já aposentado dos palcos",
+      "date": "2026-09-07T12:10:28+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2020/04/elton-john.jpg"
     }
   ],
   "articles": [
     {
-      "id": "80eea4885d0b",
-      "title": "Parque aquático de quase 50 anos fecha após prejuízos milionários",
-      "link": "https://exame.com/negocios/parque-aquatico-de-quase-50-anos-fecha-apos-prejuizos-milionarios/",
-      "summary": "Wild Waves tem mais de 30 atrações perto de Seattle; área deve dar lugar a um galpão industrial de aproximadamente 93.000 metros quadrados",
-      "date": "2026-09-06T10:08:09+00:00",
+      "id": "9d21fabef675",
+      "title": "Que horas e onde assistir ao show do Jon Batiste hoje no Rock in Rio?",
+      "link": "https://exame.com/pop/que-horas-e-o-show-do-jon-batiste-hoje-no-rock-in-rio/",
+      "summary": "Músico americano toca no Palco Mundo antes de Gilberto Gil e Elton John",
+      "date": "2026-09-07T12:10:24+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/rock-in-rio-fogos-de-artificio-1.jpg"
+    },
+    {
+      "id": "793b7681feee",
+      "title": "Rock in Rio: que horas e onde assistir ao show da Luísa Sonza hoje?",
+      "link": "https://exame.com/pop/rock-in-rio-que-horas-comeca-o-show-da-luisa-sonza-hoje/",
+      "summary": "Cantora recebe o violonista Roberto Menescal na abertura do Palco Mundo",
+      "date": "2026-09-07T12:10:23+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260412__A7HC9BZ__v1__HighRes__Day2CoachellaValleyMusicArtsFestival.jpg"
+    },
+    {
+      "id": "93883d72d906",
+      "title": "5 álbuns de Elton John que mostram como a moda virou parte de sua música",
+      "link": "https://exame.com/casual/5-albuns-de-elton-john-que-mostram-como-a-moda-virou-parte-de-sua-musica/",
+      "summary": "Do piano aos figurinos extravagantes, Elton John construiu uma identidade artística que impactou a música, influenciou a moda e segue inspirando novas gerações de artistas",
+      "date": "2026-09-07T12:04:43+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2022/01/2022-01-26T110808Z_1_LYNXMPEI0P0H5_RTROPTP_4_PEOPLE-ELTON-JOHN.jpg"
+    },
+    {
+      "id": "f295176aadba",
+      "title": "A24 lança filme sobre os últimos dias livres de Elizabeth Holmes, da Theranos",
+      "link": "https://exame.com/pop/a24-lanca-filme-sobre-os-ultimos-dias-livres-de-elizabeth-holmes-da-theranos/",
+      "summary": "“You Can See Everything” acompanha a empresária nas semanas finais em liberdade",
+      "date": "2026-09-07T12:03:18+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/elizabeth-holmes.jpg"
+    },
+    {
+      "id": "bbb1308de969",
+      "title": "Crise no STF piora conversa sobre Lula nas redes e dá alívio temporário a Flávio, diz estudo",
+      "link": "https://exame.com/brasil/crise-no-stf-piora-conversa-sobre-lula-nas-redes-e-da-alivio-temporario-a-flavio-diz-estudo/",
+      "summary": "Levantamento da Datrix obtido em primeira mão pela EXAME mostra que crise envolvendo Vorcaro e ministros do STF teve impacto distinto sobre os dois presidenciáveis e movimentou mais de 1 milhão de publicações em quatro dias",
+      "date": "2026-09-07T12:02:45+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/lula-e-Flavio-2-pb.jpg"
+    },
+    {
+      "id": "414f9c5d3b76",
+      "title": "Rock in Rio 2026: onde assistir aos shows desta segunda-feira, 7",
+      "link": "https://exame.com/pop/rock-in-rio-2026-onde-assistir-aos-shows-desta-segunda-feira-7/",
+      "summary": "Elton John faz apresentação única na América Latina; veja como acompanhar de casa",
+      "date": "2026-09-07T12:01:42+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "10d753d9cadc",
-      "title": "Rock in Rio: onde assistir ao vivo aos shows deste domingo de graça",
-      "link": "https://exame.com/pop/rock-in-rio-onde-assistir-ao-vivo-aos-shows-deste-domingo-de-graca/",
-      "summary": "Calvin Harris fecha o Palco Mundo; veja onde acompanhar a terceira noite do festival",
-      "date": "2026-09-06T10:01:58+00:00",
+      "id": "504544abd77a",
+      "title": "ChatGPT recomenda site falso de criptomoedas e usuário perde mais de US$ 2 milhões",
+      "link": "https://exame.com/future-of-money/chatgpt-recomenda-site-falso-de-criptomoedas-e-usuario-perde-mais-de-us-2-milhoes/",
+      "summary": "Resposta da inteligência artificial a uma consulta levou investidor a um aplicativo da Sceptre criado por golpistas",
+      "date": "2026-09-07T12:01:30+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": null
+      "image": "https://classic.exame.com/wp-content/uploads/2023/03/GettyImages-1355213459.jpg"
     },
     {
-      "id": "320f8499bc56",
-      "title": "De que adianta token no blockchain se o controle é na planilha?",
-      "link": "https://exame.com/future-of-money/de-que-adianta-token-no-blockchain-se-o-controle-e-na-planilha/",
-      "summary": "O risco da tokenização superficial está em criar ativos que parecem digitais, mas continuam dependendo de conciliação manual e sistemas legados como fonte real da verdade",
-      "date": "2026-09-06T10:00:43+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/03/blockchain-6.png"
-    },
-    {
-      "id": "55637eccb4a1",
-      "title": "Mercado preditivo é bet? A polêmica chegou à Suprema Corte dos EUA",
-      "link": "https://exame.com/mundo/mercado-preditivo-e-bet-a-polemica-chegou-a-suprema-corte-dos-eua/",
-      "summary": "Estado americano pede à Suprema Corte para assumir disputa que poderá determinar o futuro da regulamentação de plataformas preditivas",
-      "date": "2026-09-06T10:00:37+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/03/GettyImages-2202295093.jpg"
-    },
-    {
-      "id": "3924842a7922",
-      "title": "Irã promete resposta mais dura a novos ataques e cria força para enfrentar crise econômica",
-      "link": "https://exame.com/mundo/ira-promete-resposta-mais-dura-a-novos-ataques-e-cria-forca-para-enfrentar-crise-economica/",
-      "summary": "Sanções, bloqueio do petróleo e inflação pressionam a economia",
-      "date": "2026-09-06T09:51:33+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/afp-20260905-c7f96wh-v4-highres-warinmiddleeast.avif"
-    },
-    {
-      "id": "d702f4892e38",
-      "title": "Neymar tentou comprar a mansão mais cara do Brasil. Agora ela vai virar um projeto de R$ 360 milhões",
-      "link": "https://exame.com/negocios/neymar-tentou-comprar-a-mansao-mais-cara-do-brasil-agora-ela-vai-virar-um-projeto-de-r-360-milhoes/",
-      "summary": "Imóvel tem 2.500 metros quadrados de área construída em um terreno de 11 mil metros quadrados",
-      "date": "2026-09-06T09:47:31+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/07/mansaoAQUI11.png"
-    },
-    {
-      "id": "45a83887a6ee",
-      "title": "Bento Gil abre o Global Village do Rock in Rio neste domingo; veja programação",
-      "link": "https://exame.com/pop/bento-gil-abre-o-global-village-do-rock-in-rio-neste-domingo-veja-programacao/",
-      "summary": "Mohamed Ramadan encerra a programação do espaço às 19h10",
-      "date": "2026-09-06T09:19:22+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/MORIVA_RIR26_20260904_EXPERIENCIA@MANGABEIRA-9110.jpg"
-    },
-    {
-      "id": "90dcde19cf31",
-      "title": "Xamã fecha o Espaço Favela do Rock in Rio neste domingo, 6",
-      "link": "https://exame.com/pop/xama-fecha-o-espaco-favela-do-rock-in-rio-neste-domingo-6/",
-      "summary": "Rael se apresenta na sequência da abertura, às 16h50",
-      "date": "2026-09-06T09:17:22+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/08/espacofavela.jpg"
-    },
-    {
-      "id": "208efbf91c73",
-      "title": "The facilities are getting fancy",
-      "link": "https://www.morningbrew.com/stories/the-facilities-are-getting-fancy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "One facility owner told Bloomberg that youth sports buildings are “recession-proof,” since spending on the dream of their kids going pro is among the last things parents will cut back on.",
-      "date": "2026-09-06T05:39:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-7b1ba43aeeb75978e03a5158b95d52b038a55985-1500x999-jpg/MBD-SundaySpecial-YouthSportsBrew-Facilities-0926.jpg"
-    },
-    {
-      "id": "86cc14c9e464",
-      "title": "Girls flag football is on a remarkable a run",
-      "link": "https://www.morningbrew.com/stories/girls-flag-football-is-on-a-heck-of-a-run?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "It’s one of the fastest-growing sports in the US, especially at the high school level.",
-      "date": "2026-09-06T05:31:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-be76ce177a708331c795c7a59272fa0148c91e73-3000x2000-jpg/MBD-SundaySpecial-YouthSportsBrew-FlagFootball-0926.jpg"
-    },
-    {
-      "id": "32e49a64e4b8",
-      "title": "Has youth sports lost the plot?",
-      "link": "https://www.morningbrew.com/stories/has-youth-sports-lost-the-plot?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Over the past two decades, private equity has transformed youth sports into an industrial complex that’s cutthroat enough to cause a shortage of willing umpires and referees, and expensive enough to break the bank.",
-      "date": "2026-09-06T05:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-5f24821691b51ea7ce7a0c1e5c20fbf300f03048-3000x2000-jpg/MBD-SundaySpecial-YouthSportsBrew-LostPlot-0926.jpg"
-    },
-    {
-      "id": "3d255cc49d49",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "date": "2026-09-05T22:49:55+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645"
-    },
-    {
-      "id": "2b2ef91260d0",
-      "title": "Explore the globe in field recordings",
-      "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-      "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you ...",
-      "date": "2026-09-05T21:31:34+00:00",
+      "id": "763a81223282",
+      "title": "The real reason your phone is getting more expensive",
+      "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sigh...",
+      "date": "2026-09-07T12:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257955_iPhone_17_ProMax_Air_VPavic_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "e808f3732149",
-      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-      "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
-      "summary": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
-      "date": "2026-09-05T21:11:57+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "c7e770a8a254",
-      "title": "iPhone Handoff will seamlessly share one number between two phones",
-      "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up […]",
-      "date": "2026-09-05T20:53:58+00:00",
+      "id": "cb608a7a5f14",
+      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+      "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybac...",
+      "date": "2026-09-07T11:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/BentleyTorcalEV5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "ae97a46bce1f",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "date": "2026-09-05T19:35:24+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600"
-    },
-    {
-      "id": "6824a81fe574",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "date": "2026-09-05T18:05:27+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
-    },
-    {
-      "id": "f9f66c0d7e5a",
-      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-      "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-      "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
-      "date": "2026-09-05T17:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200"
-    },
-    {
-      "id": "513bb4df58a8",
-      "title": "CD sales are booming as physical media continues its resurgence",
-      "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-      "summary": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 per...",
-      "date": "2026-09-05T16:49:33+00:00",
+      "id": "0bf19370b3ec",
+      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display...",
+      "date": "2026-09-07T10:09:42+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSCF1155-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "fd30bd165dd1",
-      "title": "Oura is going public, but these smart ring companies are coming for its crown",
-      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-      "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
-      "date": "2026-09-05T15:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800"
-    },
-    {
-      "id": "a80caafc64eb",
-      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-      "link": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-      "summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podca...",
-      "date": "2026-09-05T15:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/andy.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "f8f95f7b24de",
-      "title": "Content creators drop the ball",
-      "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-      "summary": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeatedly asked them to quiet down. Elsewhere in the ...",
-      "date": "2026-09-05T14:00:16+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293089524.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/huawei-mate-xt-2-ultimate-design-design-2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "45ae42b0bfc9",
       "title": "The Generation That’s Never Had to Say ‘Hello?’",
       "link": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
       "summary": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
-      "date": "2026-09-05T13:39:48+00:00",
+      "date": "2026-09-07T02:40:54+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/09/06/fashion/06ST-GEN-NO-HELLO/06ST-GEN-NO-HELLO-facebookJumbo.png"
     },
     {
-      "id": "fb9024fea4a6",
-      "title": "The weird and wonderful headphones of CanJam 2026",
-      "link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-      "summary": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good - great, even - but they lack a distinct charact...",
-      "date": "2026-09-05T13:00:00+00:00",
+      "id": "40787ab9e1b9",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user...",
+      "date": "2026-09-06T23:36:04+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canjam-socal-2026-show-floor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "09b2d2e884ff",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our ...",
-      "date": "2026-09-05T11:15:55+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "44f1150451f0",
-      "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
-      "link": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
-      "summary": "The tech giant must pay $3,000 per pirated book that it used to train its chatbot. Many authors fear they could lose funds to others in the book business.",
-      "date": "2026-09-05T09:03:10+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03xp-publishers-settlement-qgpj/03xp-publishers-settlement-qgpj-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "85f18afb03db",
-      "title": "There’s surprising good news about the job market",
-      "link": "https://www.morningbrew.com/stories/theres-surprising-good-news-about-the-job-market?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The US added 162,000 jobs in August, vastly exceeding the employment growth economists expected.",
-      "date": "2026-09-05T05:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-4c3b7d67d7ad458d51f65048346f92829f6b44a6-1500x1000-jpg/MBD-JobsReports-0926.jpg"
-    },
-    {
-      "id": "be57441aed4a",
-      "title": "PBR wants your help finding $70k of stolen beer",
-      "link": "https://www.morningbrew.com/stories/pbr-wants-your-help-finding-usd70k-of-stolen-beer?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "“Kudos to them, perhaps. I’m sure they look cool with a garage full of PBR,” Pabst CEO Greig DeBow said in a TikTok post announcing the bounty and asking the thieves to return the beer.",
-      "date": "2026-09-05T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-48542ce0ba22f0cb2adda6f79dc2f66cbad388c0-6000x4000-jpg/MBD-PBRHeist-0926.jpg"
-    },
-    {
-      "id": "4f83c984ecdc",
-      "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports",
-      "link": "https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html",
-      "summary": "Filings made Friday in The New York Times’s closely watched lawsuit against OpenAI and Microsoft included a range of copyright law and cultural references.",
-      "date": "2026-09-05T00:18:57+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04biz-openai-times-hpzj/04biz-openai-times-hpzj-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "cc366da39c90",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "date": "2026-09-04T23:36:14+00:00",
+      "id": "f3a7b9c6505f",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "date": "2026-09-06T21:41:06+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800"
-    }
-  ],
-  "all_articles": [
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675"
+    },
+    {
+      "id": "e22da8c4f8e5",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incid...",
+      "date": "2026-09-06T20:56:38+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "f342a6eb6c1e",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "date": "2026-09-06T20:47:37+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800"
+    },
+    {
+      "id": "965c7d234a57",
+      "title": "The One-Human Business: How To Earn In The Age of AI",
+      "link": "https://letters.thedankoe.com/p/the-one-human-business-how-to-earn",
+      "summary": "Your interests + social media + AI = modern business",
+      "date": "2026-09-06T19:22:36+00:00",
+      "source": "Dan Koe",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/e61e58bd-23c4-4b62-bec7-4ebefe8ef6f7_1920x1080.jpeg"
+    },
+    {
+      "id": "81760ddc8b7d",
+      "title": "Europe has its first commercial orbital rocket",
+      "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectr...",
+      "date": "2026-09-06T19:04:22+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "1c8704ae316e",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "date": "2026-09-06T16:45:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800"
+    },
+    {
+      "id": "9b55043efa44",
+      "title": "Boox’s tiny Picco e-reader should land in November",
+      "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to […]",
+      "date": "2026-09-06T16:28:58+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "09e66a1d6362",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "date": "2026-09-06T16:08:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800"
+    },
     {
       "id": "0257fa960d41",
       "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
@@ -455,17 +343,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4405_91ad42.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "db0b3598f2f9",
-      "title": "DIY plug-in solar gains momentum in the US",
-      "link": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started With a dee...",
-      "date": "2026-09-06T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/banner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "50fcd251ad11",
       "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
       "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
@@ -475,116 +352,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "d5ed5f7f011b",
-      "title": "O que esta mochila de nylon da Prada diz sobre o novo luxo?",
-      "link": "https://exame.com/casual/o-que-esta-mochila-de-nylon-da-prada-diz-sobre-o-novo-luxo/",
-      "summary": "Relançada em versão sustentável, a peça que Miuccia Prada apresentou em 1984 volta ao centro do guarda-roupa da grife italiana",
-      "date": "2026-09-06T10:19:19+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/MOCHILA-PRADA-RENYLON.jpg"
-    },
-    {
-      "id": "6b60117c99e0",
-      "title": "Fim de ciclo? Ancelotti indica mudanças na convocação da Seleção Brasileira",
-      "link": "https://exame.com/brasil/fim-de-ciclo-ancelotti-indica-mudancas-na-convocacao-da-selecao-brasileira/",
-      "summary": "Primeira convocação após a Copa de 2026 terá 26 nomes e será anunciada em 9 de setembro",
-      "date": "2026-09-06T10:16:50+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/06/ancelotti.jpg"
-    },
-    {
-      "id": "80eea4885d0b",
-      "title": "Parque aquático de quase 50 anos fecha após prejuízos milionários",
-      "link": "https://exame.com/negocios/parque-aquatico-de-quase-50-anos-fecha-apos-prejuizos-milionarios/",
-      "summary": "Wild Waves tem mais de 30 atrações perto de Seattle; área deve dar lugar a um galpão industrial de aproximadamente 93.000 metros quadrados",
-      "date": "2026-09-06T10:08:09+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "10d753d9cadc",
-      "title": "Rock in Rio: onde assistir ao vivo aos shows deste domingo de graça",
-      "link": "https://exame.com/pop/rock-in-rio-onde-assistir-ao-vivo-aos-shows-deste-domingo-de-graca/",
-      "summary": "Calvin Harris fecha o Palco Mundo; veja onde acompanhar a terceira noite do festival",
-      "date": "2026-09-06T10:01:58+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "320f8499bc56",
-      "title": "De que adianta token no blockchain se o controle é na planilha?",
-      "link": "https://exame.com/future-of-money/de-que-adianta-token-no-blockchain-se-o-controle-e-na-planilha/",
-      "summary": "O risco da tokenização superficial está em criar ativos que parecem digitais, mas continuam dependendo de conciliação manual e sistemas legados como fonte real da verdade",
-      "date": "2026-09-06T10:00:43+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/03/blockchain-6.png"
-    },
-    {
-      "id": "55637eccb4a1",
-      "title": "Mercado preditivo é bet? A polêmica chegou à Suprema Corte dos EUA",
-      "link": "https://exame.com/mundo/mercado-preditivo-e-bet-a-polemica-chegou-a-suprema-corte-dos-eua/",
-      "summary": "Estado americano pede à Suprema Corte para assumir disputa que poderá determinar o futuro da regulamentação de plataformas preditivas",
-      "date": "2026-09-06T10:00:37+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/03/GettyImages-2202295093.jpg"
-    },
-    {
-      "id": "3924842a7922",
-      "title": "Irã promete resposta mais dura a novos ataques e cria força para enfrentar crise econômica",
-      "link": "https://exame.com/mundo/ira-promete-resposta-mais-dura-a-novos-ataques-e-cria-forca-para-enfrentar-crise-economica/",
-      "summary": "Sanções, bloqueio do petróleo e inflação pressionam a economia",
-      "date": "2026-09-06T09:51:33+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/afp-20260905-c7f96wh-v4-highres-warinmiddleeast.avif"
-    },
-    {
-      "id": "d702f4892e38",
-      "title": "Neymar tentou comprar a mansão mais cara do Brasil. Agora ela vai virar um projeto de R$ 360 milhões",
-      "link": "https://exame.com/negocios/neymar-tentou-comprar-a-mansao-mais-cara-do-brasil-agora-ela-vai-virar-um-projeto-de-r-360-milhoes/",
-      "summary": "Imóvel tem 2.500 metros quadrados de área construída em um terreno de 11 mil metros quadrados",
-      "date": "2026-09-06T09:47:31+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/07/mansaoAQUI11.png"
-    },
-    {
-      "id": "45a83887a6ee",
-      "title": "Bento Gil abre o Global Village do Rock in Rio neste domingo; veja programação",
-      "link": "https://exame.com/pop/bento-gil-abre-o-global-village-do-rock-in-rio-neste-domingo-veja-programacao/",
-      "summary": "Mohamed Ramadan encerra a programação do espaço às 19h10",
-      "date": "2026-09-06T09:19:22+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/MORIVA_RIR26_20260904_EXPERIENCIA@MANGABEIRA-9110.jpg"
-    },
-    {
-      "id": "90dcde19cf31",
-      "title": "Xamã fecha o Espaço Favela do Rock in Rio neste domingo, 6",
-      "link": "https://exame.com/pop/xama-fecha-o-espaco-favela-do-rock-in-rio-neste-domingo-6/",
-      "summary": "Rael se apresenta na sequência da abertura, às 16h50",
-      "date": "2026-09-06T09:17:22+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/08/espacofavela.jpg"
     },
     {
       "id": "208efbf91c73",
@@ -631,17 +398,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645"
     },
     {
-      "id": "2b2ef91260d0",
-      "title": "Explore the globe in field recordings",
-      "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-      "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you ...",
-      "date": "2026-09-05T21:31:34+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "e808f3732149",
       "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
       "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
@@ -653,15 +409,402 @@
       "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-mediumSquareAt3X.jpg"
     },
     {
-      "id": "c7e770a8a254",
-      "title": "iPhone Handoff will seamlessly share one number between two phones",
-      "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up […]",
-      "date": "2026-09-05T20:53:58+00:00",
+      "id": "ae97a46bce1f",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "date": "2026-09-05T19:35:24+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600"
+    },
+    {
+      "id": "6824a81fe574",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "date": "2026-09-05T18:05:27+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
+    }
+  ],
+  "all_articles": [
+    {
+      "id": "7d67484110b9",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "link": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "summary": "Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition. Its maker says the drug also seems to reduce the biological hallmarks of age.",
+      "date": "2026-09-07T15:12:14+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07SCI-AI-AGING-wtgl/07SCI-AI-AGING-wtgl-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "a611e0e98c1c",
+      "title": "EcoFlow makes the miniature power station even smaller",
+      "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+      "summary": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the large...",
+      "date": "2026-09-07T14:59:41+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "3f4b444cd76c",
+      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
+      "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
+      "summary": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
+      "date": "2026-09-07T12:20:03+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/07/27/world/asia/27vid-virtual-taekwondo-cover-image/27vid-virtual-taekwondo-cover-image-facebookJumbo.jpg"
+    },
+    {
+      "id": "94604e651a65",
+      "title": "Inspirada por Dolly Parton, mulher ganha R$ 860 milhões na loteria e doa metade",
+      "link": "https://exame.com/pop/inspirada-por-dolly-parton-mulher-ganha-r-860-milhoes-na-loteria-e-doa-metade/",
+      "summary": "Prêmio de £ 115 milhões financiou projetos contra solidão, fome e apoio a jovens cuidadores",
+      "date": "2026-09-07T12:16:39+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/1-1-e1701965472263.png"
+    },
+    {
+      "id": "09e29e188843",
+      "title": "Rock in Rio 2026: que horas e onde assistir ao show do Gilberto Gil hoje",
+      "link": "https://exame.com/pop/rock-in-rio-2026-que-horas-e-o-show-do-gilberto-gil-hoje/",
+      "summary": "Show integra a turnê de despedida dos palcos do cantor baiano",
+      "date": "2026-09-07T12:10:37+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/02/GettyImages-2110393107.jpg"
+    },
+    {
+      "id": "0429022dda77",
+      "title": "Rock in Rio: que horas e onde assistir ao show do Elton John hoje?",
+      "link": "https://exame.com/pop/rock-in-rio-que-horas-comeca-o-show-do-elton-john-hoje/",
+      "summary": "Cantor britânico faz apresentação única na América Latina, já aposentado dos palcos",
+      "date": "2026-09-07T12:10:28+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2020/04/elton-john.jpg"
+    },
+    {
+      "id": "9d21fabef675",
+      "title": "Que horas e onde assistir ao show do Jon Batiste hoje no Rock in Rio?",
+      "link": "https://exame.com/pop/que-horas-e-o-show-do-jon-batiste-hoje-no-rock-in-rio/",
+      "summary": "Músico americano toca no Palco Mundo antes de Gilberto Gil e Elton John",
+      "date": "2026-09-07T12:10:24+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/rock-in-rio-fogos-de-artificio-1.jpg"
+    },
+    {
+      "id": "793b7681feee",
+      "title": "Rock in Rio: que horas e onde assistir ao show da Luísa Sonza hoje?",
+      "link": "https://exame.com/pop/rock-in-rio-que-horas-comeca-o-show-da-luisa-sonza-hoje/",
+      "summary": "Cantora recebe o violonista Roberto Menescal na abertura do Palco Mundo",
+      "date": "2026-09-07T12:10:23+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260412__A7HC9BZ__v1__HighRes__Day2CoachellaValleyMusicArtsFestival.jpg"
+    },
+    {
+      "id": "93883d72d906",
+      "title": "5 álbuns de Elton John que mostram como a moda virou parte de sua música",
+      "link": "https://exame.com/casual/5-albuns-de-elton-john-que-mostram-como-a-moda-virou-parte-de-sua-musica/",
+      "summary": "Do piano aos figurinos extravagantes, Elton John construiu uma identidade artística que impactou a música, influenciou a moda e segue inspirando novas gerações de artistas",
+      "date": "2026-09-07T12:04:43+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2022/01/2022-01-26T110808Z_1_LYNXMPEI0P0H5_RTROPTP_4_PEOPLE-ELTON-JOHN.jpg"
+    },
+    {
+      "id": "f295176aadba",
+      "title": "A24 lança filme sobre os últimos dias livres de Elizabeth Holmes, da Theranos",
+      "link": "https://exame.com/pop/a24-lanca-filme-sobre-os-ultimos-dias-livres-de-elizabeth-holmes-da-theranos/",
+      "summary": "“You Can See Everything” acompanha a empresária nas semanas finais em liberdade",
+      "date": "2026-09-07T12:03:18+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/elizabeth-holmes.jpg"
+    },
+    {
+      "id": "bbb1308de969",
+      "title": "Crise no STF piora conversa sobre Lula nas redes e dá alívio temporário a Flávio, diz estudo",
+      "link": "https://exame.com/brasil/crise-no-stf-piora-conversa-sobre-lula-nas-redes-e-da-alivio-temporario-a-flavio-diz-estudo/",
+      "summary": "Levantamento da Datrix obtido em primeira mão pela EXAME mostra que crise envolvendo Vorcaro e ministros do STF teve impacto distinto sobre os dois presidenciáveis e movimentou mais de 1 milhão de publicações em quatro dias",
+      "date": "2026-09-07T12:02:45+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/lula-e-Flavio-2-pb.jpg"
+    },
+    {
+      "id": "414f9c5d3b76",
+      "title": "Rock in Rio 2026: onde assistir aos shows desta segunda-feira, 7",
+      "link": "https://exame.com/pop/rock-in-rio-2026-onde-assistir-aos-shows-desta-segunda-feira-7/",
+      "summary": "Elton John faz apresentação única na América Latina; veja como acompanhar de casa",
+      "date": "2026-09-07T12:01:42+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "504544abd77a",
+      "title": "ChatGPT recomenda site falso de criptomoedas e usuário perde mais de US$ 2 milhões",
+      "link": "https://exame.com/future-of-money/chatgpt-recomenda-site-falso-de-criptomoedas-e-usuario-perde-mais-de-us-2-milhoes/",
+      "summary": "Resposta da inteligência artificial a uma consulta levou investidor a um aplicativo da Sceptre criado por golpistas",
+      "date": "2026-09-07T12:01:30+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2023/03/GettyImages-1355213459.jpg"
+    },
+    {
+      "id": "763a81223282",
+      "title": "The real reason your phone is getting more expensive",
+      "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sigh...",
+      "date": "2026-09-07T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257955_iPhone_17_ProMax_Air_VPavic_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "cb608a7a5f14",
+      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+      "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybac...",
+      "date": "2026-09-07T11:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/BentleyTorcalEV5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0bf19370b3ec",
+      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display...",
+      "date": "2026-09-07T10:09:42+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/huawei-mate-xt-2-ultimate-design-design-2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "45ae42b0bfc9",
+      "title": "The Generation That’s Never Had to Say ‘Hello?’",
+      "link": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
+      "summary": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
+      "date": "2026-09-07T02:40:54+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/09/06/fashion/06ST-GEN-NO-HELLO/06ST-GEN-NO-HELLO-facebookJumbo.png"
+    },
+    {
+      "id": "40787ab9e1b9",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user...",
+      "date": "2026-09-06T23:36:04+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "f3a7b9c6505f",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "date": "2026-09-06T21:41:06+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675"
+    },
+    {
+      "id": "e22da8c4f8e5",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incid...",
+      "date": "2026-09-06T20:56:38+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "f342a6eb6c1e",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "date": "2026-09-06T20:47:37+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800"
+    },
+    {
+      "id": "965c7d234a57",
+      "title": "The One-Human Business: How To Earn In The Age of AI",
+      "link": "https://letters.thedankoe.com/p/the-one-human-business-how-to-earn",
+      "summary": "Your interests + social media + AI = modern business",
+      "date": "2026-09-06T19:22:36+00:00",
+      "source": "Dan Koe",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/e61e58bd-23c4-4b62-bec7-4ebefe8ef6f7_1920x1080.jpeg"
+    },
+    {
+      "id": "81760ddc8b7d",
+      "title": "Europe has its first commercial orbital rocket",
+      "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectr...",
+      "date": "2026-09-06T19:04:22+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "1c8704ae316e",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "date": "2026-09-06T16:45:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800"
+    },
+    {
+      "id": "9b55043efa44",
+      "title": "Boox’s tiny Picco e-reader should land in November",
+      "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to […]",
+      "date": "2026-09-06T16:28:58+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "09e66a1d6362",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "date": "2026-09-06T16:08:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800"
+    },
+    {
+      "id": "0257fa960d41",
+      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+      "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot o...",
+      "date": "2026-09-06T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268725_Fairphone_6_Plus_review_AJohnson_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "659f74f742c9",
+      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+      "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+      "summary": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pokémon Champions originally launched on the S...",
+      "date": "2026-09-06T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4405_91ad42.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "50fcd251ad11",
+      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
+      "date": "2026-09-06T10:45:11+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "208efbf91c73",
+      "title": "The facilities are getting fancy",
+      "link": "https://www.morningbrew.com/stories/the-facilities-are-getting-fancy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "One facility owner told Bloomberg that youth sports buildings are “recession-proof,” since spending on the dream of their kids going pro is among the last things parents will cut back on.",
+      "date": "2026-09-06T05:39:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-7b1ba43aeeb75978e03a5158b95d52b038a55985-1500x999-jpg/MBD-SundaySpecial-YouthSportsBrew-Facilities-0926.jpg"
+    },
+    {
+      "id": "86cc14c9e464",
+      "title": "Girls flag football is on a remarkable a run",
+      "link": "https://www.morningbrew.com/stories/girls-flag-football-is-on-a-heck-of-a-run?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "It’s one of the fastest-growing sports in the US, especially at the high school level.",
+      "date": "2026-09-06T05:31:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-be76ce177a708331c795c7a59272fa0148c91e73-3000x2000-jpg/MBD-SundaySpecial-YouthSportsBrew-FlagFootball-0926.jpg"
+    },
+    {
+      "id": "32e49a64e4b8",
+      "title": "Has youth sports lost the plot?",
+      "link": "https://www.morningbrew.com/stories/has-youth-sports-lost-the-plot?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Over the past two decades, private equity has transformed youth sports into an industrial complex that’s cutthroat enough to cause a shortage of willing umpires and referees, and expensive enough to break the bank.",
+      "date": "2026-09-06T05:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-5f24821691b51ea7ce7a0c1e5c20fbf300f03048-3000x2000-jpg/MBD-SundaySpecial-YouthSportsBrew-LostPlot-0926.jpg"
+    },
+    {
+      "id": "3d255cc49d49",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "date": "2026-09-05T22:49:55+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645"
+    },
+    {
+      "id": "e808f3732149",
+      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+      "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+      "summary": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
+      "date": "2026-09-05T21:11:57+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-mediumSquareAt3X.jpg"
     },
     {
       "id": "ae97a46bce1f",
@@ -697,17 +840,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200"
     },
     {
-      "id": "513bb4df58a8",
-      "title": "CD sales are booming as physical media continues its resurgence",
-      "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-      "summary": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 per...",
-      "date": "2026-09-05T16:49:33+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSCF1155-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "fd30bd165dd1",
       "title": "Oura is going public, but these smart ring companies are coming for its crown",
       "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
@@ -716,62 +848,7 @@
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800"
-    },
-    {
-      "id": "a80caafc64eb",
-      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-      "link": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-      "summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podca...",
-      "date": "2026-09-05T15:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/andy.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "f8f95f7b24de",
-      "title": "Content creators drop the ball",
-      "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-      "summary": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeatedly asked them to quiet down. Elsewhere in the ...",
-      "date": "2026-09-05T14:00:16+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293089524.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "45ae42b0bfc9",
-      "title": "The Generation That’s Never Had to Say ‘Hello?’",
-      "link": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
-      "summary": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
-      "date": "2026-09-05T13:39:48+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/06/fashion/06ST-GEN-NO-HELLO/06ST-GEN-NO-HELLO-facebookJumbo.png"
-    },
-    {
-      "id": "fb9024fea4a6",
-      "title": "The weird and wonderful headphones of CanJam 2026",
-      "link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-      "summary": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good - great, even - but they lack a distinct charact...",
-      "date": "2026-09-05T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canjam-socal-2026-show-floor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "09b2d2e884ff",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our ...",
-      "date": "2026-09-05T11:15:55+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": null
     },
     {
       "id": "44f1150451f0",
@@ -826,29 +903,7 @@
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800"
-    },
-    {
-      "id": "b593a64b15eb",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "date": "2026-09-04T23:15:11+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
-    },
-    {
-      "id": "a73532b1b4a7",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "date": "2026-09-04T21:12:11+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800"
+      "image": null
     },
     {
       "id": "391227069f8a",
@@ -862,17 +917,6 @@
       "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03xp-breach-bgmq/03xp-breach-bgmq-mediumSquareAt3X.jpg"
     },
     {
-      "id": "3244ff3c432c",
-      "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
-      "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
-      "summary": "The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulations.",
-      "date": "2026-09-04T18:07:14+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04biz-cybercab-jglq/04biz-cybercab-jglq-mediumSquareAt3X.jpg"
-    },
-    {
       "id": "c1e2d66081d3",
       "title": "2026.36: Friction and Feedback",
       "link": "https://stratechery.com/2026/friction-and-feedback/",
@@ -882,17 +926,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/09/GettyImages-2292369563.jpg?resize=1700%2C1133&#038;ssl=1"
-    },
-    {
-      "id": "3f6571d4ee29",
-      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-      "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-      "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-      "date": "2026-09-04T17:52:05+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675"
     },
     {
       "id": "3722d8c207bd",
@@ -906,17 +939,6 @@
       "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04XP-TUMBLERRIDGE-vcfp/04XP-TUMBLERRIDGE-vcfp-mediumSquareAt3X.jpg"
     },
     {
-      "id": "18399fa3b7d4",
-      "title": "What will Apple’s John Ternus era look like?",
-      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far...",
-      "date": "2026-09-04T17:18:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
       "id": "560f01aba3c4",
       "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
       "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
@@ -926,17 +948,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/09/05/business/00roose-hugging-face/00roose-hugging-face-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "359aec3d58b4",
-      "title": "Corporate America Is Getting Hooked on Open-Source A.I.",
-      "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "summary": "Companies like AT&T are increasingly using cheap, freely available artificial intelligence models over expensive ones from Anthropic and OpenAI.",
-      "date": "2026-09-04T14:55:38+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/08/29/business/00OPEN-SOURCE-AI/00OPEN-SOURCE-AI-mediumSquareAt3X.png"
     },
     {
       "id": "d0aa7869e392",
@@ -1410,17 +1421,6 @@
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/1854ef5f-d871-444c-a3bb-b1ca5456e01f_1920x1080.jpeg"
-    },
-    {
-      "id": "84fc7e5c3e63",
-      "title": "Life is a mind game, here's how you win",
-      "link": "https://letters.thedankoe.com/p/life-is-a-mind-game-heres-how-you",
-      "summary": "Why most people won't make it",
-      "date": "2026-04-26T15:23:48+00:00",
-      "source": "Dan Koe",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/8fa76bf1-92dd-4b14-8bc9-08d5ded98d60_1920x1080.jpeg"
     }
   ]
 }
