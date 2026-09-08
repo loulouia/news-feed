@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:27:37.420724+00:00",
+  "generated_at": "2026-09-08T14:03:57.789934+00:00",
   "total_articles": 90,
   "categories": [
     {
@@ -33,405 +33,790 @@
   ],
   "featured": [
     {
-      "id": "7d67484110b9",
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
-      "link": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
-      "summary": "Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition. Its maker says the drug also seems to reduce the biological hallmarks of age.",
-      "date": "2026-09-07T15:12:14+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07SCI-AI-AGING-wtgl/07SCI-AI-AGING-wtgl-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "a611e0e98c1c",
-      "title": "EcoFlow makes the miniature power station even smaller",
-      "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
-      "summary": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the large...",
-      "date": "2026-09-07T14:59:41+00:00",
+      "id": "175e7a792d34",
+      "title": "SteelSeries’ pro-grade, wireless Xbox controller sure is expensive",
+      "link": "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features",
+      "summary": "SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's kicking down the door with the $259.99 Aeon Pro wireless controller for Xbox and PC, which starts s...",
+      "date": "2026-09-08T14:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/aeonpro3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "3f4b444cd76c",
-      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
-      "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
-      "summary": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
-      "date": "2026-09-07T12:20:03+00:00",
-      "source": "NYT Artificial Intelligence",
+      "id": "1ea818d700a5",
+      "title": "Microsoft breaks another patch Tuesday record",
+      "link": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
+      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software vulnerabilities at a ra...",
+      "date": "2026-09-08T14:00:00+00:00",
+      "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/07/27/world/asia/27vid-virtual-taekwondo-cover-image/27vid-virtual-taekwondo-cover-image-facebookJumbo.jpg"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "94604e651a65",
-      "title": "Inspirada por Dolly Parton, mulher ganha R$ 860 milhões na loteria e doa metade",
-      "link": "https://exame.com/pop/inspirada-por-dolly-parton-mulher-ganha-r-860-milhoes-na-loteria-e-doa-metade/",
-      "summary": "Prêmio de £ 115 milhões financiou projetos contra solidão, fome e apoio a jovens cuidadores",
-      "date": "2026-09-07T12:16:39+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/1-1-e1701965472263.png"
+      "id": "ec63206df11e",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas...",
+      "date": "2026-09-08T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "09e29e188843",
-      "title": "Rock in Rio 2026: que horas e onde assistir ao show do Gilberto Gil hoje",
-      "link": "https://exame.com/pop/rock-in-rio-2026-que-horas-e-o-show-do-gilberto-gil-hoje/",
-      "summary": "Show integra a turnê de despedida dos palcos do cantor baiano",
-      "date": "2026-09-07T12:10:37+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/02/GettyImages-2110393107.jpg"
+      "id": "ee26b93dfc85",
+      "title": "The Legend of Zelda 40th Anniversary Direct: all the news and trailers",
+      "link": "https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct",
+      "summary": "The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda-themed Direct on September 8th at 10AM ET (it’s actually the first of two news-filled events), which is expected to last around 30 minutes and, according to Nintendo, will include ...",
+      "date": "2026-09-08T13:50:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/TotK_3rd_45.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "0429022dda77",
-      "title": "Rock in Rio: que horas e onde assistir ao show do Elton John hoje?",
-      "link": "https://exame.com/pop/rock-in-rio-que-horas-comeca-o-show-do-elton-john-hoje/",
-      "summary": "Cantor britânico faz apresentação única na América Latina, já aposentado dos palcos",
-      "date": "2026-09-07T12:10:28+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2020/04/elton-john.jpg"
+      "id": "9b7ef8bf8935",
+      "title": "Intel CPUs are reportedly getting a 10 percent price hike in October",
+      "link": "https://www.theverge.com/tech/991285/intel-cpu-price-increase-october",
+      "summary": "Intel's PC CPUs may get more expensive in a few weeks, with Digitimes reporting that Intel has a 10 percent price hike planned, following similar increases earlier this year. According to Digitimes, the price hike is part of a shift for Intel toward increasing profitability for its PC CPU busines...",
+      "date": "2026-09-08T13:41:54+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK094_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "c0e977217c97",
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; t...",
+      "date": "2026-09-08T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ],
   "articles": [
     {
-      "id": "9d21fabef675",
-      "title": "Que horas e onde assistir ao show do Jon Batiste hoje no Rock in Rio?",
-      "link": "https://exame.com/pop/que-horas-e-o-show-do-jon-batiste-hoje-no-rock-in-rio/",
-      "summary": "Músico americano toca no Palco Mundo antes de Gilberto Gil e Elton John",
-      "date": "2026-09-07T12:10:24+00:00",
+      "id": "becf54aa2705",
+      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+      "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+      "date": "2026-09-08T13:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/poseidon-aero-egret.jpg?resize=1200,800"
+    },
+    {
+      "id": "1b0860a9b2a4",
+      "title": "How much does AEO cost? Pricing by agency, tools, and software",
+      "link": "https://blog.hubspot.com/marketing/how-much-does-aeo-cost",
+      "summary": "How much does AEO cost? The short answer is roughly $30 a month for a monitoring tool you run yourself to over $15,000 a month for a full-service agency program that handles everything for you — with a wide middle in between.",
+      "date": "2026-09-08T12:00:03+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/07ca2318-c9e0-4b5d-bcba-95cec5cb4958.png"
+    },
+    {
+      "id": "850972a35a44",
+      "title": "Apple says ‘Fold’ and competitors ask ‘how wide?’",
+      "link": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
+      "summary": "Apple is almost certain to launch its first foldable iPhone tomorrow, seven years after Samsung's Galaxy Fold initially went on sale. And while Apple might be a few years late to the party, the run-up to this launch proves that new CEO John Ternus has inherited a company that's as influential as ...",
+      "date": "2026-09-08T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_john_ternus_apple_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "c287082a50ad",
+      "title": "LG TVs caught spying even when offline or on standby",
+      "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+      "summary": "LG smart TVs are almost constantly logging and uploading data about owners and their homes, even when offline or on standby mode, according to a new report from YouTube channel Gamers Nexus. The company's TV sets scan Wi-Fi networks for nearby devices, record audio logs through their microphones,...",
+      "date": "2026-09-08T11:30:05+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "6f3f581432cf",
+      "title": "Ibovespa chega perto dos 190 mil pontos com empate nas pesquisas eleitorais",
+      "link": "https://exame.com/invest/mercados/ibovespa-chega-perto-dos-190-mil-pontos-com-empate-nas-pesquisas-eleitorais/",
+      "summary": "Dólar volta a cair e opera abaixo dos R$ 5,10: veja o que mexe com os mercados",
+      "date": "2026-09-08T10:57:27+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/rock-in-rio-fogos-de-artificio-1.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2022/03/GettyImages-1236444957.jpg"
     },
     {
-      "id": "793b7681feee",
-      "title": "Rock in Rio: que horas e onde assistir ao show da Luísa Sonza hoje?",
-      "link": "https://exame.com/pop/rock-in-rio-que-horas-comeca-o-show-da-luisa-sonza-hoje/",
-      "summary": "Cantora recebe o violonista Roberto Menescal na abertura do Palco Mundo",
-      "date": "2026-09-07T12:10:23+00:00",
+      "id": "2be48b9562e3",
+      "title": "Real Time Big Data: Helder tem 36% e Éder Mauro, 17%, na corrida ao Senado no Pará",
+      "link": "https://exame.com/brasil/real-time-big-data-helder-tem-36-e-eder-mauro-17-na-corrida-ao-senado-no-para/",
+      "summary": "Helder Barbalho domina corrida para o Senado, resultado de sua popularidade enquanto governador",
+      "date": "2026-09-08T10:55:57+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260412__A7HC9BZ__v1__HighRes__Day2CoachellaValleyMusicArtsFestival.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/54672677095_fb2574fb43_k.jpg"
     },
     {
-      "id": "93883d72d906",
-      "title": "5 álbuns de Elton John que mostram como a moda virou parte de sua música",
-      "link": "https://exame.com/casual/5-albuns-de-elton-john-que-mostram-como-a-moda-virou-parte-de-sua-musica/",
-      "summary": "Do piano aos figurinos extravagantes, Elton John construiu uma identidade artística que impactou a música, influenciou a moda e segue inspirando novas gerações de artistas",
-      "date": "2026-09-07T12:04:43+00:00",
+      "id": "da3d371a0096",
+      "title": "A distribuidora de R$ 700 milhões que aposta em perfumes e skincare coreano para chegar ao bilhão",
+      "link": "https://exame.com/negocios/a-distribuidora-de-r-700-milhoes-que-aposta-em-perfumes-e-skincare-coreano-para-chegar-ao-bilhao/",
+      "summary": "Criada há 30 anos em uma loja no Brás, a BIM investiu R$ 30 milhões para dobrar sua capacidade operacional",
+      "date": "2026-09-08T10:55:20+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2022/01/2022-01-26T110808Z_1_LYNXMPEI0P0H5_RTROPTP_4_PEOPLE-ELTON-JOHN.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/Igor-Bacchi-bim.jpeg"
     },
     {
-      "id": "f295176aadba",
-      "title": "A24 lança filme sobre os últimos dias livres de Elizabeth Holmes, da Theranos",
-      "link": "https://exame.com/pop/a24-lanca-filme-sobre-os-ultimos-dias-livres-de-elizabeth-holmes-da-theranos/",
-      "summary": "“You Can See Everything” acompanha a empresária nas semanas finais em liberdade",
-      "date": "2026-09-07T12:03:18+00:00",
+      "id": "4a4e66db7268",
+      "title": "Trend da foto dos anos 80 com IA viraliza as redes sociais; veja qual prompt usar",
+      "link": "https://exame.com/inteligencia-artificial/trend-da-foto-dos-anos-80-com-ia-viraliza-as-redes-sociais-veja-qual-prompt-usar/",
+      "summary": "Ferramentas como Gemini e ChatGPT recriam looks, cenários e cores da década em fotos pessoais com poucos comandos de texto",
+      "date": "2026-09-08T10:51:14+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/elizabeth-holmes.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/2150765083.jpg"
     },
     {
-      "id": "bbb1308de969",
-      "title": "Crise no STF piora conversa sobre Lula nas redes e dá alívio temporário a Flávio, diz estudo",
-      "link": "https://exame.com/brasil/crise-no-stf-piora-conversa-sobre-lula-nas-redes-e-da-alivio-temporario-a-flavio-diz-estudo/",
-      "summary": "Levantamento da Datrix obtido em primeira mão pela EXAME mostra que crise envolvendo Vorcaro e ministros do STF teve impacto distinto sobre os dois presidenciáveis e movimentou mais de 1 milhão de publicações em quatro dias",
-      "date": "2026-09-07T12:02:45+00:00",
+      "id": "713ec209ec6e",
+      "title": "Brasileiros têm mais de R$ 5 bilhões esquecidos em bancos; veja como sacar",
+      "link": "https://exame.com/invest/minhas-financas/brasileiros-tem-mais-de-r-5-bilhoes-esquecidos-em-bancos-veja-como-sacar/",
+      "summary": "No total, já foram devolvidos R$ 16,153 bilhões para 39.141.084 de pessoas físicas e 4.820.459 pessoas jurídicas",
+      "date": "2026-09-08T10:45:45+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/lula-e-Flavio-2-pb.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/02/MG_7223a.jpg"
     },
     {
-      "id": "414f9c5d3b76",
-      "title": "Rock in Rio 2026: onde assistir aos shows desta segunda-feira, 7",
-      "link": "https://exame.com/pop/rock-in-rio-2026-onde-assistir-aos-shows-desta-segunda-feira-7/",
-      "summary": "Elton John faz apresentação única na América Latina; veja como acompanhar de casa",
-      "date": "2026-09-07T12:01:42+00:00",
+      "id": "b227c3a44434",
+      "title": "AGU de Jorge Messias vai recorrer de decisão de Mendonça que afasta delegado-geral da PF",
+      "link": "https://exame.com/brasil/agu-de-jorge-messias-vai-recorrer-de-decisao-de-mendonca-que-afasta-delegado-geral-da-pf/",
+      "summary": "Advocacia-Geral da União vai argumentar que ministro violou prerrogativa do presidente da República",
+      "date": "2026-09-08T10:42:21+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "504544abd77a",
-      "title": "ChatGPT recomenda site falso de criptomoedas e usuário perde mais de US$ 2 milhões",
-      "link": "https://exame.com/future-of-money/chatgpt-recomenda-site-falso-de-criptomoedas-e-usuario-perde-mais-de-us-2-milhoes/",
-      "summary": "Resposta da inteligência artificial a uma consulta levou investidor a um aplicativo da Sceptre criado por golpistas",
-      "date": "2026-09-07T12:01:30+00:00",
+      "id": "5e86849d7e40",
+      "title": "O que a Embraer ganha se Trump barrar compras de jatos da Bombardier",
+      "link": "https://exame.com/invest/mercados/o-que-a-embraer-ganha-se-trump-barrar-compras-de-jatos-da-bombardier/",
+      "summary": "Efeito é positivo, porém limitado ao segmento de jatos executivos da fabricante brasileira de aeronaves",
+      "date": "2026-09-08T10:40:46+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/03/GettyImages-1355213459.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2025/02/Phenom-300E-Best-Selling-1-2000x1333-edd7c1bf-5ed8-49fa-9a73-0ad1215ff9c3.jpg"
     },
     {
-      "id": "763a81223282",
-      "title": "The real reason your phone is getting more expensive",
-      "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sigh...",
-      "date": "2026-09-07T12:00:00+00:00",
-      "source": "The Verge",
+      "id": "cabf28187671",
+      "title": "Escolha de suplentes no Senado é diferente da Câmara; entenda",
+      "link": "https://exame.com/esferabrasil/escolha-de-suplentes-no-senado-e-diferente-da-camara-entenda/",
+      "summary": "Composição das vagas na Casa Alta é feita diretamente pelos eleitores",
+      "date": "2026-09-08T10:35:31+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/senado-2.set_.26.jpg"
+    },
+    {
+      "id": "ccb66d62518a",
+      "title": "Vozinha e Dibu Martínez são indicados a melhor goleiro da Bola de Ouro 2026",
+      "link": "https://exame.com/esporte/vozinha-e-dibu-martinez-sao-indicados-a-melhor-goleiro-da-bola-de-ouro-2026/",
+      "summary": "Destaques da Copa do Mundo estão entre os dez concorrentes ao prêmio; veja a lista completa",
+      "date": "2026-09-08T10:33:37+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260615__B77G8NG__v1__HighRes__FblWc2026Match14EspCpv.jpg"
+    },
+    {
+      "id": "d0a429d9da14",
+      "title": "Estudar com IA piora as notas dos alunos, aponta relatório da OCDE",
+      "link": "https://exame.com/mundo/estudar-com-ia-piora-as-notas-dos-alunos-aponta-relatorio-da-ocde/",
+      "summary": "Uso moderado e orientado pode favorecer a aprendizagem, enquanto relatório aponta desigualdade no desenvolvimento da alfabetização em IA, diz Pisa 2025",
+      "date": "2026-09-08T10:32:48+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2020/09/CARTA-1.psd_1.jpg"
+    },
+    {
+      "id": "716092d1316d",
+      "title": "Write Things Down",
+      "link": "https://stratechery.com/2026/write-things-down/",
+      "summary": "Writing things down is powerful, for humans and for AI; what comes first, however, is what to write, why to do it, and actually getting things done.",
+      "date": "2026-09-08T10:00:00+00:00",
+      "source": "Stratechery",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257955_iPhone_17_ProMax_Air_VPavic_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://stratechery.com/2026/write-things-down/&size=128"
     },
     {
-      "id": "cb608a7a5f14",
-      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybac...",
-      "date": "2026-09-07T11:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/BentleyTorcalEV5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "0bf19370b3ec",
-      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-      "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display...",
-      "date": "2026-09-07T10:09:42+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/huawei-mate-xt-2-ultimate-design-design-2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "45ae42b0bfc9",
-      "title": "The Generation That’s Never Had to Say ‘Hello?’",
-      "link": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
-      "summary": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
-      "date": "2026-09-07T02:40:54+00:00",
+      "id": "f7ad6e48d63b",
+      "title": "Apple to Make First Big Change to iPhones in Years",
+      "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
+      "summary": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.",
+      "date": "2026-09-08T09:05:12+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/06/fashion/06ST-GEN-NO-HELLO/06ST-GEN-NO-HELLO-facebookJumbo.png"
+      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08biz-apple-curtainraiser-vmhp/08biz-apple-curtainraiser-vmhp-mediumSquareAt3X.jpg"
     },
     {
-      "id": "40787ab9e1b9",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user...",
-      "date": "2026-09-06T23:36:04+00:00",
-      "source": "The Verge",
+      "id": "467e9da01e1f",
+      "title": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
+      "summary": "The attack, discovered by A.I. researchers, could have compromised hundreds of millions of devices within hours, experts said.",
+      "date": "2026-09-08T09:05:10+00:00",
+      "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03dc-cyber-tqwl/03dc-cyber-tqwl-mediumSquareAt3X.jpg"
     },
     {
-      "id": "f3a7b9c6505f",
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-      "date": "2026-09-06T21:41:06+00:00",
+      "id": "a48e3c0ac5b9",
+      "title": "Key App Developers Have Yet to Embrace Apple’s New Siri A.I.",
+      "link": "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html",
+      "summary": "For the company’s new artificial intelligence system to take off, it will need plenty of support from the makers of popular apps on Apple’s phones.",
+      "date": "2026-09-08T09:04:17+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08biz-apple-siri-zkjg/08biz-apple-siri-zkjg-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "9c6d210f4045",
+      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+      "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+      "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
+      "date": "2026-09-08T09:00:00+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Stage2.jpg?resize=1200,800"
     },
     {
-      "id": "e22da8c4f8e5",
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incid...",
-      "date": "2026-09-06T20:56:38+00:00",
+      "id": "104ee5abd70f",
+      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+      "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+      "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel […]",
+      "date": "2026-09-08T07:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-hands-on-impressions-10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "f342a6eb6c1e",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "date": "2026-09-06T20:47:37+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800"
-    },
-    {
-      "id": "965c7d234a57",
-      "title": "The One-Human Business: How To Earn In The Age of AI",
-      "link": "https://letters.thedankoe.com/p/the-one-human-business-how-to-earn",
-      "summary": "Your interests + social media + AI = modern business",
-      "date": "2026-09-06T19:22:36+00:00",
-      "source": "Dan Koe",
+      "id": "2dd511da86e9",
+      "title": "Nathan Fielder made a secret documentary about Elizabeth Holmes",
+      "link": "https://www.morningbrew.com/stories/nathan-fielder-secret-documentary-elizabeth-holmes?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "It’s apparently really weird.",
+      "date": "2026-09-08T05:14:00+00:00",
+      "source": "Morning Brew",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/e61e58bd-23c4-4b62-bec7-4ebefe8ef6f7_1920x1080.jpeg"
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-07/image-fe3a139ebce2dc1f88bc7b3fadc237b392180a06-1200x675-png/image.png"
     },
     {
-      "id": "81760ddc8b7d",
-      "title": "Europe has its first commercial orbital rocket",
-      "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectr...",
-      "date": "2026-09-06T19:04:22+00:00",
-      "source": "The Verge",
+      "id": "0c5e0b1d2e55",
+      "title": "Labor Day gas prices have never been this high",
+      "link": "https://www.morningbrew.com/stories/labor-day-gas-prices-have-never-been-this-high?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Gas never surpassed $4/gallon on Labor Day before this year.",
+      "date": "2026-09-08T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-07/image-bd8afe5f39bf67b23233cbe33654d9db2d8a835f-1024x683-jpg/GettyImages-2293564552.jpg"
+    },
+    {
+      "id": "3f4b444cd76c",
+      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
+      "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
+      "summary": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
+      "date": "2026-09-08T02:44:03+00:00",
+      "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://static01.nyt.com/images/2026/07/27/world/asia/27vid-virtual-taekwondo-cover-image/27vid-virtual-taekwondo-cover-image-facebookJumbo.jpg"
     },
     {
-      "id": "1c8704ae316e",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "date": "2026-09-06T16:45:00+00:00",
+      "id": "3526b8c30f1a",
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khos...",
+      "date": "2026-09-08T02:16:39+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800"
     },
     {
-      "id": "9b55043efa44",
-      "title": "Boox’s tiny Picco e-reader should land in November",
-      "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to […]",
-      "date": "2026-09-06T16:28:58+00:00",
+      "id": "e39dc26a9510",
+      "title": "Phone gaming is getting a huge graphics boost",
+      "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of deve...",
+      "date": "2026-09-08T02:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "09e66a1d6362",
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "date": "2026-09-06T16:08:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800"
-    },
-    {
-      "id": "0257fa960d41",
-      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-      "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-      "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot o...",
-      "date": "2026-09-06T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268725_Fairphone_6_Plus_review_AJohnson_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "659f74f742c9",
-      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
-      "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
-      "summary": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pokémon Champions originally launched on the S...",
-      "date": "2026-09-06T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4405_91ad42.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&#038;strip=all&#038;crop=0,15.600243753809,62.2,75.399615618994"
     },
     {
       "id": "50fcd251ad11",
       "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
       "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
       "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
-      "date": "2026-09-06T10:45:11+00:00",
+      "date": "2026-09-08T01:54:45+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-mediumSquareAt3X.jpg"
     },
     {
-      "id": "208efbf91c73",
-      "title": "The facilities are getting fancy",
-      "link": "https://www.morningbrew.com/stories/the-facilities-are-getting-fancy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "One facility owner told Bloomberg that youth sports buildings are “recession-proof,” since spending on the dream of their kids going pro is among the last things parents will cut back on.",
-      "date": "2026-09-06T05:39:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-7b1ba43aeeb75978e03a5158b95d52b038a55985-1500x999-jpg/MBD-SundaySpecial-YouthSportsBrew-Facilities-0926.jpg"
-    },
-    {
-      "id": "86cc14c9e464",
-      "title": "Girls flag football is on a remarkable a run",
-      "link": "https://www.morningbrew.com/stories/girls-flag-football-is-on-a-heck-of-a-run?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "It’s one of the fastest-growing sports in the US, especially at the high school level.",
-      "date": "2026-09-06T05:31:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-be76ce177a708331c795c7a59272fa0148c91e73-3000x2000-jpg/MBD-SundaySpecial-YouthSportsBrew-FlagFootball-0926.jpg"
-    },
-    {
-      "id": "32e49a64e4b8",
-      "title": "Has youth sports lost the plot?",
-      "link": "https://www.morningbrew.com/stories/has-youth-sports-lost-the-plot?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Over the past two decades, private equity has transformed youth sports into an industrial complex that’s cutthroat enough to cause a shortage of willing umpires and referees, and expensive enough to break the bank.",
-      "date": "2026-09-06T05:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-5f24821691b51ea7ce7a0c1e5c20fbf300f03048-3000x2000-jpg/MBD-SundaySpecial-YouthSportsBrew-LostPlot-0926.jpg"
-    },
-    {
-      "id": "3d255cc49d49",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "date": "2026-09-05T22:49:55+00:00",
+      "id": "351790042a55",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "date": "2026-09-07T19:24:00+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800"
     },
     {
-      "id": "e808f3732149",
-      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-      "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
-      "summary": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
-      "date": "2026-09-05T21:11:57+00:00",
+      "id": "8d839ea49250",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "date": "2026-09-07T18:02:29+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-491583120.jpg?resize=1200,838"
+    },
+    {
+      "id": "f634961d34e3",
+      "title": "What we expect from the upcoming Apple launch",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "date": "2026-09-07T15:58:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800"
+    },
+    {
+      "id": "7d67484110b9",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "link": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "summary": "Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition. Its maker says the drug also seems to reduce the biological hallmarks of age.",
+      "date": "2026-09-07T15:12:14+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "ae97a46bce1f",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "date": "2026-09-05T19:35:24+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600"
-    },
-    {
-      "id": "6824a81fe574",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "date": "2026-09-05T18:05:27+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
+      "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07SCI-AI-AGING-wtgl/07SCI-AI-AGING-wtgl-mediumSquareAt3X.jpg"
     }
   ],
   "all_articles": [
+    {
+      "id": "175e7a792d34",
+      "title": "SteelSeries’ pro-grade, wireless Xbox controller sure is expensive",
+      "link": "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features",
+      "summary": "SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's kicking down the door with the $259.99 Aeon Pro wireless controller for Xbox and PC, which starts s...",
+      "date": "2026-09-08T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/aeonpro3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "1ea818d700a5",
+      "title": "Microsoft breaks another patch Tuesday record",
+      "link": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
+      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software vulnerabilities at a ra...",
+      "date": "2026-09-08T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "ec63206df11e",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas...",
+      "date": "2026-09-08T14:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "ee26b93dfc85",
+      "title": "The Legend of Zelda 40th Anniversary Direct: all the news and trailers",
+      "link": "https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct",
+      "summary": "The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda-themed Direct on September 8th at 10AM ET (it’s actually the first of two news-filled events), which is expected to last around 30 minutes and, according to Nintendo, will include ...",
+      "date": "2026-09-08T13:50:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/TotK_3rd_45.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "9b7ef8bf8935",
+      "title": "Intel CPUs are reportedly getting a 10 percent price hike in October",
+      "link": "https://www.theverge.com/tech/991285/intel-cpu-price-increase-october",
+      "summary": "Intel's PC CPUs may get more expensive in a few weeks, with Digitimes reporting that Intel has a 10 percent price hike planned, following similar increases earlier this year. According to Digitimes, the price hike is part of a shift for Intel toward increasing profitability for its PC CPU busines...",
+      "date": "2026-09-08T13:41:54+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK094_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "c0e977217c97",
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; t...",
+      "date": "2026-09-08T13:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "becf54aa2705",
+      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+      "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+      "date": "2026-09-08T13:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/poseidon-aero-egret.jpg?resize=1200,800"
+    },
+    {
+      "id": "1b0860a9b2a4",
+      "title": "How much does AEO cost? Pricing by agency, tools, and software",
+      "link": "https://blog.hubspot.com/marketing/how-much-does-aeo-cost",
+      "summary": "How much does AEO cost? The short answer is roughly $30 a month for a monitoring tool you run yourself to over $15,000 a month for a full-service agency program that handles everything for you — with a wide middle in between.",
+      "date": "2026-09-08T12:00:03+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/07ca2318-c9e0-4b5d-bcba-95cec5cb4958.png"
+    },
+    {
+      "id": "850972a35a44",
+      "title": "Apple says ‘Fold’ and competitors ask ‘how wide?’",
+      "link": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
+      "summary": "Apple is almost certain to launch its first foldable iPhone tomorrow, seven years after Samsung's Galaxy Fold initially went on sale. And while Apple might be a few years late to the party, the run-up to this launch proves that new CEO John Ternus has inherited a company that's as influential as ...",
+      "date": "2026-09-08T12:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_john_ternus_apple_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "c287082a50ad",
+      "title": "LG TVs caught spying even when offline or on standby",
+      "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+      "summary": "LG smart TVs are almost constantly logging and uploading data about owners and their homes, even when offline or on standby mode, according to a new report from YouTube channel Gamers Nexus. The company's TV sets scan Wi-Fi networks for nearby devices, record audio logs through their microphones,...",
+      "date": "2026-09-08T11:30:05+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "6f3f581432cf",
+      "title": "Ibovespa chega perto dos 190 mil pontos com empate nas pesquisas eleitorais",
+      "link": "https://exame.com/invest/mercados/ibovespa-chega-perto-dos-190-mil-pontos-com-empate-nas-pesquisas-eleitorais/",
+      "summary": "Dólar volta a cair e opera abaixo dos R$ 5,10: veja o que mexe com os mercados",
+      "date": "2026-09-08T10:57:27+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2022/03/GettyImages-1236444957.jpg"
+    },
+    {
+      "id": "2be48b9562e3",
+      "title": "Real Time Big Data: Helder tem 36% e Éder Mauro, 17%, na corrida ao Senado no Pará",
+      "link": "https://exame.com/brasil/real-time-big-data-helder-tem-36-e-eder-mauro-17-na-corrida-ao-senado-no-para/",
+      "summary": "Helder Barbalho domina corrida para o Senado, resultado de sua popularidade enquanto governador",
+      "date": "2026-09-08T10:55:57+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/54672677095_fb2574fb43_k.jpg"
+    },
+    {
+      "id": "da3d371a0096",
+      "title": "A distribuidora de R$ 700 milhões que aposta em perfumes e skincare coreano para chegar ao bilhão",
+      "link": "https://exame.com/negocios/a-distribuidora-de-r-700-milhoes-que-aposta-em-perfumes-e-skincare-coreano-para-chegar-ao-bilhao/",
+      "summary": "Criada há 30 anos em uma loja no Brás, a BIM investiu R$ 30 milhões para dobrar sua capacidade operacional",
+      "date": "2026-09-08T10:55:20+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/Igor-Bacchi-bim.jpeg"
+    },
+    {
+      "id": "4a4e66db7268",
+      "title": "Trend da foto dos anos 80 com IA viraliza as redes sociais; veja qual prompt usar",
+      "link": "https://exame.com/inteligencia-artificial/trend-da-foto-dos-anos-80-com-ia-viraliza-as-redes-sociais-veja-qual-prompt-usar/",
+      "summary": "Ferramentas como Gemini e ChatGPT recriam looks, cenários e cores da década em fotos pessoais com poucos comandos de texto",
+      "date": "2026-09-08T10:51:14+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/2150765083.jpg"
+    },
+    {
+      "id": "713ec209ec6e",
+      "title": "Brasileiros têm mais de R$ 5 bilhões esquecidos em bancos; veja como sacar",
+      "link": "https://exame.com/invest/minhas-financas/brasileiros-tem-mais-de-r-5-bilhoes-esquecidos-em-bancos-veja-como-sacar/",
+      "summary": "No total, já foram devolvidos R$ 16,153 bilhões para 39.141.084 de pessoas físicas e 4.820.459 pessoas jurídicas",
+      "date": "2026-09-08T10:45:45+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2025/02/MG_7223a.jpg"
+    },
+    {
+      "id": "b227c3a44434",
+      "title": "AGU de Jorge Messias vai recorrer de decisão de Mendonça que afasta delegado-geral da PF",
+      "link": "https://exame.com/brasil/agu-de-jorge-messias-vai-recorrer-de-decisao-de-mendonca-que-afasta-delegado-geral-da-pf/",
+      "summary": "Advocacia-Geral da União vai argumentar que ministro violou prerrogativa do presidente da República",
+      "date": "2026-09-08T10:42:21+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "5e86849d7e40",
+      "title": "O que a Embraer ganha se Trump barrar compras de jatos da Bombardier",
+      "link": "https://exame.com/invest/mercados/o-que-a-embraer-ganha-se-trump-barrar-compras-de-jatos-da-bombardier/",
+      "summary": "Efeito é positivo, porém limitado ao segmento de jatos executivos da fabricante brasileira de aeronaves",
+      "date": "2026-09-08T10:40:46+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2025/02/Phenom-300E-Best-Selling-1-2000x1333-edd7c1bf-5ed8-49fa-9a73-0ad1215ff9c3.jpg"
+    },
+    {
+      "id": "cabf28187671",
+      "title": "Escolha de suplentes no Senado é diferente da Câmara; entenda",
+      "link": "https://exame.com/esferabrasil/escolha-de-suplentes-no-senado-e-diferente-da-camara-entenda/",
+      "summary": "Composição das vagas na Casa Alta é feita diretamente pelos eleitores",
+      "date": "2026-09-08T10:35:31+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/senado-2.set_.26.jpg"
+    },
+    {
+      "id": "ccb66d62518a",
+      "title": "Vozinha e Dibu Martínez são indicados a melhor goleiro da Bola de Ouro 2026",
+      "link": "https://exame.com/esporte/vozinha-e-dibu-martinez-sao-indicados-a-melhor-goleiro-da-bola-de-ouro-2026/",
+      "summary": "Destaques da Copa do Mundo estão entre os dez concorrentes ao prêmio; veja a lista completa",
+      "date": "2026-09-08T10:33:37+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260615__B77G8NG__v1__HighRes__FblWc2026Match14EspCpv.jpg"
+    },
+    {
+      "id": "d0a429d9da14",
+      "title": "Estudar com IA piora as notas dos alunos, aponta relatório da OCDE",
+      "link": "https://exame.com/mundo/estudar-com-ia-piora-as-notas-dos-alunos-aponta-relatorio-da-ocde/",
+      "summary": "Uso moderado e orientado pode favorecer a aprendizagem, enquanto relatório aponta desigualdade no desenvolvimento da alfabetização em IA, diz Pisa 2025",
+      "date": "2026-09-08T10:32:48+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2020/09/CARTA-1.psd_1.jpg"
+    },
+    {
+      "id": "716092d1316d",
+      "title": "Write Things Down",
+      "link": "https://stratechery.com/2026/write-things-down/",
+      "summary": "Writing things down is powerful, for humans and for AI; what comes first, however, is what to write, why to do it, and actually getting things done.",
+      "date": "2026-09-08T10:00:00+00:00",
+      "source": "Stratechery",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://stratechery.com/2026/write-things-down/&size=128"
+    },
+    {
+      "id": "f7ad6e48d63b",
+      "title": "Apple to Make First Big Change to iPhones in Years",
+      "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
+      "summary": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.",
+      "date": "2026-09-08T09:05:12+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08biz-apple-curtainraiser-vmhp/08biz-apple-curtainraiser-vmhp-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "467e9da01e1f",
+      "title": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
+      "summary": "The attack, discovered by A.I. researchers, could have compromised hundreds of millions of devices within hours, experts said.",
+      "date": "2026-09-08T09:05:10+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03dc-cyber-tqwl/03dc-cyber-tqwl-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "a48e3c0ac5b9",
+      "title": "Key App Developers Have Yet to Embrace Apple’s New Siri A.I.",
+      "link": "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html",
+      "summary": "For the company’s new artificial intelligence system to take off, it will need plenty of support from the makers of popular apps on Apple’s phones.",
+      "date": "2026-09-08T09:04:17+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08biz-apple-siri-zkjg/08biz-apple-siri-zkjg-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "9c6d210f4045",
+      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+      "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+      "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
+      "date": "2026-09-08T09:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Stage2.jpg?resize=1200,800"
+    },
+    {
+      "id": "104ee5abd70f",
+      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+      "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+      "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel […]",
+      "date": "2026-09-08T07:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-hands-on-impressions-10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "2dd511da86e9",
+      "title": "Nathan Fielder made a secret documentary about Elizabeth Holmes",
+      "link": "https://www.morningbrew.com/stories/nathan-fielder-secret-documentary-elizabeth-holmes?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "It’s apparently really weird.",
+      "date": "2026-09-08T05:14:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-07/image-fe3a139ebce2dc1f88bc7b3fadc237b392180a06-1200x675-png/image.png"
+    },
+    {
+      "id": "0c5e0b1d2e55",
+      "title": "Labor Day gas prices have never been this high",
+      "link": "https://www.morningbrew.com/stories/labor-day-gas-prices-have-never-been-this-high?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Gas never surpassed $4/gallon on Labor Day before this year.",
+      "date": "2026-09-08T04:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-07/image-bd8afe5f39bf67b23233cbe33654d9db2d8a835f-1024x683-jpg/GettyImages-2293564552.jpg"
+    },
+    {
+      "id": "3f4b444cd76c",
+      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
+      "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
+      "summary": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
+      "date": "2026-09-08T02:44:03+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/07/27/world/asia/27vid-virtual-taekwondo-cover-image/27vid-virtual-taekwondo-cover-image-facebookJumbo.jpg"
+    },
+    {
+      "id": "3526b8c30f1a",
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khos...",
+      "date": "2026-09-08T02:16:39+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800"
+    },
+    {
+      "id": "e39dc26a9510",
+      "title": "Phone gaming is getting a huge graphics boost",
+      "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of deve...",
+      "date": "2026-09-08T02:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&#038;strip=all&#038;crop=0,15.600243753809,62.2,75.399615618994"
+    },
+    {
+      "id": "50fcd251ad11",
+      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
+      "date": "2026-09-08T01:54:45+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "351790042a55",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "date": "2026-09-07T19:24:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800"
+    },
+    {
+      "id": "8d839ea49250",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "date": "2026-09-07T18:02:29+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-491583120.jpg?resize=1200,838"
+    },
+    {
+      "id": "f634961d34e3",
+      "title": "What we expect from the upcoming Apple launch",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "date": "2026-09-07T15:58:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800"
+    },
     {
       "id": "7d67484110b9",
       "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
@@ -444,171 +829,6 @@
       "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07SCI-AI-AGING-wtgl/07SCI-AI-AGING-wtgl-mediumSquareAt3X.jpg"
     },
     {
-      "id": "a611e0e98c1c",
-      "title": "EcoFlow makes the miniature power station even smaller",
-      "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
-      "summary": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the large...",
-      "date": "2026-09-07T14:59:41+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "3f4b444cd76c",
-      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
-      "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
-      "summary": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
-      "date": "2026-09-07T12:20:03+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/07/27/world/asia/27vid-virtual-taekwondo-cover-image/27vid-virtual-taekwondo-cover-image-facebookJumbo.jpg"
-    },
-    {
-      "id": "94604e651a65",
-      "title": "Inspirada por Dolly Parton, mulher ganha R$ 860 milhões na loteria e doa metade",
-      "link": "https://exame.com/pop/inspirada-por-dolly-parton-mulher-ganha-r-860-milhoes-na-loteria-e-doa-metade/",
-      "summary": "Prêmio de £ 115 milhões financiou projetos contra solidão, fome e apoio a jovens cuidadores",
-      "date": "2026-09-07T12:16:39+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/1-1-e1701965472263.png"
-    },
-    {
-      "id": "09e29e188843",
-      "title": "Rock in Rio 2026: que horas e onde assistir ao show do Gilberto Gil hoje",
-      "link": "https://exame.com/pop/rock-in-rio-2026-que-horas-e-o-show-do-gilberto-gil-hoje/",
-      "summary": "Show integra a turnê de despedida dos palcos do cantor baiano",
-      "date": "2026-09-07T12:10:37+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/02/GettyImages-2110393107.jpg"
-    },
-    {
-      "id": "0429022dda77",
-      "title": "Rock in Rio: que horas e onde assistir ao show do Elton John hoje?",
-      "link": "https://exame.com/pop/rock-in-rio-que-horas-comeca-o-show-do-elton-john-hoje/",
-      "summary": "Cantor britânico faz apresentação única na América Latina, já aposentado dos palcos",
-      "date": "2026-09-07T12:10:28+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2020/04/elton-john.jpg"
-    },
-    {
-      "id": "9d21fabef675",
-      "title": "Que horas e onde assistir ao show do Jon Batiste hoje no Rock in Rio?",
-      "link": "https://exame.com/pop/que-horas-e-o-show-do-jon-batiste-hoje-no-rock-in-rio/",
-      "summary": "Músico americano toca no Palco Mundo antes de Gilberto Gil e Elton John",
-      "date": "2026-09-07T12:10:24+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/rock-in-rio-fogos-de-artificio-1.jpg"
-    },
-    {
-      "id": "793b7681feee",
-      "title": "Rock in Rio: que horas e onde assistir ao show da Luísa Sonza hoje?",
-      "link": "https://exame.com/pop/rock-in-rio-que-horas-comeca-o-show-da-luisa-sonza-hoje/",
-      "summary": "Cantora recebe o violonista Roberto Menescal na abertura do Palco Mundo",
-      "date": "2026-09-07T12:10:23+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260412__A7HC9BZ__v1__HighRes__Day2CoachellaValleyMusicArtsFestival.jpg"
-    },
-    {
-      "id": "93883d72d906",
-      "title": "5 álbuns de Elton John que mostram como a moda virou parte de sua música",
-      "link": "https://exame.com/casual/5-albuns-de-elton-john-que-mostram-como-a-moda-virou-parte-de-sua-musica/",
-      "summary": "Do piano aos figurinos extravagantes, Elton John construiu uma identidade artística que impactou a música, influenciou a moda e segue inspirando novas gerações de artistas",
-      "date": "2026-09-07T12:04:43+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2022/01/2022-01-26T110808Z_1_LYNXMPEI0P0H5_RTROPTP_4_PEOPLE-ELTON-JOHN.jpg"
-    },
-    {
-      "id": "f295176aadba",
-      "title": "A24 lança filme sobre os últimos dias livres de Elizabeth Holmes, da Theranos",
-      "link": "https://exame.com/pop/a24-lanca-filme-sobre-os-ultimos-dias-livres-de-elizabeth-holmes-da-theranos/",
-      "summary": "“You Can See Everything” acompanha a empresária nas semanas finais em liberdade",
-      "date": "2026-09-07T12:03:18+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/elizabeth-holmes.jpg"
-    },
-    {
-      "id": "bbb1308de969",
-      "title": "Crise no STF piora conversa sobre Lula nas redes e dá alívio temporário a Flávio, diz estudo",
-      "link": "https://exame.com/brasil/crise-no-stf-piora-conversa-sobre-lula-nas-redes-e-da-alivio-temporario-a-flavio-diz-estudo/",
-      "summary": "Levantamento da Datrix obtido em primeira mão pela EXAME mostra que crise envolvendo Vorcaro e ministros do STF teve impacto distinto sobre os dois presidenciáveis e movimentou mais de 1 milhão de publicações em quatro dias",
-      "date": "2026-09-07T12:02:45+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/03/lula-e-Flavio-2-pb.jpg"
-    },
-    {
-      "id": "414f9c5d3b76",
-      "title": "Rock in Rio 2026: onde assistir aos shows desta segunda-feira, 7",
-      "link": "https://exame.com/pop/rock-in-rio-2026-onde-assistir-aos-shows-desta-segunda-feira-7/",
-      "summary": "Elton John faz apresentação única na América Latina; veja como acompanhar de casa",
-      "date": "2026-09-07T12:01:42+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "504544abd77a",
-      "title": "ChatGPT recomenda site falso de criptomoedas e usuário perde mais de US$ 2 milhões",
-      "link": "https://exame.com/future-of-money/chatgpt-recomenda-site-falso-de-criptomoedas-e-usuario-perde-mais-de-us-2-milhoes/",
-      "summary": "Resposta da inteligência artificial a uma consulta levou investidor a um aplicativo da Sceptre criado por golpistas",
-      "date": "2026-09-07T12:01:30+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/03/GettyImages-1355213459.jpg"
-    },
-    {
-      "id": "763a81223282",
-      "title": "The real reason your phone is getting more expensive",
-      "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sigh...",
-      "date": "2026-09-07T12:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257955_iPhone_17_ProMax_Air_VPavic_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "cb608a7a5f14",
-      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybac...",
-      "date": "2026-09-07T11:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/BentleyTorcalEV5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "0bf19370b3ec",
-      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-      "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display...",
-      "date": "2026-09-07T10:09:42+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/huawei-mate-xt-2-ultimate-design-design-2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "45ae42b0bfc9",
       "title": "The Generation That’s Never Had to Say ‘Hello?’",
       "link": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
@@ -618,17 +838,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/09/06/fashion/06ST-GEN-NO-HELLO/06ST-GEN-NO-HELLO-facebookJumbo.png"
-    },
-    {
-      "id": "40787ab9e1b9",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user...",
-      "date": "2026-09-06T23:36:04+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "f3a7b9c6505f",
@@ -642,17 +851,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675"
     },
     {
-      "id": "e22da8c4f8e5",
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incid...",
-      "date": "2026-09-06T20:56:38+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "f342a6eb6c1e",
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
@@ -661,7 +859,7 @@
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800"
+      "image": null
     },
     {
       "id": "965c7d234a57",
@@ -675,17 +873,6 @@
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/e61e58bd-23c4-4b62-bec7-4ebefe8ef6f7_1920x1080.jpeg"
     },
     {
-      "id": "81760ddc8b7d",
-      "title": "Europe has its first commercial orbital rocket",
-      "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectr...",
-      "date": "2026-09-06T19:04:22+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "1c8704ae316e",
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
@@ -694,18 +881,7 @@
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800"
-    },
-    {
-      "id": "9b55043efa44",
-      "title": "Boox’s tiny Picco e-reader should land in November",
-      "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to […]",
-      "date": "2026-09-06T16:28:58+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": null
     },
     {
       "id": "09e66a1d6362",
@@ -716,40 +892,7 @@
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800"
-    },
-    {
-      "id": "0257fa960d41",
-      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-      "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-      "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot o...",
-      "date": "2026-09-06T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268725_Fairphone_6_Plus_review_AJohnson_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "659f74f742c9",
-      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
-      "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
-      "summary": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pokémon Champions originally launched on the S...",
-      "date": "2026-09-06T13:00:00+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4405_91ad42.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "50fcd251ad11",
-      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-      "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-      "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
-      "date": "2026-09-06T10:45:11+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-mediumSquareAt3X.jpg"
+      "image": null
     },
     {
       "id": "208efbf91c73",
@@ -785,17 +928,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-04/image-5f24821691b51ea7ce7a0c1e5c20fbf300f03048-3000x2000-jpg/MBD-SundaySpecial-YouthSportsBrew-LostPlot-0926.jpg"
     },
     {
-      "id": "3d255cc49d49",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "date": "2026-09-05T22:49:55+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645"
-    },
-    {
       "id": "e808f3732149",
       "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
       "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
@@ -805,50 +937,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "ae97a46bce1f",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "date": "2026-09-05T19:35:24+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600"
-    },
-    {
-      "id": "6824a81fe574",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "date": "2026-09-05T18:05:27+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
-    },
-    {
-      "id": "f9f66c0d7e5a",
-      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-      "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-      "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
-      "date": "2026-09-05T17:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200"
-    },
-    {
-      "id": "fd30bd165dd1",
-      "title": "Oura is going public, but these smart ring companies are coming for its crown",
-      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-      "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
-      "date": "2026-09-05T15:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
     },
     {
       "id": "44f1150451f0",
@@ -895,28 +983,6 @@
       "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04biz-openai-times-hpzj/04biz-openai-times-hpzj-mediumSquareAt3X.jpg"
     },
     {
-      "id": "cc366da39c90",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "date": "2026-09-04T23:36:14+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "391227069f8a",
-      "title": "F.B.I. Investigates Sale of Millions of Stolen Driver’s Licenses",
-      "link": "https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html",
-      "summary": "The blog Krebs on Security reported on an identity theft service trying to sell scans of licenses and other documents belonging to people in Canada and the United States.",
-      "date": "2026-09-04T21:11:57+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03xp-breach-bgmq/03xp-breach-bgmq-mediumSquareAt3X.jpg"
-    },
-    {
       "id": "c1e2d66081d3",
       "title": "2026.36: Friction and Feedback",
       "link": "https://stratechery.com/2026/friction-and-feedback/",
@@ -926,28 +992,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/09/GettyImages-2292369563.jpg?resize=1700%2C1133&#038;ssl=1"
-    },
-    {
-      "id": "3722d8c207bd",
-      "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
-      "link": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html",
-      "summary": "The survivors contend that the company should have notified the police when it shut down the shooter’s disturbing ChatGPT account eight months before the February attack in British Columbia.",
-      "date": "2026-09-04T17:19:30+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04XP-TUMBLERRIDGE-vcfp/04XP-TUMBLERRIDGE-vcfp-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "560f01aba3c4",
-      "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
-      "summary": "The attack by an aggressive “collective” of OpenAI agents shows the danger of artificial intelligence systems that organize themselves.",
-      "date": "2026-09-04T16:12:19+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/09/05/business/00roose-hugging-face/00roose-hugging-face-mediumSquareAt3X.jpg"
     },
     {
       "id": "d0aa7869e392",
@@ -1003,28 +1047,6 @@
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
-    },
-    {
-      "id": "7d02b507ae4d",
-      "title": "A judge deemed it an illegal monopoly, but ruled Google doesn’t have to sell its ad business",
-      "link": "https://www.morningbrew.com/stories/a-judge-deemed-it-an-illegal-monopoly-but-ruled-google-doesnt-have-to-sell-its-ad-business?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The courts have been letting Big Tech stay big.",
-      "date": "2026-09-03T05:14:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-02-04/image-3a0105615e49dc507eaad93f8265c44335818df8-7512x5008-jpg/GettyImages-2166452955.jpg"
-    },
-    {
-      "id": "37a9e93daf33",
-      "title": "Homeward bound USS Abraham Lincoln stops in Pattaya",
-      "link": "https://www.morningbrew.com/stories/uss-abraham-lincoln-stops-in-pattaya?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The effects of US military operations are one reason the troops’ arrival in Pattaya is so welcome.",
-      "date": "2026-09-03T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-09-02/image-5f73f9c880ceb83d82341e467eaa253c77975dcf-4333x2889-jpg/GettyImages-2292598053.jpg"
     },
     {
       "id": "0716e4e6bc7a",
@@ -1192,17 +1214,6 @@
       "image": null
     },
     {
-      "id": "f7a8b5b266c7",
-      "title": "2026.34: App Snore",
-      "link": "https://stratechery.com/2026/app-snore/",
-      "summary": "The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
-      "date": "2026-08-21T17:00:00+00:00",
-      "source": "Stratechery",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/08/blogpost-boat-1600.jpg?resize=1600%2C1200&#038;ssl=1"
-    },
-    {
       "id": "fae553fd9421",
       "title": "Peec AI alternatives for AI visibility monitoring in 2026",
       "link": "https://blog.hubspot.com/marketing/peec-ai-alternatives",
@@ -1234,17 +1245,6 @@
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
-    },
-    {
-      "id": "140c8bbfe3f5",
-      "title": "How to write a CRM RFP (with free template)",
-      "link": "https://blog.hubspot.com/marketing/crm-rfp",
-      "summary": "CRM buying decisions go sideways in a predictable way. Sales wants pipeline automation, IT wants an on-premise option, marketing wants native email, and finance wants to know why there’s a $200K line item with no defined ROI. By the time procurement gets involved, you’ve got four vendors, three o...",
-      "date": "2026-08-20T20:00:03+00:00",
-      "source": "HubSpot Blog",
-      "category_id": "marketing",
-      "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/b173b371-487a-4b24-8d8d-508e4cff3779.png"
     },
     {
       "id": "e04f086385e6",
