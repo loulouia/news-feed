@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:25:02.885390+00:00",
+  "generated_at": "2026-10-18T13:43:44.619203+00:00",
   "total_articles": 90,
   "categories": [
     {
@@ -33,160 +33,314 @@
   ],
   "featured": [
     {
-      "id": "451589cca31f",
-      "title": "Websites are closing their doors to AI agents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet wo...",
-      "date": "2026-10-17T13:00:00+00:00",
+      "id": "529c85f94e63",
+      "title": "Trump says Google kisses his ass",
+      "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much...",
+      "date": "2026-10-18T13:25:01+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "ced23da839eb",
-      "title": "Bose’s new wired earbuds are simple in the best way",
-      "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
-      "summary": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence can be tied to t...",
-      "date": "2026-10-17T13:00:00+00:00",
+      "id": "02cb6a93229b",
+      "title": "The best gadget I bought this year is a milk frother",
+      "link": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+      "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their […]",
+      "date": "2026-10-18T13:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "38384fe121dc",
-      "title": "Apple’s HomeView is just the latest threat to online recipe writers",
-      "link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
-      "summary": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the...",
-      "date": "2026-10-17T12:00:00+00:00",
+      "id": "703b89ea2e56",
+      "title": "How overhead projectors took over your classroom",
+      "link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+      "summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary ...",
+      "date": "2026-10-18T12:55:01+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "47661285f2f2",
-      "title": "It’s a dream week for tech docs",
-      "link": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about M...",
-      "date": "2026-10-17T12:00:00+00:00",
+      "id": "29c8b39e08cd",
+      "title": "Cities want to put the boot on robotaxis",
+      "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first st...",
+      "date": "2026-10-18T12:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-148.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "f1bdeba1f584",
-      "title": "iPhone Duo de US$ 1.999 tem entrega para janeiro após corrida na pré-venda",
-      "link": "https://exame.com/tecnologia/iphone-duo-pre-venda-entrega-janeiro-2027/",
-      "summary": "Primeiro dobrável da Apple esgota estoque de estreia nos EUA; modelo chega ao Brasil a partir de R$ 21.999",
-      "date": "2026-10-17T10:16:20+00:00",
+      "id": "827b5e49e9a2",
+      "title": "O que está acontecendo na França? Protestos terminam em saques e 1.800 prisões",
+      "link": "https://exame.com/mundo/o-que-esta-acontecendo-na-franca-protestos-terminam-em-saques-e-1-800-prisoes/",
+      "summary": "Manifestações contra o alto custo de vida terminaram em confrontos, incêndios e depredações em várias cidades; Trump associou a violência à imigração e pediu o fechamento das fronteiras.",
+      "date": "2026-10-18T10:37:13+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/iphone_duo.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/franca-destruicao.jpg"
     },
     {
-      "id": "0b6f652e6101",
-      "title": "Agregador Inteligov/EXAME: Omar Aziz tem 55,88% e Maria do Carmo, 44,12%, no 2º turno no Amazonas",
-      "link": "https://exame.com/brasil/agregador-inteligov-exame-omar-aziz-tem-5588-e-maria-do-carmo-4412-no-2o-turno-no-amazonas/",
-      "summary": "De acordo com o medidor de tendência do agregador, Aziz e Maria medem tendências espelhadas: o senador tende a uma queda de 1,02 pp, enquanto a adversária tende a uma alta exatamente oposta",
-      "date": "2026-10-17T10:10:30+00:00",
+      "id": "824df186cd16",
+      "title": "Como um jovem de 28 anos conquistou Zuckerberg e virou peça-chave de uma aposta de US$ 130 bilhões",
+      "link": "https://exame.com/inteligencia-artificial/como-um-jovem-de-28-anos-conquistou-zuckerberg-e-virou-peca-chave-de-uma-aposta-de-us-130-bilhoes/",
+      "summary": "Uma ligação e um memorando aproximaram Alexandr Wang do fundador do Facebook; agora, ele precisa transformar a aposta em produtos",
+      "date": "2026-10-18T10:01:28+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": null
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/alexandr_wang-e1792273881242.jpg"
     }
   ],
   "articles": [
     {
-      "id": "2393265de3a8",
-      "title": "Exclusivo: OKX pede licença cripto ao Banco Central no Brasil",
-      "link": "https://exame.com/future-of-money/exclusivo-okx-pede-licenca-cripto-ao-banco-central-no-brasil/",
-      "summary": "Exchange dá a largada entre as maiores plataformas do setor, enquanto 8 outras empresas estão com processos em análise",
-      "date": "2026-10-17T10:07:47+00:00",
+      "id": "0bfd31432525",
+      "title": "O que trava um projeto de R$ 8 milhões que promete recuperar ícones do Centro de SP",
+      "link": "https://exame.com/negocios/o-que-trava-um-projeto-de-r-8-milhoes-que-promete-recuperar-icones-do-centro-de-sp/",
+      "summary": "Empreendedores querem financiar a restauração de patrimônios históricos com receitas de publicidade, mas uma disputa judicial mantém a iniciativa suspensa",
+      "date": "2026-10-18T10:01:14+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/10/appshunter-io-28hezYqE8GU-unsplash.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/Nova-imagem-1-4.jpg"
     },
     {
-      "id": "b5f2d5f5dc4a",
-      "title": "Ciclone deve levar ventos fortes ao litoral do Sul neste sábado",
-      "link": "https://exame.com/brasil/ciclone-deve-levar-ventos-fortes-ao-litoral-do-sul-neste-sabado/",
-      "summary": "Inmet prevê ventos na costa de RS e SC e frio na região, com possibilidade de geada no domingo",
-      "date": "2026-10-17T10:06:54+00:00",
+      "id": "6d751fc59eb9",
+      "title": "Bauru ou Anápolis? IA da Accor aponta cidades que podem virar destinos hoteleiros",
+      "link": "https://exame.com/mercado-imobiliario/bauru-ou-anapolis-ia-da-accor-aponta-cidades-que-podem-virar-destinos-hoteleiros/",
+      "summary": "Macapá, Anápolis e Bauru estão entre os mercados identificados pela ferramenta da rede, que analisa 1.209 municípios em busca de oportunidades",
+      "date": "2026-10-18T10:00:33+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/09/CicloneRioGrande.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/gran-mercure-exame-edit.png"
     },
     {
-      "id": "f8ce43c5e551",
-      "title": "Mercado vê eleição mais acirrada e debate entre Lula e Flávio como 'decisivo'",
-      "link": "https://exame.com/invest/mercados/mercado-ve-eleicao-mais-acirrada-e-debate-entre-lula-e-flavio-como-decisivo/",
-      "summary": "Pesquisas reduziram a vantagem atribuída ao candidato do PL e levaram investidores a rever parte do rali pós-primeiro turno",
-      "date": "2026-10-17T10:00:31+00:00",
+      "id": "ab21faadc743",
+      "title": "O documentário em que Elizabeth Holmes decidiu contar sua versão",
+      "link": "https://exame.com/casual/o-documentario-em-que-elizabeth-holmes-decidiu-contar-sua-versao/",
+      "summary": "Documentário codirigido pelo comediante e por Lance Oppenheim acompanha a fundadora da Theranos antes da prisão e estreia nos cinemas americanos nesta sexta-feira (16)",
+      "date": "2026-10-18T10:00:25+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/lula-e-flavio-bolsonaro.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/You-Can-See-Everything-1.jpg"
     },
     {
-      "id": "10f06df47f87",
-      "title": "O dinheiro do futuro será emitido por bancos ou por empresas de tecnologia?",
-      "link": "https://exame.com/future-of-money/o-dinheiro-do-futuro-sera-emitido-por-bancos-ou-por-empresas-de-tecnologia/",
-      "summary": "Um sistema financeiro do futuro com a coexistência entre stablecoins e depósitos tokenizados é possível",
-      "date": "2026-10-17T10:00:00+00:00",
+      "id": "dee302834dfc",
+      "title": "ETFs podem decidir quanto vale o assessor do futuro",
+      "link": "https://exame.com/future-of-money/etfs-podem-decidir-quanto-vale-o-assessor-do-futuro/",
+      "summary": "O verdadeiro debate não é quem vencerá entre fee e comissão; é por qual valor o cliente estará disposto a pagar pelo assessor do futuro.",
+      "date": "2026-10-18T10:00:12+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/Image-55.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2017/12/sd_0612.jpg"
     },
     {
-      "id": "a43da101ec9b",
-      "title": "Mega-Sena de R$ 170 milhões: apostas terminam neste sábado; veja horário",
-      "link": "https://exame.com/invest/minhas-financas/mega-sena-3071-r-170-milhoes-apostas-sabado-horario/",
-      "summary": "Concurso 3.071 será sorteado no domingo, 18, às 11h; jogo simples custa R$ 6 e pode ser registrado até as 22h de sábado",
-      "date": "2026-10-17T09:56:55+00:00",
+      "id": "3b13443eff70",
+      "title": "Como assistir ao Victoria’s Secret Fashion Show 2026 ao vivo neste domingo?",
+      "link": "https://exame.com/pop/como-assistir-ao-victorias-secret-fashion-show-2026-ao-vivo-neste-domingo/",
+      "summary": "Desfile será realizado em Los Angeles, nos Estados Unidos, com apresentações musicais de Megan Thee Stallion, Tate McRae, Megan Moroney e Katseye",
+      "date": "2026-10-18T09:38:37+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/01/20230622_183248.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/adriana-lima-victoria-secrets.jpg"
     },
     {
-      "id": "ac32f08254d5",
-      "title": "Rússia afirma ter atacado siderúrgica da ArcelorMittal na Ucrânia",
-      "link": "https://exame.com/mundo/russia-afirma-ter-atacado-siderurgica-da-arcelormittal-na-ucrania/",
-      "summary": "Relato militar não teve confirmação independente; empresa havia anunciado paralisação da unidade em setembro",
-      "date": "2026-10-17T09:53:45+00:00",
+      "id": "f40ed17bdfc3",
+      "title": "Novo mapa do cérebro revela 539 regiões químicas antes desconhecidas",
+      "link": "https://exame.com/ciencia/novo-mapa-do-cerebro-revela-539-regioes-quimicas-antes-desconhecidas/",
+      "summary": "Pesquisadores mapearam a distribuição de lipídios em camundongos e encontraram padrões que não apareciam em análises anteriores",
+      "date": "2026-10-18T09:24:30+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/12/Vista-aerea-Unidade-Vega-ArcelorMittal-1-1.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/lipizones-in-mouse-brain.jpg"
     },
     {
-      "id": "937e9c09878e",
-      "title": "Papa Leão XIV tem alta prevista para este sábado, informa Vaticano",
-      "link": "https://exame.com/mundo/papa-leao-xiv-tem-alta-prevista-para-este-sabado-informa-vaticano/",
-      "summary": "Após cirurgia no pulmão direito, pontífice deverá voltar ao Vaticano e conduzir o Angelus no domingo, 18",
-      "date": "2026-10-17T09:51:22+00:00",
+      "id": "cfcbf7537ade",
+      "title": "Agregador Inteligov/EXAME: Dorinha tem 52,53% e Vicentinho, 47,47%, no 2º turno em Tocantins",
+      "link": "https://exame.com/brasil/agregador-inteligov-exame-dorinha-tem-5253-e-vicentinho-4747-no-2o-turno-em-tocantins/",
+      "summary": "De acordo com o medidor de tendência do agregador, Dorinha e Vicentinho medem tendências espelhadas: a senadora tende a uma alta de 0,20 pp, enquanto o adversário tende a uma queda exatamente oposta",
+      "date": "2026-10-18T09:14:24+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/05/Leo-PP.-XIV-Foto-oficial-A4-1-e1746880278202-2048x1260-2.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/TO-Professora-Dorinha-Uniao-Brasil-Vicentinho-Junior-PSDB.jpg"
     },
     {
-      "id": "62058d148329",
-      "title": "Flávio prevê ato na Paulista; apoiadores de Lula mantêm mobilização nas ruas",
-      "link": "https://exame.com/brasil/flavio-preve-ato-na-paulista-apoiadores-de-lula-mantem-mobilizacao-nas-ruas/",
-      "summary": "Campanhas entram na reta final antes do segundo turno de 25 de outubro, com debate da Band marcado para domingo às 20h",
-      "date": "2026-10-17T09:39:31+00:00",
+      "id": "a88fbea8ecbe",
+      "title": "Esta IA reduz em 70% o tempo para criar documentos jurídicos — e virou aposta milionária",
+      "link": "https://exame.com/negocios/esta-ia-reduz-em-70-o-tempo-para-criar-documentos-juridicos-e-virou-aposta-milionaria/",
+      "summary": "A doc9 adquiriu empresas de logística jurídica, reincorporou a fintech JusCash e prepara plataforma de inteligência artificial para automatizar processos de escritórios de advocacia",
+      "date": "2026-10-18T09:01:46+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/lula-e-flavio-2.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/0I1A0812.JPG.jpeg"
+    },
+    {
+      "id": "b6875414cf8c",
+      "title": "You can soon own stock in the Knicks",
+      "link": "https://www.morningbrew.com/stories/you-can-soon-own-stock-in-the-knicks?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "The 2026 NBA champions retained their starting lineup and will let you do the trading instead.",
+      "date": "2026-10-18T08:03:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-10-16/image-b7d05ef7e2304987429a0ad8ee3d5658fda15588-2124x1416-jpg/GettyImages-2278967267.jpg"
+    },
+    {
+      "id": "f36d6e13e208",
+      "title": "Basketball is reaching new heights",
+      "link": "https://www.morningbrew.com/stories/basketball-is-reaching-new-heights?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "New territory is being explored, new teams are being added, and new leagues are being created.",
+      "date": "2026-10-18T08:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-10-16/image-20508f7a68e723374c949d0c029bc805ee6d3360-5000x3334-jpg/GettyImages-2292340643.jpg"
+    },
+    {
+      "id": "b3e6b6784dda",
+      "title": "The Nobel winner behind WNBA’s historic pay raise",
+      "link": "https://www.morningbrew.com/stories/the-nobel-winner-behind-wnbas-historic-pay-raise?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Nobel prize-winning economist Claudia Goldin used her expertise in gender pay disparities to advise the WNBA union on salary negotiations last year.",
+      "date": "2026-10-18T07:21:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-10-16/image-bcd16513c6417bf01e80623ef922edb06680d2c5-4432x2960-jpg/GettyImages-1838268093.jpg"
+    },
+    {
+      "id": "5ceedaf254ff",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "date": "2026-10-17T21:31:32+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024"
+    },
+    {
+      "id": "0014861720a6",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "date": "2026-10-17T20:55:52+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800"
+    },
+    {
+      "id": "60835c3fd931",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "date": "2026-10-17T20:21:19+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+    },
+    {
+      "id": "f8a39f6d2f97",
+      "title": "TikTok bans Musk documentary account",
+      "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday af...",
+      "date": "2026-10-17T19:32:23+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "ebfe2fd74d62",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "date": "2026-10-17T18:48:08+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
+    },
+    {
+      "id": "6be5b25cb025",
+      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+      "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+      "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging e...",
+      "date": "2026-10-17T17:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "599faab6a37e",
+      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "link": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+      "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the...",
+      "date": "2026-10-17T16:39:44+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0364b9d2197f",
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "date": "2026-10-17T15:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200"
+    },
+    {
+      "id": "d22acf65deb4",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web page...",
+      "date": "2026-10-17T15:04:36+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "f3186807a6aa",
+      "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+      "link": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+      "summary": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the...",
+      "date": "2026-10-17T15:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "29fcf5d5ecb7",
+      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+      "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+      "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that, th...",
+      "date": "2026-10-17T14:30:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Jad-WideEyedPortrait-14-Full.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "d340d3315c34",
@@ -211,39 +365,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024"
     },
     {
-      "id": "3237da951d1f",
-      "title": "All the news about the iPhone Duo",
-      "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras,...",
-      "date": "2026-10-16T23:36:26+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "7fcfa510a0a8",
-      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, i...",
-      "date": "2026-10-16T22:51:22+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "6ab01ddc5baf",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "date": "2026-10-16T21:22:28+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
-    },
-    {
       "id": "3e2bc0d67e9e",
       "title": "Meta Withdraws $25 Million from Its Midterms Push",
       "link": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
@@ -253,28 +374,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-meta-ai-politics-1-fbwt/16biz-meta-ai-politics-1-fbwt-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "b6847136af62",
-      "title": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
-      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]",
-      "date": "2026-10-16T20:50:27+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "ee543eed59b1",
-      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their ve...",
-      "date": "2026-10-16T20:49:04+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "da79fd476dc8",
@@ -310,17 +409,6 @@
       "image": "https://static01.nyt.com/images/2026/10/16/podcasts/16hardfork-elizabeth-holmes/16hardfork-elizabeth-holmes-mediumSquareAt3X.jpg"
     },
     {
-      "id": "51361e1934d1",
-      "title": "Why Apple is finally making its own smart home devices",
-      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneide...",
-      "date": "2026-10-16T18:30:27+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "98a9923130ee",
       "title": "The best kitchen & cooking gifts in 2026",
       "link": "https://www.morningbrew.com/stories/gift-guide-kitchen-cooking?utm_source=&utm_medium=syndication&utm_campaign=feed",
@@ -341,250 +429,316 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612"
-    },
-    {
-      "id": "124b1bcf55ea",
-      "title": "2026.42: Home At Last",
-      "link": "https://stratechery.com/2026/home-at-last/",
-      "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
-      "date": "2026-10-16T17:42:42+00:00",
-      "source": "Stratechery",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-07.56.34.jpeg?resize=1600%2C900&#038;ssl=1"
-    },
-    {
-      "id": "c9f7a4cc0a37",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who b...",
-      "date": "2026-10-16T16:30:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800"
-    },
-    {
-      "id": "0bfc0593509f",
-      "title": "Waymo’s robotaxis are headed to Canada",
-      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-      "date": "2026-10-16T16:06:38+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675"
-    },
-    {
-      "id": "85fa8f49f1a5",
-      "title": "The new Apple TV 4K just got its first (very small) discount",
-      "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-      "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first t...",
-      "date": "2026-10-16T16:02:22+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VergeDealsAppleTV4K.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "e79ce50395dd",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "date": "2026-10-16T16:01:37+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675"
-    },
-    {
-      "id": "79e636117f05",
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-      "date": "2026-10-16T16:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800"
-    },
-    {
-      "id": "0c92addfb43b",
-      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-      "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-      "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
-      "date": "2026-10-16T16:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900"
-    },
-    {
-      "id": "6d6943c139ea",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "date": "2026-10-16T15:33:49+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800"
     }
   ],
   "all_articles": [
     {
-      "id": "451589cca31f",
-      "title": "Websites are closing their doors to AI agents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet wo...",
-      "date": "2026-10-17T13:00:00+00:00",
+      "id": "529c85f94e63",
+      "title": "Trump says Google kisses his ass",
+      "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much...",
+      "date": "2026-10-18T13:25:01+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "ced23da839eb",
-      "title": "Bose’s new wired earbuds are simple in the best way",
-      "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
-      "summary": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence can be tied to t...",
-      "date": "2026-10-17T13:00:00+00:00",
+      "id": "02cb6a93229b",
+      "title": "The best gadget I bought this year is a milk frother",
+      "link": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+      "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their […]",
+      "date": "2026-10-18T13:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "38384fe121dc",
-      "title": "Apple’s HomeView is just the latest threat to online recipe writers",
-      "link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
-      "summary": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the...",
-      "date": "2026-10-17T12:00:00+00:00",
+      "id": "703b89ea2e56",
+      "title": "How overhead projectors took over your classroom",
+      "link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+      "summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary ...",
+      "date": "2026-10-18T12:55:01+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "47661285f2f2",
-      "title": "It’s a dream week for tech docs",
-      "link": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about M...",
-      "date": "2026-10-17T12:00:00+00:00",
+      "id": "29c8b39e08cd",
+      "title": "Cities want to put the boot on robotaxis",
+      "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first st...",
+      "date": "2026-10-18T12:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-148.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "f1bdeba1f584",
-      "title": "iPhone Duo de US$ 1.999 tem entrega para janeiro após corrida na pré-venda",
-      "link": "https://exame.com/tecnologia/iphone-duo-pre-venda-entrega-janeiro-2027/",
-      "summary": "Primeiro dobrável da Apple esgota estoque de estreia nos EUA; modelo chega ao Brasil a partir de R$ 21.999",
-      "date": "2026-10-17T10:16:20+00:00",
+      "id": "827b5e49e9a2",
+      "title": "O que está acontecendo na França? Protestos terminam em saques e 1.800 prisões",
+      "link": "https://exame.com/mundo/o-que-esta-acontecendo-na-franca-protestos-terminam-em-saques-e-1-800-prisoes/",
+      "summary": "Manifestações contra o alto custo de vida terminaram em confrontos, incêndios e depredações em várias cidades; Trump associou a violência à imigração e pediu o fechamento das fronteiras.",
+      "date": "2026-10-18T10:37:13+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/iphone_duo.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/franca-destruicao.jpg"
     },
     {
-      "id": "0b6f652e6101",
-      "title": "Agregador Inteligov/EXAME: Omar Aziz tem 55,88% e Maria do Carmo, 44,12%, no 2º turno no Amazonas",
-      "link": "https://exame.com/brasil/agregador-inteligov-exame-omar-aziz-tem-5588-e-maria-do-carmo-4412-no-2o-turno-no-amazonas/",
-      "summary": "De acordo com o medidor de tendência do agregador, Aziz e Maria medem tendências espelhadas: o senador tende a uma queda de 1,02 pp, enquanto a adversária tende a uma alta exatamente oposta",
-      "date": "2026-10-17T10:10:30+00:00",
+      "id": "824df186cd16",
+      "title": "Como um jovem de 28 anos conquistou Zuckerberg e virou peça-chave de uma aposta de US$ 130 bilhões",
+      "link": "https://exame.com/inteligencia-artificial/como-um-jovem-de-28-anos-conquistou-zuckerberg-e-virou-peca-chave-de-uma-aposta-de-us-130-bilhoes/",
+      "summary": "Uma ligação e um memorando aproximaram Alexandr Wang do fundador do Facebook; agora, ele precisa transformar a aposta em produtos",
+      "date": "2026-10-18T10:01:28+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": null
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/alexandr_wang-e1792273881242.jpg"
     },
     {
-      "id": "2393265de3a8",
-      "title": "Exclusivo: OKX pede licença cripto ao Banco Central no Brasil",
-      "link": "https://exame.com/future-of-money/exclusivo-okx-pede-licenca-cripto-ao-banco-central-no-brasil/",
-      "summary": "Exchange dá a largada entre as maiores plataformas do setor, enquanto 8 outras empresas estão com processos em análise",
-      "date": "2026-10-17T10:07:47+00:00",
+      "id": "0bfd31432525",
+      "title": "O que trava um projeto de R$ 8 milhões que promete recuperar ícones do Centro de SP",
+      "link": "https://exame.com/negocios/o-que-trava-um-projeto-de-r-8-milhoes-que-promete-recuperar-icones-do-centro-de-sp/",
+      "summary": "Empreendedores querem financiar a restauração de patrimônios históricos com receitas de publicidade, mas uma disputa judicial mantém a iniciativa suspensa",
+      "date": "2026-10-18T10:01:14+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/10/appshunter-io-28hezYqE8GU-unsplash.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/Nova-imagem-1-4.jpg"
     },
     {
-      "id": "b5f2d5f5dc4a",
-      "title": "Ciclone deve levar ventos fortes ao litoral do Sul neste sábado",
-      "link": "https://exame.com/brasil/ciclone-deve-levar-ventos-fortes-ao-litoral-do-sul-neste-sabado/",
-      "summary": "Inmet prevê ventos na costa de RS e SC e frio na região, com possibilidade de geada no domingo",
-      "date": "2026-10-17T10:06:54+00:00",
+      "id": "6d751fc59eb9",
+      "title": "Bauru ou Anápolis? IA da Accor aponta cidades que podem virar destinos hoteleiros",
+      "link": "https://exame.com/mercado-imobiliario/bauru-ou-anapolis-ia-da-accor-aponta-cidades-que-podem-virar-destinos-hoteleiros/",
+      "summary": "Macapá, Anápolis e Bauru estão entre os mercados identificados pela ferramenta da rede, que analisa 1.209 municípios em busca de oportunidades",
+      "date": "2026-10-18T10:00:33+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2023/09/CicloneRioGrande.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/gran-mercure-exame-edit.png"
     },
     {
-      "id": "f8ce43c5e551",
-      "title": "Mercado vê eleição mais acirrada e debate entre Lula e Flávio como 'decisivo'",
-      "link": "https://exame.com/invest/mercados/mercado-ve-eleicao-mais-acirrada-e-debate-entre-lula-e-flavio-como-decisivo/",
-      "summary": "Pesquisas reduziram a vantagem atribuída ao candidato do PL e levaram investidores a rever parte do rali pós-primeiro turno",
-      "date": "2026-10-17T10:00:31+00:00",
+      "id": "ab21faadc743",
+      "title": "O documentário em que Elizabeth Holmes decidiu contar sua versão",
+      "link": "https://exame.com/casual/o-documentario-em-que-elizabeth-holmes-decidiu-contar-sua-versao/",
+      "summary": "Documentário codirigido pelo comediante e por Lance Oppenheim acompanha a fundadora da Theranos antes da prisão e estreia nos cinemas americanos nesta sexta-feira (16)",
+      "date": "2026-10-18T10:00:25+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/lula-e-flavio-bolsonaro.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/You-Can-See-Everything-1.jpg"
     },
     {
-      "id": "10f06df47f87",
-      "title": "O dinheiro do futuro será emitido por bancos ou por empresas de tecnologia?",
-      "link": "https://exame.com/future-of-money/o-dinheiro-do-futuro-sera-emitido-por-bancos-ou-por-empresas-de-tecnologia/",
-      "summary": "Um sistema financeiro do futuro com a coexistência entre stablecoins e depósitos tokenizados é possível",
-      "date": "2026-10-17T10:00:00+00:00",
+      "id": "dee302834dfc",
+      "title": "ETFs podem decidir quanto vale o assessor do futuro",
+      "link": "https://exame.com/future-of-money/etfs-podem-decidir-quanto-vale-o-assessor-do-futuro/",
+      "summary": "O verdadeiro debate não é quem vencerá entre fee e comissão; é por qual valor o cliente estará disposto a pagar pelo assessor do futuro.",
+      "date": "2026-10-18T10:00:12+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/Image-55.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2017/12/sd_0612.jpg"
     },
     {
-      "id": "a43da101ec9b",
-      "title": "Mega-Sena de R$ 170 milhões: apostas terminam neste sábado; veja horário",
-      "link": "https://exame.com/invest/minhas-financas/mega-sena-3071-r-170-milhoes-apostas-sabado-horario/",
-      "summary": "Concurso 3.071 será sorteado no domingo, 18, às 11h; jogo simples custa R$ 6 e pode ser registrado até as 22h de sábado",
-      "date": "2026-10-17T09:56:55+00:00",
+      "id": "3b13443eff70",
+      "title": "Como assistir ao Victoria’s Secret Fashion Show 2026 ao vivo neste domingo?",
+      "link": "https://exame.com/pop/como-assistir-ao-victorias-secret-fashion-show-2026-ao-vivo-neste-domingo/",
+      "summary": "Desfile será realizado em Los Angeles, nos Estados Unidos, com apresentações musicais de Megan Thee Stallion, Tate McRae, Megan Moroney e Katseye",
+      "date": "2026-10-18T09:38:37+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/01/20230622_183248.jpg"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/adriana-lima-victoria-secrets.jpg"
     },
     {
-      "id": "ac32f08254d5",
-      "title": "Rússia afirma ter atacado siderúrgica da ArcelorMittal na Ucrânia",
-      "link": "https://exame.com/mundo/russia-afirma-ter-atacado-siderurgica-da-arcelormittal-na-ucrania/",
-      "summary": "Relato militar não teve confirmação independente; empresa havia anunciado paralisação da unidade em setembro",
-      "date": "2026-10-17T09:53:45+00:00",
+      "id": "f40ed17bdfc3",
+      "title": "Novo mapa do cérebro revela 539 regiões químicas antes desconhecidas",
+      "link": "https://exame.com/ciencia/novo-mapa-do-cerebro-revela-539-regioes-quimicas-antes-desconhecidas/",
+      "summary": "Pesquisadores mapearam a distribuição de lipídios em camundongos e encontraram padrões que não apareciam em análises anteriores",
+      "date": "2026-10-18T09:24:30+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2024/12/Vista-aerea-Unidade-Vega-ArcelorMittal-1-1.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/lipizones-in-mouse-brain.jpg"
     },
     {
-      "id": "937e9c09878e",
-      "title": "Papa Leão XIV tem alta prevista para este sábado, informa Vaticano",
-      "link": "https://exame.com/mundo/papa-leao-xiv-tem-alta-prevista-para-este-sabado-informa-vaticano/",
-      "summary": "Após cirurgia no pulmão direito, pontífice deverá voltar ao Vaticano e conduzir o Angelus no domingo, 18",
-      "date": "2026-10-17T09:51:22+00:00",
+      "id": "cfcbf7537ade",
+      "title": "Agregador Inteligov/EXAME: Dorinha tem 52,53% e Vicentinho, 47,47%, no 2º turno em Tocantins",
+      "link": "https://exame.com/brasil/agregador-inteligov-exame-dorinha-tem-5253-e-vicentinho-4747-no-2o-turno-em-tocantins/",
+      "summary": "De acordo com o medidor de tendência do agregador, Dorinha e Vicentinho medem tendências espelhadas: a senadora tende a uma alta de 0,20 pp, enquanto o adversário tende a uma queda exatamente oposta",
+      "date": "2026-10-18T09:14:24+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2025/05/Leo-PP.-XIV-Foto-oficial-A4-1-e1746880278202-2048x1260-2.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/TO-Professora-Dorinha-Uniao-Brasil-Vicentinho-Junior-PSDB.jpg"
     },
     {
-      "id": "62058d148329",
-      "title": "Flávio prevê ato na Paulista; apoiadores de Lula mantêm mobilização nas ruas",
-      "link": "https://exame.com/brasil/flavio-preve-ato-na-paulista-apoiadores-de-lula-mantem-mobilizacao-nas-ruas/",
-      "summary": "Campanhas entram na reta final antes do segundo turno de 25 de outubro, com debate da Band marcado para domingo às 20h",
-      "date": "2026-10-17T09:39:31+00:00",
+      "id": "a88fbea8ecbe",
+      "title": "Esta IA reduz em 70% o tempo para criar documentos jurídicos — e virou aposta milionária",
+      "link": "https://exame.com/negocios/esta-ia-reduz-em-70-o-tempo-para-criar-documentos-juridicos-e-virou-aposta-milionaria/",
+      "summary": "A doc9 adquiriu empresas de logística jurídica, reincorporou a fintech JusCash e prepara plataforma de inteligência artificial para automatizar processos de escritórios de advocacia",
+      "date": "2026-10-18T09:01:46+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/07/lula-e-flavio-2.png"
+      "image": "https://classic.exame.com/wp-content/uploads/2026/10/0I1A0812.JPG.jpeg"
+    },
+    {
+      "id": "b6875414cf8c",
+      "title": "You can soon own stock in the Knicks",
+      "link": "https://www.morningbrew.com/stories/you-can-soon-own-stock-in-the-knicks?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "The 2026 NBA champions retained their starting lineup and will let you do the trading instead.",
+      "date": "2026-10-18T08:03:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-10-16/image-b7d05ef7e2304987429a0ad8ee3d5658fda15588-2124x1416-jpg/GettyImages-2278967267.jpg"
+    },
+    {
+      "id": "f36d6e13e208",
+      "title": "Basketball is reaching new heights",
+      "link": "https://www.morningbrew.com/stories/basketball-is-reaching-new-heights?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "New territory is being explored, new teams are being added, and new leagues are being created.",
+      "date": "2026-10-18T08:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-10-16/image-20508f7a68e723374c949d0c029bc805ee6d3360-5000x3334-jpg/GettyImages-2292340643.jpg"
+    },
+    {
+      "id": "b3e6b6784dda",
+      "title": "The Nobel winner behind WNBA’s historic pay raise",
+      "link": "https://www.morningbrew.com/stories/the-nobel-winner-behind-wnbas-historic-pay-raise?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "Nobel prize-winning economist Claudia Goldin used her expertise in gender pay disparities to advise the WNBA union on salary negotiations last year.",
+      "date": "2026-10-18T07:21:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-10-16/image-bcd16513c6417bf01e80623ef922edb06680d2c5-4432x2960-jpg/GettyImages-1838268093.jpg"
+    },
+    {
+      "id": "5ceedaf254ff",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "date": "2026-10-17T21:31:32+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024"
+    },
+    {
+      "id": "0014861720a6",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "date": "2026-10-17T20:55:52+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800"
+    },
+    {
+      "id": "60835c3fd931",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "date": "2026-10-17T20:21:19+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+    },
+    {
+      "id": "f8a39f6d2f97",
+      "title": "TikTok bans Musk documentary account",
+      "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday af...",
+      "date": "2026-10-17T19:32:23+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "ebfe2fd74d62",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "date": "2026-10-17T18:48:08+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
+    },
+    {
+      "id": "6be5b25cb025",
+      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+      "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+      "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging e...",
+      "date": "2026-10-17T17:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "599faab6a37e",
+      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "link": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+      "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the...",
+      "date": "2026-10-17T16:39:44+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "0364b9d2197f",
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "date": "2026-10-17T15:30:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200"
+    },
+    {
+      "id": "d22acf65deb4",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web page...",
+      "date": "2026-10-17T15:04:36+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "f3186807a6aa",
+      "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+      "link": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+      "summary": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the...",
+      "date": "2026-10-17T15:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "29fcf5d5ecb7",
+      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+      "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+      "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that, th...",
+      "date": "2026-10-17T14:30:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Jad-WideEyedPortrait-14-Full.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "d340d3315c34",
@@ -609,39 +763,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024"
     },
     {
-      "id": "3237da951d1f",
-      "title": "All the news about the iPhone Duo",
-      "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras,...",
-      "date": "2026-10-16T23:36:26+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "7fcfa510a0a8",
-      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, i...",
-      "date": "2026-10-16T22:51:22+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "6ab01ddc5baf",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "date": "2026-10-16T21:22:28+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
-    },
-    {
       "id": "3e2bc0d67e9e",
       "title": "Meta Withdraws $25 Million from Its Midterms Push",
       "link": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
@@ -651,28 +772,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-meta-ai-politics-1-fbwt/16biz-meta-ai-politics-1-fbwt-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "b6847136af62",
-      "title": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
-      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]",
-      "date": "2026-10-16T20:50:27+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "ee543eed59b1",
-      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their ve...",
-      "date": "2026-10-16T20:49:04+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "da79fd476dc8",
@@ -706,17 +805,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/10/16/podcasts/16hardfork-elizabeth-holmes/16hardfork-elizabeth-holmes-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "51361e1934d1",
-      "title": "Why Apple is finally making its own smart home devices",
-      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneide...",
-      "date": "2026-10-16T18:30:27+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "id": "98a9923130ee",
@@ -772,61 +860,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675"
-    },
-    {
-      "id": "85fa8f49f1a5",
-      "title": "The new Apple TV 4K just got its first (very small) discount",
-      "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-      "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first t...",
-      "date": "2026-10-16T16:02:22+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VergeDealsAppleTV4K.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "e79ce50395dd",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "date": "2026-10-16T16:01:37+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675"
-    },
-    {
-      "id": "79e636117f05",
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-      "date": "2026-10-16T16:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800"
-    },
-    {
-      "id": "0c92addfb43b",
-      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-      "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-      "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
-      "date": "2026-10-16T16:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900"
-    },
-    {
-      "id": "6d6943c139ea",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "date": "2026-10-16T15:33:49+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800"
     },
     {
       "id": "1c6a51bd199e",
@@ -950,28 +983,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-10-14/image-0881c5bc85e613c70e09d680513d568a99a6e486-8256x5504-jpg/GettyImages-2206039023.jpg"
     },
     {
-      "id": "552bcd6b4828",
-      "title": "Inflation worsens as midterms and Fed meeting near",
-      "link": "https://www.morningbrew.com/stories/inflation-worsens-as-midterms-and-fed-meeting-near?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Gas prices ballooned 9.1% between August and September",
-      "date": "2026-10-15T04:02:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-10-14/image-abd153138fc574018a929f243ebb54e31da99801-3000x2000-png/MBD_20261014_GASUP_NI_021.png"
-    },
-    {
-      "id": "b2aa954fe63f",
-      "title": "Netflix commences largest layoffs in years",
-      "link": "https://www.morningbrew.com/stories/netflix-commences-largest-layoffs-in-years?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Engagement and revenue growth are both slowing as TikTok, Instagram, and YouTube steal users’ attention.",
-      "date": "2026-10-15T04:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2025-12-05/image-29d477282326e1cbd35a6e6d002ed1656fa89f31-1500x1000-jpg/MBD_Editorial_CHRISDELMAS_GettyImages_AMK_041725.jpg"
-    },
-    {
       "id": "7195146652e1",
       "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
       "link": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
@@ -1047,17 +1058,6 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
-    },
-    {
-      "id": "62b928710057",
-      "title": "CA vintners are desperate to sell unwanted wine",
-      "link": "https://www.morningbrew.com/stories/ca-vintners-are-desperate-to-sell-unwanted-wine?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Retail chains are selling premium wines at a discount amid falling demand.",
-      "date": "2026-10-14T05:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-10-13/image-9bad18f746e2a574e769be6e28e3bdc28749ee3a-1500x1000-jpg/MBD_10132026_WineCrisis_01.jpg"
     },
     {
       "id": "ee0eb60031f2",
