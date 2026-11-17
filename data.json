@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-16T19:57:48.161131+00:00",
-  "total_articles": 90,
+  "generated_at": "2026-11-17T18:54:43.430256+00:00",
+  "total_articles": 130,
   "categories": [
     {
       "id": "tech-ia",
       "name": "Tech & IA",
       "icon": "⚡",
       "color": "accent",
-      "count": 40
+      "count": 50
     },
     {
       "id": "marketing",
       "name": "Marketing",
       "icon": "📣",
       "color": "blue",
-      "count": 20
+      "count": 50
     },
     {
       "id": "negocios",
@@ -33,712 +33,899 @@
   ],
   "featured": [
     {
-      "id": "fecff5c2373d",
-      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-      "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "date": "2026-11-16T19:53:00+00:00",
+      "id": "919f0be8c407",
+      "title": "Google to keep Gemini chats for two months, up from 72 hours, even with history off",
+      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "date": "2026-11-17T18:48:23+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
     },
     {
-      "id": "bd153f729314",
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Pri...",
-      "date": "2026-11-16T19:50:47+00:00",
+      "id": "bf587b6a7e24",
+      "title": "Meta is testing a new standalone messaging app called Direct",
+      "link": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
+      "summary": "Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other features. Meta says your Instagram chats will sync across both apps if you login with the s...",
+      "date": "2026-11-17T18:33:02+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-instagram-direct-app-screenshots.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "309a47796aa0",
-      "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
-      "link": "https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027",
-      "summary": "Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system. The new features will put the German automaker in competition with Tesla, which is currently leading the auto indu...",
-      "date": "2026-11-16T19:49:12+00:00",
+      "id": "f36c310b2eff",
+      "title": "Amflow’s new urban e-bike series is deliciously overpowered for flat city streets",
+      "link": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
+      "summary": "DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengineered energy to pavement with the UE Series, its first urban commuter line. The series consists of t...",
+      "date": "2026-11-17T18:30:03+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/26-c0354-015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UE-Pro-Beauty-Shots_UE-pro_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "c1bfc979f862",
-      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-      "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-      "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-      "date": "2026-11-16T19:26:55+00:00",
+      "id": "689a9b0c5ef7",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "date": "2026-11-17T18:10:00+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/attachment-1.jpeg?resize=1200,730"
     },
     {
-      "id": "26a83eb6f18c",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more ad...",
-      "date": "2026-11-16T19:24:40+00:00",
+      "id": "4b61aa31cca6",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "date": "2026-11-17T18:04:16+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pedestal-Cofounders-Photo-November-2026.jpg?resize=1200,800"
+    },
+    {
+      "id": "13a4374b124a",
+      "title": "YouTube found a new way to inflate view counts",
+      "link": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+      "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across long-form videos, Shorts, and live content to provide a more \"complete picture\" of how...",
+      "date": "2026-11-17T17:50:22+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "6157d9c008eb",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whet...",
-      "date": "2026-11-16T19:23:45+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ],
   "articles": [
     {
-      "id": "1cb2b2b5ed81",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "date": "2026-11-16T19:12:02+00:00",
+      "id": "5895e4453f51",
+      "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+      "link": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+      "summary": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo quicker and more comfortable to use than relying on Touch ID every time. That'...",
+      "date": "2026-11-17T17:41:22+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-face-unlock-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "bd59f26efbf9",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "date": "2026-11-17T17:32:25+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": null
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600"
     },
     {
-      "id": "d4b1202c7db9",
-      "title": "California Sues OpenAI Over A.I. Safety Issues",
-      "link": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
-      "summary": "The state attorney general filed a lawsuit accusing the company of failing to put appropriate safeguards on its artificial intelligence and putting the public at risk.",
-      "date": "2026-11-16T18:57:25+00:00",
+      "id": "0542a4741d4a",
+      "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
+      "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+      "summary": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
+      "date": "2026-11-17T17:25:36+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-openai-lawsuit-hfo-fzkh/16biz-openai-lawsuit-hfo-fzkh-mediumSquareAt3X.jpg"
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-jensen-statement-vhjm/17biz-jensen-statement-vhjm-mediumSquareAt3X.jpg"
     },
     {
-      "id": "df8eb866cfe7",
-      "title": "Island is a new screen-time app that turns staying off your phone into a game",
-      "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-      "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
-      "date": "2026-11-16T18:54:18+00:00",
+      "id": "3fe179188d47",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "date": "2026-11-17T17:20:41+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/island-graphic.png?resize=1200,586"
+      "image": null
     },
     {
-      "id": "8023051a3b0d",
-      "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-      "link": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
-      "summary": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by MacRumors. Currently, the only way to unlock the iPhone Duo is by using Touch ID or entering a p...",
-      "date": "2026-11-16T18:44:16+00:00",
+      "id": "761e2d1f1ce6",
+      "title": "Inside Microsoft’s giant Outlook outage",
+      "link": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+      "summary": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started to unfold, leaving employees, businesses, and many governments without access ...",
+      "date": "2026-11-17T17:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "8712fba57a5b",
-      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-      "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, a...",
-      "date": "2026-11-16T18:43:35+00:00",
+      "id": "73cb5a578336",
+      "title": "Caitlin Clark Breaks Retail Records.",
+      "link": "https://artofthebrand.substack.com/p/caitlin-clark-breaks-retail-records",
+      "summary": "The case study on what happens when retailers stop renting brands and start building worlds.",
+      "date": "2026-11-17T16:58:16+00:00",
+      "source": "Art of the Brand",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!c5Qz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d7dd074-760f-418f-a19d-cbb806850796_1280x720.jpeg"
+    },
+    {
+      "id": "ee261e10f1d7",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "date": "2026-11-17T16:44:15+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "56e22d517a54",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "date": "2026-11-17T16:32:55+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "38e22d6524be",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing ...",
+      "date": "2026-11-17T16:19:03+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "a74323bf26e4",
-      "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
-      "link": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
-      "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliv...",
-      "date": "2026-11-16T18:29:55+00:00",
+      "id": "854d1d76a315",
+      "title": "Banning phones really does help kids learn, researchers say",
+      "link": "https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement",
+      "summary": "A new nationwide study found that in-school cellphone bans can lead to modest improvements in learning. Now, researchers want to understand whether kids' phone use outside the classroom might contribute to the rest of students' learning loss - using the conditions of Meta's multibillion-dollar se...",
+      "date": "2026-11-17T16:13:18+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A_332561.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "731df3cf7557",
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-      "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
-      "date": "2026-11-16T18:21:14+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "21cf258fdce3",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "date": "2026-11-16T18:11:10+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "91e743eaf677",
-      "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-      "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
-      "summary": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.",
-      "date": "2026-11-16T17:59:59+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-remote-access-01-bfgz/16dc-remote-access-01-bfgz-mediumSquareAt3X.jpg"
-    },
-    {
-      "id": "db3fcc1ab992",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "date": "2026-11-16T17:36:43+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "2206a4c1c925",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "date": "2026-11-16T17:10:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "cace252c212d",
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "date": "2026-11-16T17:02:43+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
-    },
-    {
-      "id": "0a58bb160954",
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
-      "date": "2026-11-16T17:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "6eff939017aa",
-      "title": "Empresas investem R$ 1.199 por funcionário em treinamento. Só 1% dos projetos mede o retorno",
-      "link": "https://exame.com/blog-saint-paul/empresas-investem-r-1-199-por-funcionario-em-treinamento-so-1-dos-projetos-mede-o-retorno/",
-      "summary": "Pesquisa da ABTD mostra que 89% das empresas têm orçamento para capacitação, mas a satisfação ainda é a principal régua",
-      "date": "2026-11-16T16:54:02+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "85e425200bc9",
-      "title": "Trump diz que 'não se importaria' com volta de Jensen Huang ao comando da Nvidia",
-      "link": "https://exame.com/mundo/trump-diz-que-nao-se-importaria-com-volta-de-jensen-huang-ao-comando-da-nvidia/",
-      "summary": "No cargo desde 1993, Huang se demitiu após uma polêmica sobre suas relações extraconjugais, em particular com Alice Huang, uma empresária chinesa suspeita de ser espiã de Pequim",
-      "date": "2026-11-16T16:51:43+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "3141f599f4f0",
-      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
-      "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of those in the coming days, but this post is focused on the great hardware discounts ...",
-      "date": "2026-11-16T16:48:01+00:00",
+      "id": "6ecc2c724ea6",
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business ...",
+      "date": "2026-11-17T16:09:57+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24374429/236487_Sony_DualSense_Edge_AKrales_0032.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "6d673de85b6d",
-      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-      "link": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
-      "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back- a lot of people are asking Jensen, t...",
-      "date": "2026-11-16T16:39:36+00:00",
+      "id": "b10c46a22ef1",
+      "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
+      "link": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
+      "summary": "After first announcing its Flipper One last May, which the company describes as an \"open Linux multi-tool built for high-performance computing and IP networking,\" Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device for $399 with shipping expected to ...",
+      "date": "2026-11-17T16:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/flipperone1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "ec84555788b4",
-      "title": "Economista prevê bitcoin em US$ 16,5 mil e fim da Strategy até o fim do ano",
-      "link": "https://exame.com/future-of-money/economista-preve-bitcoin-em-us-165-mil-e-fim-da-strategy-ate-o-fim-do-ano/",
-      "summary": "Famoso detrator da criptomoeda acredita que a queda de 25% desde a máxima de outubro não é o fundo para o BTC",
-      "date": "2026-11-16T16:37:04+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "8738f2fbea20",
-      "title": "Pesquisa aponta que entender finanças corporativas pode ampliar sua influência e acelerar carreira",
-      "link": "https://exame.com/carreira/pesquisa-aponta-que-entender-financas-corporativas-pode-ampliar-sua-influencia-e-acelerar-carreira/",
-      "summary": "Pesquisa da Harvard Business Impact mostra que quase 90% dos entrevistados consideram o domínio financeiro importante para avançar na carreira, especialmente em posições de liderança",
-      "date": "2026-11-16T16:35:13+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "5ac765aad771",
-      "title": "Ministro do Planejamento deve discutir ajuste fiscal com bancada do PT em meio a divergências",
-      "link": "https://exame.com/brasil/ministro-do-planejamento-deve-discutir-ajuste-fiscal-com-bancada-do-pt-em-meio-a-divergencias/",
-      "summary": "Apesar de ser uma das prioridades do governo, o pacote enfrenta resistência entre integrantes da própria base aliada",
-      "date": "2026-11-16T16:26:54+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "9c49fd7fe0ab",
-      "title": "Enfraquecido, Trump deve ser testado por Xi e Putin na China, diz pesquisador",
-      "link": "https://exame.com/mundo/enfraquecido-trump-deve-ser-testado-por-xi-e-putin-na-china-diz-pesquisador/",
-      "summary": "Primeira reunião presencial entre os três líderes em Shenzhen não é uma \"nova Yalta\", mas escanteia a Europa e impõe desafios de sobrevivência diplomática ao Brasil, avalia o professor Marcus Vinicius de Freitas",
-      "date": "2026-11-16T16:25:46+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "4c19c26ce622",
-      "title": "Mercado financeiro tradicional destrona cripto e assume protagonismo na Fórmula 1",
-      "link": "https://exame.com/future-of-money/mercado-financeiro-tradicional-destrona-cripto-e-assume-protagonismo-na-formula-1/",
-      "summary": "Bancos lideram avanço de empresas financeiras no grid de 2026 e superam plataformas de criptomoedas em número de patrocinadores",
-      "date": "2026-11-16T16:20:02+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "36d58d1c4cd8",
-      "title": "The best gifts for pet lovers in 2026",
-      "link": "https://www.morningbrew.com/stories/gift-guide-pets?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Gifts for both pets and their owners that will make everyone happy.",
-      "date": "2026-11-16T16:02:24+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-11-13/image-1ce634970069eb1c821e6270d96fb77db65d81ec-1500x1000-png/2026GG_PetLovers-Hero.png"
-    },
-    {
-      "id": "8450def37d1d",
-      "title": "IA no setor público: como dados ajudam a fiscalizar obras e melhorar serviços de infraestrutura",
-      "link": "https://exame.com/brasil/infraestrutura/ia-no-setor-publico-como-dados-ajudam-a-fiscalizar-obras-e-melhorar-servicos-de-infraestrutura/",
-      "summary": "Satélites, sensores e sistemas de análise de documentos já são usados para acompanhar concessões, auditar orçamentos de obras e localizar vazamentos de água",
-      "date": "2026-11-16T16:02:10+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "99c53b47e7a8",
-      "title": "Jogar fora e recomeçar — ou aprender a se reinventar continuamente?",
-      "link": "https://exame.com/lideres-extraordinarios/jogar-fora-e-recomecar-ou-aprender-a-se-reinventar-continuamente/",
-      "summary": "A nova vantagem competitiva não está em planejar melhor, mas em se reinventar continuamente",
-      "date": "2026-11-16T16:00:19+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "3e2069c4f2c3",
-      "title": "The Verge’s guide to the best gifts under $100",
-      "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers, […]",
-      "date": "2026-11-16T16:00:14+00:00",
+      "id": "6a342f2cc242",
+      "title": "Scoop up three great 4K Blu-ray movies for $33",
+      "link": "https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale",
+      "summary": "Gruv always keeps its proverbial fire hose of deals on movies running with a steady stream throughout the year, but the online seller operated by Universal Pictures is really letting it rip now ahead of Black Friday. The site has a page filled with 4K Blu-rays eligible for a “three for $33” promo...",
+      "date": "2026-11-17T16:00:00+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/rev-1-GRC-14350_High_Res_JPEG.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "7a9ba3bf535f",
-      "title": "Aos 54 anos, ele pediu demissão sem ter outro emprego. Em um mês, tinha três ofertas",
-      "link": "https://exame.com/carreira/aos-54-anos-ele-pediu-demissao-sem-ter-outro-emprego-em-um-mes-tinha-tres-ofertas/",
-      "summary": "Executivo americano trocou o histórico pela pergunta que o recrutador faz: como você resolve o meu problema agora?",
-      "date": "2026-11-16T15:48:09+00:00",
+      "id": "849ec01ca479",
+      "title": "Plano Nacional de Logística: quais desafios definirão o transporte brasileiro até 2050?",
+      "link": "https://exame.com/brasil/infraestrutura/plano-nacional-de-logistica-quais-desafios-definirao-o-transporte-brasileiro-ate-2050/",
+      "summary": "Estratégia do governo federal estabelece diretrizes para integrar rodovias, ferrovias, portos e aeroportos até 2050; execução estará em debate no Fórum Infraestrutura 2026",
+      "date": "2026-11-17T15:45:47+00:00",
       "source": "Exame",
       "category_id": "negocios",
       "category_name": "Negócios",
       "image": null
     },
     {
-      "id": "b1b409897d96",
-      "title": "Claude AI for marketing: How teams use it with HubSpot",
-      "link": "https://blog.hubspot.com/marketing/claude-for-marketing",
-      "summary": "I’ve been experimenting with Claude AI for marketing workflows over the past year, and it’s now my go-to assistant. In this field, AI use is close to universal: 98% of marketing teams use it in some way, according to HubSpot’s State of AI in Marketing report. For campaign marketers, that might lo...",
-      "date": "2026-11-16T13:55:04+00:00",
+      "id": "b73f6154e92f",
+      "title": "Entenda o que é 'bomba suja', arma citada em relatos sobre suposto plano do Irã contra os EUA",
+      "link": "https://exame.com/mundo/entenda-o-que-e-bomba-suja-arma-citada-em-relatos-sobre-suposto-plano-do-ira-contra-os-eua/",
+      "summary": "Principal efeito não é a força da explosão, mas a dispersão do material e a exposição à radiação",
+      "date": "2026-11-17T15:34:36+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "f17903fb6a5b",
+      "title": "Perplexity na análise de mercado: 5 formas de usar a IA para orientar decisões estratégicas",
+      "link": "https://exame.com/carreira/perplexity-na-analise-de-mercado-5-formas-de-usar-a-ia-para-orientar-decisoes-estrategicas/",
+      "summary": "Com buscas aprofundadas e respostas acompanhadas de referências, o Perplexity pode ajudar gestores e analistas a organizar informações para decisões estratégicas",
+      "date": "2026-11-17T15:34:06+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "af505689c92c",
+      "title": "Exclusivo: Maratona do Rio vira 'Gold Label' e mira atletas da elite com prêmio de R$ 2 milhões",
+      "link": "https://exame.com/esporte/exclusivo-maratona-do-rio-vira-gold-label-e-mira-atletas-da-elite-com-premio-de-r-2-milhoes/",
+      "summary": "A força da Maratona do Rio também pode ser explicada por uma estratégia dos organizadores: realizar provas para diferentes públicos no Rio de Janeiro",
+      "date": "2026-11-17T15:28:33+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "b0b4aa1f5716",
+      "title": "Administração e inteligência artificial: as habilidades que o mercado vai cobrar em 2030",
+      "link": "https://exame.com/blog-saint-paul/administracao-e-inteligencia-artificial-as-habilidades-que-o-mercado-vai-cobrar-em-2030/",
+      "summary": "IA e big data crescem mais rápido, mas liderança e influência social tiveram a maior alta desde 2023",
+      "date": "2026-11-17T15:24:32+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "244674f2cd90",
+      "title": "Como o Digio inclui segurança psicológica e gestão de conflitos na formação de gerentes",
+      "link": "https://exame.com/carreira/como-o-digio-inclui-seguranca-psicologica-e-gestao-de-conflitos-na-formacao-de-gerentes/",
+      "summary": "Digio leva gerentes à Saint Paul In Company para estudar segurança psicológica e conflitos",
+      "date": "2026-11-17T15:12:56+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "fc5b475f825e",
+      "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+      "link": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+      "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
+      "date": "2026-11-17T15:07:06+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "8014322a692d",
+      "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
+      "link": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+      "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
+      "date": "2026-11-17T15:01:46+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "8fc0b5a30223",
+      "title": "Como deliverys e transporte impactam a rotatividade no varejo de supermercados",
+      "link": "https://exame.com/bussola/como-deliverys-e-transporte-impactam-a-rotatividade-no-varejo-de-supermercados/",
+      "summary": "Dados do Caged mostram avanço do turnover no Brasil em 2026; reposição de funcionários pode custar até oito salários mensais",
+      "date": "2026-11-17T15:00:14+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "6b4ee53fc5a9",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+      "date": "2026-11-17T15:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "c69fb1f5618d",
+      "title": "Apagão derruba rede ultrassecreta de segurança nacional dos EUA",
+      "link": "https://exame.com/mundo/apagao-derruba-rede-ultrassecreta-de-seguranca-nacional-dos-eua/",
+      "summary": "Falha de sistema na principal agência de inteligência americana não tem indícios de ataque hacker; incidente acende alerta após panes na aviação e na Microsoft",
+      "date": "2026-11-17T14:59:14+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/11/National_Security_Agency_headquarters_Fort_Meade_Maryland.jpg"
+    },
+    {
+      "id": "3a9ec5821c1c",
+      "title": "Zucchetti lança IA que automatiza tarefas de pequenos e médios lojistas por comandos de voz",
+      "link": "https://exame.com/negocios/zucchetti-lanca-ia-que-automatiza-tarefas-de-pequenos-e-medios-lojistas-por-comandos-de-voz/",
+      "summary": "Lançada durante a Convenção Nacional Zucchetti 2026, ferramenta reúne 23 agentes de inteligência artificial e busca ampliar o acesso de pequenos comerciantes a recursos de automação e gestão",
+      "date": "2026-11-17T14:57:23+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "a569fdc18fc4",
+      "title": "Quem é Haymitch? Relembre história do personagem antes do novo 'Jogos Vorazes'",
+      "link": "https://exame.com/pop/quem-e-haymitch-relembre-historia-do-personagem-antes-do-novo-jogos-vorazes/",
+      "summary": "Personagem vivido por Woody Harrelson na saga original ganha uma história de origem em \"Amanhecer na Colheita\", com Joseph Zada no papel principal",
+      "date": "2026-11-17T14:49:39+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "0a1c815efecf",
+      "title": "Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.",
+      "link": "https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is",
+      "summary": "Hundreds of companies have been hit. Shit is getting very real.",
+      "date": "2026-11-17T14:21:39+00:00",
+      "source": "Gary Marcus",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://substackcdn.com/image/fetch/$s_!c77-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24f78575-fc16-4f41-9e7a-db44a736978e_1394x1809.png"
+    },
+    {
+      "id": "ed78873e06ee",
+      "title": "How to track your brand's visibility in AI search [2026]",
+      "link": "https://blog.hubspot.com/marketing/brand-visibility-ai-search",
+      "summary": "Marketers need to know how to track brand visibility in AI search because search has changed. AI-generated answers now show up earlier in the discovery journey, often before a traditional search result. In 2025, nearly a third of Gen Z consumers (31%) defaulted to chatbots or AI to find informati...",
+      "date": "2026-11-17T13:50:04+00:00",
       "source": "HubSpot Blog",
       "category_id": "marketing",
       "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/64493837-f4dd-43b0-abee-3ef154e06092.png"
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
     },
     {
-      "id": "fdfef7d90aeb",
-      "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
-      "link": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
-      "summary": "They will soon be free to all Apple TV users and will appear on more than one billion devices that have the app, including Rokus and smart TVs.",
-      "date": "2026-11-16T13:24:37+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/11/16/business/16BIZ-APPLE-PODCASTS-2/16BIZ-APPLE-PODCASTS-2-mediumSquareAt3X.png"
-    },
-    {
-      "id": "b678a59b1945",
-      "title": "Obituaries",
-      "link": "https://stratechery.com/2026/obituaries/",
-      "summary": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
-      "date": "2026-11-16T11:02:49+00:00",
+      "id": "61512b09f8dc",
+      "title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
+      "link": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/",
+      "summary": "Apple doesn't ruin the Mac, but they don't fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.",
+      "date": "2026-11-17T11:00:00+00:00",
       "source": "Stratechery",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/10/Stripe-wordmark-Blurple-Small.png?resize=330%2C138&#038;ssl=1"
+      "image": null
+    },
+    {
+      "id": "d43bd723032d",
+      "title": "A More Precise Clock Is on Its Way",
+      "link": "https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html",
+      "summary": "The optical atomic clock, which scientists say would be off by about a second over 14 billion years, is soon expected to become a primary reference.",
+      "date": "2026-11-17T10:00:32+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18sp-watches-atomic-inyt-02-hfvq/18sp-watches-atomic-inyt-02-hfvq-mediumSquareAt3X.jpg"
     }
   ],
   "all_articles": [
     {
-      "id": "fecff5c2373d",
-      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-      "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "date": "2026-11-16T19:53:00+00:00",
+      "id": "919f0be8c407",
+      "title": "Google to keep Gemini chats for two months, up from 72 hours, even with history off",
+      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "date": "2026-11-17T18:48:23+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
     },
     {
-      "id": "bd153f729314",
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Pri...",
-      "date": "2026-11-16T19:50:47+00:00",
+      "id": "bf587b6a7e24",
+      "title": "Meta is testing a new standalone messaging app called Direct",
+      "link": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
+      "summary": "Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other features. Meta says your Instagram chats will sync across both apps if you login with the s...",
+      "date": "2026-11-17T18:33:02+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-instagram-direct-app-screenshots.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "309a47796aa0",
-      "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
-      "link": "https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027",
-      "summary": "Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system. The new features will put the German automaker in competition with Tesla, which is currently leading the auto indu...",
-      "date": "2026-11-16T19:49:12+00:00",
+      "id": "f36c310b2eff",
+      "title": "Amflow’s new urban e-bike series is deliciously overpowered for flat city streets",
+      "link": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
+      "summary": "DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengineered energy to pavement with the UE Series, its first urban commuter line. The series consists of t...",
+      "date": "2026-11-17T18:30:03+00:00",
       "source": "The Verge",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/26-c0354-015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UE-Pro-Beauty-Shots_UE-pro_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "c1bfc979f862",
-      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-      "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-      "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-      "date": "2026-11-16T19:26:55+00:00",
+      "id": "689a9b0c5ef7",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "date": "2026-11-17T18:10:00+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/attachment-1.jpeg?resize=1200,730"
     },
     {
-      "id": "26a83eb6f18c",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more ad...",
-      "date": "2026-11-16T19:24:40+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "6157d9c008eb",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whet...",
-      "date": "2026-11-16T19:23:45+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "1cb2b2b5ed81",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "date": "2026-11-16T19:12:02+00:00",
+      "id": "4b61aa31cca6",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "date": "2026-11-17T18:04:16+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": null
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pedestal-Cofounders-Photo-November-2026.jpg?resize=1200,800"
     },
     {
-      "id": "d4b1202c7db9",
-      "title": "California Sues OpenAI Over A.I. Safety Issues",
-      "link": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
-      "summary": "The state attorney general filed a lawsuit accusing the company of failing to put appropriate safeguards on its artificial intelligence and putting the public at risk.",
-      "date": "2026-11-16T18:57:25+00:00",
+      "id": "13a4374b124a",
+      "title": "YouTube found a new way to inflate view counts",
+      "link": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+      "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across long-form videos, Shorts, and live content to provide a more \"complete picture\" of how...",
+      "date": "2026-11-17T17:50:22+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "5895e4453f51",
+      "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+      "link": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+      "summary": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo quicker and more comfortable to use than relying on Touch ID every time. That'...",
+      "date": "2026-11-17T17:41:22+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-face-unlock-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "bd59f26efbf9",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "date": "2026-11-17T17:32:25+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600"
+    },
+    {
+      "id": "0542a4741d4a",
+      "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
+      "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+      "summary": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
+      "date": "2026-11-17T17:25:36+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-openai-lawsuit-hfo-fzkh/16biz-openai-lawsuit-hfo-fzkh-mediumSquareAt3X.jpg"
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-jensen-statement-vhjm/17biz-jensen-statement-vhjm-mediumSquareAt3X.jpg"
     },
     {
-      "id": "df8eb866cfe7",
-      "title": "Island is a new screen-time app that turns staying off your phone into a game",
-      "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-      "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
-      "date": "2026-11-16T18:54:18+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/island-graphic.png?resize=1200,586"
-    },
-    {
-      "id": "8023051a3b0d",
-      "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-      "link": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
-      "summary": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by MacRumors. Currently, the only way to unlock the iPhone Duo is by using Touch ID or entering a p...",
-      "date": "2026-11-16T18:44:16+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "8712fba57a5b",
-      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-      "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, a...",
-      "date": "2026-11-16T18:43:35+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "a74323bf26e4",
-      "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
-      "link": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
-      "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliv...",
-      "date": "2026-11-16T18:29:55+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A_332561.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "731df3cf7557",
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-      "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
-      "date": "2026-11-16T18:21:14+00:00",
+      "id": "3fe179188d47",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "date": "2026-11-17T17:20:41+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
     },
     {
-      "id": "21cf258fdce3",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "date": "2026-11-16T18:11:10+00:00",
+      "id": "761e2d1f1ce6",
+      "title": "Inside Microsoft’s giant Outlook outage",
+      "link": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+      "summary": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started to unfold, leaving employees, businesses, and many governments without access ...",
+      "date": "2026-11-17T17:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "73cb5a578336",
+      "title": "Caitlin Clark Breaks Retail Records.",
+      "link": "https://artofthebrand.substack.com/p/caitlin-clark-breaks-retail-records",
+      "summary": "The case study on what happens when retailers stop renting brands and start building worlds.",
+      "date": "2026-11-17T16:58:16+00:00",
+      "source": "Art of the Brand",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!c5Qz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d7dd074-760f-418f-a19d-cbb806850796_1280x720.jpeg"
+    },
+    {
+      "id": "ee261e10f1d7",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "date": "2026-11-17T16:44:15+00:00",
       "source": "TechCrunch",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
+    },
+    {
+      "id": "56e22d517a54",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "date": "2026-11-17T16:32:55+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "38e22d6524be",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing ...",
+      "date": "2026-11-17T16:19:03+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "854d1d76a315",
+      "title": "Banning phones really does help kids learn, researchers say",
+      "link": "https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement",
+      "summary": "A new nationwide study found that in-school cellphone bans can lead to modest improvements in learning. Now, researchers want to understand whether kids' phone use outside the classroom might contribute to the rest of students' learning loss - using the conditions of Meta's multibillion-dollar se...",
+      "date": "2026-11-17T16:13:18+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "6ecc2c724ea6",
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business ...",
+      "date": "2026-11-17T16:09:57+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "b10c46a22ef1",
+      "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
+      "link": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
+      "summary": "After first announcing its Flipper One last May, which the company describes as an \"open Linux multi-tool built for high-performance computing and IP networking,\" Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device for $399 with shipping expected to ...",
+      "date": "2026-11-17T16:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/flipperone1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "6a342f2cc242",
+      "title": "Scoop up three great 4K Blu-ray movies for $33",
+      "link": "https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale",
+      "summary": "Gruv always keeps its proverbial fire hose of deals on movies running with a steady stream throughout the year, but the online seller operated by Universal Pictures is really letting it rip now ahead of Black Friday. The site has a page filled with 4K Blu-rays eligible for a “three for $33” promo...",
+      "date": "2026-11-17T16:00:00+00:00",
+      "source": "The Verge",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/rev-1-GRC-14350_High_Res_JPEG.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "849ec01ca479",
+      "title": "Plano Nacional de Logística: quais desafios definirão o transporte brasileiro até 2050?",
+      "link": "https://exame.com/brasil/infraestrutura/plano-nacional-de-logistica-quais-desafios-definirao-o-transporte-brasileiro-ate-2050/",
+      "summary": "Estratégia do governo federal estabelece diretrizes para integrar rodovias, ferrovias, portos e aeroportos até 2050; execução estará em debate no Fórum Infraestrutura 2026",
+      "date": "2026-11-17T15:45:47+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "b73f6154e92f",
+      "title": "Entenda o que é 'bomba suja', arma citada em relatos sobre suposto plano do Irã contra os EUA",
+      "link": "https://exame.com/mundo/entenda-o-que-e-bomba-suja-arma-citada-em-relatos-sobre-suposto-plano-do-ira-contra-os-eua/",
+      "summary": "Principal efeito não é a força da explosão, mas a dispersão do material e a exposição à radiação",
+      "date": "2026-11-17T15:34:36+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "f17903fb6a5b",
+      "title": "Perplexity na análise de mercado: 5 formas de usar a IA para orientar decisões estratégicas",
+      "link": "https://exame.com/carreira/perplexity-na-analise-de-mercado-5-formas-de-usar-a-ia-para-orientar-decisoes-estrategicas/",
+      "summary": "Com buscas aprofundadas e respostas acompanhadas de referências, o Perplexity pode ajudar gestores e analistas a organizar informações para decisões estratégicas",
+      "date": "2026-11-17T15:34:06+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "af505689c92c",
+      "title": "Exclusivo: Maratona do Rio vira 'Gold Label' e mira atletas da elite com prêmio de R$ 2 milhões",
+      "link": "https://exame.com/esporte/exclusivo-maratona-do-rio-vira-gold-label-e-mira-atletas-da-elite-com-premio-de-r-2-milhoes/",
+      "summary": "A força da Maratona do Rio também pode ser explicada por uma estratégia dos organizadores: realizar provas para diferentes públicos no Rio de Janeiro",
+      "date": "2026-11-17T15:28:33+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "b0b4aa1f5716",
+      "title": "Administração e inteligência artificial: as habilidades que o mercado vai cobrar em 2030",
+      "link": "https://exame.com/blog-saint-paul/administracao-e-inteligencia-artificial-as-habilidades-que-o-mercado-vai-cobrar-em-2030/",
+      "summary": "IA e big data crescem mais rápido, mas liderança e influência social tiveram a maior alta desde 2023",
+      "date": "2026-11-17T15:24:32+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "244674f2cd90",
+      "title": "Como o Digio inclui segurança psicológica e gestão de conflitos na formação de gerentes",
+      "link": "https://exame.com/carreira/como-o-digio-inclui-seguranca-psicologica-e-gestao-de-conflitos-na-formacao-de-gerentes/",
+      "summary": "Digio leva gerentes à Saint Paul In Company para estudar segurança psicológica e conflitos",
+      "date": "2026-11-17T15:12:56+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "fc5b475f825e",
+      "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+      "link": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+      "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
+      "date": "2026-11-17T15:07:06+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "8014322a692d",
+      "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
+      "link": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+      "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
+      "date": "2026-11-17T15:01:46+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "8fc0b5a30223",
+      "title": "Como deliverys e transporte impactam a rotatividade no varejo de supermercados",
+      "link": "https://exame.com/bussola/como-deliverys-e-transporte-impactam-a-rotatividade-no-varejo-de-supermercados/",
+      "summary": "Dados do Caged mostram avanço do turnover no Brasil em 2026; reposição de funcionários pode custar até oito salários mensais",
+      "date": "2026-11-17T15:00:14+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "6b4ee53fc5a9",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+      "date": "2026-11-17T15:00:00+00:00",
+      "source": "TechCrunch",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "c69fb1f5618d",
+      "title": "Apagão derruba rede ultrassecreta de segurança nacional dos EUA",
+      "link": "https://exame.com/mundo/apagao-derruba-rede-ultrassecreta-de-seguranca-nacional-dos-eua/",
+      "summary": "Falha de sistema na principal agência de inteligência americana não tem indícios de ataque hacker; incidente acende alerta após panes na aviação e na Microsoft",
+      "date": "2026-11-17T14:59:14+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/11/National_Security_Agency_headquarters_Fort_Meade_Maryland.jpg"
+    },
+    {
+      "id": "3a9ec5821c1c",
+      "title": "Zucchetti lança IA que automatiza tarefas de pequenos e médios lojistas por comandos de voz",
+      "link": "https://exame.com/negocios/zucchetti-lanca-ia-que-automatiza-tarefas-de-pequenos-e-medios-lojistas-por-comandos-de-voz/",
+      "summary": "Lançada durante a Convenção Nacional Zucchetti 2026, ferramenta reúne 23 agentes de inteligência artificial e busca ampliar o acesso de pequenos comerciantes a recursos de automação e gestão",
+      "date": "2026-11-17T14:57:23+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "a569fdc18fc4",
+      "title": "Quem é Haymitch? Relembre história do personagem antes do novo 'Jogos Vorazes'",
+      "link": "https://exame.com/pop/quem-e-haymitch-relembre-historia-do-personagem-antes-do-novo-jogos-vorazes/",
+      "summary": "Personagem vivido por Woody Harrelson na saga original ganha uma história de origem em \"Amanhecer na Colheita\", com Joseph Zada no papel principal",
+      "date": "2026-11-17T14:49:39+00:00",
+      "source": "Exame",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": null
+    },
+    {
+      "id": "0a1c815efecf",
+      "title": "Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.",
+      "link": "https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is",
+      "summary": "Hundreds of companies have been hit. Shit is getting very real.",
+      "date": "2026-11-17T14:21:39+00:00",
+      "source": "Gary Marcus",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://substackcdn.com/image/fetch/$s_!c77-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24f78575-fc16-4f41-9e7a-db44a736978e_1394x1809.png"
+    },
+    {
+      "id": "ed78873e06ee",
+      "title": "How to track your brand's visibility in AI search [2026]",
+      "link": "https://blog.hubspot.com/marketing/brand-visibility-ai-search",
+      "summary": "Marketers need to know how to track brand visibility in AI search because search has changed. AI-generated answers now show up earlier in the discovery journey, often before a traditional search result. In 2025, nearly a third of Gen Z consumers (31%) defaulted to chatbots or AI to find informati...",
+      "date": "2026-11-17T13:50:04+00:00",
+      "source": "HubSpot Blog",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+    },
+    {
+      "id": "61512b09f8dc",
+      "title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
+      "link": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/",
+      "summary": "Apple doesn't ruin the Mac, but they don't fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.",
+      "date": "2026-11-17T11:00:00+00:00",
+      "source": "Stratechery",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": null
+    },
+    {
+      "id": "d43bd723032d",
+      "title": "A More Precise Clock Is on Its Way",
+      "link": "https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html",
+      "summary": "The optical atomic clock, which scientists say would be off by about a second over 14 billion years, is soon expected to become a primary reference.",
+      "date": "2026-11-17T10:00:32+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18sp-watches-atomic-inyt-02-hfvq/18sp-watches-atomic-inyt-02-hfvq-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "b3ec4b422e02",
+      "title": "US reacts to Nvidia scandal by curbing chip exports",
+      "link": "https://www.morningbrew.com/stories/us-reacts-to-nvidia-scandal-by-curbing-chip-exports?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "The US is cracking down on Chinese companies accessing foreign data centers remotely.",
+      "date": "2026-11-17T06:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-11-16/image-092bd437ad049af0842ec375691e28c90ba6e106-3240x2160-jpg/GettyImages-2304363215.jpg"
+    },
+    {
+      "id": "7a1419475123",
+      "title": "Amazon MGM has a new 007: Robert Pattinson",
+      "link": "https://www.morningbrew.com/stories/amazon-mgm-has-a-new-007-robert-pattinson?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "After years of speculation, the next Bond is a bonafide superstar",
+      "date": "2026-11-17T05:03:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-11-16/image-b7cf262f9551857785ff05983b8bdf24d83390b8-1500x1000-jpg/MBD-RobertPattinsonBond-1126.jpg"
+    },
+    {
+      "id": "a27f53d115d5",
+      "title": "International students are ditching US colleges",
+      "link": "https://www.morningbrew.com/stories/international-students-are-ditching-us-colleges?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "summary": "International students tend to pay full tuition, which makes their matriculation a key revenue source for colleges and universities.",
+      "date": "2026-11-17T05:01:00+00:00",
+      "source": "Morning Brew",
+      "category_id": "negocios",
+      "category_name": "Negócios",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-11-16/image-497e7444f1f2f85c715716d4f89f5a08a14f3e16-3932x2622-jpg/GettyImages-2296764590.jpg"
+    },
+    {
+      "id": "b7338e8abc9f",
+      "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+      "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+      "summary": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
+      "date": "2026-11-17T02:15:57+00:00",
+      "source": "NYT Artificial Intelligence",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-mediumSquareAt3X-v3.jpg"
     },
     {
       "id": "91e743eaf677",
       "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
       "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
       "summary": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.",
-      "date": "2026-11-16T17:59:59+00:00",
+      "date": "2026-11-16T21:07:23+00:00",
       "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-remote-access-01-bfgz/16dc-remote-access-01-bfgz-mediumSquareAt3X.jpg"
     },
     {
-      "id": "db3fcc1ab992",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "date": "2026-11-16T17:36:43+00:00",
-      "source": "TechCrunch",
+      "id": "d4b1202c7db9",
+      "title": "California Sues OpenAI Over A.I. Safety Issues",
+      "link": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
+      "summary": "The state attorney general filed a lawsuit accusing the company of failing to put appropriate safeguards on its artificial intelligence and putting the public at risk.",
+      "date": "2026-11-16T19:55:37+00:00",
+      "source": "NYT Artificial Intelligence",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": null
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-openai-lawsuit-hfo-fzkh/16biz-openai-lawsuit-hfo-fzkh-mediumSquareAt3X.jpg"
     },
     {
-      "id": "2206a4c1c925",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "date": "2026-11-16T17:10:00+00:00",
-      "source": "TechCrunch",
+      "id": "fb6ed343bfb1",
+      "title": "Is there a case for impeaching Trump over Jensengate?",
+      "link": "https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump",
+      "summary": "We need to know more, but there’s definitely enough smoke now to warrant an investigation",
+      "date": "2026-11-16T19:34:40+00:00",
+      "source": "Gary Marcus",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": null
+      "image": "https://substackcdn.com/image/fetch/$s_!e5RV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHXPuoqhWgAEfYOD.jpg"
     },
     {
-      "id": "cace252c212d",
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "date": "2026-11-16T17:02:43+00:00",
-      "source": "TechCrunch",
+      "id": "b8b6bbeb73b1",
+      "title": "Why Cardi B Is Avoiding Sephora.",
+      "link": "https://artofthebrand.substack.com/p/why-cardi-b-is-avoiding-sephora",
+      "summary": "The case study on why your channel decides your price.",
+      "date": "2026-11-16T17:49:40+00:00",
+      "source": "Art of the Brand",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!Eh85!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F974789f7-a45a-4073-a9f2-1645107ce6a2_1280x720.jpeg"
+    },
+    {
+      "id": "c773224e0d7f",
+      "title": "Game over, man?",
+      "link": "https://garymarcus.substack.com/p/game-over-man",
+      "summary": "Looks like the bubble has finally popped",
+      "date": "2026-11-16T16:29:36+00:00",
+      "source": "Gary Marcus",
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
-    },
-    {
-      "id": "0a58bb160954",
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
-      "date": "2026-11-16T17:00:00+00:00",
-      "source": "TechCrunch",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": null
-    },
-    {
-      "id": "6eff939017aa",
-      "title": "Empresas investem R$ 1.199 por funcionário em treinamento. Só 1% dos projetos mede o retorno",
-      "link": "https://exame.com/blog-saint-paul/empresas-investem-r-1-199-por-funcionario-em-treinamento-so-1-dos-projetos-mede-o-retorno/",
-      "summary": "Pesquisa da ABTD mostra que 89% das empresas têm orçamento para capacitação, mas a satisfação ainda é a principal régua",
-      "date": "2026-11-16T16:54:02+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "85e425200bc9",
-      "title": "Trump diz que 'não se importaria' com volta de Jensen Huang ao comando da Nvidia",
-      "link": "https://exame.com/mundo/trump-diz-que-nao-se-importaria-com-volta-de-jensen-huang-ao-comando-da-nvidia/",
-      "summary": "No cargo desde 1993, Huang se demitiu após uma polêmica sobre suas relações extraconjugais, em particular com Alice Huang, uma empresária chinesa suspeita de ser espiã de Pequim",
-      "date": "2026-11-16T16:51:43+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "3141f599f4f0",
-      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
-      "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of those in the coming days, but this post is focused on the great hardware discounts ...",
-      "date": "2026-11-16T16:48:01+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24374429/236487_Sony_DualSense_Edge_AKrales_0032.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "6d673de85b6d",
-      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-      "link": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
-      "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back- a lot of people are asking Jensen, t...",
-      "date": "2026-11-16T16:39:36+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "ec84555788b4",
-      "title": "Economista prevê bitcoin em US$ 16,5 mil e fim da Strategy até o fim do ano",
-      "link": "https://exame.com/future-of-money/economista-preve-bitcoin-em-us-165-mil-e-fim-da-strategy-ate-o-fim-do-ano/",
-      "summary": "Famoso detrator da criptomoeda acredita que a queda de 25% desde a máxima de outubro não é o fundo para o BTC",
-      "date": "2026-11-16T16:37:04+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "8738f2fbea20",
-      "title": "Pesquisa aponta que entender finanças corporativas pode ampliar sua influência e acelerar carreira",
-      "link": "https://exame.com/carreira/pesquisa-aponta-que-entender-financas-corporativas-pode-ampliar-sua-influencia-e-acelerar-carreira/",
-      "summary": "Pesquisa da Harvard Business Impact mostra que quase 90% dos entrevistados consideram o domínio financeiro importante para avançar na carreira, especialmente em posições de liderança",
-      "date": "2026-11-16T16:35:13+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "5ac765aad771",
-      "title": "Ministro do Planejamento deve discutir ajuste fiscal com bancada do PT em meio a divergências",
-      "link": "https://exame.com/brasil/ministro-do-planejamento-deve-discutir-ajuste-fiscal-com-bancada-do-pt-em-meio-a-divergencias/",
-      "summary": "Apesar de ser uma das prioridades do governo, o pacote enfrenta resistência entre integrantes da própria base aliada",
-      "date": "2026-11-16T16:26:54+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "9c49fd7fe0ab",
-      "title": "Enfraquecido, Trump deve ser testado por Xi e Putin na China, diz pesquisador",
-      "link": "https://exame.com/mundo/enfraquecido-trump-deve-ser-testado-por-xi-e-putin-na-china-diz-pesquisador/",
-      "summary": "Primeira reunião presencial entre os três líderes em Shenzhen não é uma \"nova Yalta\", mas escanteia a Europa e impõe desafios de sobrevivência diplomática ao Brasil, avalia o professor Marcus Vinicius de Freitas",
-      "date": "2026-11-16T16:25:46+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "4c19c26ce622",
-      "title": "Mercado financeiro tradicional destrona cripto e assume protagonismo na Fórmula 1",
-      "link": "https://exame.com/future-of-money/mercado-financeiro-tradicional-destrona-cripto-e-assume-protagonismo-na-formula-1/",
-      "summary": "Bancos lideram avanço de empresas financeiras no grid de 2026 e superam plataformas de criptomoedas em número de patrocinadores",
-      "date": "2026-11-16T16:20:02+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
+      "image": "https://substackcdn.com/image/fetch/$s_!XMyH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69774c20-1e39-468a-82ae-773bfcde35e1_2393x948.jpeg"
     },
     {
       "id": "36d58d1c4cd8",
@@ -752,50 +939,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-11-13/image-1ce634970069eb1c821e6270d96fb77db65d81ec-1500x1000-png/2026GG_PetLovers-Hero.png"
     },
     {
-      "id": "8450def37d1d",
-      "title": "IA no setor público: como dados ajudam a fiscalizar obras e melhorar serviços de infraestrutura",
-      "link": "https://exame.com/brasil/infraestrutura/ia-no-setor-publico-como-dados-ajudam-a-fiscalizar-obras-e-melhorar-servicos-de-infraestrutura/",
-      "summary": "Satélites, sensores e sistemas de análise de documentos já são usados para acompanhar concessões, auditar orçamentos de obras e localizar vazamentos de água",
-      "date": "2026-11-16T16:02:10+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "99c53b47e7a8",
-      "title": "Jogar fora e recomeçar — ou aprender a se reinventar continuamente?",
-      "link": "https://exame.com/lideres-extraordinarios/jogar-fora-e-recomecar-ou-aprender-a-se-reinventar-continuamente/",
-      "summary": "A nova vantagem competitiva não está em planejar melhor, mas em se reinventar continuamente",
-      "date": "2026-11-16T16:00:19+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
-      "id": "3e2069c4f2c3",
-      "title": "The Verge’s guide to the best gifts under $100",
-      "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers, […]",
-      "date": "2026-11-16T16:00:14+00:00",
-      "source": "The Verge",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "7a9ba3bf535f",
-      "title": "Aos 54 anos, ele pediu demissão sem ter outro emprego. Em um mês, tinha três ofertas",
-      "link": "https://exame.com/carreira/aos-54-anos-ele-pediu-demissao-sem-ter-outro-emprego-em-um-mes-tinha-tres-ofertas/",
-      "summary": "Executivo americano trocou o histórico pela pergunta que o recrutador faz: como você resolve o meu problema agora?",
-      "date": "2026-11-16T15:48:09+00:00",
-      "source": "Exame",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": null
-    },
-    {
       "id": "b1b409897d96",
       "title": "Claude AI for marketing: How teams use it with HubSpot",
       "link": "https://blog.hubspot.com/marketing/claude-for-marketing",
@@ -805,17 +948,6 @@
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://no-cache.hubspot.com/cta/default/53/64493837-f4dd-43b0-abee-3ef154e06092.png"
-    },
-    {
-      "id": "fdfef7d90aeb",
-      "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
-      "link": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
-      "summary": "They will soon be free to all Apple TV users and will appear on more than one billion devices that have the app, including Rokus and smart TVs.",
-      "date": "2026-11-16T13:24:37+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/11/16/business/16BIZ-APPLE-PODCASTS-2/16BIZ-APPLE-PODCASTS-2-mediumSquareAt3X.png"
     },
     {
       "id": "b678a59b1945",
@@ -862,17 +994,6 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-11-16/image-e48a8db5ecb54ab37f0b53aeaeada8cbb9e21972-6000x4000-jpg/US-SPACE-SPACEX"
     },
     {
-      "id": "3ff66c7a3658",
-      "title": "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves",
-      "link": "https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html",
-      "summary": "The archive, which is home to tales inspired by the likes of “Harry Potter” and “Heated Rivalry,” was taken down more than two weeks ago, leaving its fans bereft.",
-      "date": "2026-11-15T22:55:42+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-fan-fiction-tmqh/15xp-fan-fiction-tmqh-mediumSquareAt3X.jpg"
-    },
-    {
       "id": "dd5efeb7f877",
       "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
       "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
@@ -882,6 +1003,28 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": "https://static01.nyt.com/images/2026/11/15/multimedia/14bizsun-huang-valley-03-lpmz/14bizsun-huang-valley-03-lpmz-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "7d0609832453",
+      "title": "The Marketing Campaigns, Insights and Industry News This Week",
+      "link": "https://becauseofmarketing.substack.com/p/the-marketing-campaigns-insights-f77",
+      "summary": "Quince tap David Schwimmer’s iconic red sweater, Tods Groups Creative Director exits, and 818 Tequila bears the naked truth",
+      "date": "2026-11-15T18:03:10+00:00",
+      "source": "Because of Marketing",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!CEPx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ec7c26f-570e-44a0-8f5a-c6ef274075e1_1600x899.heic"
+    },
+    {
+      "id": "c0756d4e2b9e",
+      "title": "Brand Waves This Week",
+      "link": "https://thebrandwaves.substack.com/p/brand-waves-this-week-98d",
+      "summary": "poppi dresses Rob Rausch as Santa Claus, Johnnie Walker tells Sabrina Carpenter’s Keep Walking story and Maybelline rewrites its “Maybe” with Miley Cyrus.",
+      "date": "2026-11-15T17:06:18+00:00",
+      "source": "The Brand Waves",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!COvf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17d17768-4657-483a-ad60-5cdc4119da8b_2115x1350.png"
     },
     {
       "id": "932acf81bd94",
@@ -928,17 +1071,6 @@
       "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14biz-jensen-support-Huang-vpjh/14biz-jensen-support-Huang-vpjh-mediumSquareAt3X.jpg"
     },
     {
-      "id": "c94556539845",
-      "title": "Microsoft’s Global Outage and Fixes: What We Know",
-      "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-      "summary": "Disruptions to the company’s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.",
-      "date": "2026-11-14T13:15:55+00:00",
-      "source": "NYT Artificial Intelligence",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg"
-    },
-    {
       "id": "25ec48dae100",
       "title": "For 4 hours, all US flights ground to a halt",
       "link": "https://www.morningbrew.com/stories/for-4-hours-all-us-flights-ground-to-a-halt?utm_source=&utm_medium=syndication&utm_campaign=feed",
@@ -961,6 +1093,28 @@
       "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-11-13/image-2ecc853549a6e3f5ce8e2a10cc3eb1734b9d94dc-3000x2000-png/MBD_20261113_MSOUTAGE_03.png"
     },
     {
+      "id": "db63cd326ece",
+      "title": "What could possibly go wrong? Nationwide FAA Ground Stop edition",
+      "link": "https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide",
+      "summary": "A sign of things to come?",
+      "date": "2026-11-14T00:20:10+00:00",
+      "source": "Gary Marcus",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://substackcdn.com/image/fetch/$s_!5lOZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2121355005919936512.jpg"
+    },
+    {
+      "id": "6cf5abb81ab4",
+      "title": "American Eagle’s Most Criticized Campaign Brought In 790,000 New Customers.",
+      "link": "https://artofthebrand.substack.com/p/american-eagles-most-criticized-campaign",
+      "summary": "The case study on what a campaign can fix, and what it cannot.",
+      "date": "2026-11-13T22:18:15+00:00",
+      "source": "Art of the Brand",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!nA1O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb033f3bb-d076-47b8-b75e-956bc6e8fc72_1280x720.jpeg"
+    },
+    {
       "id": "650851047cae",
       "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
       "link": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
@@ -972,15 +1126,15 @@
       "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg"
     },
     {
-      "id": "d0616200f98e",
-      "title": "The best gifts for tech lovers in 2026",
-      "link": "https://www.morningbrew.com/stories/gift-guide-tech?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "What to give the tinkerers and tech-obsessed.",
-      "date": "2026-11-13T20:39:19+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-11-13/image-d4e5723f05ace35b5c3f4a0185eaedb6539f9645-1500x1000-jpg/2026GG_Techies_Hero.jpg"
+      "id": "165de9e2fd43",
+      "title": "The great Generative AI unraveling",
+      "link": "https://garymarcus.substack.com/p/the-great-generative-ai-unraveling",
+      "summary": "Things are starting to fall apart",
+      "date": "2026-11-13T18:26:49+00:00",
+      "source": "Gary Marcus",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://substackcdn.com/image/fetch/$s_!dOYc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHXA68M7bAAAd7Tx.png"
     },
     {
       "id": "04e68da5c7be",
@@ -1005,28 +1159,6 @@
       "image": "https://no-cache.hubspot.com/cta/default/53/b0f73a5e-16e4-41fd-9511-8564efc560a7.png"
     },
     {
-      "id": "4e3a07554b28",
-      "title": "Burberry sales jumped, bucking luxury industry trend",
-      "link": "https://www.morningbrew.com/stories/burberry-sales-jumped-bucking-luxury-industry?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "The UK fashion brand reported better-than-expected sales last quarter.",
-      "date": "2026-11-13T06:14:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-11-12/image-60b8bcc6561ef7949ed08ee997773dc3ce5ede82-8246x5497-jpg/GettyImages-2273732901.jpg"
-    },
-    {
-      "id": "553b532a7f4f",
-      "title": "Nvidia has a big leather jacket to fill: Jensen’s out",
-      "link": "https://www.morningbrew.com/stories/nvidia-has-a-big-leather-jacket-to-fill-jensens-out?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "summary": "Jensen Huang's scandal-prompted departure means the AI world is losing its most influential cheerleader.",
-      "date": "2026-11-13T06:01:00+00:00",
-      "source": "Morning Brew",
-      "category_id": "negocios",
-      "category_name": "Negócios",
-      "image": "https://morningbrew.com/cdn-cgi/image/width=1600,height=900,quality=80,format=jpeg/https://storage.morningbrew.com/image/2026-11-12/image-413abca5ec6f4dceceb735c160936bc0d8aef071-4058x2705-jpg/MBD-Jensenity-1126.jpg"
-    },
-    {
       "id": "cecd8b632885",
       "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
       "link": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
@@ -1036,6 +1168,28 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
+    },
+    {
+      "id": "884fd23b7964",
+      "title": "Jensen Huang resigns.",
+      "link": "https://garymarcus.substack.com/p/jensen-huang-resigns",
+      "summary": "The future of Nvidia and the AI industry is uncertain",
+      "date": "2026-11-12T14:44:04+00:00",
+      "source": "Gary Marcus",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://substackcdn.com/image/fetch/$s_!2JKF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7909dec9-c165-4380-b6d8-df018e6099f2_2377x1231.png"
+    },
+    {
+      "id": "1ed9ed7ad28c",
+      "title": "Breaking: Eli Lilly CEO becomes latest to push back on Dario Amodei’s ludicrous, Elizabeth Holmes-like medical claims",
+      "link": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+      "summary": "Where is Nathan Fielder when you need him?",
+      "date": "2026-11-12T12:25:55+00:00",
+      "source": "Gary Marcus",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://substackcdn.com/image/fetch/$s_!Diua!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2120233136420270080.jpg"
     },
     {
       "id": "561111e507ef",
@@ -1049,6 +1203,17 @@
       "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/10/Stripe-wordmark-Blurple-Small.png?resize=330%2C138&#038;ssl=1"
     },
     {
+      "id": "df570b4e620d",
+      "title": "Jensen is reportedly about to get fired",
+      "link": "https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get",
+      "summary": "Things may get really really crazy really fast",
+      "date": "2026-11-11T23:53:06+00:00",
+      "source": "Gary Marcus",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://substackcdn.com/image/fetch/$s_!y8Sa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0afd532-6993-48ce-8d61-9da57e585e7d_1291x1492.png"
+    },
+    {
       "id": "f5e792cef64f",
       "title": "Intel Earnings, AMD Earnings, Intel and AMD’s Divergence",
       "link": "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/",
@@ -1058,6 +1223,28 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
+    },
+    {
+      "id": "199111c31391",
+      "title": "The Diary Of A CEO Just Passed Joe Rogan.",
+      "link": "https://artofthebrand.substack.com/p/the-diary-of-a-ceo-just-passed-joe",
+      "summary": "Six rules your business can take from it.",
+      "date": "2026-11-10T15:58:46+00:00",
+      "source": "Art of the Brand",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!hOCb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33cfb5c2-0579-4f35-b120-ac71ecdc77d8_1280x720.jpeg"
+    },
+    {
+      "id": "077e3b27b94c",
+      "title": "Just say no to Anthropic’s IPO",
+      "link": "https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo",
+      "summary": "I am not an investment advisor, and you must make your own investment decisions, but this is why I personally would not touch their IPO.",
+      "date": "2026-11-10T14:37:21+00:00",
+      "source": "Gary Marcus",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://substackcdn.com/image/fetch/$s_!vYnC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fnews_img%2F2120131203344826368%2FeI2agzh_%3Fformat%3Djpg%26name%3Dorig"
     },
     {
       "id": "75f25595212e",
@@ -1074,7 +1261,7 @@
       "id": "fd185246e589",
       "title": "How to use AI to write a blog post (that isn’t slop)",
       "link": "https://blog.hubspot.com/marketing/how-to-use-ai-to-write-a-blog-post",
-      "summary": "Like a hammer or even a hair dryer, AI is just a tool. It needs to be wielded skillfully by an expert to achieve greatness. And in a world increasingly full of “AI slop,” this is especially true when exploring how to use AI to write a blog post.",
+      "summary": "As a seasoned marketer and lifelong writer, even I will admit AI can be a helpful tool in creating content. HubSpot’s 2026 State of Marketing backs me up, finding that 42.5% of marketing teams use AI extensively as a content creation tool, and another 38% use it occasionally — but the keyword her...",
       "date": "2026-11-10T14:20:05+00:00",
       "source": "HubSpot Blog",
       "category_id": "marketing",
@@ -1104,6 +1291,17 @@
       "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
     },
     {
+      "id": "6e5b84ef0adb",
+      "title": "Jensen is cooked",
+      "link": "https://garymarcus.substack.com/p/jensen-is-cooked",
+      "summary": "Not by the affair itself but by the receipts he left. There’s no moving past this.",
+      "date": "2026-11-09T12:47:02+00:00",
+      "source": "Gary Marcus",
+      "category_id": "tech-ia",
+      "category_name": "Tech & IA",
+      "image": "https://substackcdn.com/image/fetch/$s_!ufdD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHWqkkF9aAAAKEpb.jpg"
+    },
+    {
       "id": "d843b5db17e2",
       "title": "Jensen Huang’s Affair, The Culper Report, Huang’s Righteousness",
       "link": "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/",
@@ -1113,6 +1311,28 @@
       "category_id": "tech-ia",
       "category_name": "Tech & IA",
       "image": null
+    },
+    {
+      "id": "a8b7c684a00b",
+      "title": "The Marketing Campaigns, Insights and Industry News This Week",
+      "link": "https://becauseofmarketing.substack.com/p/the-marketing-campaigns-insights-60d",
+      "summary": "More brands released their festive campaigns, KIKO collaborated with Stabilo, KIA made a car out of clay for Nadal, and Balenciaga’s new Creative Director is announced",
+      "date": "2026-11-08T16:36:01+00:00",
+      "source": "Because of Marketing",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!ftvw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00c07b62-06c5-49f5-ac65-53083d9892e6_1280x720.heic"
+    },
+    {
+      "id": "fa71820b5151",
+      "title": "Brand Waves This Week",
+      "link": "https://thebrandwaves.substack.com/p/brand-waves-this-week-94a",
+      "summary": "Gap celebrates the power of music and human connection, Calvin Klein puts Jude Bellingham in the spotlight, and Gucci kicks off the holiday season with Mariah Carey.",
+      "date": "2026-11-08T15:35:32+00:00",
+      "source": "The Brand Waves",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!aTSL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8dcad13-f50a-4197-bd33-1b25fec294e4_3000x1726.jpeg"
     },
     {
       "id": "750c80812382",
@@ -1170,15 +1390,15 @@
       "image": "https://no-cache.hubspot.com/cta/default/53/07ca2318-c9e0-4b5d-bcba-95cec5cb4958.png"
     },
     {
-      "id": "9b08797de9c9",
-      "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
-      "link": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
-      "summary": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
-      "date": "2026-11-05T11:00:00+00:00",
-      "source": "Stratechery",
-      "category_id": "tech-ia",
-      "category_name": "Tech & IA",
-      "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/10/Stripe-wordmark-Blurple-Small.png?resize=330%2C138&#038;ssl=1"
+      "id": "53ecb0da749e",
+      "title": "The Future of Creator Trust",
+      "link": "https://becauseofmarketing.substack.com/p/the-future-of-creator-trust",
+      "summary": "What earns it, what challenges it, and how much does it influence consumer behaviour?",
+      "date": "2026-11-05T15:47:26+00:00",
+      "source": "Because of Marketing",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!jidH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c431a11-de7c-49d2-a101-cbb666623afc_1920x1080.png"
     },
     {
       "id": "03e657a59f62",
@@ -1192,15 +1412,26 @@
       "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
     },
     {
-      "id": "36fade70d0e7",
-      "title": "How do I benchmark my AI search performance against my industry?",
-      "link": "https://blog.hubspot.com/marketing/ai-search-industry-benchmarks",
-      "summary": "Measuring success is a leading challenge for answer engine optimization (AEO) that marketers report today. In HubSpot’s State of AEO 2026 report, it was the top challenge among B2B marketers at 23%; among B2C marketers, 26% cited it, behind only understanding how AEO works at 29%.",
-      "date": "2026-11-04T14:40:07+00:00",
-      "source": "HubSpot Blog",
+      "id": "13341b84d64f",
+      "title": "How Chinese Brands Are Winning Luxury.",
+      "link": "https://artofthebrand.substack.com/p/how-chinese-brands-are-winning-luxury",
+      "summary": "Patriotism buys a trial. World-building creates the demand.",
+      "date": "2026-11-03T22:30:24+00:00",
+      "source": "Art of the Brand",
       "category_id": "marketing",
       "category_name": "Marketing",
-      "image": "https://no-cache.hubspot.com/cta/default/53/07ca2318-c9e0-4b5d-bcba-95cec5cb4958.png"
+      "image": "https://substackcdn.com/image/fetch/$s_!8-IN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e5ed7b4-1a76-4143-a035-7516b47564f4_1280x720.jpeg"
+    },
+    {
+      "id": "0d2aed2f96db",
+      "title": "An Interview with Daniel Sachon, Multidisciplinary Director and Image Maker",
+      "link": "https://becauseofmarketing.substack.com/p/an-interview-with-daniel-sachon-multidisciplinar",
+      "summary": "From Sachon’s transition from photography to directing, his ethos towards creating entertaining content and how he balances creative vision with brand identity",
+      "date": "2026-11-03T18:01:58+00:00",
+      "source": "Because of Marketing",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!Oce-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F050418d3-c25e-447c-9277-5ee7e8a99315_1200x628.png"
     },
     {
       "id": "2591c18c8a01",
@@ -1214,6 +1445,17 @@
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/e2febc53-bfd6-4022-b668-ca0b547c0b1e_2912x1632.png"
     },
     {
+      "id": "e9b5ce254982",
+      "title": "Crumbl’s $2 Billion Mistake.",
+      "link": "https://artofthebrand.substack.com/p/crumbls-2-billion-mistake",
+      "summary": "How hype can build an empire, but can kill it just as fast.",
+      "date": "2026-11-02T17:42:48+00:00",
+      "source": "Art of the Brand",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!m4fU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4517fb9a-ab99-4a16-a2a2-8622ef386cfb_1280x720.jpeg"
+    },
+    {
       "id": "8135aeadc0e6",
       "title": "The supplier vault, Meta Ads 101, and the creative direction of Dior",
       "link": "https://www.hyperstudios.us/p/the-supplier-vault-meta-ads-101-and",
@@ -1225,6 +1467,39 @@
       "image": "https://substackcdn.com/image/fetch/$s_!U6AC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2550de-5513-4f6a-a2fc-2bcd4691b08d_2312x1608.jpeg"
     },
     {
+      "id": "a7c4adddde2a",
+      "title": "Brand Waves This Week",
+      "link": "https://thebrandwaves.substack.com/p/brand-waves-this-week-f47",
+      "summary": "KHY captures the allure of Los Angeles nights with Kylie Jenner, Sephora embraces Seth Rogen’s humor, and Rare Beauty reunites Selena Gomez and Demi Lovato.",
+      "date": "2026-11-01T18:28:34+00:00",
+      "source": "The Brand Waves",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!m_3A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e09cae4-1d4a-4ec6-bbe3-3ca1310f1bc0_3461x2581.jpeg"
+    },
+    {
+      "id": "4bcd91ebad88",
+      "title": "The Marketing Campaigns, Insights and Industry News This Week",
+      "link": "https://becauseofmarketing.substack.com/p/the-marketing-campaigns-insights-296",
+      "summary": "OUAI launch a limited horror series, Calvin Klein tap Jude Bellingham, and Lady Gaga assumes the role of CEO at her brand Haus Labs",
+      "date": "2026-11-01T17:00:53+00:00",
+      "source": "Because of Marketing",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!GCNt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7677094-cb3e-445e-89aa-778bd75066eb_1280x720.heic"
+    },
+    {
+      "id": "1cedaf9ae5b5",
+      "title": "The Haunting $13.5Bn History Behind Halloween",
+      "link": "https://becauseofmarketing.substack.com/p/the-haunting-135bn-history-behind",
+      "summary": "How Halloween became a marketing monster",
+      "date": "2026-10-30T13:15:08+00:00",
+      "source": "Because of Marketing",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!R-w1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c3a5aad-27b0-4d42-bde1-f4a5282d4649_1280x720.heic"
+    },
+    {
       "id": "fccae8317a83",
       "title": "Production is changing & creative directing ads for any business",
       "link": "https://www.hyperstudios.us/p/production-is-changing-and-creative",
@@ -1234,6 +1509,72 @@
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://substackcdn.com/image/fetch/$s_!Uuzo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a48dbc6-61e6-46c3-9295-482112759a24_1456x1080.heic"
+    },
+    {
+      "id": "130b6b24ecd9",
+      "title": "Instagram Just Introduced Long Form. Here's What It Means For Your Brand.",
+      "link": "https://artofthebrand.substack.com/p/instagram-just-introduced-long-form",
+      "summary": "Yesterday, Instagram made a major shift, introducing the ability to post videos up to 90 minutes long.",
+      "date": "2026-10-28T12:57:59+00:00",
+      "source": "Art of the Brand",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!K4Pj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d296281-d355-4ef9-8b09-4eb61374866e_1280x720.jpeg"
+    },
+    {
+      "id": "1c8962813b65",
+      "title": "Louis Vuitton Won In Court And Lost China.",
+      "link": "https://artofthebrand.substack.com/p/louis-vuitton-won-in-court-and-lost",
+      "summary": "Louis Vuitton sued a Chinese bubble tea chain over a flower this summer. It won the case and lost the customer.",
+      "date": "2026-10-27T13:23:58+00:00",
+      "source": "Art of the Brand",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!ElcI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff50b2b5e-d7eb-4e47-88c2-3c280cdd7ea1_1280x720.jpeg"
+    },
+    {
+      "id": "840553e180d9",
+      "title": "Brand Waves This Week",
+      "link": "https://thebrandwaves.substack.com/p/brand-waves-this-week-6db",
+      "summary": "Cymbiotika teams up with Amelia Gray to spotlight the science of beauty, Victoria’s Secret brings its icons back to the runway, and J.Crew adds a touch of humor to suiting.",
+      "date": "2026-10-25T17:26:12+00:00",
+      "source": "The Brand Waves",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!xY9y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe99ccc2-8d6b-4be7-9b2c-63a44330c40b_2115x1221.png"
+    },
+    {
+      "id": "1da89c2c5ada",
+      "title": "The Marketing Campaigns, Insights and Industry News This Week",
+      "link": "https://becauseofmarketing.substack.com/p/the-marketing-campaigns-insights-59e",
+      "summary": "Charli XCX collaborates with Absolut Vodka, Selfridges showcase their festive window, and Land Rover responds to Tesla’s flying car",
+      "date": "2026-10-25T16:18:52+00:00",
+      "source": "Because of Marketing",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!a2dr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75fc5497-aeca-4ab1-99e3-b74c146c343f_1280x720.png"
+    },
+    {
+      "id": "1619c5e00367",
+      "title": "Victoria’s Secret Gave Its $50 Million Crown to a Woman Who Sells Makeup.",
+      "link": "https://artofthebrand.substack.com/p/victorias-secret-gave-its-50-million",
+      "summary": "Kylie Jenner’s runway debut had everyone talking about her makeup, which tells you whose brand won the night.",
+      "date": "2026-10-23T19:47:04+00:00",
+      "source": "Art of the Brand",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!RLow!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F939052ad-a722-4fc3-a932-eaec342de7cb_1280x720.jpeg"
+    },
+    {
+      "id": "e3cdf73fe914",
+      "title": "Victoria’s Secret and the delicate balance between nostalgia and rebranding",
+      "link": "https://thebrandwaves.substack.com/p/victorias-secret-and-the-delicate",
+      "summary": "How a brand that lost cultural relevance is rebuilding its identity by reclaiming what once made it iconic to drive future growth.",
+      "date": "2026-10-22T19:58:43+00:00",
+      "source": "The Brand Waves",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!3Otu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F089c6a8b-0596-43d7-84b8-6fd4d5c46242_2500x1667.webp"
     },
     {
       "id": "737849bbc4b6",
@@ -1258,6 +1599,72 @@
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/0cef210d-e94e-410d-87ac-638d74556b30_1920x1080.jpeg"
     },
     {
+      "id": "094c4531edd8",
+      "title": "Brand Waves This Week",
+      "link": "https://thebrandwaves.substack.com/p/brand-waves-this-week-912",
+      "summary": "Adanola and Hailey Bieber reimagine ballet, Gymshark brings Megan Thee Stallion to the gym, and McDonald’s transforms a drink carrier into a bag.",
+      "date": "2026-10-18T19:10:18+00:00",
+      "source": "The Brand Waves",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!rJ6U!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a2650e9-612c-4504-8825-84e0e98db3a7_6410x4305.jpeg"
+    },
+    {
+      "id": "1dc418659dc3",
+      "title": "The Marketing Campaigns, Insights and Industry News This Week",
+      "link": "https://becauseofmarketing.substack.com/p/the-marketing-campaigns-insights-114",
+      "summary": "Kim Cattrell reprises her iconic role in PR, Sean McGirr exits McQueen, and Alo continues it’s global expansion in Berlin",
+      "date": "2026-10-18T16:08:59+00:00",
+      "source": "Because of Marketing",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!7AGJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F920bde17-7364-41e4-909b-f6524f3eea5f_1280x720.heic"
+    },
+    {
+      "id": "551864c41c1c",
+      "title": "Eurobest 2026",
+      "link": "https://becauseofmarketing.substack.com/p/eurobest-2026",
+      "summary": "Your last chance to compete on the biggest stage of Europe’s best creatives",
+      "date": "2026-10-14T16:28:19+00:00",
+      "source": "Because of Marketing",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!ng2C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f8a9d01-4bbe-4e8c-988b-e86e1c6ec8bd_1280x720.heic"
+    },
+    {
+      "id": "9713a6ce0be1",
+      "title": "Saie Hello To Beauty’s Favourite Brand",
+      "link": "https://becauseofmarketing.substack.com/p/saie-hello-to-beautys-favourite-brand",
+      "summary": "How Saie Beauty became the global powerhouse everyone’s talking about",
+      "date": "2026-10-14T08:13:53+00:00",
+      "source": "Because of Marketing",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!LcXD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51169bb0-7b71-4cab-8d0c-ed3cfdf7ab06_1200x628.png"
+    },
+    {
+      "id": "d3db84015ab5",
+      "title": "Brand Waves This Week",
+      "link": "https://thebrandwaves.substack.com/p/brand-waves-this-week-3ac",
+      "summary": "BÉIS and Rare Beauty reunite for a new collaboration, lululemon and GANNI celebrate dance, ŌURA puts hands in the spotlight, and RIMOWA explores the world of art with Joe Alwyn.",
+      "date": "2026-10-11T17:50:44+00:00",
+      "source": "The Brand Waves",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!Wj-z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76bd5270-def8-4719-998b-8e2892fe21ba_3344x1967.jpeg"
+    },
+    {
+      "id": "b271e93e0865",
+      "title": "How Brands Are Investing In Audiences Correctly.",
+      "link": "https://artofthebrand.substack.com/p/how-brands-are-investing-in-audiences",
+      "summary": "A case study on the Abbey Yung x Pantene collab.",
+      "date": "2026-10-09T15:24:37+00:00",
+      "source": "Art of the Brand",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!FfiL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F414dfadb-e48d-4791-9f02-de28e03d8d19_1280x720.jpeg"
+    },
+    {
       "id": "1d4be9b7edd7",
       "title": "Full Course: How To Turn Your Interests Into Profitable a Lifestyle Business",
       "link": "https://letters.thedankoe.com/p/full-course-how-to-turn-your-interests",
@@ -1269,6 +1676,17 @@
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/430122a5-e2b2-4ff9-9408-5e92e3f42b6a_1920x1080.jpeg"
     },
     {
+      "id": "672aaca77ef1",
+      "title": "Brand Waves This Week",
+      "link": "https://thebrandwaves.substack.com/p/brand-waves-this-week-c10",
+      "summary": "On and Zendaya turn movement into cinema, Pinterest and Chamberlain Coffee bring Wilderkind to life, and Mercedes-Benz and adidas reinterpret an icon.",
+      "date": "2026-10-04T18:17:35+00:00",
+      "source": "The Brand Waves",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!dBCx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ad92c98-71c8-4bf1-87a6-47e322f244d5_10274x5705.jpeg"
+    },
+    {
       "id": "305d4fbc11cf",
       "title": "Silicon Valley’s Marketing Arms Race",
       "link": "https://www.hyperstudios.us/p/silicon-valleys-marketing-arms-race",
@@ -1278,6 +1696,28 @@
       "category_id": "marketing",
       "category_name": "Marketing",
       "image": "https://substackcdn.com/image/fetch/$s_!mgCe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1829dd6-06d7-4f9b-8b67-a43287b3da31_1080x1350.png"
+    },
+    {
+      "id": "90d5ddc59c68",
+      "title": "Brand Waves This Week",
+      "link": "https://thebrandwaves.substack.com/p/brand-waves-this-week-4cc",
+      "summary": "Kendall Jenner transforms with Beats, Joe Jonas plays with fragrance advertising clichés, and Vogue turns Milan into a global stage.",
+      "date": "2026-09-27T17:12:00+00:00",
+      "source": "The Brand Waves",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!rkd8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91206db7-c284-433d-8ef5-6e22dfbff115_1920x1080.jpeg"
+    },
+    {
+      "id": "aeea1e57290d",
+      "title": "Brand Waves This Week",
+      "link": "https://thebrandwaves.substack.com/p/brand-waves-this-week-68",
+      "summary": "Reformation brings Olivia Jade into the collegiate aesthetic, TRIP finds calm with Kendall Jenner, and Oatly experiments with Yaeji and gochujang.",
+      "date": "2026-09-20T20:20:12+00:00",
+      "source": "The Brand Waves",
+      "category_id": "marketing",
+      "category_name": "Marketing",
+      "image": "https://substackcdn.com/image/fetch/$s_!4yqC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa89c1c4b-f087-42c5-9226-10a432b5c354_11197x8398.jpeg"
     },
     {
       "id": "b8b33801d981",
